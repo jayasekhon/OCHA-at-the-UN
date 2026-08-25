@@ -172,7 +172,7 @@
 
   /* tabs: statements vs mentions */
   .tabbar{display:inline-flex;gap:2px;background:var(--panel);border:1px solid var(--line);
-    border-radius:11px;padding:3px;margin:34px 0 18px;}
+    border-radius:11px;padding:3px;}
   .tab{font-family:'JetBrains Mono',monospace;font-size:12.5px;letter-spacing:.02em;
     color:var(--text-2);background:transparent;border:none;border-radius:8px;
     padding:9px 18px;cursor:pointer;display:flex;align-items:center;gap:8px;
@@ -181,6 +181,17 @@
   .tab.active{background:var(--un-blue);color:#06121E;font-weight:500;}
   .tab-count{font-family:'JetBrains Mono',monospace;font-size:11px;opacity:.75;}
   .tab-panel{}
+
+  .tabbar-row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;
+    gap:14px;margin:34px 0 18px;}
+  .rangebar{display:inline-flex;align-items:center;gap:6px;}
+  .rangebar-label{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--text-3);
+    text-transform:uppercase;letter-spacing:.05em;margin-right:2px;}
+  .range-opt{font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--text-2);
+    background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:6px 12px;
+    cursor:pointer;transition:all .15s ease;}
+  .range-opt:hover{color:var(--text-1);border-color:var(--un-blue-dim);}
+  .range-opt.active{background:var(--un-blue);border-color:var(--un-blue);color:#06121E;font-weight:500;}
 
   /* member states on OCHA */
   .ms-section{margin-top:0;}
@@ -251,13 +262,21 @@
     <div class="quick-said" id="quickSaid"></div>
   </div>
 
-  <div class="tabbar" id="tabbar">
-    <button class="tab active" data-tab="statements">
-      Statements <span class="tab-count" id="tabCountStatements"></span>
-    </button>
-    <button class="tab" data-tab="mentions">
-      Mentions <span class="tab-count" id="tabCountMentions"></span>
-    </button>
+  <div class="tabbar-row">
+    <div class="tabbar" id="tabbar">
+      <button class="tab active" data-tab="statements">
+        Statements <span class="tab-count" id="tabCountStatements"></span>
+      </button>
+      <button class="tab" data-tab="mentions">
+        Mentions <span class="tab-count" id="tabCountMentions"></span>
+      </button>
+    </div>
+    <div class="rangebar" id="rangebar">
+      <span class="rangebar-label">Time range</span>
+      <button class="range-opt" data-days="30">30d</button>
+      <button class="range-opt" data-days="90">90d</button>
+      <button class="range-opt active" data-days="0">All</button>
+    </div>
   </div>
 
   <div class="tab-panel" data-panel="statements">
@@ -559,13 +578,58 @@ function updateMapSelection(selectedId){
   });
 }
 
-const state = { selected: null };
+const state = { selected: null, rangeDays: 0 }; // rangeDays: 0 = all time
+
+// The map's own "signal volume, last 30 days" stat and the 12-week trend
+// sparkline are fixed backend metrics (see renderFocusStrip/buildMap) and
+// intentionally don't move with this filter — only the statement/mention
+// lists below the map do.
+function filteredCrises(){
+  if(!state.rangeDays) return crises;
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - state.rangeDays);
+  const cutoffStr = cutoff.toISOString().slice(0,10);
+  const inRange = arr => (arr||[]).filter(i => i.date >= cutoffStr);
+  return crises.map(c => ({
+    ...c,
+    briefings: inRange(c.briefings),
+    leadership: inRange(c.leadership),
+    sc: inRange(c.sc),
+    onOcha: inRange(c.onOcha),
+  }));
+}
+
+function getPool(){
+  const base = filteredCrises();
+  return state.selected ? base.filter(c=>c.id===state.selected) : base;
+}
+
+function renderAll(){
+  buildChips();
+  renderColumns();
+  renderFocusStrip();
+  renderQuickSaid();
+  renderMemberStates();
+  updateTabCounts();
+  initQuoteBand();
+}
+
+function setRange(days){
+  state.rangeDays = days;
+  document.querySelectorAll('.range-opt').forEach(btn=>
+    btn.classList.toggle('active', Number(btn.dataset.days)===days));
+  renderAll();
+}
+
+document.querySelectorAll('.range-opt').forEach(btn=>{
+  btn.addEventListener('click', ()=> setRange(Number(btn.dataset.days)));
+});
 
 // ---- rotating quote band ----
 let quoteState = { pool: [], idx: 0, timer: null };
 
 function buildQuotePool(){
-  const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
+  const pool = getPool();
   const items = [];
   pool.forEach(c=>{
     c.leadership.forEach(i=> items.push({...i, crisis:c.name, kind:'Leadership statement', tint:'var(--amber)'}));
@@ -675,7 +739,7 @@ function renderCard(item, tint){
 }
 
 function renderMemberStates(){
-  const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
+  const pool = getPool();
   const items = pool.flatMap(c => (c.onOcha||[]).map(i=>({...i, crisis:c.name})));
 
   const byCountry = {};
@@ -732,7 +796,7 @@ document.querySelectorAll('.tab').forEach(t=>{
 });
 
 function updateTabCounts(){
-  const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
+  const pool = getPool();
   const statementsCount = pool.reduce((n,c)=> n + c.briefings.length + c.leadership.length + c.sc.length, 0);
   const mentionsCount = pool.reduce((n,c)=> n + (c.onOcha||[]).length, 0);
   document.getElementById('tabCountStatements').textContent = statementsCount;
@@ -747,7 +811,7 @@ function renderQuickSaid(){
     return;
   }
   el.classList.remove('empty-state');
-  const c = crises.find(x=>x.id===state.selected);
+  const c = getPool()[0];
   const kindMeta = {
     briefing: {label:'Press briefing', color:'var(--un-blue)'},
     leadership: {label:'Leadership', color:'var(--amber)'},
@@ -790,14 +854,8 @@ function renderQuickSaid(){
 
 function selectCrisis(id){
   state.selected = id;
-  buildChips();
   updateMapSelection(id);
-  renderColumns();
-  renderFocusStrip();
-  renderQuickSaid();
-  renderMemberStates();
-  updateTabCounts();
-  initQuoteBand();
+  renderAll();
   document.getElementById('subtitle').textContent = id
     ? `Showing UN-level activity for ${crises.find(c=>c.id===id).name}. Click again, or "All crises," to reset.`
     : 'Statements, briefings and Council mentions across active crises, pulled from meeting transcripts. Select a crisis on the map or in the filters.';
@@ -805,7 +863,7 @@ function selectCrisis(id){
 
 function renderFocusStrip(){
   const strip = document.getElementById('focusStrip');
-  const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
+  const pool = getPool();
   const leadership = pool.reduce((n,c)=>n+c.leadership.length,0);
   const sc = pool.reduce((n,c)=>n+c.sc.length,0);
   const stats = [
@@ -856,7 +914,7 @@ function renderColumnList(containerId, items, tint, emptyMsg){
 }
 
 function renderColumns(){
-  const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
+  const pool = getPool();
   const briefings = pool.flatMap(c=>c.briefings.map(i=>({...i, crisis:c.name}))).sort(byDateDesc);
   const leadership = pool.flatMap(c=>c.leadership.map(i=>({...i, crisis:c.name}))).sort(byDateDesc);
   const sc = pool.flatMap(c=>c.sc.map(i=>({...i, crisis:c.name}))).sort(byDateDesc);
@@ -873,14 +931,8 @@ function renderColumns(){
 async function init(){
   const generatedAt = await loadLiveData();
   renderDataStatus(generatedAt);
-  buildChips();
   buildMap(null);
-  renderColumns();
-  renderFocusStrip();
-  renderQuickSaid();
-  renderMemberStates();
-  updateTabCounts();
-  initQuoteBand();
+  renderAll();
 }
 init();
 </script>

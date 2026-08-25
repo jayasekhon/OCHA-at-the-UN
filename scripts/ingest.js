@@ -49,8 +49,8 @@ const path = require("path");
 
 const UN_BASE = "https://transcripts.un.org";
 const OUTPUT_FILE = path.join(__dirname, "..", "data", "crises.json");
-const LOOKBACK_DAYS = 90;
-const MAX_PAGES_PER_QUERY = 5; // safety cap so a broad query (e.g. "OCHA") can't run away
+const LOOKBACK_DAYS = 180; // the site's front-end time filter can only offer up to this
+const MAX_PAGES_PER_QUERY = 10; // safety cap so a broad query (e.g. "OCHA") can't run away; scaled up alongside LOOKBACK_DAYS
 
 const TRACKED_CRISES = [
   { id: "sudan", name: "Sudan", query: "Sudan", lon: 30, lat: 15 },
@@ -362,9 +362,9 @@ async function ingestCrisis(crisis) {
     level: recent30.length >= 70 ? "elevated" : "standard",
     trend,
     top: (leadership[0] || sc[0] || briefings[0] || matches[0] || {}).text || "",
-    briefings: briefings.slice(0, 20).map(stripInternal),
-    leadership: leadership.slice(0, 20).map(stripInternal),
-    sc: sc.slice(0, 20).map(stripInternal),
+    briefings: briefings.slice(0, 40).map(stripInternal),
+    leadership: leadership.slice(0, 40).map(stripInternal),
+    sc: sc.slice(0, 40).map(stripInternal),
   };
 }
 
