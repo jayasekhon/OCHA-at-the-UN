@@ -57,9 +57,11 @@
 //    below (all UN member states + a couple of observer entities), falling
 //    back to the meeting title when the text excerpt itself doesn't name one.
 // 3. Split each match into "OCHA said this" vs. "a member state mentioned
-//    OCHA" via the same speakerAffiliation-based isLeadershipStatement()
-//    check used before, bucketed by whichever country/countries were detected
-//    rather than a pre-declared one.
+//    OCHA" via isOchaSourced() — speakerAffiliation-based, plus a
+//    text-attribution check for the common case of the SG Spokesperson
+//    relaying OCHA's reporting by name in the daily briefing — bucketed by
+//    whichever country/countries were detected rather than a pre-declared
+//    one.
 //
 // A new crisis appears on the map the moment OCHA's own transcripts mention
 // it — nothing to edit here when the news changes. The trade-off: "volume"
@@ -601,6 +603,32 @@ function isLeadershipStatement(match) {
   return LEADERSHIP_MARKERS.some((marker) => match.speaker.includes(marker));
 }
 
+// A large share of OCHA's actual daily reporting never comes from an
+// OCHA-affiliated speaker at all: the Secretary-General's noon briefing is
+// given by the SG's Spokesperson (affiliation "UN"/"UN Secretariat"), who
+// relays updates from OCHA and other agencies by name — "our OCHA
+// colleagues tell us...", "OCHA reports that...", "OCHA continues to call
+// on donors...". That's genuinely OCHA-sourced content (their data, their
+// language), just spoken by someone else's mouth, and isLeadershipStatement
+// alone was filing all of it as a generic "mention" instead of a briefing —
+// found by inspecting real onOcha entries in production, where nearly half
+// were affiliation "UN"/"UN Secretariat" quoting OCHA almost verbatim.
+// Deliberately scoped to isBriefing meetings only (the SG/Geneva/PGA
+// briefing venues) rather than any statement anywhere, since a delegate
+// citing "OCHA says..." in an SC debate is discussing OCHA's assessment,
+// not relaying it on OCHA's behalf the way a briefing spokesperson does.
+const OCHA_ATTRIBUTION_PATTERNS = [
+  /\bOCHA (?:says|say|reports?|notes?|estimates?|continues to|has documented|has received|team|colleagues)\b/i,
+  /\bour OCHA colleagues\b/i,
+  /\bOCHA spokesperson\b/i,
+];
+
+function isOchaSourced(match) {
+  if (isLeadershipStatement(match)) return true;
+  if (match.isBriefing && OCHA_ATTRIBUTION_PATTERNS.some((p) => p.test(match.text))) return true;
+  return false;
+}
+
 function weeklyTrend(matches, weeks = 12) {
   const buckets = new Array(weeks).fill(0);
   const now = new Date();
@@ -666,7 +694,7 @@ async function main() {
     if (subjects.length === 0) subjects = detectCountries(m.title);
     if (subjects.length === 0) continue;
 
-    const isOcha = isLeadershipStatement(m);
+    const isOcha = isOchaSourced(m);
 
     for (const subject of subjects) {
       if (!byCountry.has(subject.id)) byCountry.set(subject.id, newBucket(subject));
