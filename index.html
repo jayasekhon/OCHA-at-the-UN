@@ -64,6 +64,8 @@
   .quote-attr{font-family:'JetBrains Mono',monospace;font-size:12.5px;color:var(--text-2);
     margin-top:16px;opacity:0;transition:opacity .35s ease .05s;}
   .quote-attr b{color:var(--un-blue);font-weight:500;}
+  .quote-attr a{color:var(--text-2);text-decoration:underline;text-decoration-color:var(--un-blue-dim);cursor:pointer;}
+  .quote-attr a:hover{color:var(--un-blue);}
   .quote-band.show .quote-tag,.quote-band.show .quote-attr{opacity:1;}
   .quote-band.show .quote-text{opacity:1;transform:translateY(0);}
   .quote-nav{display:flex;gap:6px;margin-top:22px;position:relative;}
@@ -136,6 +138,8 @@
   .qs-meta{display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;
     font-size:10.5px;color:var(--text-3);}
   .qs-meta b{color:var(--text-2);font-weight:500;}
+  .qs-meta a{color:inherit;text-decoration:none;cursor:pointer;}
+  .qs-meta a:hover{color:var(--un-blue);}
   .qs-more{grid-column:1/-1;font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--un-blue);
     background:transparent;border:1px dashed var(--un-blue-dim);border-radius:9px;padding:10px;
     text-align:center;cursor:pointer;}
@@ -257,7 +261,7 @@
   <div class="tab-panel" data-panel="statements">
     <div class="cols">
       <div>
-        <div class="col-head"><span class="ico"></span><h3>Geneva press briefings</h3><span class="count" id="cnt-briefings"></span></div>
+        <div class="col-head"><span class="ico"></span><h3>Press briefings</h3><span class="count" id="cnt-briefings"></span></div>
         <div id="col-briefings"></div>
       </div>
       <div>
@@ -460,6 +464,14 @@ function renderDataStatus(generatedAt){
   }
 }
 
+function escapeHtml(str){
+  return String(str==null ? '' : str).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function truncate(str, n){
+  str = String(str||'');
+  return str.length>n ? str.slice(0,n).trim()+'…' : str;
+}
+
 function buildMap(selectedId){
   const svg = document.getElementById('worldmap');
   svg.innerHTML = '';
@@ -518,7 +530,7 @@ function buildMap(selectedId){
     g.addEventListener('click', ()=> selectCrisis(c.id===state.selected? null : c.id));
     g.addEventListener('mouseenter', ()=>{
       const total = c.briefings.length + c.leadership.length + c.sc.length;
-      tooltip.innerHTML = `<div class="tt-head"><b>${c.name}</b><span>${total} mentions · 30d</span></div>${c.top}`;
+      tooltip.innerHTML = `<div class="tt-head"><b>${escapeHtml(c.name)}</b><span>${total} mentions · 30d</span></div>${escapeHtml(truncate(c.top, 160))}`;
       const pr = mapPanel.getBoundingClientRect();
       const svgr = svg.getBoundingClientRect();
       const px = svgr.left - pr.left + (x/1000)*svgr.width;
@@ -530,6 +542,25 @@ function buildMap(selectedId){
     g.addEventListener('mouseleave', ()=> tooltip.classList.remove('show'));
 
     svg.appendChild(g);
+  });
+}
+
+// Selecting a crisis only needs to restyle the existing nodes, not recreate
+// the whole SVG — a full rebuild via buildMap() would replay every node's
+// entry animation and, since it destroys the DOM element the mouse is
+// currently over, leave the hover tooltip's mouseleave listener with nothing
+// left to fire on (so it gets stuck open on stale content).
+function updateMapSelection(selectedId){
+  const svg = document.getElementById('worldmap');
+  const mv = maxVol();
+  svg.querySelectorAll('.node').forEach(g=>{
+    const c = crises.find(x=>x.id===g.dataset.id);
+    if(!c) return;
+    const selected = c.id===selectedId;
+    g.classList.toggle('selected', selected);
+    const r = 4 + (c.volume/mv)*9;
+    const core = g.querySelector('circle.core');
+    if(core) core.setAttribute('r', selected ? r*0.65+2 : r*0.55);
   });
 }
 
@@ -548,7 +579,7 @@ function buildQuotePool(){
     c.sc.forEach(i=> items.push({...i, crisis:c.name, kind:'Security Council', tint:'#8A96AC'}));
   });
   pool.forEach(c=>{
-    c.briefings.forEach(i=> items.push({...i, crisis:c.name, kind:'Geneva briefing', tint:'var(--un-blue)'}));
+    c.briefings.forEach(i=> items.push({...i, crisis:c.name, kind:'Press briefing', tint:'var(--un-blue)'}));
   });
   return items;
 }
@@ -574,9 +605,12 @@ function showQuote(i){
   band.classList.remove('show');
   setTimeout(()=>{
     document.getElementById('quoteTag').innerHTML =
-      `<span class="dot" style="background:${q.tint}"></span>${q.kind} · ${q.crisis} · ${q.date}`;
+      `<span class="dot" style="background:${q.tint}"></span>${escapeHtml(q.kind)} · ${escapeHtml(q.crisis)} · ${escapeHtml(q.date)}`;
     document.getElementById('quoteText').textContent = q.text;
-    document.getElementById('quoteAttr').innerHTML = `<b>${q.speaker}</b> · jump to ${q.t}`;
+    const jump = q.pageUrl
+      ? `<a href="${escapeHtml(q.pageUrl)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">jump to ${escapeHtml(q.t)}</a>`
+      : `jump to ${escapeHtml(q.t)}`;
+    document.getElementById('quoteAttr').innerHTML = `<b>${escapeHtml(q.speaker)}</b> · ${jump}`;
     band.classList.add('show');
     renderQuoteNav();
   }, 180);
@@ -631,11 +665,17 @@ function buildChips(){
   });
 }
 
+function jumpLink(pageUrl, t){
+  return pageUrl
+    ? `<a class="jump" href="${escapeHtml(pageUrl)}" target="_blank" rel="noopener noreferrer">▸ jump to ${escapeHtml(t)}</a>`
+    : `<span class="jump">▸ jump to ${escapeHtml(t)}</span>`;
+}
+
 function renderCard(item, tint){
   return `<div class="card">
-    <div class="meta"><span class="speaker" style="color:${tint}">${item.speaker}</span><span>${item.date}</span></div>
-    <p>${item.text}</p>
-    <span class="jump">▸ jump to ${item.t}</span>
+    <div class="meta"><span class="speaker" style="color:${tint}">${escapeHtml(item.speaker)}</span><span>${escapeHtml(item.date)}</span></div>
+    <p>${escapeHtml(item.text)}</p>
+    ${jumpLink(item.pageUrl, item.t)}
   </div>`;
 }
 
@@ -665,9 +705,9 @@ function renderMemberStates(){
     const dominant = quotes[0].stance;
     const inner = quotes.map(q=>`
       <div class="ms-quote">
-        <div class="meta"><span class="crisis-tag">${q.crisis}</span><span>${q.date}</span></div>
-        <p>${q.text}</p>
-        <span class="jump">▸ jump to ${q.t}</span>
+        <div class="meta"><span class="crisis-tag">${escapeHtml(q.crisis)}</span><span>${escapeHtml(q.date)}</span></div>
+        <p>${escapeHtml(q.text)}</p>
+        ${jumpLink(q.pageUrl, q.t)}
       </div>`).join('');
     return `<div class="ms-card">
       <div class="ms-card-top">
@@ -714,7 +754,7 @@ function renderQuickSaid(){
   el.classList.remove('empty-state');
   const c = crises.find(x=>x.id===state.selected);
   const kindMeta = {
-    briefing: {label:'Geneva briefing', color:'var(--un-blue)'},
+    briefing: {label:'Press briefing', color:'var(--un-blue)'},
     leadership: {label:'Leadership', color:'var(--amber)'},
     sc: {label:'Security Council', color:'#8A96AC'},
   };
@@ -732,10 +772,13 @@ function renderQuickSaid(){
 
   const cards = items.map((i,idx)=>{
     const km = kindMeta[i.kind];
+    const when = i.pageUrl
+      ? `<a href="${escapeHtml(i.pageUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(i.date)} · jump to ${escapeHtml(i.t)}</a>`
+      : `<span>${escapeHtml(i.date)} · ${escapeHtml(i.t)}</span>`;
     return `<div class="qs-card" style="animation-delay:${idx*60}ms">
       <div class="qs-kind"><span class="dot" style="background:${km.color}"></span>${km.label}</div>
-      <p>${i.text}</p>
-      <div class="qs-meta"><b>${i.speaker}</b><span>${i.date} · ${i.t}</span></div>
+      <p>${escapeHtml(i.text)}</p>
+      <div class="qs-meta"><b>${escapeHtml(i.speaker)}</b>${when}</div>
     </div>`;
   }).join('');
 
@@ -753,7 +796,7 @@ function renderQuickSaid(){
 function selectCrisis(id){
   state.selected = id;
   buildChips();
-  buildMap(id);
+  updateMapSelection(id);
   renderColumns();
   renderFocusStrip();
   renderQuickSaid();
@@ -768,12 +811,10 @@ function selectCrisis(id){
 function renderFocusStrip(){
   const strip = document.getElementById('focusStrip');
   const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
-  const briefings = pool.reduce((n,c)=>n+c.briefings.length,0);
   const leadership = pool.reduce((n,c)=>n+c.leadership.length,0);
   const sc = pool.reduce((n,c)=>n+c.sc.length,0);
   const stats = [
     {num: pool.length, lbl: state.selected? 'crisis selected':'crises tracked'},
-    {num: briefings, lbl:'geneva briefings'},
     {num: leadership, lbl:'leadership statements'},
     {num: sc, lbl:'council mentions'},
   ];
