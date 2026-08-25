@@ -337,9 +337,18 @@ async function ingestCrisis(crisis) {
   const from = dateNDaysAgo(LOOKBACK_DAYS);
   const matches = await searchStatements(crisis.query, { from });
 
-  const briefings = matches.filter((m) => m.isBriefing);
-  const sc = matches.filter((m) => m.category === "Security Council" && !m.isBriefing);
-  const leadership = matches.filter((m) => isLeadershipStatement(m) && !briefings.includes(m));
+  // crisis.query is a broad full-text search (just the crisis name), so
+  // `matches` includes statements from anyone — SC presidents reading the
+  // procedural agenda, unrelated delegations, other crises mentioned in
+  // passing. All three columns below are specifically about what OCHA said,
+  // so they're filtered down to OCHA speakers (via speakerAffiliation, with
+  // a name/title fallback — see isLeadershipStatement) before anything else.
+  // Each OCHA statement then lands in exactly one bucket by venue, so the
+  // same statement never gets double-counted across columns.
+  const ocha = matches.filter((m) => isLeadershipStatement(m));
+  const briefings = ocha.filter((m) => m.isBriefing);
+  const sc = ocha.filter((m) => !m.isBriefing && m.category === "Security Council");
+  const leadership = ocha.filter((m) => !m.isBriefing && m.category !== "Security Council");
 
   const recent30 = matches.filter((m) => m.date >= dateNDaysAgo(30));
   const trend = weeklyTrend(matches, 12);
@@ -352,7 +361,7 @@ async function ingestCrisis(crisis) {
     volume: recent30.length,
     level: recent30.length >= 70 ? "elevated" : "standard",
     trend,
-    top: (leadership[0] || matches[0] || {}).text || "",
+    top: (leadership[0] || sc[0] || briefings[0] || matches[0] || {}).text || "",
     briefings: briefings.slice(0, 20).map(stripInternal),
     leadership: leadership.slice(0, 20).map(stripInternal),
     sc: sc.slice(0, 20).map(stripInternal),

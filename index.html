@@ -94,8 +94,6 @@
   .node text{font-family:'JetBrains Mono',monospace;font-size:11px;fill:var(--text-2);
     pointer-events:none;transition:fill .2s ease;}
   .node.selected text{fill:var(--text-1);font-weight:500;}
-  .ping{animation:ping 2.6s cubic-bezier(0,0,0.2,1) infinite;transform-origin:center;}
-  @keyframes ping{0%{transform:scale(1);opacity:.55;}75%,100%{transform:scale(2.6);opacity:0;}}
   .scanline{position:absolute;top:0;bottom:0;width:140px;
     background:linear-gradient(90deg, transparent, rgba(79,168,224,0.06), transparent);
     animation:sweep 7s linear infinite;pointer-events:none;}
@@ -164,6 +162,10 @@
     display:inline-flex;align-items:center;gap:5px;}
   .card .jump:hover{color:var(--un-blue);}
   .empty{font-size:13px;color:var(--text-3);padding:20px 4px;font-style:italic;}
+  .col-more{display:block;width:100%;font-family:'JetBrains Mono',monospace;font-size:11px;
+    color:var(--un-blue);background:transparent;border:1px dashed var(--un-blue-dim);border-radius:9px;
+    padding:10px;text-align:center;cursor:pointer;margin-top:2px;}
+  .col-more:hover{background:rgba(79,168,224,0.06);}
 
   footer{margin-top:36px;padding-top:18px;border-top:1px solid var(--line);
     font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-3);line-height:1.6;}
@@ -510,13 +512,6 @@ function buildMap(selectedId){
     g.setAttribute('data-id', c.id);
     g.style.animationDelay = (i*70)+'ms';
 
-    const ping = document.createElementNS(ns,'circle');
-    ping.setAttribute('cx',x); ping.setAttribute('cy',y); ping.setAttribute('r',r);
-    ping.setAttribute('fill','none'); ping.setAttribute('stroke',color);
-    ping.setAttribute('stroke-width','1.4'); ping.setAttribute('class','ping');
-    if(c.level!=='elevated') ping.style.animationDuration='4.2s';
-    g.appendChild(ping);
-
     const core = document.createElementNS(ns,'circle');
     core.setAttribute('cx',x); core.setAttribute('cy',y); core.setAttribute('r', c.id===selectedId? r*0.65+2 : r*0.55);
     core.setAttribute('fill',color); core.setAttribute('class','core');
@@ -835,25 +830,44 @@ function renderFocusStrip(){
   }
 }
 
+const COLUMN_PAGE_SIZE = 15;
+
+function byDateDesc(a,b){ return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; }
+
+function renderColumnList(containerId, items, tint, emptyMsg){
+  const el = document.getElementById(containerId);
+  if(!items.length){
+    el.innerHTML = `<div class="empty">${emptyMsg}</div>`;
+    return;
+  }
+  const shown = items.slice(0, COLUMN_PAGE_SIZE);
+  const rest = items.slice(COLUMN_PAGE_SIZE);
+  el.innerHTML = shown.map(i=>renderCard(i,tint)).join('');
+  if(rest.length){
+    const btn = document.createElement('button');
+    btn.className = 'col-more';
+    btn.textContent = `See all ${items.length} ↓`;
+    btn.addEventListener('click', ()=>{
+      btn.insertAdjacentHTML('beforebegin', rest.map(i=>renderCard(i,tint)).join(''));
+      btn.remove();
+    });
+    el.appendChild(btn);
+  }
+}
+
 function renderColumns(){
   const pool = state.selected ? crises.filter(c=>c.id===state.selected) : crises;
-  const briefings = pool.flatMap(c=>c.briefings.map(i=>({...i, crisis:c.name})));
-  const leadership = pool.flatMap(c=>c.leadership.map(i=>({...i, crisis:c.name})));
-  const sc = pool.flatMap(c=>c.sc.map(i=>({...i, crisis:c.name})));
+  const briefings = pool.flatMap(c=>c.briefings.map(i=>({...i, crisis:c.name}))).sort(byDateDesc);
+  const leadership = pool.flatMap(c=>c.leadership.map(i=>({...i, crisis:c.name}))).sort(byDateDesc);
+  const sc = pool.flatMap(c=>c.sc.map(i=>({...i, crisis:c.name}))).sort(byDateDesc);
 
   document.getElementById('cnt-briefings').textContent = briefings.length;
   document.getElementById('cnt-leadership').textContent = leadership.length;
   document.getElementById('cnt-sc').textContent = sc.length;
 
-  document.getElementById('col-briefings').innerHTML = briefings.length
-    ? briefings.map(i=>renderCard(i,'var(--un-blue)')).join('')
-    : '<div class="empty">No briefing mentions in this selection.</div>';
-  document.getElementById('col-leadership').innerHTML = leadership.length
-    ? leadership.map(i=>renderCard(i,'var(--amber)')).join('')
-    : '<div class="empty">No leadership statements in this selection.</div>';
-  document.getElementById('col-sc').innerHTML = sc.length
-    ? sc.map(i=>renderCard(i,'#8A96AC')).join('')
-    : '<div class="empty">No Council mentions in this selection.</div>';
+  renderColumnList('col-briefings', briefings, 'var(--un-blue)', 'No briefing mentions in this selection.');
+  renderColumnList('col-leadership', leadership, 'var(--amber)', 'No leadership statements in this selection.');
+  renderColumnList('col-sc', sc, '#8A96AC', 'No Council mentions in this selection.');
 }
 
 async function init(){
