@@ -432,7 +432,15 @@ const DEMO_CRISES = [
 const lonToX = lon => (lon+180)/360*1000;
 const latToY = lat => (90-lat)/180*480;
 
-function maxVol(){ return Math.max(...crises.map(c=>c.volume)); }
+// Not every entry has a location — ingest.js routes statements it couldn't
+// attribute to a specific country into a "Global / not country-specific"
+// bucket (no lon/lat) rather than dropping them, so they still show up in
+// the statement columns/chips/dropdown. The map itself has nowhere to put a
+// pin for that, so map-only code (node placement, volume scaling for dot
+// size) works off this filtered list instead of raw `crises`.
+const mappableCrises = () => crises.filter(c=>c.lon!=null && c.lat!=null);
+
+function maxVol(){ return Math.max(...mappableCrises().map(c=>c.volume)); }
 
 // ---- live data layer ----
 // GitHub Pages is static hosting, so there's no live API to call — instead,
@@ -537,7 +545,7 @@ function buildMap(selectedId){
   // character width, fixed row height) but enough to keep the permanent
   // label set legible; the full label set is still one hover away for
   // anything not elevated.
-  const positions = crises.map(c=>{
+  const positions = mappableCrises().map(c=>{
     const x = lonToX(c.lon), y = latToY(c.lat);
     const r = 4 + (c.volume/mv)*9;
     return { c, x, y, r };

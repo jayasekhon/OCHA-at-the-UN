@@ -607,25 +607,33 @@ function isLeadershipStatement(match) {
 // OCHA-affiliated speaker at all: the Secretary-General's noon briefing is
 // given by the SG's Spokesperson (affiliation "UN"/"UN Secretariat"), who
 // relays updates from OCHA and other agencies by name — "our OCHA
-// colleagues tell us...", "OCHA reports that...", "OCHA continues to call
-// on donors...". That's genuinely OCHA-sourced content (their data, their
+// colleagues tell us...", "OCHA reports that...", "in coordination with
+// OCHA...". That's genuinely OCHA-sourced content (their data, their
 // language), just spoken by someone else's mouth, and isLeadershipStatement
-// alone was filing all of it as a generic "mention" instead of a briefing —
-// found by inspecting real onOcha entries in production, where nearly half
-// were affiliation "UN"/"UN Secretariat" quoting OCHA almost verbatim.
-// Deliberately scoped to isBriefing meetings only (the SG/Geneva/PGA
-// briefing venues) rather than any statement anywhere, since a delegate
-// citing "OCHA says..." in an SC debate is discussing OCHA's assessment,
-// not relaying it on OCHA's behalf the way a briefing spokesperson does.
-const OCHA_ATTRIBUTION_PATTERNS = [
-  /\bOCHA (?:says|say|reports?|notes?|estimates?|continues to|has documented|has received|team|colleagues)\b/i,
-  /\bour OCHA colleagues\b/i,
-  /\bOCHA spokesperson\b/i,
-];
-
+// alone was filing all of it as a generic "mention" instead of a briefing.
+//
+// A first attempt at fixing this tried a hand-written list of attribution
+// phrases ("OCHA says", "OCHA reports", ...). Measured against the real
+// production corpus it caught only 15.8% of the affiliation-"UN" mentions —
+// real language has too many variants (intervening words: "OCHA also
+// reports"; different tense: "OCHA noted"; plural: "OCHA teams"; reversed
+// order: "spokesperson for OCHA"; entirely different construction: "in
+// coordination with OCHA") for a phrase list to keep up with. Enumerating
+// phrasing is the wrong tool for this.
+//
+// Structural signal instead: every match here was already found by one of
+// OCHA_IDENTITY_QUERIES, so by construction its text contains "OCHA" or one
+// of the title phrases *somewhere* — no need to re-detect that with a
+// second regex. What actually distinguishes "the briefing spokesperson is
+// relaying OCHA's own reporting" from "a delegate is discussing OCHA's
+// assessment mid-debate" is venue + role, not phrasing: is this inside a
+// recognized briefing (isBriefing), and is the speaker themselves the
+// Spokesperson giving it (not a journalist asking a question, not an
+// unrelated aside). speakerFunction already carries that from the API.
 function isOchaSourced(match) {
   if (isLeadershipStatement(match)) return true;
-  if (match.isBriefing && OCHA_ATTRIBUTION_PATTERNS.some((p) => p.test(match.text))) return true;
+  const fn = (match.speakerFunction || "").toLowerCase();
+  if (match.isBriefing && fn.includes("spokesperson")) return true;
   return false;
 }
 
@@ -659,6 +667,18 @@ function newBucket(country) {
   };
 }
 
+// Not every genuine match names a specific country — a global funding
+// appeal, a cross-cutting policy briefing, a short procedural fragment
+// whose snippet and meeting title both happen not to name one. Previously
+// those were just silently dropped (`continue`), invisible everywhere, no
+// trace even in the logs. They land here instead: no lon/lat (the front end
+// skips it for map pins, same as every other rendering path that already
+// treats `crises` generically), but still shown in the statement columns
+// and counted in the aggregate "All crises" view — a real SC briefing or
+// press briefing shouldn't vanish just because we couldn't place a pin.
+const GLOBAL_ID = "global";
+const GLOBAL_ENTRY = { id: GLOBAL_ID, name: "Global / not country-specific", lon: null, lat: null };
+
 // See the earlier caution in README.md: no automated "supportive/critical"
 // stance here on purpose — that's an editorial call, not an extraction task.
 async function main() {
@@ -689,12 +709,24 @@ async function main() {
   const matches = Array.from(byPageUrl.values());
   const byCountry = new Map();
 
+  // Visibility into where content is actually going, so a future "we're
+  // still missing X" report can be answered from a log line instead of
+  // reverse-engineered after the fact.
+  let droppedNoCountry = 0;
+  let classifiedOcha = 0;
+  let classifiedMention = 0;
+
   for (const m of matches) {
     let subjects = detectCountries(m.text);
     if (subjects.length === 0) subjects = detectCountries(m.title);
-    if (subjects.length === 0) continue;
+    if (subjects.length === 0) {
+      droppedNoCountry++;
+      subjects = [GLOBAL_ENTRY];
+    }
 
     const isOcha = isOchaSourced(m);
+    if (isOcha) classifiedOcha++;
+    else classifiedMention++;
 
     for (const subject of subjects) {
       if (!byCountry.has(subject.id)) byCountry.set(subject.id, newBucket(subject));
@@ -717,6 +749,13 @@ async function main() {
     }
   }
 
+  console.log(
+    `[ingest] ${matches.length} unique matched statements (from ${totalNormalizedMatches} raw, before ` +
+      `de-duplication): ${classifiedOcha} classified as OCHA-sourced, ${classifiedMention} as member-state ` +
+      `mentions; ${droppedNoCountry} had no country match in text or title (routed to "${GLOBAL_ENTRY.name}" ` +
+      `instead of being dropped).`
+  );
+
   if (byCountry.size === 0) {
     if (totalNormalizedMatches === 0) {
       console.error(
@@ -726,12 +765,17 @@ async function main() {
     } else {
       console.error(
         `[ingest] ${matches.length} statements matched (from ${totalNormalizedMatches} raw, before de-duplication) ` +
-          "but none could be attributed to a country (no gazetteer match in statement text or meeting title). " +
-          "Leaving existing data/crises.json untouched."
+          "but produced no output at all. Leaving existing data/crises.json untouched."
       );
     }
     process.exit(1);
   }
+
+  // The global bucket isn't a "crisis" competing for map-pin slots by
+  // volume — pull it out before ranking/capping the real countries, then
+  // add it back unconditionally at the end.
+  const globalBucket = byCountry.get(GLOBAL_ID);
+  byCountry.delete(GLOBAL_ID);
 
   const all = Array.from(byCountry.values());
   const recentCounts = all.map((c) => c.all.filter((m) => m.date >= dateNDaysAgo(30)).length);
@@ -745,6 +789,25 @@ async function main() {
   // above its own (tiny) average.
   const elevatedThreshold = Math.max(avgRecent, 3);
 
+  function toOutput(c) {
+    const recent30 = c.all.filter((m) => m.date >= dateNDaysAgo(30));
+    const trend = weeklyTrend(c.all, 12);
+    return {
+      id: c.id,
+      name: c.name,
+      lon: c.lon,
+      lat: c.lat,
+      volume: recent30.length,
+      level: recent30.length >= elevatedThreshold ? "elevated" : "standard",
+      trend,
+      top: (c.leadership[0] || c.sc[0] || c.briefings[0] || c.all[0] || {}).text || "",
+      briefings: c.briefings.slice(0, 40).map(stripInternal),
+      leadership: c.leadership.slice(0, 40).map(stripInternal),
+      sc: c.sc.slice(0, 40).map(stripInternal),
+      onOcha: c.onOcha,
+    };
+  }
+
   const crises = all
     .sort((a, b) => {
       const bv = b.all.filter((m) => m.date >= dateNDaysAgo(30)).length;
@@ -752,30 +815,15 @@ async function main() {
       return bv - av;
     })
     .slice(0, MAX_CRISES_SHOWN)
-    .map((c) => {
-      const recent30 = c.all.filter((m) => m.date >= dateNDaysAgo(30));
-      const trend = weeklyTrend(c.all, 12);
-      return {
-        id: c.id,
-        name: c.name,
-        lon: c.lon,
-        lat: c.lat,
-        volume: recent30.length,
-        level: recent30.length >= elevatedThreshold ? "elevated" : "standard",
-        trend,
-        top: (c.leadership[0] || c.sc[0] || c.briefings[0] || c.all[0] || {}).text || "",
-        briefings: c.briefings.slice(0, 40).map(stripInternal),
-        leadership: c.leadership.slice(0, 40).map(stripInternal),
-        sc: c.sc.slice(0, 40).map(stripInternal),
-        onOcha: c.onOcha,
-      };
-    });
+    .map(toOutput);
+
+  if (globalBucket) crises.push(toOutput(globalBucket));
 
   const dataQuality = "ok";
   const output = { generatedAt: new Date().toISOString(), dataQuality, crises };
   fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
-  console.log(`[ingest] wrote ${crises.length} crises (of ${byCountry.size} detected; dataQuality: ${dataQuality}) to ${OUTPUT_FILE}`);
+  console.log(`[ingest] wrote ${crises.length} crises (of ${byCountry.size + (globalBucket ? 1 : 0)} detected; dataQuality: ${dataQuality}) to ${OUTPUT_FILE}`);
 }
 
 main().catch((err) => {
