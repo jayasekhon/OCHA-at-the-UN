@@ -1,0 +1,12 @@
+{
+  "name": "ocha-un-pulse",
+  "version": "0.1.0",
+  "private": true,
+  "description": "OCHA at the UN — static dashboard + scheduled GitHub Actions ingestion of transcripts.un.org, served via GitHub Pages.",
+  "scripts": {
+    "ingest": "node scripts/ingest.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
