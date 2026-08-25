@@ -79,6 +79,13 @@
     background:var(--panel);cursor:pointer;transition:all .15s ease;user-select:none;}
   .chip:hover{border-color:var(--un-blue-dim);color:var(--text-1);}
   .chip.active{background:var(--un-blue);border-color:var(--un-blue);color:#06121E;font-weight:500;}
+  .chip-picker-select{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.02em;
+    padding:7px 30px 7px 13px;border-radius:20px;border:1px solid var(--line);color:var(--text-2);
+    background:var(--panel);cursor:pointer;appearance:none;-webkit-appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%238A96AC'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 12px center;transition:all .15s ease;}
+  .chip-picker-select:hover{border-color:var(--un-blue-dim);color:var(--text-1);}
+  .chip-picker-select option{background:var(--panel-2);color:var(--text-1);}
 
   /* map panel */
   .map-panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;
@@ -92,8 +99,9 @@
   .node{cursor:pointer;}
   .node circle.core{transition:r .2s ease, fill .2s ease;}
   .node text{font-family:'JetBrains Mono',monospace;font-size:11px;fill:var(--text-2);
-    pointer-events:none;transition:fill .2s ease;}
+    pointer-events:none;transition:fill .2s ease, opacity .2s ease;opacity:0;}
   .node.selected text{fill:var(--text-1);font-weight:500;}
+  .node.labeled text, .node.selected text, .node:hover text{opacity:1;}
   .scanline{position:absolute;top:0;bottom:0;width:140px;
     background:linear-gradient(90deg, transparent, rgba(79,168,224,0.06), transparent);
     animation:sweep 7s linear infinite;pointer-events:none;}
@@ -522,12 +530,33 @@ function buildMap(selectedId){
   const tooltip = document.getElementById('tooltip');
   const mapPanel = document.querySelector('.map-panel');
 
+  // Always-visible labels (elevated crises) can land close together
+  // geographically (e.g. Lebanon/Palestine, Sudan/South Sudan) and overlap.
+  // Greedily nudge a colliding label down a row at a time — approximate
+  // (monospace character width, fixed row height) but enough to keep the
+  // permanent label set legible; the full label set is still one hover away
+  // for anything not elevated.
+  const placedLabelBoxes = [];
+  function placeLabel(text, x, y, r){
+    const w = text.length * 6.6 + 8;
+    const h = 13;
+    let ly = y + 4;
+    for(let attempt=0; attempt<6; attempt++){
+      const box = { x1: x+r+7, y1: ly-h, x2: x+r+7+w, y2: ly };
+      const collides = placedLabelBoxes.some(b=>
+        box.x1 < b.x2 && box.x2 > b.x1 && box.y1 < b.y2 && box.y2 > b.y1);
+      if(!collides){ placedLabelBoxes.push(box); return ly; }
+      ly += (attempt%2===0 ? 1 : -1) * (attempt+1) * 13;
+    }
+    return y + 4;
+  }
+
   crises.forEach((c,i)=>{
     const x = lonToX(c.lon), y = latToY(c.lat);
     const r = 4 + (c.volume/mv)*9;
     const color = c.level==='elevated' ? 'var(--amber)' : 'var(--un-blue)';
     const g = document.createElementNS(ns,'g');
-    g.setAttribute('class','node'+(c.id===selectedId?' selected':''));
+    g.setAttribute('class','node'+(c.level==='elevated'?' labeled':'')+(c.id===selectedId?' selected':''));
     g.setAttribute('data-id', c.id);
     g.style.animationDelay = (i*70)+'ms';
 
@@ -537,7 +566,8 @@ function buildMap(selectedId){
     g.appendChild(core);
 
     const label = document.createElementNS(ns,'text');
-    label.setAttribute('x', x+r+7); label.setAttribute('y', y+4);
+    label.setAttribute('x', x+r+7);
+    label.setAttribute('y', c.level==='elevated' ? placeLabel(c.name, x, y, r) : y+4);
     label.textContent = c.name;
     g.appendChild(label);
 
@@ -707,6 +737,8 @@ qb.addEventListener('click', ()=>{
   resetQuoteTimer();
 });
 
+const CHIP_LIMIT = 8; // quick-access chips; everything else goes in the picker below
+
 function buildChips(){
   const wrap = document.getElementById('chips');
   wrap.innerHTML = '';
@@ -715,13 +747,43 @@ function buildChips(){
   all.textContent = 'All crises';
   all.onclick = ()=> selectCrisis(null);
   wrap.appendChild(all);
-  crises.slice().sort((a,b)=>b.volume-a.volume).forEach(c=>{
+
+  const sorted = crises.slice().sort((a,b)=>b.volume-a.volume);
+  let shown = sorted.slice(0, CHIP_LIMIT);
+  // Always keep the active selection visible as a chip, even if it fell
+  // outside the top N by volume — otherwise picking something from the
+  // "more" dropdown below would look like nothing happened.
+  if(state.selected && !shown.some(c=>c.id===state.selected)){
+    const sel = crises.find(c=>c.id===state.selected);
+    if(sel) shown = [...shown, sel];
+  }
+  shown.forEach(c=>{
     const chip = document.createElement('div');
     chip.className = 'chip' + (state.selected===c.id?' active':'');
     chip.textContent = c.name;
     chip.onclick = ()=> selectCrisis(c.id===state.selected? null : c.id);
     wrap.appendChild(chip);
   });
+
+  if(sorted.length > shown.length){
+    const select = document.createElement('select');
+    select.className = 'chip-picker-select';
+    select.setAttribute('aria-label', 'Jump to a country not shown above');
+    const placeholder = document.createElement('option');
+    placeholder.textContent = `More (${sorted.length}) ▾`;
+    placeholder.value = '';
+    select.appendChild(placeholder);
+    sorted.forEach(c=>{
+      const opt = document.createElement('option');
+      opt.value = c.id;
+      opt.textContent = `${c.name} (${c.volume})`;
+      select.appendChild(opt);
+    });
+    select.addEventListener('change', ()=>{
+      if(select.value) selectCrisis(select.value);
+    });
+    wrap.appendChild(select);
+  }
 }
 
 function jumpLink(pageUrl, t){
@@ -866,10 +928,12 @@ function renderFocusStrip(){
   const pool = getPool();
   const leadership = pool.reduce((n,c)=>n+c.leadership.length,0);
   const sc = pool.reduce((n,c)=>n+c.sc.length,0);
+  const memberStateMentions = pool.reduce((n,c)=>n+(c.onOcha||[]).length,0);
   const stats = [
     {num: pool.length, lbl: state.selected? 'crisis selected':'crises tracked'},
     {num: leadership, lbl:'leadership statements'},
-    {num: sc, lbl:'council mentions'},
+    {num: sc, lbl:'Security Council mentions'},
+    {num: memberStateMentions, lbl:'member state mentions'},
   ];
   strip.innerHTML = stats.map(s=>`<div class="stat"><div class="num mono">${s.num}</div><div class="lbl">${s.lbl}</div></div>`).join('');
 

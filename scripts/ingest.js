@@ -83,8 +83,27 @@ const path = require("path");
 const UN_BASE = "https://transcripts.un.org";
 const OUTPUT_FILE = path.join(__dirname, "..", "data", "crises.json");
 const LOOKBACK_DAYS = 180; // the site's front-end time filter can only offer up to this
-const MAX_PAGES_PER_QUERY = 20; // now a single query instead of 16+, so this can go deeper for a similar total request budget
+const MAX_PAGES_PER_QUERY = 20; // a handful of queries instead of 16+ per-country ones, so this can go deeper for a similar total request budget
 const MAX_CRISES_SHOWN = 40; // keep the map/columns readable even if OCHA activity touches many countries in the window
+
+// Searching only "OCHA" misses most of what OCHA itself actually says: a
+// leadership statement to the Security Council routinely never utters the
+// word "OCHA" ("I pay tribute to the people of Sudan, who are in desperate
+// need..." — no self-naming at all), so a bare "OCHA" full-text search
+// systematically under-catches OCHA's own briefings/leadership/SC
+// statements while still catching every *mention* of OCHA by someone else
+// fine (member states do tend to say "OCHA" when thanking or citing it).
+// These are the queries run to compensate — deliberately official job
+// titles, not people's names or crisis names: titles are what a rotating
+// UN president's introduction or a transcript header reliably uses
+// regardless of who currently holds the office, and unlike a crisis list
+// they don't go stale as the news cycle moves. Results across all queries
+// are merged and de-duplicated by pageUrl before anything else runs.
+const OCHA_IDENTITY_QUERIES = [
+  "OCHA",
+  "Emergency Relief Coordinator",
+  "Under-Secretary-General for Humanitarian Affairs",
+];
 
 // Fallback only — affiliation-based detection (see isLeadershipStatement)
 // catches unnamed OCHA speakers too; this is a secondary net for cases where
@@ -603,14 +622,28 @@ async function main() {
   console.log(`[ingest] starting ${new Date().toISOString()}`);
 
   const from = dateNDaysAgo(LOOKBACK_DAYS);
-  let matches;
-  try {
-    matches = await searchStatements("OCHA", { from });
-  } catch (err) {
-    console.error("[ingest] fatal: OCHA search failed:", err.message);
+  const byPageUrl = new Map();
+  let anyQuerySucceeded = false;
+
+  for (const query of OCHA_IDENTITY_QUERIES) {
+    try {
+      const results = await searchStatements(query, { from });
+      anyQuerySucceeded = true;
+      for (const m of results) {
+        const key = m.pageUrl || `${m.date}|${m.speaker}|${m.text}`;
+        if (!byPageUrl.has(key)) byPageUrl.set(key, m);
+      }
+    } catch (err) {
+      console.error(`[ingest] query "${query}" failed:`, err.message);
+    }
+  }
+
+  if (!anyQuerySucceeded) {
+    console.error("[ingest] fatal: every OCHA-identity query failed — leaving existing data/crises.json untouched");
     process.exit(1);
   }
 
+  const matches = Array.from(byPageUrl.values());
   const byCountry = new Map();
 
   for (const m of matches) {
@@ -644,13 +677,14 @@ async function main() {
   if (byCountry.size === 0) {
     if (totalNormalizedMatches === 0) {
       console.error(
-        "[ingest] the OCHA search returned 0 normalized matches — see the [ingest][warn] block above for " +
-          "the raw response shape. Leaving existing data/crises.json untouched."
+        "[ingest] every OCHA-identity query returned 0 normalized matches — see the [ingest][warn] block " +
+          "above for the raw response shape. Leaving existing data/crises.json untouched."
       );
     } else {
       console.error(
-        `[ingest] ${totalNormalizedMatches} statements matched "OCHA" but none could be attributed to a ` +
-          "country (no gazetteer match in statement text or meeting title). Leaving existing data/crises.json untouched."
+        `[ingest] ${matches.length} statements matched (from ${totalNormalizedMatches} raw, before de-duplication) ` +
+          "but none could be attributed to a country (no gazetteer match in statement text or meeting title). " +
+          "Leaving existing data/crises.json untouched."
       );
     }
     process.exit(1);
