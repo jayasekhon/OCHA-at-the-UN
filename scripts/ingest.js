@@ -81,12 +81,22 @@ function normalizeMatch(meetingItem, statement) {
   };
 }
 
+const DEBUG_SHAPE = process.env.INGEST_DEBUG_SHAPE === "1";
+let debugPrinted = false;
+
 async function searchStatements(query, { from } = {}) {
   const params = new URLSearchParams({ q: query, ft: "1" });
   if (from) params.set("from", from);
   const url = `${UN_BASE}/en/meetings.json?${params.toString()}`;
 
   const data = await fetchJSON(url);
+  if (DEBUG_SHAPE && !debugPrinted) {
+    debugPrinted = true;
+    console.log(`[ingest][debug] URL: ${url}`);
+    console.log(`[ingest][debug] top-level keys: ${JSON.stringify(Object.keys(data))}`);
+    console.log(`[ingest][debug] raw sample (first 4000 chars):`);
+    console.log(JSON.stringify(data, null, 2).slice(0, 4000));
+  }
   const items = data.items || data.results || []; // defensive: field name unverified
   const out = [];
   for (const item of items) {

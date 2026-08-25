@@ -4,7 +4,12 @@ on:
   schedule:
     # every 6 hours — adjust to taste (cron is UTC)
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}  # lets you trigger a manual run from the Actions tab
+  workflow_dispatch:
+    inputs:
+      debug_shape:
+        description: "Print raw API response shape to the log (for diagnosing field-name mismatches)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # needed so the workflow can commit data/crises.json back
@@ -21,6 +26,8 @@ jobs:
 
       - name: Run ingestion
         run: node scripts/ingest.js
+        env:
+          INGEST_DEBUG_SHAPE: ${{ inputs.debug_shape && '1' || '0' }}
 
       - name: Commit updated data if changed
         run: |
