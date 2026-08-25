@@ -1,9 +1,9 @@
 // scripts/ingest.js
 //
-// One-shot version of the ingestion logic: fetches tracked crises + OCHA
-// mentions from the UN Transcripts API and writes ../data/crises.json.
-// Run by .github/workflows/refresh-data.yml on a schedule; GitHub Pages then
-// serves that JSON file statically — no server, no CORS, no uptime to manage.
+// Fetches OCHA's footprint across UN meeting transcripts and writes
+// ../data/crises.json. Run by .github/workflows/refresh-data.yml on a
+// schedule; GitHub Pages then serves that JSON file statically — no server,
+// no CORS, no uptime to manage.
 //
 // Run locally with: node scripts/ingest.js
 //
@@ -43,6 +43,39 @@
 // advancing (logged as [ingest][warn] "pagination stalled"), that guess is
 // wrong; check https://transcripts.un.org/openapi for the real param name.
 // -----------------------------------------------------------------------------
+//
+// -----------------------------------------------------------------------------
+// COUNTRY/CRISIS DISCOVERY (no more hardcoded crisis list):
+//
+// Earlier versions of this script searched a fixed, hand-maintained list of
+// crisis names (Sudan, Gaza, DRC, ...). That's a curated list that silently
+// misses whatever isn't on it — no help when a new conflict emerges. Instead:
+//
+// 1. Run ONE broad full-text search for "OCHA" (paginated).
+// 2. For every matched statement, detect which country/countries it's about
+//    by pattern-matching the statement text against the COUNTRIES gazetteer
+//    below (all UN member states + a couple of observer entities), falling
+//    back to the meeting title when the text excerpt itself doesn't name one.
+// 3. Split each match into "OCHA said this" vs. "a member state mentioned
+//    OCHA" via the same speakerAffiliation-based isLeadershipStatement()
+//    check used before, bucketed by whichever country/countries were detected
+//    rather than a pre-declared one.
+//
+// A new crisis appears on the map the moment OCHA's own transcripts mention
+// it — nothing to edit here when the news changes. The trade-off: "volume"
+// now measures OCHA-related activity specifically (OCHA's own statements +
+// mentions of OCHA), not general UN discourse about a country the way the
+// old per-crisis-name search did — a deliberate, more honest metric for a
+// site called "OCHA at the UN," but worth knowing if a country's apparent
+// activity level looks different from before.
+//
+// Text-matching country names is not risk-free — "Sudan" is a substring of
+// "South Sudan", "Korea"/"Congo" are ambiguous between two countries each,
+// etc. Known collisions get explicit patterns (see COUNTRIES below); a
+// handful of genuinely ambiguous common-word names (Georgia vs. the US
+// state, Jordan/Chad as given names) are accepted as a small, documented
+// residual risk rather than over-engineered away.
+// -----------------------------------------------------------------------------
 
 const fs = require("fs");
 const path = require("path");
@@ -50,17 +83,8 @@ const path = require("path");
 const UN_BASE = "https://transcripts.un.org";
 const OUTPUT_FILE = path.join(__dirname, "..", "data", "crises.json");
 const LOOKBACK_DAYS = 180; // the site's front-end time filter can only offer up to this
-const MAX_PAGES_PER_QUERY = 10; // safety cap so a broad query (e.g. "OCHA") can't run away; scaled up alongside LOOKBACK_DAYS
-
-const TRACKED_CRISES = [
-  { id: "sudan", name: "Sudan", query: "Sudan", lon: 30, lat: 15 },
-  { id: "gaza", name: "Gaza / oPt", query: "Gaza", lon: 34.3, lat: 31.5 },
-  { id: "drc", name: "DR Congo", query: "Democratic Republic of the Congo", lon: 23, lat: -3 },
-  { id: "yemen", name: "Yemen", query: "Yemen", lon: 48, lat: 15 },
-  { id: "ukraine", name: "Ukraine", query: "Ukraine", lon: 31, lat: 49 },
-  { id: "haiti", name: "Haiti", query: "Haiti", lon: -72, lat: 19 },
-  { id: "myanmar", name: "Myanmar", query: "Myanmar", lon: 96, lat: 21 },
-];
+const MAX_PAGES_PER_QUERY = 20; // now a single query instead of 16+, so this can go deeper for a similar total request budget
+const MAX_CRISES_SHOWN = 40; // keep the map/columns readable even if OCHA activity touches many countries in the window
 
 // Fallback only — affiliation-based detection (see isLeadershipStatement)
 // catches unnamed OCHA speakers too; this is a secondary net for cases where
@@ -75,44 +99,269 @@ const OCHA_AFFILIATION_HINTS = ["OCHA"];
 
 const BRIEFING_SLUG_HINTS = ["/briefing/sg/", "/briefing/geneva/", "/briefing/pga/"];
 
-// ISO3 -> short name for the common set likely to show up speaking about
-// tracked crises at the UN. Falls back to the raw code for anything missing —
-// extend this table as unfamiliar codes show up in practice.
-const COUNTRY_NAMES = {
-  AFG: "Afghanistan", ALB: "Albania", DZA: "Algeria", ARG: "Argentina", ARM: "Armenia",
-  AUS: "Australia", AUT: "Austria", AZE: "Azerbaijan", BHR: "Bahrain", BGD: "Bangladesh",
-  BLR: "Belarus", BEL: "Belgium", BEN: "Benin", BOL: "Bolivia", BIH: "Bosnia and Herzegovina",
-  BWA: "Botswana", BRA: "Brazil", BGR: "Bulgaria", BFA: "Burkina Faso", BDI: "Burundi",
-  KHM: "Cambodia", CMR: "Cameroon", CAN: "Canada", CAF: "Central African Republic",
-  TCD: "Chad", CHL: "Chile", CHN: "China", COL: "Colombia", COD: "DR Congo", COG: "Congo",
-  CRI: "Costa Rica", HRV: "Croatia", CUB: "Cuba", CYP: "Cyprus", CZE: "Czechia",
-  DNK: "Denmark", DJI: "Djibouti", DOM: "Dominican Republic", ECU: "Ecuador", EGY: "Egypt",
-  SLV: "El Salvador", EST: "Estonia", ETH: "Ethiopia", FJI: "Fiji", FIN: "Finland",
-  FRA: "France", GAB: "Gabon", GMB: "Gambia", GEO: "Georgia", DEU: "Germany", GHA: "Ghana",
-  GRC: "Greece", GTM: "Guatemala", GIN: "Guinea", GUY: "Guyana", HTI: "Haiti",
-  HND: "Honduras", HUN: "Hungary", ISL: "Iceland", IND: "India", IDN: "Indonesia",
-  IRN: "Iran", IRQ: "Iraq", IRL: "Ireland", ISR: "Israel", ITA: "Italy", JAM: "Jamaica",
-  JPN: "Japan", JOR: "Jordan", KAZ: "Kazakhstan", KEN: "Kenya", KWT: "Kuwait",
-  KGZ: "Kyrgyzstan", LAO: "Laos", LVA: "Latvia", LBN: "Lebanon", LSO: "Lesotho",
-  LBR: "Liberia", LBY: "Libya", LIE: "Liechtenstein", LTU: "Lithuania", LUX: "Luxembourg",
-  MDG: "Madagascar", MWI: "Malawi", MYS: "Malaysia", MDV: "Maldives", MLI: "Mali",
-  MLT: "Malta", MRT: "Mauritania", MEX: "Mexico", MDA: "Moldova", MCO: "Monaco",
-  MNG: "Mongolia", MNE: "Montenegro", MAR: "Morocco", MOZ: "Mozambique", MMR: "Myanmar",
-  NAM: "Namibia", NPL: "Nepal", NLD: "Netherlands", NZL: "New Zealand", NIC: "Nicaragua",
-  NER: "Niger", NGA: "Nigeria", PRK: "North Korea", MKD: "North Macedonia", NOR: "Norway",
-  OMN: "Oman", PAK: "Pakistan", PAN: "Panama", PNG: "Papua New Guinea", PRY: "Paraguay",
-  PER: "Peru", PHL: "Philippines", POL: "Poland", PRT: "Portugal", PSE: "Palestine",
-  QAT: "Qatar", ROU: "Romania", RUS: "Russia", RWA: "Rwanda", SAU: "Saudi Arabia",
-  SEN: "Senegal", SRB: "Serbia", SLE: "Sierra Leone", SGP: "Singapore", SVK: "Slovakia",
-  SVN: "Slovenia", SOM: "Somalia", ZAF: "South Africa", KOR: "South Korea",
-  SSD: "South Sudan", ESP: "Spain", LKA: "Sri Lanka", SDN: "Sudan", SUR: "Suriname",
-  SWE: "Sweden", CHE: "Switzerland", SYR: "Syria", TJK: "Tajikistan", TZA: "Tanzania",
-  THA: "Thailand", TGO: "Togo", TTO: "Trinidad and Tobago", TUN: "Tunisia",
-  TUR: "Turkey", TKM: "Turkmenistan", UGA: "Uganda", UKR: "Ukraine",
-  ARE: "United Arab Emirates", GBR: "United Kingdom", USA: "United States",
-  URY: "Uruguay", UZB: "Uzbekistan", VEN: "Venezuela", VNM: "Vietnam", YEM: "Yemen",
-  ZMB: "Zambia", ZWE: "Zimbabwe",
-};
+function escapeRegex(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// Builds one country/entity entry for the gazetteer. `patterns`, if given,
+// overrides the default plain word-boundary match on `name` — used for
+// names that need extra care (ambiguous with another country, or need
+// additional aliases).
+function place(id, name, lon, lat, patterns) {
+  const pats = patterns || [`\\b${escapeRegex(name)}\\b`];
+  return { id, name, lon, lat, regex: new RegExp(pats.join("|")) };
+}
+
+// All ~190 UN member states plus Palestine, so a genuinely new crisis is
+// discoverable rather than silently dropped for not being on a pre-approved
+// list. Coordinates are approximate centroids — this is a schematic map, not
+// a survey. Regex patterns are case-sensitive (proper nouns are capitalized
+// in transcripts, which also reduces accidental matches on common words) and
+// word-boundary wrapped; a handful get explicit exclusions/aliases below to
+// avoid nested-name collisions (Sudan/South Sudan, Niger/Nigeria, the two
+// Congos, the two Koreas, Guinea/Guinea-Bissau/Equatorial Guinea/Papua New
+// Guinea).
+const COUNTRIES = [
+  place("afg", "Afghanistan", 66, 34),
+  place("alb", "Albania", 20, 41),
+  place("dza", "Algeria", 3, 28),
+  place("and", "Andorra", 1.5, 42.5),
+  place("ago", "Angola", 17, -12),
+  place("atg", "Antigua and Barbuda", -61.8, 17.1),
+  place("arg", "Argentina", -64, -34),
+  place("arm", "Armenia", 45.0, 40.1),
+  place("aus", "Australia", 134, -25.7),
+  place("aut", "Austria", 14.5, 47.5),
+  place("aze", "Azerbaijan", 47.6, 40.1),
+  place("bhs", "Bahamas", -77.4, 25.0),
+  place("bhr", "Bahrain", 50.6, 26.0),
+  place("bgd", "Bangladesh", 90.4, 23.7),
+  place("brb", "Barbados", -59.5, 13.2),
+  place("blr", "Belarus", 28, 53.7),
+  place("bel", "Belgium", 4.5, 50.8),
+  place("blz", "Belize", -88.5, 17.2),
+  place("ben", "Benin", 2.3, 9.3),
+  place("btn", "Bhutan", 90.4, 27.5),
+  place("bol", "Bolivia", -64.7, -16.3),
+  place("bih", "Bosnia and Herzegovina", 17.8, 44.2),
+  place("bwa", "Botswana", 24, -22),
+  place("bra", "Brazil", -51.9, -14.2),
+  place("brn", "Brunei", 114.7, 4.5),
+  place("bgr", "Bulgaria", 25.5, 42.7),
+  place("bfa", "Burkina Faso", -1.5, 12.4),
+  place("bdi", "Burundi", 30, -3.4),
+  place("cpv", "Cabo Verde", -24, 16),
+  place("khm", "Cambodia", 105, 12.6),
+  place("cmr", "Cameroon", 12.5, 5.7),
+  place("can", "Canada", -106, 56),
+  place("caf", "Central African Republic", 21, 6.6),
+  place("tcd", "Chad", 19, 15.5),
+  place("chl", "Chile", -71, -35.7),
+  place("chn", "China", 104, 35.9),
+  place("col", "Colombia", -74.3, 4.6),
+  place("com", "Comoros", 43.3, -11.9),
+  // The two Congos: avoid a bare "Congo" pattern on the Republic of the
+  // Congo (rarer referent in this corpus) so it doesn't swallow DRC mentions;
+  // DRC keeps bare "Congo" since that's overwhelmingly what's meant when the
+  // fuller name isn't used, but excludes it when preceded by "Republic of
+  // (the)" so it doesn't also claim Congo-Brazzaville mentions.
+  place("cod", "DR Congo", 23, -3, [
+    "\\bDemocratic Republic of the Congo\\b",
+    "\\bDR Congo\\b",
+    "\\bDRC\\b",
+    "(?<!Republic of the )(?<!Republic of )\\bCongo\\b",
+  ]),
+  place("cog", "Republic of the Congo", 15.8, -1, [
+    "\\bRepublic of the Congo\\b",
+    "\\bCongo-Brazzaville\\b",
+  ]),
+  place("cri", "Costa Rica", -84.1, 9.7),
+  place("civ", "Côte d'Ivoire", -5.5, 7.5, ["\\bCôte d'Ivoire\\b", "\\bIvory Coast\\b"]),
+  place("hrv", "Croatia", 15.2, 45.1),
+  place("cub", "Cuba", -77.8, 21.5),
+  place("cyp", "Cyprus", 33.4, 35.1),
+  place("cze", "Czechia", 15.5, 49.8, ["\\bCzechia\\b", "\\bCzech Republic\\b"]),
+  place("dnk", "Denmark", 10, 56),
+  place("dji", "Djibouti", 42.5, 11.6),
+  place("dma", "Dominica", -61.4, 15.4),
+  place("dom", "Dominican Republic", -70.2, 18.7),
+  place("ecu", "Ecuador", -78.2, -1.8),
+  place("egy", "Egypt", 30, 26.8),
+  place("slv", "El Salvador", -88.9, 13.8),
+  place("gnq", "Equatorial Guinea", 10.3, 1.6),
+  place("eri", "Eritrea", 39, 15.2),
+  place("est", "Estonia", 25.0, 58.6),
+  place("swz", "Eswatini", 31.5, -26.5, ["\\bEswatini\\b", "\\bSwaziland\\b"]),
+  place("eth", "Ethiopia", 40, 9),
+  place("fji", "Fiji", 178, -17.7),
+  place("fin", "Finland", 26, 64.5),
+  place("fra", "France", 2.2, 46.6),
+  place("gab", "Gabon", 11.6, -0.8),
+  place("gmb", "Gambia", -15.3, 13.5),
+  place("geo", "Georgia", 43.4, 42.3),
+  place("deu", "Germany", 10.5, 51.2),
+  place("gha", "Ghana", -1.0, 7.9),
+  place("grc", "Greece", 22, 39),
+  place("grd", "Grenada", -61.7, 12.1),
+  place("gtm", "Guatemala", -90.2, 15.8),
+  place("gin", "Guinea", -9.7, 10.4, ["(?<!Equatorial )(?<!Papua New )\\bGuinea\\b(?!-Bissau)"]),
+  place("gnb", "Guinea-Bissau", -15, 12),
+  place("guy", "Guyana", -58.9, 4.9),
+  place("hti", "Haiti", -72, 19),
+  place("hnd", "Honduras", -86.6, 15.2),
+  place("hun", "Hungary", 19.5, 47.2),
+  place("isl", "Iceland", -19, 65),
+  place("ind", "India", 79, 22),
+  place("idn", "Indonesia", 113.9, 0.8),
+  place("irn", "Iran", 53.7, 32.4),
+  place("irq", "Iraq", 43.7, 33.2),
+  place("irl", "Ireland", -8, 53.4),
+  place("isr", "Israel", 34.9, 31.0),
+  place("ita", "Italy", 12.6, 42.8),
+  place("jam", "Jamaica", -77.3, 18.1),
+  place("jpn", "Japan", 138, 36.2),
+  place("jor", "Jordan", 36.2, 31.2),
+  place("kaz", "Kazakhstan", 66.9, 48.0),
+  place("ken", "Kenya", 37.9, 0.0),
+  place("kir", "Kiribati", -157.4, 1.4),
+  place("prk", "North Korea", 127.5, 40.3, [
+    "\\bNorth Korea\\b",
+    "\\bDPRK\\b",
+    "\\bDemocratic People's Republic of Korea\\b",
+  ]),
+  place("kor", "South Korea", 127.8, 36.5, ["\\bSouth Korea\\b", "\\bRepublic of Korea\\b"]),
+  place("kwt", "Kuwait", 47.5, 29.3),
+  place("kgz", "Kyrgyzstan", 74.8, 41.2),
+  place("lao", "Laos", 102.5, 19.9),
+  place("lva", "Latvia", 24.6, 56.9),
+  place("lbn", "Lebanon", 35.9, 33.9),
+  place("lso", "Lesotho", 28.2, -29.6),
+  place("lbr", "Liberia", -9.4, 6.4),
+  place("lby", "Libya", 17.2, 26.3),
+  place("lie", "Liechtenstein", 9.5, 47.2),
+  place("ltu", "Lithuania", 23.9, 55.2),
+  place("lux", "Luxembourg", 6.1, 49.8),
+  place("mdg", "Madagascar", 46.9, -18.8),
+  place("mwi", "Malawi", 34.3, -13.3),
+  place("mys", "Malaysia", 101.9, 4.2),
+  place("mdv", "Maldives", 73.5, 3.2),
+  place("mli", "Mali", -4, 17),
+  place("mlt", "Malta", 14.4, 35.9),
+  place("mhl", "Marshall Islands", 168, 7),
+  place("mrt", "Mauritania", -10.9, 21.0),
+  place("mus", "Mauritius", 57.5, -20.3),
+  place("mex", "Mexico", -102.5, 23.6),
+  place("fsm", "Micronesia", 150, 6.9),
+  place("mda", "Moldova", 28.4, 47.4),
+  place("mco", "Monaco", 7.4, 43.7),
+  place("mng", "Mongolia", 103.8, 46.9),
+  place("mne", "Montenegro", 19.3, 42.7),
+  place("mar", "Morocco", -7.1, 31.8),
+  place("moz", "Mozambique", 35.5, -18.7),
+  place("mmr", "Myanmar", 96, 21, ["\\bMyanmar\\b", "\\bBurma\\b"]),
+  place("nam", "Namibia", 17.1, -22.9),
+  place("nru", "Nauru", 166.9, -0.5),
+  place("npl", "Nepal", 84.1, 28.4),
+  place("nld", "Netherlands", 5.3, 52.2),
+  place("nzl", "New Zealand", 172, -41),
+  place("nic", "Nicaragua", -85.2, 12.9),
+  place("ner", "Niger", 8.1, 17.6),
+  place("nga", "Nigeria", 8.7, 9.1),
+  place("mkd", "North Macedonia", 21.7, 41.6),
+  place("nor", "Norway", 8.5, 60.5),
+  place("omn", "Oman", 55.9, 21.5),
+  place("pak", "Pakistan", 69.3, 30.4),
+  place("plw", "Palau", 134.6, 7.5),
+  place("pse", "Palestine", 35.2, 31.9, [
+    "\\bGaza\\b",
+    "\\boccupied Palestinian territory\\b",
+    "\\boPt\\b",
+    "\\bWest Bank\\b",
+    "\\bPalestine\\b",
+    "\\bPalestinian\\b",
+  ]),
+  place("pan", "Panama", -80.8, 8.5),
+  place("png", "Papua New Guinea", 143.9, -6.3),
+  place("pry", "Paraguay", -58.4, -23.4),
+  place("per", "Peru", -75.0, -9.2),
+  place("phl", "Philippines", 121.8, 12.9),
+  place("pol", "Poland", 19.1, 52.1),
+  place("prt", "Portugal", -8.2, 39.4),
+  place("qat", "Qatar", 51.2, 25.4),
+  place("rou", "Romania", 24.9, 45.9),
+  place("rus", "Russia", 90, 61.5),
+  place("rwa", "Rwanda", 29.9, -1.9),
+  place("kna", "Saint Kitts and Nevis", -62.7, 17.3),
+  place("lca", "Saint Lucia", -60.9, 13.9),
+  place("vct", "Saint Vincent and the Grenadines", -61.2, 13.2),
+  place("wsm", "Samoa", -172.1, -13.8),
+  place("smr", "San Marino", 12.4, 43.9),
+  place("stp", "Sao Tome and Principe", 6.6, 0.2),
+  place("sau", "Saudi Arabia", 45.1, 24.0),
+  place("sen", "Senegal", -14.5, 14.5),
+  place("srb", "Serbia", 21.0, 44.0),
+  place("syc", "Seychelles", 55.5, -4.7),
+  place("sle", "Sierra Leone", -11.8, 8.5),
+  place("sgp", "Singapore", 103.8, 1.35),
+  place("svk", "Slovakia", 19.7, 48.7),
+  place("svn", "Slovenia", 14.8, 46.1),
+  place("slb", "Solomon Islands", 160, -9.6),
+  place("som", "Somalia", 46, 5.5),
+  place("zaf", "South Africa", 24.7, -30.6),
+  // Exclude when preceded by "South " so bare "Sudan" never also claims
+  // South Sudan mentions.
+  place("sdn", "Sudan", 30, 15, ["(?<!South )\\bSudan\\b"]),
+  place("ssd", "South Sudan", 30.5, 6.9),
+  place("esp", "Spain", -3.7, 40.5),
+  place("lka", "Sri Lanka", 80.8, 7.9),
+  place("sur", "Suriname", -56.0, 3.9),
+  place("swe", "Sweden", 16.5, 62.2),
+  place("che", "Switzerland", 8.2, 46.8),
+  place("syr", "Syria", 38.5, 35.0, ["\\bSyria\\b", "\\bSyrian Arab Republic\\b"]),
+  place("tjk", "Tajikistan", 71.3, 38.9),
+  place("tza", "Tanzania", 34.9, -6.4),
+  place("tha", "Thailand", 101.0, 15.9),
+  place("tls", "Timor-Leste", 125.7, -8.6),
+  place("tgo", "Togo", 0.9, 8.6),
+  place("ton", "Tonga", -175.2, -21.2),
+  place("tto", "Trinidad and Tobago", -61.2, 10.7),
+  place("tun", "Tunisia", 9.5, 33.9),
+  place("tur", "Turkey", 35.2, 39.0, ["\\bTurkey\\b", "\\bTürkiye\\b"]),
+  place("tkm", "Turkmenistan", 59.6, 38.9),
+  place("tuv", "Tuvalu", 179.2, -8.5),
+  place("uga", "Uganda", 32.3, 1.4),
+  place("ukr", "Ukraine", 31, 49),
+  place("are", "United Arab Emirates", 54.3, 24.0),
+  place("gbr", "United Kingdom", -1.5, 52.4),
+  place("usa", "United States", -98.6, 39.8, ["\\bUnited States\\b", "\\bUSA\\b"]),
+  place("ury", "Uruguay", -55.8, -32.5),
+  place("uzb", "Uzbekistan", 64.6, 41.4),
+  place("vut", "Vanuatu", 166.9, -15.4),
+  place("ven", "Venezuela", -66.9, 6.4),
+  place("vnm", "Vietnam", 108.3, 14.1),
+  place("yem", "Yemen", 48, 15),
+  place("zmb", "Zambia", 27.8, -13.1),
+  place("zwe", "Zimbabwe", 29.2, -19.0),
+];
+
+const COUNTRY_BY_ID = new Map(COUNTRIES.map((c) => [c.id, c]));
+// ISO3 speaker-affiliation code -> country id, for resolving who's speaking
+// (a different question from which country a statement is *about* — see
+// detectCountries). Built from the same gazetteer entries where the id
+// already is the lowercased ISO3 code.
+const ISO3_TO_COUNTRY_ID = new Map(COUNTRIES.map((c) => [c.id.toUpperCase(), c.id]));
+
+function detectCountries(text) {
+  if (!text) return [];
+  return COUNTRIES.filter((c) => c.regex.test(text));
+}
+
+function speakerCountryName(affiliation, fallback) {
+  if (!affiliation) return fallback;
+  const id = ISO3_TO_COUNTRY_ID.get(affiliation.toUpperCase());
+  if (id) return COUNTRY_BY_ID.get(id).name;
+  return affiliation; // org code (OCHA, UNFPA, UN, ...) or unrecognized — show as-is
+}
 
 const DEBUG_SHAPE = process.env.INGEST_DEBUG_SHAPE === "1";
 let debugPrinted = false;
@@ -210,7 +459,7 @@ function speakerFields(statement) {
 }
 
 function displaySpeaker({ name, function: fn, affiliation }) {
-  const place = affiliation ? COUNTRY_NAMES[affiliation] || affiliation : null;
+  const place = affiliation ? speakerCountryName(affiliation, affiliation) : null;
   if (name) return name;
   if (fn && place) return `${fn} (${place})`;
   if (fn) return fn;
@@ -237,6 +486,7 @@ function normalizeMatch(meetingItem, statement) {
     t: formatSeconds(pick(statement, ["start", "start_time", "startTime", "timestamp", "offset"])),
     pageUrl,
     category: meetingItem.category,
+    title: meetingItem.title || "",
     isBriefing: BRIEFING_SLUG_HINTS.some((h) => (rawPageUrl || "").includes(h)),
   };
 }
@@ -333,129 +583,122 @@ function stripInternal({ date, speaker, speakerAffiliation, speakerFunction, tex
   return { date, speaker, speakerAffiliation, speakerFunction, text, t, pageUrl };
 }
 
-async function ingestCrisis(crisis) {
-  const from = dateNDaysAgo(LOOKBACK_DAYS);
-  const matches = await searchStatements(crisis.query, { from });
-
-  // crisis.query is a broad full-text search (just the crisis name), so
-  // `matches` includes statements from anyone — SC presidents reading the
-  // procedural agenda, unrelated delegations, other crises mentioned in
-  // passing. All three columns below are specifically about what OCHA said,
-  // so they're filtered down to OCHA speakers (via speakerAffiliation, with
-  // a name/title fallback — see isLeadershipStatement) before anything else.
-  // Each OCHA statement then lands in exactly one bucket by venue, so the
-  // same statement never gets double-counted across columns.
-  const ocha = matches.filter((m) => isLeadershipStatement(m));
-  const briefings = ocha.filter((m) => m.isBriefing);
-  const sc = ocha.filter((m) => !m.isBriefing && m.category === "Security Council");
-  const leadership = ocha.filter((m) => !m.isBriefing && m.category !== "Security Council");
-
-  const recent30 = matches.filter((m) => m.date >= dateNDaysAgo(30));
-  const trend = weeklyTrend(matches, 12);
-
+function newBucket(country) {
   return {
-    id: crisis.id,
-    name: crisis.name,
-    lon: crisis.lon,
-    lat: crisis.lat,
-    volume: recent30.length,
-    level: recent30.length >= 70 ? "elevated" : "standard",
-    trend,
-    top: (leadership[0] || sc[0] || briefings[0] || matches[0] || {}).text || "",
-    briefings: briefings.slice(0, 40).map(stripInternal),
-    leadership: leadership.slice(0, 40).map(stripInternal),
-    sc: sc.slice(0, 40).map(stripInternal),
+    id: country.id,
+    name: country.name,
+    lon: country.lon,
+    lat: country.lat,
+    all: [],
+    briefings: [],
+    leadership: [],
+    sc: [],
+    onOcha: [],
   };
 }
 
 // See the earlier caution in README.md: no automated "supportive/critical"
 // stance here on purpose — that's an editorial call, not an extraction task.
-//
-// This intentionally stays a single global "OCHA" search rather than being
-// folded into the per-crisis searches above: it's the only way to catch every
-// member state that mentions OCHA, regardless of which (if any) tracked
-// crisis they're discussing. The per-crisis searches above exist for the
-// opposite reason — to catch OCHA's own statements about a crisis even when
-// the statement itself never says the word "OCHA" (a spokesperson rarely
-// names their own office). Classification of *who* is speaking, in both
-// directions, now runs off the structured `affiliation` field rather than
-// text-matching, which is the fix for both.
-async function ingestOchaMentions() {
-  const from = dateNDaysAgo(LOOKBACK_DAYS);
-  const matches = await searchStatements("OCHA", { from });
-
-  const byCrisis = {};
-  TRACKED_CRISES.forEach((c) => (byCrisis[c.id] = []));
-
-  matches.forEach((m) => {
-    // Skip OCHA speaking about itself — this section is about *other* voices.
-    if (isLeadershipStatement(m)) return;
-
-    const country = m.speakerAffiliation ? COUNTRY_NAMES[m.speakerAffiliation] || m.speakerAffiliation : m.speaker;
-    const matchedCrisis = TRACKED_CRISES.find((c) =>
-      (m.text || "").toLowerCase().includes(c.name.toLowerCase().split(" / ")[0].toLowerCase())
-    );
-    if (matchedCrisis) {
-      byCrisis[matchedCrisis.id].push({
-        date: m.date,
-        country,
-        text: m.text,
-        t: m.t,
-        pageUrl: m.pageUrl,
-      });
-    }
-  });
-
-  return byCrisis;
-}
-
 async function main() {
   console.log(`[ingest] starting ${new Date().toISOString()}`);
 
-  const [crisisResults, ochaByCrisis] = await Promise.all([
-    Promise.all(
-      TRACKED_CRISES.map((c) =>
-        ingestCrisis(c).catch((err) => {
-          console.error(`[ingest] failed for ${c.id}:`, err.message);
-          return null;
-        })
-      )
-    ),
-    ingestOchaMentions().catch((err) => {
-      console.error("[ingest] OCHA-mentions search failed:", err.message);
-      return {};
-    }),
-  ]);
-
-  const crises = crisisResults.filter(Boolean).map((c) => ({ ...c, onOcha: ochaByCrisis[c.id] || [] }));
-
-  if (crises.length === 0) {
-    console.error("[ingest] no crises ingested successfully — leaving existing data/crises.json untouched");
+  const from = dateNDaysAgo(LOOKBACK_DAYS);
+  let matches;
+  try {
+    matches = await searchStatements("OCHA", { from });
+  } catch (err) {
+    console.error("[ingest] fatal: OCHA search failed:", err.message);
     process.exit(1);
   }
 
-  // A 90-day lookback across 7 major crises plus a bare "OCHA" query returning
-  // *zero* matches, with no fetch errors, is a strong signal the response
-  // shape doesn't match extractItems/extractStatements — not that nothing
-  // happened at the UN in 90 days. Surface that loudly instead of silently
-  // committing a "successful" empty dataset that the site would then label
-  // as live.
-  const dataQuality = totalNormalizedMatches === 0 ? "no-matches" : "ok";
-  if (dataQuality === "no-matches") {
-    console.error(
-      "[ingest] every query returned 0 normalized matches across all crises + OCHA mentions. " +
-        "This almost certainly means the UN Transcripts response shape doesn't match this script's " +
-        "assumptions — see the [ingest][warn] block(s) above for the raw shape, fix extractItems/" +
-        "extractStatements/normalizeMatch accordingly, and re-run. Writing the file anyway with " +
-        'dataQuality: "no-matches" so the site can show an honest "no data" state instead of a ' +
-        "misleading live-but-empty one."
-    );
+  const byCountry = new Map();
+
+  for (const m of matches) {
+    let subjects = detectCountries(m.text);
+    if (subjects.length === 0) subjects = detectCountries(m.title);
+    if (subjects.length === 0) continue;
+
+    const isOcha = isLeadershipStatement(m);
+
+    for (const subject of subjects) {
+      if (!byCountry.has(subject.id)) byCountry.set(subject.id, newBucket(subject));
+      const bucket = byCountry.get(subject.id);
+      bucket.all.push(m);
+
+      if (isOcha) {
+        if (m.isBriefing) bucket.briefings.push(m);
+        else if (m.category === "Security Council") bucket.sc.push(m);
+        else bucket.leadership.push(m);
+      } else {
+        bucket.onOcha.push({
+          date: m.date,
+          country: speakerCountryName(m.speakerAffiliation, m.speaker),
+          text: m.text,
+          t: m.t,
+          pageUrl: m.pageUrl,
+        });
+      }
+    }
   }
 
+  if (byCountry.size === 0) {
+    if (totalNormalizedMatches === 0) {
+      console.error(
+        "[ingest] the OCHA search returned 0 normalized matches — see the [ingest][warn] block above for " +
+          "the raw response shape. Leaving existing data/crises.json untouched."
+      );
+    } else {
+      console.error(
+        `[ingest] ${totalNormalizedMatches} statements matched "OCHA" but none could be attributed to a ` +
+          "country (no gazetteer match in statement text or meeting title). Leaving existing data/crises.json untouched."
+      );
+    }
+    process.exit(1);
+  }
+
+  const all = Array.from(byCountry.values());
+  const recentCounts = all.map((c) => c.all.filter((m) => m.date >= dateNDaysAgo(30)).length);
+  const avgRecent = recentCounts.reduce((a, b) => a + b, 0) / (recentCounts.length || 1);
+  // "Elevated" is relative to this run's own distribution rather than a fixed
+  // magic number: absolute OCHA-related volume per country is a much smaller
+  // scale than the old "anyone mentions this crisis name" volume was, and a
+  // fixed threshold tuned for one scale silently breaks when the scale
+  // changes. Needs at least a handful of events too, so a quiet run with
+  // uniformly low activity doesn't mark everything "elevated" just for being
+  // above its own (tiny) average.
+  const elevatedThreshold = Math.max(avgRecent, 3);
+
+  const crises = all
+    .sort((a, b) => {
+      const bv = b.all.filter((m) => m.date >= dateNDaysAgo(30)).length;
+      const av = a.all.filter((m) => m.date >= dateNDaysAgo(30)).length;
+      return bv - av;
+    })
+    .slice(0, MAX_CRISES_SHOWN)
+    .map((c) => {
+      const recent30 = c.all.filter((m) => m.date >= dateNDaysAgo(30));
+      const trend = weeklyTrend(c.all, 12);
+      return {
+        id: c.id,
+        name: c.name,
+        lon: c.lon,
+        lat: c.lat,
+        volume: recent30.length,
+        level: recent30.length >= elevatedThreshold ? "elevated" : "standard",
+        trend,
+        top: (c.leadership[0] || c.sc[0] || c.briefings[0] || c.all[0] || {}).text || "",
+        briefings: c.briefings.slice(0, 40).map(stripInternal),
+        leadership: c.leadership.slice(0, 40).map(stripInternal),
+        sc: c.sc.slice(0, 40).map(stripInternal),
+        onOcha: c.onOcha,
+      };
+    });
+
+  const dataQuality = "ok";
   const output = { generatedAt: new Date().toISOString(), dataQuality, crises };
   fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
-  console.log(`[ingest] wrote ${crises.length} crises (dataQuality: ${dataQuality}) to ${OUTPUT_FILE}`);
+  console.log(`[ingest] wrote ${crises.length} crises (of ${byCountry.size} detected; dataQuality: ${dataQuality}) to ${OUTPUT_FILE}`);
 }
 
 main().catch((err) => {
