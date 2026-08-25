@@ -42,6 +42,8 @@
   .dot-live{width:6px;height:6px;border-radius:50%;background:var(--amber);
     box-shadow:0 0 0 0 var(--amber-dim);animation:pulse-live 2s infinite;}
   @keyframes pulse-live{0%{box-shadow:0 0 0 0 var(--amber-dim);}70%{box-shadow:0 0 0 6px rgba(232,163,61,0);}100%{box-shadow:0 0 0 0 rgba(232,163,61,0);}}
+  .dot-live.warn{background:#E0685E;box-shadow:0 0 0 0 rgba(224,104,94,0.35);animation:pulse-live-warn 2s infinite;}
+  @keyframes pulse-live-warn{0%{box-shadow:0 0 0 0 rgba(224,104,94,0.35);}70%{box-shadow:0 0 0 6px rgba(224,104,94,0);}100%{box-shadow:0 0 0 0 rgba(224,104,94,0);}}
   .status .updated{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-3);margin-top:6px;}
 
   /* quote band — the signature element */
@@ -206,13 +208,13 @@
 
   <header>
     <div>
-      <div class="eyebrow">OCHA · Political Signal — Prototype</div>
+      <div class="eyebrow">OCHA · Political Signal</div>
       <h1>OCHA at the UN</h1>
       <div class="sub" id="subtitle">Statements, briefings and Council mentions across active crises, pulled from meeting transcripts. Select a crisis on the map or in the filters.</div>
     </div>
     <div class="status">
-      <div class="live"><span class="dot-live"></span> ILLUSTRATIVE DATA</div>
-      <div class="updated">SAMPLE SNAPSHOT · NOT LIVE</div>
+      <div class="live"><span class="dot-live"></span> LOADING…</div>
+      <div class="updated"></div>
     </div>
   </header>
 
@@ -282,8 +284,8 @@
 
 
   <footer>
-    PROTOTYPE — populated with illustrative sample content to demonstrate layout and interaction, not live UN Transcripts data.<br>
-    A production build would query transcripts.un.org's meetings API on a schedule and would clearly label transcript-derived text as automatically generated, not an official UN record.
+    Built on <a href="https://transcripts.un.org" style="color:var(--text-3)">UN Transcripts</a> (transcripts.un.org). Statement text shown here is machine-transcribed from UN meeting recordings and automatically extracted — it is not an official UN record and may contain transcription errors.<br>
+    Refreshed automatically every 6 hours via GitHub Actions. See <span id="footerDataNote">the badge above</span> for this snapshot's status.
   </footer>
 
 </div>
@@ -418,7 +420,13 @@ async function loadLiveData(){
     const json = await res.json();
     if(json.crises && json.crises.length){
       crises = json.crises;
-      dataSource = json.generatedAt ? 'live' : 'seed';
+      if(!json.generatedAt){
+        dataSource = 'seed';
+      } else if(json.dataQuality === 'no-matches'){
+        dataSource = 'empty';
+      } else {
+        dataSource = 'live';
+      }
       return json.generatedAt;
     }
   }catch(e){
@@ -430,16 +438,25 @@ async function loadLiveData(){
 function renderDataStatus(generatedAt){
   const live = document.querySelector('.status .live');
   const updated = document.querySelector('.status .updated');
+  const footerNote = document.getElementById('footerDataNote');
+  const updatedStr = generatedAt ? new Date(generatedAt).toLocaleString('en-GB',
+    {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'}).toUpperCase() : '';
   if(dataSource === 'live'){
     live.innerHTML = '<span class="dot-live"></span> LIVE DATA';
-    updated.textContent = 'UPDATED ' + new Date(generatedAt).toLocaleString('en-GB',
-      {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'}).toUpperCase();
+    updated.textContent = 'UPDATED ' + updatedStr;
+    if(footerNote) footerNote.textContent = 'This snapshot is live, refreshed ' + updatedStr + '.';
+  } else if(dataSource === 'empty'){
+    live.innerHTML = '<span class="dot-live warn"></span> NO MATCHES';
+    updated.textContent = 'INGEST RAN ' + updatedStr + ' BUT FOUND 0 STATEMENTS';
+    if(footerNote) footerNote.textContent = 'The ingest job ran successfully but returned no matched statements — likely a data-source integration issue, not an absence of relevant UN activity. Being shown here instead of silently claiming this data is complete.';
   } else if(dataSource === 'seed'){
     live.innerHTML = '<span class="dot-live"></span> SEED DATA';
     updated.textContent = 'WAITING FOR FIRST ACTIONS RUN';
+    if(footerNote) footerNote.textContent = 'Waiting for the first scheduled refresh to run.';
   } else {
     live.innerHTML = '<span class="dot-live"></span> DEMO DATA';
     updated.textContent = 'DATA FILE NOT YET GENERATED';
+    if(footerNote) footerNote.textContent = 'Showing illustrative demo content — data/crises.json has not been generated yet.';
   }
 }
 
