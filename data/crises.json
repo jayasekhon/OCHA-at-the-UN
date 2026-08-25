@@ -1,408 +1,194 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-08-25T09:57:23.067Z",
   "crises": [
     {
       "id": "sudan",
       "name": "Sudan",
       "lon": 30,
       "lat": 15,
-      "volume": 92,
-      "level": "elevated",
+      "volume": 0,
+      "level": "standard",
       "trend": [
-        20,
-        24,
-        22,
-        30,
-        35,
-        38,
-        42,
-        55,
-        60,
-        72,
-        85,
-        92
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "USG Tom Fletcher pressed the Council for unimpeded access across front lines.",
-      "briefings": [
-        {
-          "date": "22 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Access to El Fasher remains severely constrained; convoys have been delayed for over two weeks.",
-          "t": "08:12"
-        },
-        {
-          "date": "18 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "3.2 million people newly displaced since the escalation began, per latest cluster figures.",
-          "t": "03:44"
-        }
-      ],
-      "leadership": [
-        {
-          "date": "20 Aug",
-          "speaker": "USG Tom Fletcher",
-          "text": "Called on all parties to allow unimpeded humanitarian access across front lines.",
-          "t": "14:02"
-        }
-      ],
-      "sc": [
-        {
-          "date": "24 Aug",
-          "speaker": "United Kingdom",
-          "text": "Urged the Council to press for a humanitarian pause to allow aid corridors to reopen.",
-          "t": "41:10"
-        },
-        {
-          "date": "19 Aug",
-          "speaker": "Sierra Leone",
-          "text": "Welcomed OCHA's briefing and called for sustained funding of the Sudan HRP.",
-          "t": "22:57"
-        }
-      ],
-      "onOcha": [
-        {
-          "date": "24 Aug",
-          "country": "United Kingdom",
-          "text": "Thanked OCHA for its briefing and echoed its call for a humanitarian pause.",
-          "t": "41:32",
-          "stance": "supportive"
-        },
-        {
-          "date": "19 Aug",
-          "country": "Sierra Leone",
-          "text": "Welcomed OCHA's briefing and called on donors to fully fund its Sudan appeal.",
-          "t": "22:57",
-          "stance": "supportive"
-        },
-        {
-          "date": "12 Aug",
-          "country": "Russian Federation",
-          "text": "Questioned OCHA's figures on access denials, calling for independent verification.",
-          "t": "36:04",
-          "stance": "critical"
-        }
-      ]
+      "top": "",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
     },
     {
       "id": "gaza",
       "name": "Gaza / oPt",
       "lon": 34.3,
       "lat": 31.5,
-      "volume": 98,
-      "level": "elevated",
+      "volume": 0,
+      "level": "standard",
       "trend": [
-        60,
-        62,
-        58,
-        65,
-        70,
-        74,
-        80,
-        85,
-        88,
-        90,
-        95,
-        98
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "ERC Tom Fletcher told the Council the response is operating under \"impossible constraints.\"",
-      "briefings": [
-        {
-          "date": "23 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Fuel shortages are affecting hospital generators across the strip.",
-          "t": "05:30"
-        },
-        {
-          "date": "21 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Aid distribution points report continued access denials at several crossings.",
-          "t": "11:20"
-        }
-      ],
-      "leadership": [
-        {
-          "date": "22 Aug",
-          "speaker": "ERC Tom Fletcher",
-          "text": "Told the Council that the humanitarian response is operating under 'impossible constraints.'",
-          "t": "09:15"
-        }
-      ],
-      "sc": [
-        {
-          "date": "24 Aug",
-          "speaker": "France",
-          "text": "Called for immediate and sustained humanitarian access in line with international law.",
-          "t": "18:44"
-        },
-        {
-          "date": "20 Aug",
-          "speaker": "Algeria",
-          "text": "Cited OCHA figures on civilian casualties in its statement.",
-          "t": "33:02"
-        }
-      ],
-      "onOcha": [
-        {
-          "date": "24 Aug",
-          "country": "France",
-          "text": "Backed OCHA's assessment and called for donors to close the funding gap.",
-          "t": "19:05",
-          "stance": "supportive"
-        },
-        {
-          "date": "20 Aug",
-          "country": "Algeria",
-          "text": "Cited OCHA's casualty figures directly in its statement to the Council.",
-          "t": "33:02",
-          "stance": "supportive"
-        },
-        {
-          "date": "15 Aug",
-          "country": "United States",
-          "text": "Pressed OCHA to clarify its methodology for the latest displacement estimate.",
-          "t": "27:41",
-          "stance": "neutral"
-        }
-      ]
+      "top": "",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
     },
     {
       "id": "drc",
       "name": "DR Congo",
       "lon": 23,
       "lat": -3,
-      "volume": 58,
+      "volume": 0,
       "level": "standard",
       "trend": [
-        30,
-        28,
-        32,
-        35,
-        33,
-        38,
-        40,
-        45,
-        50,
-        52,
-        55,
-        58
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "OCHA reported displacement past 2.8 million in North Kivu as clashes continue.",
-      "briefings": [
-        {
-          "date": "19 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Displacement in North Kivu has passed 2.8 million as clashes continue near Goma.",
-          "t": "06:50"
-        }
-      ],
+      "top": "",
+      "briefings": [],
       "leadership": [],
-      "sc": [
-        {
-          "date": "18 Aug",
-          "speaker": "Democratic Republic of Congo",
-          "text": "Requested renewed Council attention to the humanitarian toll of the conflict.",
-          "t": "27:19"
-        }
-      ],
-      "onOcha": [
-        {
-          "date": "18 Aug",
-          "country": "Democratic Republic of Congo",
-          "text": "Thanked OCHA for its coordination role and requested expanded field presence.",
-          "t": "27:40",
-          "stance": "supportive"
-        }
-      ]
+      "sc": [],
+      "onOcha": []
     },
     {
       "id": "yemen",
       "name": "Yemen",
       "lon": 48,
       "lat": 15,
-      "volume": 41,
+      "volume": 0,
       "level": "standard",
       "trend": [
-        38,
-        36,
-        34,
-        35,
-        33,
-        30,
-        32,
-        35,
-        38,
-        40,
-        41,
-        41
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "Yemen HRP funding remains below 30% of requirements for the year.",
-      "briefings": [
-        {
-          "date": "14 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Funding for the Yemen HRP remains below 30 percent for the year.",
-          "t": "04:05"
-        }
-      ],
+      "top": "",
+      "briefings": [],
       "leadership": [],
       "sc": [],
-      "onOcha": [
-        {
-          "date": "14 Aug",
-          "country": "Netherlands",
-          "text": "Urged fellow donors to respond to OCHA's funding appeal before year end.",
-          "t": "09:12",
-          "stance": "supportive"
-        }
-      ]
+      "onOcha": []
     },
     {
       "id": "ukraine",
       "name": "Ukraine",
       "lon": 31,
       "lat": 49,
-      "volume": 66,
+      "volume": 0,
       "level": "standard",
       "trend": [
-        25,
-        28,
-        30,
-        32,
-        35,
-        40,
-        45,
-        50,
-        55,
-        58,
-        62,
-        66
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "ERC briefed the Council on the humanitarian impact of strikes on energy infrastructure.",
-      "briefings": [
-        {
-          "date": "21 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Winterization planning is underway for displaced households near the front line.",
-          "t": "07:12"
-        }
-      ],
-      "leadership": [
-        {
-          "date": "24 Aug",
-          "speaker": "ERC Tom Fletcher",
-          "text": "Briefed the Council on the humanitarian impact of continued strikes on energy infrastructure.",
-          "t": "12:40"
-        }
-      ],
-      "sc": [
-        {
-          "date": "24 Aug",
-          "speaker": "Denmark (President)",
-          "text": "Opened the session by noting the deteriorating humanitarian situation ahead of winter.",
-          "t": "01:05"
-        }
-      ],
-      "onOcha": [
-        {
-          "date": "24 Aug",
-          "country": "Denmark",
-          "text": "Thanked OCHA for the winterization briefing and asked for monthly updates.",
-          "t": "13:02",
-          "stance": "supportive"
-        },
-        {
-          "date": "24 Aug",
-          "country": "Russian Federation",
-          "text": "Accused OCHA of an unbalanced account of the humanitarian situation.",
-          "t": "29:50",
-          "stance": "critical"
-        }
-      ]
+      "top": "",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
     },
     {
       "id": "haiti",
       "name": "Haiti",
       "lon": -72,
       "lat": 19,
-      "volume": 34,
+      "volume": 0,
       "level": "standard",
       "trend": [
-        18,
-        20,
-        22,
-        20,
-        24,
-        26,
-        28,
-        30,
-        31,
-        32,
-        33,
-        34
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "Gang violence continues to restrict humanitarian movement in Port-au-Prince.",
-      "briefings": [
-        {
-          "date": "12 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Gang violence continues to restrict humanitarian movement in Port-au-Prince.",
-          "t": "09:30"
-        }
-      ],
+      "top": "",
+      "briefings": [],
       "leadership": [],
       "sc": [],
-      "onOcha": [
-        {
-          "date": "12 Aug",
-          "country": "Ecuador",
-          "text": "Asked OCHA to detail its security protocols for humanitarian staff on the ground.",
-          "t": "15:22",
-          "stance": "neutral"
-        }
-      ]
+      "onOcha": []
     },
     {
       "id": "myanmar",
       "name": "Myanmar",
       "lon": 96,
       "lat": 21,
-      "volume": 29,
+      "volume": 0,
       "level": "standard",
       "trend": [
-        14,
-        15,
-        16,
-        18,
-        20,
-        22,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "top": "Monsoon flooding has compounded displacement in Rakhine State.",
-      "briefings": [
-        {
-          "date": "11 Aug",
-          "speaker": "OCHA Spokesperson",
-          "text": "Monsoon flooding has compounded displacement in Rakhine State.",
-          "t": "02:58"
-        }
-      ],
+      "top": "",
+      "briefings": [],
       "leadership": [],
       "sc": [],
-      "onOcha": [
-        {
-          "date": "11 Aug",
-          "country": "Japan",
-          "text": "Commended OCHA's flood response coordination and announced additional funding.",
-          "t": "08:15",
-          "stance": "supportive"
-        }
-      ]
+      "onOcha": []
     }
-  ],
-  "note": "seed data — replaced by the first successful GitHub Actions run"
+  ]
 }
