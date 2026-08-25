@@ -99,10 +99,25 @@ const MAX_CRISES_SHOWN = 40; // keep the map/columns readable even if OCHA activ
 // regardless of who currently holds the office, and unlike a crisis list
 // they don't go stale as the news cycle moves. Results across all queries
 // are merged and de-duplicated by pageUrl before anything else runs.
+//
+// This is still an incomplete net, not a structural fix: it only catches a
+// briefer whose own matched excerpt contains one of these exact phrases (or
+// says "OCHA" itself). An unexpected briefer — a Director of Operations, a
+// Deputy ERC, anyone OCHA sends who isn't introduced with one of these
+// titles and doesn't self-name — is invisible to this pipeline entirely,
+// not misclassified. The complete fix would fetch every Security
+// Council/press-briefing meeting's full statement list directly (by
+// speaker.affiliation, not by keyword) rather than relying on full-text
+// search turning up the right phrase; that's a bigger change (a new,
+// unverified endpoint shape, many more per-meeting requests) that hasn't
+// been built yet.
 const OCHA_IDENTITY_QUERIES = [
   "OCHA",
   "Emergency Relief Coordinator",
+  "Deputy Emergency Relief Coordinator",
   "Under-Secretary-General for Humanitarian Affairs",
+  "Assistant Secretary-General for Humanitarian Affairs",
+  "Director of Operations",
 ];
 
 // Fallback only — affiliation-based detection (see isLeadershipStatement)

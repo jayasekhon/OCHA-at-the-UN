@@ -80,10 +80,8 @@
   .chip:hover{border-color:var(--un-blue-dim);color:var(--text-1);}
   .chip.active{background:var(--un-blue);border-color:var(--un-blue);color:#06121E;font-weight:500;}
   .chip-picker-select{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.02em;
-    padding:7px 30px 7px 13px;border-radius:20px;border:1px solid var(--line);color:var(--text-2);
-    background:var(--panel);cursor:pointer;appearance:none;-webkit-appearance:none;
-    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%238A96AC'/%3E%3C/svg%3E");
-    background-repeat:no-repeat;background-position:right 12px center;transition:all .15s ease;}
+    padding:7px 13px;border-radius:20px;border:1px solid var(--line);color:var(--text-2);
+    background:var(--panel);cursor:pointer;transition:all .15s ease;}
   .chip-picker-select:hover{border-color:var(--un-blue-dim);color:var(--text-1);}
   .chip-picker-select option{background:var(--panel-2);color:var(--text-1);}
 
@@ -531,29 +529,49 @@ function buildMap(selectedId){
   const mapPanel = document.querySelector('.map-panel');
 
   // Always-visible labels (elevated crises) can land close together
-  // geographically (e.g. Lebanon/Palestine, Sudan/South Sudan) and overlap.
-  // Greedily nudge a colliding label down a row at a time — approximate
-  // (monospace character width, fixed row height) but enough to keep the
-  // permanent label set legible; the full label set is still one hover away
-  // for anything not elevated.
-  const placedLabelBoxes = [];
-  function placeLabel(text, x, y, r){
-    const w = text.length * 6.6 + 8;
-    const h = 13;
-    let ly = y + 4;
-    for(let attempt=0; attempt<6; attempt++){
-      const box = { x1: x+r+7, y1: ly-h, x2: x+r+7+w, y2: ly };
-      const collides = placedLabelBoxes.some(b=>
-        box.x1 < b.x2 && box.x2 > b.x1 && box.y1 < b.y2 && box.y2 > b.y1);
-      if(!collides){ placedLabelBoxes.push(box); return ly; }
-      ly += (attempt%2===0 ? 1 : -1) * (attempt+1) * 13;
-    }
-    return y + 4;
-  }
-
-  crises.forEach((c,i)=>{
+  // geographically (e.g. Lebanon/Palestine, Sudan/South Sudan) and overlap —
+  // both with each other and with unrelated dots nearby. Pre-compute every
+  // node's position first so every dot (not just other labels) can be
+  // registered as an obstacle before any label is placed, then greedily nudge
+  // a colliding label down/up a row at a time. Approximate (monospace
+  // character width, fixed row height) but enough to keep the permanent
+  // label set legible; the full label set is still one hover away for
+  // anything not elevated.
+  const positions = crises.map(c=>{
     const x = lonToX(c.lon), y = latToY(c.lat);
     const r = 4 + (c.volume/mv)*9;
+    return { c, x, y, r };
+  });
+  const placedLabelBoxes = positions.map(({x,y,r})=>({ x1:x-r, y1:y-r, x2:x+r, y2:y+r }));
+  // Try the default position right of the dot, then vertical nudges, then
+  // give up and mirror to the LEFT of the dot at the same set of vertical
+  // offsets — a label that's crowded on the right (its own text reaching
+  // into a neighboring dot) often has clear space on the left instead.
+  function placeLabel(text, x, y, r){
+    const w = text.length * 6.9 + 8; // generous per-char estimate; real width isn't measurable before layout
+    const h = 13;
+    const vOffsets = [0, 13, -13, 26, -26, 39, -39];
+    for(const side of ['right','left']){
+      // anchorX is where the SVG x/text-anchor attributes go; box edges are
+      // derived from it depending on which way the text extends from there.
+      const anchorX = side==='right' ? x+r+7 : x-r-7;
+      const boxX1 = side==='right' ? anchorX : anchorX - w;
+      const boxX2 = side==='right' ? anchorX + w : anchorX;
+      for(const dv of vOffsets){
+        const ly = y + 4 + dv;
+        const box = { x1: boxX1, y1: ly-h, x2: boxX2, y2: ly };
+        const collides = placedLabelBoxes.some(b=>
+          box.x1 < b.x2 && box.x2 > b.x1 && box.y1 < b.y2 && box.y2 > b.y1);
+        if(!collides){
+          placedLabelBoxes.push(box);
+          return { x: anchorX, y: ly, anchor: side==='right'?'start':'end' };
+        }
+      }
+    }
+    return { x: x+r+7, y: y+4, anchor: 'start' };
+  }
+
+  positions.forEach(({c,x,y,r},i)=>{
     const color = c.level==='elevated' ? 'var(--amber)' : 'var(--un-blue)';
     const g = document.createElementNS(ns,'g');
     g.setAttribute('class','node'+(c.level==='elevated'?' labeled':'')+(c.id===selectedId?' selected':''));
@@ -566,8 +584,10 @@ function buildMap(selectedId){
     g.appendChild(core);
 
     const label = document.createElementNS(ns,'text');
-    label.setAttribute('x', x+r+7);
-    label.setAttribute('y', c.level==='elevated' ? placeLabel(c.name, x, y, r) : y+4);
+    const pos = c.level==='elevated' ? placeLabel(c.name, x, y, r) : { x: x+r+7, y: y+4, anchor: 'start' };
+    label.setAttribute('x', pos.x);
+    label.setAttribute('y', pos.y);
+    label.setAttribute('text-anchor', pos.anchor);
     label.textContent = c.name;
     g.appendChild(label);
 
@@ -770,7 +790,7 @@ function buildChips(){
     select.className = 'chip-picker-select';
     select.setAttribute('aria-label', 'Jump to a country not shown above');
     const placeholder = document.createElement('option');
-    placeholder.textContent = `More (${sorted.length}) ▾`;
+    placeholder.textContent = `More (${sorted.length})`;
     placeholder.value = '';
     select.appendChild(placeholder);
     sorted.forEach(c=>{
