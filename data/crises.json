@@ -1,7 +1,371 @@
 {
-  "generatedAt": "2026-08-28T08:17:41.218Z",
+  "generatedAt": "2026-08-28T21:37:26.023Z",
   "dataQuality": "ok",
   "crises": [
+    {
+      "id": "col",
+      "name": "Colombia",
+      "lon": -74.3,
+      "lat": 4.6,
+      "volume": 27,
+      "level": "elevated",
+      "trend": [
+        1,
+        1,
+        6,
+        2,
+        0,
+        0,
+        0,
+        3,
+        0,
+        15,
+        3,
+        7
+      ],
+      "top": "… General for Humanitarian Affairs, Tom Fletcher, said today that humanitarians are moving at speed to save lives with OCHA and partners from the World Health Organization, the World Food Program, UNICEF, and various NGOs assisting national …",
+      "briefings": [
+        {
+          "date": "2026-08-28",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… General for Humanitarian Affairs, Tom Fletcher, said today that humanitarians are moving at speed to save lives with OCHA and partners from the World Health Organization, the World Food Program, UNICEF, and various NGOs assisting national …",
+          "t": "34:01",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-28?t=2041"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners, continue to coordinate very closely with the national authorities to scale up our efforts. Our colleagues at OCHA tells us that we are deploying teams to access needs in most impacted areas. in coordination of local authorities. …",
+          "t": "30:58",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1858"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… the same issues related to, for example, women and girls, like we have recently UN brief, UN guests here briefing from OCHA, speaking on the humanitarian situation. Yesterday, we saw that our very strong report from UNESCO and also from UN …",
+          "t": "44:18",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=2658"
+        },
+        {
+          "date": "2026-08-12",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… the challenging environment, we, along with our humanitarian partners, are reaching people in need in El Obeid. OCHA once again calls on all parties to protect civilians and civilian infrastructure and to allow aid to reach people quickly, …",
+          "t": "25:55",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-12?t=1555"
+        },
+        {
+          "date": "2026-06-25",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… efforts on the ground to ensure that assistance reaches those most in need as quickly and effectively as possible. OCHA is also supporting the coordination of incoming international search and rescue teams, which we expect will arrive or …",
+          "t": "31:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-25?t=1905"
+        },
+        {
+          "date": "2026-08-28",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… as soon as you're done with me, we'll be joined by our guest, Maria Jose Torres, who, as you know, is the UN Resident Coordinator in Colombia. She'll be able to brief you on the ongoing the ongoing response by the UN to the devastating …",
+          "t": "32:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-28?t=1947"
+        },
+        {
+          "date": "2026-08-26",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… for Wednesday. All right, good afternoon. Tomorrow, we'll have as our guest Maria Jose Torres, the U.N. resident coordinator in Colombia. She will join us virtually and will give us an update on our response following the recent …",
+          "t": "34:31",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=2071"
+        },
+        {
+          "date": "2026-08-21",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… How are you? I'll start off with Colombia today because you heard from our colleagues yesterday. Led by our resident coordinator, Maria Jose Torres Macho, and our partners, we've launched a response appeal following the deadly earthquake …",
+          "t": "29:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1752"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… recovery and reintegration. The full statement is available online. Now turning to Colombia, Tom Fletcher, the Emergency Relief Coordinator, has allocated $5 million from the UN Centre Emergency Response Fund to support the humanitarian …",
+          "t": "30:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1827"
+        },
+        {
+          "date": "2026-08-12",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… in the hardest hit areas, where disruptions to communications, transport and public services continue to hinder relief efforts. Emergency shelter, food assistance, access to safe drinking water, and health care for affected communities are …",
+          "t": "18:41",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-12?t=1121"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… while calling on the de facto authorities to take significant steps that could contribute to lasting stability for the Afghan people. The mission has pointed out that a reduction in conflict has brought tangible benefits for many Afghans …",
+          "t": "28:53",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1733"
+        },
+        {
+          "date": "2026-08-28",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… devastating earthquake that hit Colombia earlier this month. And then on Monday, we will be joined by Navid Hanif, the Assistant Secretary-General in the Department of Economic and Social Affairs, Stephen Hill, our Assistant …",
+          "t": "32:52",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-28?t=1972"
+        },
+        {
+          "date": "2026-08-26",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "I keep wanting to wish you a happy Friday, but I'll settle for Wednesday. All right, good afternoon. Tomorrow, we'll have as our guest Maria Jose Torres, the U.N. resident coordinator in Colombia. She will join us virtually and will give us …",
+          "t": "34:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=2063"
+        },
+        {
+          "date": "2026-08-21",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… centers and health facilities. The appeal, which complements the government-led response and was coordinated by the Humanitarian Country Team in Colombia, seeks $148 million to support 671,000 of the most vulnerable with health, shelter, …",
+          "t": "29:39",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1779"
+        },
+        {
+          "date": "2026-08-12",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Hello. Okay, good afternoon, everyone. Starting with Colombia, the Office for the Coordination of Humanitarian Affairs and our partners continue to support the government-led response following the devastating earthquake earlier this week. …",
+          "t": "18:18",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-12?t=1098"
+        },
+        {
+          "date": "2026-08-11",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "And I have a few further details on Colombia for you. In addition to what the resident coordinator said, the Office for the Coordination of Humanitarian Affairs says assessments continue and authorities report thousands of injuries and the …",
+          "t": "31:41",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1901"
+        },
+        {
+          "date": "2026-08-11",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… details on Colombia for you. In addition to what the resident coordinator said, the Office for the Coordination of Humanitarian Affairs says assessments continue and authorities report thousands of injuries and the death toll continues to …",
+          "t": "31:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1905"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-08-28",
+          "country": "UN",
+          "text": "… last week. Today, I'm in a visit also with WFP, the regional director and the national representative, as well as OCHA head of office. And the whole point is also to see how we can continue supporting teams on the ground. We have had …",
+          "t": "64:01",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-28?t=3841"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UN",
+          "text": "… in a coordinated fashion. Since yesterday, I received also the call of the Foreign Affairs, Mr. Omar Boula, and OCHA has been representing the UN team and the humanitarian community in the emergency response cell. So the assessment is, it …",
+          "t": "19:31",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1171"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UN",
+          "text": "… in a coordinated fashion. Since yesterday, I received also the call of the Foreign Affairs, Mr. Omar Boula, and OCHA has been representing the UN team and the humanitarian community in the emergency response cell. So the assessment is, it …",
+          "t": "2:24",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sjt3tu65?t=144"
+        },
+        {
+          "date": "2026-08-10",
+          "country": "UN",
+          "text": "… Donetsk, Kherson, and Mykolaiv. This is what Ukrainian authorities are telling our colleagues on the ground. OCHA notes that humanitarian operations have also been impacted. An attack in the city of Dnipro destroyed a World Health …",
+          "t": "16:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=968"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "UN Secretariat",
+          "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
+          "t": "29:41",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=1781"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UN",
+          "text": "… this morning a conversation in the humanitarian country team with the Foreign Affairs Minister and Tom Fletcher, our emergency relief coordinator, and what was expressed is that the impact of this earthquake is bigger than they were …",
+          "t": "18:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1104"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UN",
+          "text": "… this morning a conversation in the humanitarian country team with the Foreign Affairs Minister and Tom Fletcher, our emergency relief coordinator, and what was expressed is that the impact of this earthquake is bigger than they were …",
+          "t": "1:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sjt3tu65?t=77"
+        },
+        {
+          "date": "2026-07-29",
+          "country": "Morocco",
+          "text": "… reconciliation and recovery, lessons from Colombia and Cambodia. Before proceeding further, I should like to submit for your consideration the adoption of the agenda as set out in the concept note circulated for today's meeting. I see no …",
+          "t": "0:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1l/k1ls9dbep2?t=30"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "42:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=2579"
+        },
+        {
+          "date": "2026-08-10",
+          "country": "UN",
+          "text": "… of the Security Council on the situation of Ukrainian prisoners of war and civilian detainees. This morning, the Assistant Secretary General for Human Rights, Claudio Fuentes Julio, brief Security Council members during the meeting on the …",
+          "t": "15:11",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=911"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Colombia",
+          "text": "… in my capacity as the representative of Colombia. I thank Ms. Georgette Gagnon, Deputy Special Representative of the Secretary-General for Afghanistan and Officer-in-Charge of the United Nations Assistance Mission in Afghanistan. I thank …",
+          "t": "125:17",
+          "pageUrl": "https://transcripts.un.org/en/sc/10165?t=7517"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Colombia",
+          "text": "… all. We find ourselves in an international context marked by growing geopolitical tensions, multiple conflicts, and humanitarian crises exacerbated by the increasingly significant impacts of climate change and a growing fragmentation of the …",
+          "t": "41:40",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=2500"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "Liberia",
+          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
+          "t": "34:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+        },
+        {
+          "date": "2026-07-29",
+          "country": "Morocco",
+          "text": "… and very detailed briefing and for sharing Colombia's experience in using Mine Action to support implementation of the final peace agreement. transitional and restorative justice, reconciliation and recovery. And we wish a lot of more …",
+          "t": "38:12",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1l/k1ls9dbep2?t=2292"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "Colombia",
+          "text": "Thank you, Mr. President. Colombia is grateful for the convening of this meeting and for the information provided by Ms. Kayoko Goto, Director for Europe, Central Asia and the Americas from the Department of Political and Peacebuilding …",
+          "t": "57:06",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3426"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "Belarus",
+          "text": "Thank you, Madam President. We thank Colombia for their prompt response to request of the Republic of Belarus to convene this urgent meeting of the United Nations Security Council, and we are grateful to the delegations who expressed words …",
+          "t": "93:36",
+          "pageUrl": "https://transcripts.un.org/en/sc/10187?t=5616"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "Belarus",
+          "text": "Thank you, Madam President. We thank Colombia for their prompt response to request of the Republic of Belarus to convene this urgent meeting of the United Nations Security Council, and we are grateful to the delegations who expressed words …",
+          "t": "83:25",
+          "pageUrl": "https://transcripts.un.org/en/sc/10188?t=5005"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Colombia",
+          "text": "Gracias, Presidente. Thank you, Chair, Executive Director, Excellencies, distinguished delegates. Colombia, first of all, thanks UNODC, the research branch, and the entire World Drug Report team for their rigorous work, which remains an …",
+          "t": "111:41",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19rfgzd3w?t=6701"
+        },
+        {
+          "date": "2026-06-25",
+          "country": "Guatemala",
+          "text": "President, Guatemala thanks the presidency of Colombia for convening this open debate. We acknowledge the work of the Special Representative of the Secretary General for as well as the valuable briefings delivered by the Executive Director …",
+          "t": "33:30",
+          "pageUrl": "https://transcripts.un.org/en/sc/10182/3?t=2010"
+        },
+        {
+          "date": "2026-06-24",
+          "country": "UN",
+          "text": "Thank you, Madam President. Excellencies, Executive Director of UNICEF, Ms. Catherine Russell, civil society briefer, ladies and gentlemen. I thank Colombia for convening today's Security Council open debate on children and armed conflict. …",
+          "t": "21:37",
+          "pageUrl": "https://transcripts.un.org/en/sc/10182?t=1297"
+        },
+        {
+          "date": "2026-06-24",
+          "country": "Greece",
+          "text": "Thank you, Madam President. I thank Colombia for convening this open debate on a matter of critical importance to the Security Council. I thank also Special Representative of the Secretary-General Vanessa Fraser and UNICEF Executive …",
+          "t": "69:34",
+          "pageUrl": "https://transcripts.un.org/en/sc/10182?t=4174"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Colombia",
+          "text": "… Thank you, Liberia, very much for your statement. I shall now make a statement in my capacity as representative of Colombia. I thank the Assistant Secretary General, Mr. Khalid Hiyari, and the Director of the Crisis Response Division in …",
+          "t": "87:38",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=5258"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "United Kingdom",
+          "text": "… Excellency, to the Council and thank Colombia for convening this important debate. And thank you also to Executive Director Bahus, Ms. Bawi, and Mr. Shoka for their briefing today. 26 years on from the Security Council Resolution 1325, This …",
+          "t": "50:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10175?t=3035"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "UN Secretariat",
+          "text": "… no quiz today, so you can go back to sleep. Exactly. We'll try to go as quickly as possible, but I do have a lot of stuff here for you. I'm sure you've got some questions, and then we have the the President of the Security Council, and that …",
+          "t": "6:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=390"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "DR Congo",
+          "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. The Democratic Republic of the Congo wishes to congratulate you and your country, the sister republic of Colombia, on the …",
+          "t": "35:12",
+          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=2112"
+        },
+        {
+          "date": "2026-03-09",
+          "country": "Sudan",
+          "text": "Thank you, Chair. It seems that I have become a very important person who will speak after the president of Colombia. So you have to take this into consideration. In the name of God, the compassionate, the merciful. Chair, I'd like to …",
+          "t": "153:11",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11p832eum?t=9191"
+        }
+      ]
+    },
     {
       "id": "pse",
       "name": "Palestine",
@@ -591,329 +955,6 @@
           "text": "… with Security Council Resolution 2793. While there, the Secretary-General was also briefed by the Force Commander of the Gang Suppression Force, Before the day is over, the Secretary-General will have met with the Prime Minister. He will …",
           "t": "15:42",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-16?t=942"
-        }
-      ]
-    },
-    {
-      "id": "col",
-      "name": "Colombia",
-      "lon": -74.3,
-      "lat": 4.6,
-      "volume": 22,
-      "level": "elevated",
-      "trend": [
-        1,
-        1,
-        6,
-        2,
-        0,
-        0,
-        0,
-        3,
-        0,
-        15,
-        3,
-        2
-      ],
-      "top": "… partners, continue to coordinate very closely with the national authorities to scale up our efforts. Our colleagues at OCHA tells us that we are deploying teams to access needs in most impacted areas. in coordination of local authorities. …",
-      "briefings": [
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… partners, continue to coordinate very closely with the national authorities to scale up our efforts. Our colleagues at OCHA tells us that we are deploying teams to access needs in most impacted areas. in coordination of local authorities. …",
-          "t": "30:58",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1858"
-        },
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the same issues related to, for example, women and girls, like we have recently UN brief, UN guests here briefing from OCHA, speaking on the humanitarian situation. Yesterday, we saw that our very strong report from UNESCO and also from UN …",
-          "t": "44:18",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=2658"
-        },
-        {
-          "date": "2026-08-12",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the challenging environment, we, along with our humanitarian partners, are reaching people in need in El Obeid. OCHA once again calls on all parties to protect civilians and civilian infrastructure and to allow aid to reach people quickly, …",
-          "t": "25:55",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-12?t=1555"
-        },
-        {
-          "date": "2026-06-25",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… efforts on the ground to ensure that assistance reaches those most in need as quickly and effectively as possible. OCHA is also supporting the coordination of incoming international search and rescue teams, which we expect will arrive or …",
-          "t": "31:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-25?t=1905"
-        },
-        {
-          "date": "2026-08-26",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… for Wednesday. All right, good afternoon. Tomorrow, we'll have as our guest Maria Jose Torres, the U.N. resident coordinator in Colombia. She will join us virtually and will give us an update on our response following the recent …",
-          "t": "34:31",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=2071"
-        },
-        {
-          "date": "2026-08-21",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… How are you? I'll start off with Colombia today because you heard from our colleagues yesterday. Led by our resident coordinator, Maria Jose Torres Macho, and our partners, we've launched a response appeal following the deadly earthquake …",
-          "t": "29:12",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1752"
-        },
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… recovery and reintegration. The full statement is available online. Now turning to Colombia, Tom Fletcher, the Emergency Relief Coordinator, has allocated $5 million from the UN Centre Emergency Response Fund to support the humanitarian …",
-          "t": "30:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1827"
-        },
-        {
-          "date": "2026-08-12",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… in the hardest hit areas, where disruptions to communications, transport and public services continue to hinder relief efforts. Emergency shelter, food assistance, access to safe drinking water, and health care for affected communities are …",
-          "t": "18:41",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-12?t=1121"
-        },
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… while calling on the de facto authorities to take significant steps that could contribute to lasting stability for the Afghan people. The mission has pointed out that a reduction in conflict has brought tangible benefits for many Afghans …",
-          "t": "28:53",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1733"
-        },
-        {
-          "date": "2026-08-26",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "I keep wanting to wish you a happy Friday, but I'll settle for Wednesday. All right, good afternoon. Tomorrow, we'll have as our guest Maria Jose Torres, the U.N. resident coordinator in Colombia. She will join us virtually and will give us …",
-          "t": "34:23",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=2063"
-        },
-        {
-          "date": "2026-08-21",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… centers and health facilities. The appeal, which complements the government-led response and was coordinated by the Humanitarian Country Team in Colombia, seeks $148 million to support 671,000 of the most vulnerable with health, shelter, …",
-          "t": "29:39",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=1779"
-        },
-        {
-          "date": "2026-08-12",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "Hello. Okay, good afternoon, everyone. Starting with Colombia, the Office for the Coordination of Humanitarian Affairs and our partners continue to support the government-led response following the devastating earthquake earlier this week. …",
-          "t": "18:18",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-12?t=1098"
-        },
-        {
-          "date": "2026-08-11",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "And I have a few further details on Colombia for you. In addition to what the resident coordinator said, the Office for the Coordination of Humanitarian Affairs says assessments continue and authorities report thousands of injuries and the …",
-          "t": "31:41",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1901"
-        },
-        {
-          "date": "2026-08-11",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… details on Colombia for you. In addition to what the resident coordinator said, the Office for the Coordination of Humanitarian Affairs says assessments continue and authorities report thousands of injuries and the death toll continues to …",
-          "t": "31:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1905"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-08-11",
-          "country": "UN",
-          "text": "… in a coordinated fashion. Since yesterday, I received also the call of the Foreign Affairs, Mr. Omar Boula, and OCHA has been representing the UN team and the humanitarian community in the emergency response cell. So the assessment is, it …",
-          "t": "19:31",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1171"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "UN",
-          "text": "… in a coordinated fashion. Since yesterday, I received also the call of the Foreign Affairs, Mr. Omar Boula, and OCHA has been representing the UN team and the humanitarian community in the emergency response cell. So the assessment is, it …",
-          "t": "2:24",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sjt3tu65?t=144"
-        },
-        {
-          "date": "2026-08-10",
-          "country": "UN",
-          "text": "… Donetsk, Kherson, and Mykolaiv. This is what Ukrainian authorities are telling our colleagues on the ground. OCHA notes that humanitarian operations have also been impacted. An attack in the city of Dnipro destroyed a World Health …",
-          "t": "16:08",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=968"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "UN Secretariat",
-          "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
-          "t": "29:41",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=1781"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "UN",
-          "text": "… this morning a conversation in the humanitarian country team with the Foreign Affairs Minister and Tom Fletcher, our emergency relief coordinator, and what was expressed is that the impact of this earthquake is bigger than they were …",
-          "t": "18:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=1104"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "UN",
-          "text": "… this morning a conversation in the humanitarian country team with the Foreign Affairs Minister and Tom Fletcher, our emergency relief coordinator, and what was expressed is that the impact of this earthquake is bigger than they were …",
-          "t": "1:17",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sjt3tu65?t=77"
-        },
-        {
-          "date": "2026-07-29",
-          "country": "Morocco",
-          "text": "… reconciliation and recovery, lessons from Colombia and Cambodia. Before proceeding further, I should like to submit for your consideration the adoption of the agenda as set out in the concept note circulated for today's meeting. I see no …",
-          "t": "0:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1l/k1ls9dbep2?t=30"
-        },
-        {
-          "date": "2026-08-10",
-          "country": "UN",
-          "text": "… of the Security Council on the situation of Ukrainian prisoners of war and civilian detainees. This morning, the Assistant Secretary General for Human Rights, Claudio Fuentes Julio, brief Security Council members during the meeting on the …",
-          "t": "15:11",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=911"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Colombia",
-          "text": "… in my capacity as the representative of Colombia. I thank Ms. Georgette Gagnon, Deputy Special Representative of the Secretary-General for Afghanistan and Officer-in-Charge of the United Nations Assistance Mission in Afghanistan. I thank …",
-          "t": "125:17",
-          "pageUrl": "https://transcripts.un.org/en/sc/10165?t=7517"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "Colombia",
-          "text": "… all. We find ourselves in an international context marked by growing geopolitical tensions, multiple conflicts, and humanitarian crises exacerbated by the increasingly significant impacts of climate change and a growing fragmentation of the …",
-          "t": "41:40",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=2500"
-        },
-        {
-          "date": "2026-08-19",
-          "country": "Liberia",
-          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
-        },
-        {
-          "date": "2026-07-29",
-          "country": "Morocco",
-          "text": "… and very detailed briefing and for sharing Colombia's experience in using Mine Action to support implementation of the final peace agreement. transitional and restorative justice, reconciliation and recovery. And we wish a lot of more …",
-          "t": "38:12",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1l/k1ls9dbep2?t=2292"
-        },
-        {
-          "date": "2026-07-27",
-          "country": "Colombia",
-          "text": "Thank you, Mr. President. Colombia is grateful for the convening of this meeting and for the information provided by Ms. Kayoko Goto, Director for Europe, Central Asia and the Americas from the Department of Political and Peacebuilding …",
-          "t": "57:06",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3426"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "Belarus",
-          "text": "Thank you, Madam President. We thank Colombia for their prompt response to request of the Republic of Belarus to convene this urgent meeting of the United Nations Security Council, and we are grateful to the delegations who expressed words …",
-          "t": "93:36",
-          "pageUrl": "https://transcripts.un.org/en/sc/10187?t=5616"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "Belarus",
-          "text": "Thank you, Madam President. We thank Colombia for their prompt response to request of the Republic of Belarus to convene this urgent meeting of the United Nations Security Council, and we are grateful to the delegations who expressed words …",
-          "t": "83:25",
-          "pageUrl": "https://transcripts.un.org/en/sc/10188?t=5005"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "Colombia",
-          "text": "Gracias, Presidente. Thank you, Chair, Executive Director, Excellencies, distinguished delegates. Colombia, first of all, thanks UNODC, the research branch, and the entire World Drug Report team for their rigorous work, which remains an …",
-          "t": "111:41",
-          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19rfgzd3w?t=6701"
-        },
-        {
-          "date": "2026-06-25",
-          "country": "Guatemala",
-          "text": "President, Guatemala thanks the presidency of Colombia for convening this open debate. We acknowledge the work of the Special Representative of the Secretary General for as well as the valuable briefings delivered by the Executive Director …",
-          "t": "33:30",
-          "pageUrl": "https://transcripts.un.org/en/sc/10182/3?t=2010"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "UN",
-          "text": "Thank you, Madam President. Excellencies, Executive Director of UNICEF, Ms. Catherine Russell, civil society briefer, ladies and gentlemen. I thank Colombia for convening today's Security Council open debate on children and armed conflict. …",
-          "t": "21:37",
-          "pageUrl": "https://transcripts.un.org/en/sc/10182?t=1297"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "Greece",
-          "text": "Thank you, Madam President. I thank Colombia for convening this open debate on a matter of critical importance to the Security Council. I thank also Special Representative of the Secretary-General Vanessa Fraser and UNICEF Executive …",
-          "t": "69:34",
-          "pageUrl": "https://transcripts.un.org/en/sc/10182?t=4174"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Colombia",
-          "text": "… Thank you, Liberia, very much for your statement. I shall now make a statement in my capacity as representative of Colombia. I thank the Assistant Secretary General, Mr. Khalid Hiyari, and the Director of the Crisis Response Division in …",
-          "t": "87:38",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=5258"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "United Kingdom",
-          "text": "… Excellency, to the Council and thank Colombia for convening this important debate. And thank you also to Executive Director Bahus, Ms. Bawi, and Mr. Shoka for their briefing today. 26 years on from the Security Council Resolution 1325, This …",
-          "t": "50:35",
-          "pageUrl": "https://transcripts.un.org/en/sc/10175?t=3035"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "UN Secretariat",
-          "text": "… no quiz today, so you can go back to sleep. Exactly. We'll try to go as quickly as possible, but I do have a lot of stuff here for you. I'm sure you've got some questions, and then we have the the President of the Security Council, and that …",
-          "t": "6:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=390"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "DR Congo",
-          "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. The Democratic Republic of the Congo wishes to congratulate you and your country, the sister republic of Colombia, on the …",
-          "t": "35:12",
-          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=2112"
-        },
-        {
-          "date": "2026-03-09",
-          "country": "Sudan",
-          "text": "Thank you, Chair. It seems that I have become a very important person who will speak after the president of Colombia. So you have to take this into consideration. In the name of God, the compassionate, the merciful. Chair, I'd like to …",
-          "t": "153:11",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11p832eum?t=9191"
         }
       ]
     },
@@ -1576,9 +1617,9 @@
         {
           "date": "2026-08-27",
           "country": "Denmark",
-          "text": "… and I shall now make a statement in my capacity as the representative of Denmark. And let me start by thanking Deputy Special Envoy Cordone and Acting Assistant Secretary General Batwaite for their briefings. I also wish to thank Ms. Rugby …",
-          "t": "120:49",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=7249"
+          "text": "… And I shall now make a statement in my capacity as the representative of Denmark. And let me start by thanking Deputy Special Envoy Cordone and Acting Assistant Secretary General Batwaite for their briefings. I also wish to thank Ms. Rugby …",
+          "t": "102:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=6155"
         },
         {
           "date": "2026-08-24",
@@ -1970,9 +2011,9 @@
         {
           "date": "2026-08-27",
           "country": "Panama",
-          "text": "… Deputy Special Envoy for Syria, Indrika Rathwate, the Acting Assistant Secretary-General for Humanitarian Affairs of OCHA, and Rola Rugby, the country director of Women Now for Development Lebanon. Moreover, we recognize the presence of the …",
-          "t": "85:26",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=5126"
+          "text": "… Deputy Special Envoy for Syria, Indrika Ratwatte, the Acting Assistant Secretary-General for Humanitarian Affairs of OCHA, and Rola Rugbi, the country director of Women Now for Development Lebanon. Moreover, we recognize the presence of the …",
+          "t": "67:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=4031"
         },
         {
           "date": "2026-08-11",
@@ -2040,9 +2081,9 @@
         {
           "date": "2026-08-27",
           "country": "Denmark",
-          "text": "… for Syria; Mr. Indrika Rajadatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator; and Ms. Rula Rugby, Country Director of Women Now for Development, Lebanon. It is so decided. The …",
-          "t": "18:55",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1135"
+          "text": "… for Syria, Mr. Indrika Rajadatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and Ms. Rula Rugby, Country Director of Women Now for Development, Lebanon. It is so decided. The …",
+          "t": "0:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=40"
         },
         {
           "date": "2026-08-19",
@@ -2117,9 +2158,9 @@
         {
           "date": "2026-08-27",
           "country": "Latvia",
-          "text": "… Cordone, and Acting ASG for CHA, Mr. Indrika Rajthwate, for their informative briefings. And I also thank Country Director of Women Now for Development Lebanon, Ms. Rola Rugbi, for contributing to today's discussion. And I also welcome the …",
-          "t": "98:08",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=5888"
+          "text": "… Cordone, and Acting ASG for CHA, Mr Indika Rajthwathe, for their informative briefings. And I also thank Country Director of Women Now for Development Lebanon, Ms Rola Rugbi, for contributing to today's discussion. And I also welcome the …",
+          "t": "79:53",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=4793"
         },
         {
           "date": "2026-07-07",
@@ -2588,6 +2629,221 @@
           "text": "President, I thank Special Envoy Gronberg and Director Wasano for their briefings, and welcome the Permanent Representative of Yemen to today's meeting. Lately, the sharp escalation in the Middle East has posed new challenges to the …",
           "t": "24:24",
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=1464"
+        }
+      ]
+    },
+    {
+      "id": "hti",
+      "name": "Haiti",
+      "lon": -72,
+      "lat": 19,
+      "volume": 10,
+      "level": "elevated",
+      "trend": [
+        1,
+        2,
+        1,
+        0,
+        4,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        10
+      ],
+      "top": "… and security actors, including the gang suppression force through civil military coordination cell shared by OCHA is a critical element and we appreciate the close cooperation that exists. Madam President, behind the figures I outlined are …",
+      "briefings": [
+        {
+          "date": "2026-08-25",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… work safely meanwhile unifil continues to support humanitarian access in southern Lebanon with coordination with our OCHA colleagues. Moving to this hemisphere, I have a statement on Haiti. The Secretary-General condemns the latest gang …",
+          "t": "53:43",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-25?t=3223"
+        },
+        {
+          "date": "2026-07-10",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… it would be— I'd have bigger problems. All right, it feels like a Friday, doesn't it? Great. All right, thank you for coming. In a short while, we will be joined by Our guests virtually from Haiti, and that is Maria Moïta, the Director of …",
+          "t": "29:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=1760"
+        },
+        {
+          "date": "2026-06-15",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Good afternoon. As we— as expected, in a few hours, the Secretary-General will be taking off to travel to the Dominican Republic, where he is then on his way to Haiti. Tomorrow, he will travel to Port-au-Prince for a solidarity visit during …",
+          "t": "39:04",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-15?t=2344"
+        },
+        {
+          "date": "2026-07-10",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… you for coming. In a short while, we will be joined by Our guests virtually from Haiti, and that is Maria Moïta, the Director of the Department of Humanitarian Response and Recovery at the International Organization for Migration, and Yuri …",
+          "t": "29:21",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=1761"
+        }
+      ],
+      "leadership": [],
+      "sc": [
+        {
+          "date": "2026-08-28",
+          "speaker": "Indrika Ratwatte",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Acting ASG Humanitarian Affairs and Deputy Emergency Relief Coordinator",
+          "text": "… and security actors, including the gang suppression force through civil military coordination cell shared by OCHA is a critical element and we appreciate the close cooperation that exists. Madam President, behind the figures I outlined are …",
+          "t": "30:28",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=1828"
+        }
+      ],
+      "onOcha": [
+        {
+          "date": "2026-08-28",
+          "country": "Panama",
+          "text": "… in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary General for Humanitarian Affairs of OCHA, Indrika Rathwate, for their detailed briefings. Which, of course, were. Very telling and eloquent in their detailed descriptions of …",
+          "t": "33:16",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=1996"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "DR Congo",
+          "text": "… of the Secretary-General and Head of BINU, Mr Carlos Ruiz Masieu, and the Acting Assistant Secretary General of OCHA, Mr. Endrick Ratwate. We thank them for their comprehensive briefings. We also welcome the participation of the …",
+          "t": "58:03",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=3483"
+        },
+        {
+          "date": "2026-06-24",
+          "country": "Russia",
+          "text": "… has traditionally been one of the least funded humanitarian sectors. Let me set a concrete example. According to OCHA data from this year, the education component of the humanitarian appeal for Haiti, a country where the destruction of …",
+          "t": "106:17",
+          "pageUrl": "https://transcripts.un.org/en/sc/10182?t=6377"
+        },
+        {
+          "date": "2026-06-03",
+          "country": "UN Secretariat",
+          "text": "… comes together. So— and what was very helpful in Haiti— I was in Haiti before coming to Libya— was to have, of course, OCHA and the RC office co-located. Unfortunately, it's no longer the case when I left, but that was a very helpful thing. …",
+          "t": "161:14",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/21?t=9674"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Denmark",
+          "text": "… Office in Haiti; and Mr. Indrika Ratwatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of item two of the …",
+          "t": "16:50",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=1010"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "… the Secretary-General, Carlos Ruiz Massieu, and Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, Indrika Ratwatte, for their briefings and their contributions on the ground and to respond …",
+          "t": "43:08",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=2588"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Greece",
+          "text": "… for convening this meeting at this critical security juncture for Haiti. I would like to thank SRSG Mathieu and Deputy Emergency Relief Coordinator Atwater for their briefings. The horrific events in Keskov last Sunday are a painful …",
+          "t": "65:00",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=3900"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "UN",
+          "text": "… of SDG 11 Global Synthesis Report 2026. Tomorrow, I will be joined virtually from Haiti by Yuri Sadala, the Global Emergency Director of the Norwegian Refugee Council, and Maria Moita, the Director of the Department of Humanitarian Response …",
+          "t": "36:57",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-09?t=2217"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "Liechtenstein",
+          "text": "… UN Haiti Initiative is a helpful and necessary tool in this respect. We are grateful to Under-Secretary-General and Emergency Relief Coordinator Fletcher for his leadership in advancing this agenda. As a president, we support stronger …",
+          "t": "29:04",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=1744"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Bahrain",
+          "text": "… of the Secretary-General and Head of the United Nations Integrated Office in Haiti, and Mr. Ratwatne, Acting Under-Secretary-General for Humanitarian Affairs. and Deputy Emergency Relief Coordinator, we thank them for their valuable …",
+          "t": "69:57",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=4197"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Denmark",
+          "text": "The 10216th meeting of the Security Council is called to order. The provisional agenda for this meeting is the question concerning Haiti. The agenda is adopted. In accordance with Rule 37 of the Council's provisional rules of procedure, I …",
+          "t": "16:22",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=982"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We thank you for convening this meeting, which Panama considers to be important. We also thank the Special Representative of the Secretary-General in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary …",
+          "t": "33:03",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=1983"
+        },
+        {
+          "date": "2026-07-20",
+          "country": "BINU",
+          "text": "Thank you, Madam President. Madam President, distinguished members of the Council, Excellencies. It is a pleasure for me to brief you on the situation in Haiti together with Jack Christofides, Special Representative of the Gang Suppression …",
+          "t": "2:38",
+          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=158"
+        },
+        {
+          "date": "2026-07-20",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We are grateful for the briefings by the Special Representative of the Secretary-General for Haiti, Mr. Carlos Ruiz Massieu, the Executive Director of the United Nations Office on Drugs and Crime, Ms. Monica …",
+          "t": "67:57",
+          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=4077"
+        },
+        {
+          "date": "2026-07-20",
+          "country": "Russia",
+          "text": "We thank the Special Representative of the Secretary-General, Mr. Carlos Ruiz Massieu, as well as the Special Representative of the Secretary-General for Children in Armed Conflict, Ms. Vanessa Frazier, as well as the Executive Director of …",
+          "t": "99:54",
+          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=5994"
+        },
+        {
+          "date": "2026-07-20",
+          "country": "BINU",
+          "text": "Thank you, Madam President. Madam President, distinguished members of the Council, Excellencies. It is a pleasure for me to brief you on the situation in Haiti together with Jack Christofides, Special Representative of the Gang Suppression …",
+          "t": "2:33",
+          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=153"
+        },
+        {
+          "date": "2026-07-20",
+          "country": "UNODC",
+          "text": "Madam President, distinguished members of Council, Excellencies. I am honored to address the Security Council for the first time as Executive Director of the United Nations Office on Drugs and Crime and to present UNODC's 11th Report on the …",
+          "t": "12:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=772"
+        },
+        {
+          "date": "2026-07-20",
+          "country": "GSF",
+          "text": "Madam President, distinguished Council members, thank you for the opportunity to brief you on the progress of the Haiti Gang Suppression Force. I'm honored to do so alongside Special Representatives Carlos Ruiz-Massieu and Vanessa Frazier, …",
+          "t": "39:24",
+          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=2364"
+        },
+        {
+          "date": "2026-07-10",
+          "country": "NRC",
+          "text": "… humanitarian partners, government representatives, and donors. What we found was clear compared to our last emergency director's visit. Haiti's crisis has become deeper, more complex, and more urgent. Just a few numbers: 6.4 million people, …",
+          "t": "46:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=2796"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Armenia",
+          "text": "… discussions under the UN Haiti Initiative. Armenia believes that any reform process should be guided by the objective of strengthening the effectiveness, coherence, and responsiveness of the UN system while ensuring that it remains fully …",
+          "t": "27:00",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j175xw2w?t=1620"
         }
       ]
     },
@@ -3480,15 +3736,15 @@
           "date": "2026-08-27",
           "country": "Russia",
           "text": "… the humanitarian front remains alarming. Seventy percent of Syria's population still needs aid. At the same time, the OCHA country humanitarian plan, which is already highly prioritized, has been funded only at the level of 30 percent. …",
-          "t": "63:44",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=3824"
+          "t": "45:29",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=2729"
         },
         {
           "date": "2026-08-27",
           "country": "Panama",
-          "text": "… Deputy Special Envoy for Syria, Indrika Rathwate, the Acting Assistant Secretary-General for Humanitarian Affairs of OCHA, and Rola Rugby, the country director of Women Now for Development Lebanon. Moreover, we recognize the presence of the …",
-          "t": "85:26",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=5126"
+          "text": "… Deputy Special Envoy for Syria, Indrika Ratwatte, the Acting Assistant Secretary-General for Humanitarian Affairs of OCHA, and Rola Rugbi, the country director of Women Now for Development Lebanon. Moreover, we recognize the presence of the …",
+          "t": "67:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=4031"
         },
         {
           "date": "2026-07-21",
@@ -3535,9 +3791,9 @@
         {
           "date": "2026-08-27",
           "country": "Denmark",
-          "text": "… for Syria; Mr. Indrika Rajadatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator; and Ms. Rula Rugby, Country Director of Women Now for Development, Lebanon. It is so decided. The …",
-          "t": "18:55",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1135"
+          "text": "… for Syria, Mr. Indrika Rajadatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and Ms. Rula Rugby, Country Director of Women Now for Development, Lebanon. It is so decided. The …",
+          "t": "0:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=40"
         },
         {
           "date": "2026-07-22",
@@ -3591,9 +3847,9 @@
         {
           "date": "2026-08-27",
           "country": "Bahrain",
-          "text": "Sayed Al Raisi, Madam President, I would like to thank Mr. Claudio Cordoni, Deputy Special Envoy of the Secretary-General for Syria, and Mr. Enrique Ratwatte, Assistant Secretary-General for -- Acting Assistant Secretary-General for …",
-          "t": "91:56",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=5516"
+          "text": "Sayed Al Raisi, Madam President. I would like to thank Mr. Claudio Cordoni, Deputy Special Envoy of the Secretary-General for Syria, and Mr. Enrique Ratwate, Assistant Secretary-General for -- Acting Assistant Secretary-General for …",
+          "t": "73:44",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=4424"
         },
         {
           "date": "2026-06-22",
@@ -4107,6 +4363,128 @@
       ]
     },
     {
+      "id": "usa",
+      "name": "United States",
+      "lon": -98.6,
+      "lat": 39.8,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        4,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "top": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+      "briefings": [
+        {
+          "date": "2026-07-02",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+          "t": "0:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=19"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=4323"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "United States",
+          "text": "… to its children. To this end, the United States United States is providing significant resources through OCHA-managed pooled funds, which deliver assistance twice as fast as previous years and more efficiently for frontline activities. We …",
+          "t": "111:15",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=6675"
+        },
+        {
+          "date": "2026-06-02",
+          "country": "WFP",
+          "text": "… from the United States meant for our response. The US remains our top donor, and whether directly to us or through the OCHA pooled funds, which they have also generously funded. What has been a bit of a shock to the system has been the …",
+          "t": "46:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-02?t=2784"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "… this year. The Deputy Secretary General will be back in New York on Monday. Back here, Ademou Sorunu, the Director of OCHA's Crisis Response Division, spoke at today's Security Council meeting on the protection of civilians. saying that …",
+          "t": "3:41",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=221"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "Yes, I will get that from our OCHA colleagues. Benno.",
+          "t": "19:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=1169"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Yambwani Yves Uba",
+          "text": "… system. That's why today we welcome the return of the United States and the the United States and the work of the Emergency Relief Coordinator to ensure that financing is managed more effectively and works more closely with local actors. …",
+          "t": "26:26",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=1586"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "… she said. It is the minimum that humanity and civilization require. She was speaking on behalf of Tom Fletcher, Emergency Relief Coordinator, and added that the need, asserted the need by all states to uphold their commitments under the …",
+          "t": "4:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=278"
+        },
+        {
+          "date": "2026-04-08",
+          "country": "UN",
+          "text": "… efforts are led by the Ministry of Health, supported by the World Health Organization, UNICEF, the United Nations Relief and Works Agency, donors and partners to vaccinate children under the age of three who have missed routine vaccination …",
+          "t": "5:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-04-08?t=335"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "42:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=2579"
+        },
+        {
+          "date": "2026-08-05",
+          "country": "United States",
+          "text": "Good morning, dear colleagues. I call to order the first meeting of the 16th session of the Committee of Experts on Global Geospatial Information Management. I am Deirdre Delpiaz Bishop from the United States of America, co-chair of the …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=4"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "UNISEC Global",
+          "text": "Thank you, Chair. Mr. Chair and distinguished delegates, on behalf of UNISEC Global, I would like to express my appreciation to Professor Teodoro Valente, Chair of UN Copious, and Ms. Arti Hora Maini, Director of UN USA and her team, for …",
+          "t": "3:57",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1ofvfocrf?t=237"
+        },
+        {
+          "date": "2026-04-16",
+          "country": "United States",
+          "text": "Thank you, Chair. The United States assures you of our support for a successful session. We thank Director Holomeny and her team for their work in preparing this session. Chair, outer space is paramount for humanity's progression. In the …",
+          "t": "34:56",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1y52ssw7c?t=2096"
+        }
+      ]
+    },
+    {
       "id": "khm",
       "name": "Cambodia",
       "lon": 105,
@@ -4145,6 +4523,55 @@
           "text": "Allow me to extend my special greetings to His Excellency Mr. Omar J. Lall, Chair of the United Nations Peacebuilding Commission, His Excellency Mr. Chan Sophian, Deputy Permanent Representative of Cambodia to the United Nations, Ms. Kazumi …",
           "t": "16:57",
           "pageUrl": "https://transcripts.un.org/en/asset/k1l/k1ls9dbep2?t=1017"
+        }
+      ]
+    },
+    {
+      "id": "pan",
+      "name": "Panama",
+      "lon": -80.8,
+      "lat": 8.5,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "Thank you, Madam President. We thank you for convening this meeting, which Panama considers to be important. We also thank the Special Representative of the Secretary-General in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-08-28",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We thank you for convening this meeting, which Panama considers to be important. We also thank the Special Representative of the Secretary-General in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary …",
+          "t": "33:03",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=1983"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "42:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=2579"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Dominican Republic",
+          "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
+          "t": "17:55",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=1075"
         }
       ]
     },
@@ -4483,155 +4910,6 @@
       ]
     },
     {
-      "id": "hti",
-      "name": "Haiti",
-      "lon": -72,
-      "lat": 19,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        1,
-        2,
-        1,
-        0,
-        4,
-        0,
-        6,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "top": "… work safely meanwhile unifil continues to support humanitarian access in southern Lebanon with coordination with our OCHA colleagues. Moving to this hemisphere, I have a statement on Haiti. The Secretary-General condemns the latest gang …",
-      "briefings": [
-        {
-          "date": "2026-08-25",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… work safely meanwhile unifil continues to support humanitarian access in southern Lebanon with coordination with our OCHA colleagues. Moving to this hemisphere, I have a statement on Haiti. The Secretary-General condemns the latest gang …",
-          "t": "53:43",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-25?t=3223"
-        },
-        {
-          "date": "2026-07-10",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… it would be— I'd have bigger problems. All right, it feels like a Friday, doesn't it? Great. All right, thank you for coming. In a short while, we will be joined by Our guests virtually from Haiti, and that is Maria Moïta, the Director of …",
-          "t": "29:20",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=1760"
-        },
-        {
-          "date": "2026-06-15",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "Good afternoon. As we— as expected, in a few hours, the Secretary-General will be taking off to travel to the Dominican Republic, where he is then on his way to Haiti. Tomorrow, he will travel to Port-au-Prince for a solidarity visit during …",
-          "t": "39:04",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-15?t=2344"
-        },
-        {
-          "date": "2026-07-10",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… you for coming. In a short while, we will be joined by Our guests virtually from Haiti, and that is Maria Moïta, the Director of the Department of Humanitarian Response and Recovery at the International Organization for Migration, and Yuri …",
-          "t": "29:21",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=1761"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-24",
-          "country": "Russia",
-          "text": "… has traditionally been one of the least funded humanitarian sectors. Let me set a concrete example. According to OCHA data from this year, the education component of the humanitarian appeal for Haiti, a country where the destruction of …",
-          "t": "106:17",
-          "pageUrl": "https://transcripts.un.org/en/sc/10182?t=6377"
-        },
-        {
-          "date": "2026-06-03",
-          "country": "UN Secretariat",
-          "text": "… comes together. So— and what was very helpful in Haiti— I was in Haiti before coming to Libya— was to have, of course, OCHA and the RC office co-located. Unfortunately, it's no longer the case when I left, but that was a very helpful thing. …",
-          "t": "161:14",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/21?t=9674"
-        },
-        {
-          "date": "2026-07-09",
-          "country": "UN",
-          "text": "… of SDG 11 Global Synthesis Report 2026. Tomorrow, I will be joined virtually from Haiti by Yuri Sadala, the Global Emergency Director of the Norwegian Refugee Council, and Maria Moita, the Director of the Department of Humanitarian Response …",
-          "t": "36:57",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-09?t=2217"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Liechtenstein",
-          "text": "… UN Haiti Initiative is a helpful and necessary tool in this respect. We are grateful to Under-Secretary-General and Emergency Relief Coordinator Fletcher for his leadership in advancing this agenda. As a president, we support stronger …",
-          "t": "29:04",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=1744"
-        },
-        {
-          "date": "2026-07-20",
-          "country": "BINU",
-          "text": "Thank you, Madam President. Madam President, distinguished members of the Council, Excellencies. It is a pleasure for me to brief you on the situation in Haiti together with Jack Christofides, Special Representative of the Gang Suppression …",
-          "t": "2:38",
-          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=158"
-        },
-        {
-          "date": "2026-07-20",
-          "country": "Panama",
-          "text": "Thank you, Madam President. We are grateful for the briefings by the Special Representative of the Secretary-General for Haiti, Mr. Carlos Ruiz Massieu, the Executive Director of the United Nations Office on Drugs and Crime, Ms. Monica …",
-          "t": "67:57",
-          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=4077"
-        },
-        {
-          "date": "2026-07-20",
-          "country": "Russia",
-          "text": "We thank the Special Representative of the Secretary-General, Mr. Carlos Ruiz Massieu, as well as the Special Representative of the Secretary-General for Children in Armed Conflict, Ms. Vanessa Frazier, as well as the Executive Director of …",
-          "t": "99:54",
-          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=5994"
-        },
-        {
-          "date": "2026-07-20",
-          "country": "BINU",
-          "text": "Thank you, Madam President. Madam President, distinguished members of the Council, Excellencies. It is a pleasure for me to brief you on the situation in Haiti together with Jack Christofides, Special Representative of the Gang Suppression …",
-          "t": "2:33",
-          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=153"
-        },
-        {
-          "date": "2026-07-20",
-          "country": "UNODC",
-          "text": "Madam President, distinguished members of Council, Excellencies. I am honored to address the Security Council for the first time as Executive Director of the United Nations Office on Drugs and Crime and to present UNODC's 11th Report on the …",
-          "t": "12:52",
-          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=772"
-        },
-        {
-          "date": "2026-07-20",
-          "country": "GSF",
-          "text": "Madam President, distinguished Council members, thank you for the opportunity to brief you on the progress of the Haiti Gang Suppression Force. I'm honored to do so alongside Special Representatives Carlos Ruiz-Massieu and Vanessa Frazier, …",
-          "t": "39:24",
-          "pageUrl": "https://transcripts.un.org/en/sc/10198?t=2364"
-        },
-        {
-          "date": "2026-07-10",
-          "country": "NRC",
-          "text": "… humanitarian partners, government representatives, and donors. What we found was clear compared to our last emergency director's visit. Haiti's crisis has become deeper, more complex, and more urgent. Just a few numbers: 6.4 million people, …",
-          "t": "46:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=2796"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Armenia",
-          "text": "… discussions under the UN Haiti Initiative. Armenia believes that any reform process should be guided by the objective of strengthening the effectiveness, coherence, and responsiveness of the UN system while ensuring that it remains fully …",
-          "t": "27:00",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j175xw2w?t=1620"
-        }
-      ]
-    },
-    {
       "id": "tur",
       "name": "Turkey",
       "lon": 35.2,
@@ -4849,121 +5127,6 @@
           "text": "Thank you very much, Your Excellency, Madam President, Excellencies, distinguished members of the Security Council, Ambassador Tahir El-Souni, Permanent Representative of the State of Libya. I would like to begin by thanking this Council …",
           "t": "1:43",
           "pageUrl": "https://transcripts.un.org/en/sc/10209?t=103"
-        }
-      ]
-    },
-    {
-      "id": "usa",
-      "name": "United States",
-      "lon": -98.6,
-      "lat": 39.8,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        4,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "top": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
-      "briefings": [
-        {
-          "date": "2026-07-02",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
-          "t": "0:19",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=19"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=4323"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "United States",
-          "text": "… to its children. To this end, the United States United States is providing significant resources through OCHA-managed pooled funds, which deliver assistance twice as fast as previous years and more efficiently for frontline activities. We …",
-          "t": "111:15",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=6675"
-        },
-        {
-          "date": "2026-06-02",
-          "country": "WFP",
-          "text": "… from the United States meant for our response. The US remains our top donor, and whether directly to us or through the OCHA pooled funds, which they have also generously funded. What has been a bit of a shock to the system has been the …",
-          "t": "46:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-02?t=2784"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "… this year. The Deputy Secretary General will be back in New York on Monday. Back here, Ademou Sorunu, the Director of OCHA's Crisis Response Division, spoke at today's Security Council meeting on the protection of civilians. saying that …",
-          "t": "3:41",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=221"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "Yes, I will get that from our OCHA colleagues. Benno.",
-          "t": "19:29",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=1169"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Yambwani Yves Uba",
-          "text": "… system. That's why today we welcome the return of the United States and the the United States and the work of the Emergency Relief Coordinator to ensure that financing is managed more effectively and works more closely with local actors. …",
-          "t": "26:26",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=1586"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "… she said. It is the minimum that humanity and civilization require. She was speaking on behalf of Tom Fletcher, Emergency Relief Coordinator, and added that the need, asserted the need by all states to uphold their commitments under the …",
-          "t": "4:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=278"
-        },
-        {
-          "date": "2026-04-08",
-          "country": "UN",
-          "text": "… efforts are led by the Ministry of Health, supported by the World Health Organization, UNICEF, the United Nations Relief and Works Agency, donors and partners to vaccinate children under the age of three who have missed routine vaccination …",
-          "t": "5:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-04-08?t=335"
-        },
-        {
-          "date": "2026-08-05",
-          "country": "United States",
-          "text": "Good morning, dear colleagues. I call to order the first meeting of the 16th session of the Committee of Experts on Global Geospatial Information Management. I am Deirdre Delpiaz Bishop from the United States of America, co-chair of the …",
-          "t": "0:04",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=4"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "UNISEC Global",
-          "text": "Thank you, Chair. Mr. Chair and distinguished delegates, on behalf of UNISEC Global, I would like to express my appreciation to Professor Teodoro Valente, Chair of UN Copious, and Ms. Arti Hora Maini, Director of UN USA and her team, for …",
-          "t": "3:57",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1ofvfocrf?t=237"
-        },
-        {
-          "date": "2026-04-16",
-          "country": "United States",
-          "text": "Thank you, Chair. The United States assures you of our support for a successful session. We thank Director Holomeny and her team for their work in preparing this session. Chair, outer space is paramount for humanity's progression. In the …",
-          "t": "34:56",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1y52ssw7c?t=2096"
         }
       ]
     },
@@ -5727,53 +5890,11 @@
       "onOcha": []
     },
     {
-      "id": "est",
-      "name": "Estonia",
-      "lon": 25,
-      "lat": 58.6,
-      "volume": 0,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… humanitarian crisis has been more than €12.6 million since 2011. We have funded the activities of ICRC, UNICEF, UNHCR, OCHA, IOM, and WFP. In addition, Estonia's NGOs are improving the education and livelihoods of IDPs and Syrian refugees …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-07-21",
-          "country": "Estonia",
-          "text": "… humanitarian crisis has been more than €12.6 million since 2011. We have funded the activities of ICRC, UNICEF, UNHCR, OCHA, IOM, and WFP. In addition, Estonia's NGOs are improving the education and livelihoods of IDPs and Syrian refugees …",
-          "t": "156:23",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dkwq3c0t?t=9383"
-        },
-        {
-          "date": "2026-06-30",
-          "country": "Estonia",
-          "text": "Excellencies, colleagues, Estonia aligns itself with the statement of the European Union. We thank the Secretary General and UNRWA for convening today's pledging conference at a moment of exceptional humanitarian need and political urgency. …",
-          "t": "118:57",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17lxc4l2b?t=7137"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 45,
+      "volume": 52,
       "level": "elevated",
       "trend": [
         34,
@@ -5787,7 +5908,7 @@
         2,
         6,
         9,
-        26
+        33
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -5882,6 +6003,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-17?t=2114"
         },
         {
+          "date": "2026-08-28",
+          "speaker": "Jens",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "",
+          "text": "Yeah, thank you very much. And good morning, everyone. As we just heard from the resident coordinator there, there was an alert this morning and they basically had to abandon their mission. And given the devastation that we have seen from …",
+          "t": "28:18",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-28?t=1698"
+        },
+        {
           "date": "2026-06-17",
           "speaker": "Stéphane",
           "speakerAffiliation": "UN",
@@ -5969,11 +6099,32 @@
       ],
       "onOcha": [
         {
+          "date": "2026-08-28",
+          "country": "UNIS",
+          "text": "… of the UN Office for Disaster Risk Reduction, Kamal Kishore, on my right. And then we will also have colleagues from OCHA, from WHO and from IFRS speaking on the issue. But I would like to start immediately, and UNICEF, sorry, you were not …",
+          "t": "0:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-28?t=44"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "UNIS",
+          "text": "Thank you, Tariq. And let me give the floor finally to Jens for a final remark from OCHA.",
+          "t": "28:09",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-28?t=1689"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "AFP",
+          "text": "Yes, a question to OCHA and to others, IAFRC. UNICEF mentioned 17,000 children in need of humanitarian assistance. Do you have a global figure of the population which is in humanitarian assistance to have not just the children, but also the …",
+          "t": "30:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-28?t=1813"
+        },
+        {
           "date": "2026-08-27",
           "country": "Pakistan",
-          "text": "Thank you, Madam President. We thank Special -- Deputy Special Envoy Cardona and OCHA Acting ASG Rathwate, for their briefings. We have also listened carefully to the perspective shared by Ms. Ruckp. Madam President, we are extremely …",
-          "t": "110:01",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=6601"
+          "text": "Thank you, Madam President. We thank Special -- Deputy Special Envoy Cordone and OCHA Acting ASG Rathwathe for their briefings. We have also listened carefully to the perspective shared by Ms. Ruki. Madam President, we are extremely pleased …",
+          "t": "91:47",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=5507"
         },
         {
           "date": "2026-08-26",
@@ -6392,8 +6543,8 @@
           "date": "2026-08-27",
           "country": "Denmark",
           "text": "… remain immense and immediate, with 15.6 million people in need of humanitarian assistance. As we heard from the Deputy Emergency Relief Coordinator, the 2026 Humanitarian Response Plan is currently only one-third funded. More needs to be …",
-          "t": "123:38",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=7418"
+          "t": "105:23",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=6323"
         },
         {
           "date": "2026-08-25",
@@ -6741,9 +6892,9 @@
         {
           "date": "2026-08-27",
           "country": "Denmark",
-          "text": "The 10,215th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with Rule 37 of the Council's provisional rules of procedure, …",
-          "t": "18:28",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1108"
+          "text": "The 10215th meeting of the Security Council is called to order. The provisional agenda for this meeting is: the situation in the Middle East. The agenda is adopted. In accordance with rule 37 of the Council's provisional rules of procedure, …",
+          "t": "0:13",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=13"
         },
         {
           "date": "2026-08-19",
@@ -6884,6 +7035,27 @@
           "text": "Thank you, Mr. President. Mr. President, congratulations on the nomination as Minister of Foreign Affairs of your predecessor. Mr. President of the UN Women Board, Chairperson of the Joint Board, Madam President of the WFP Board, Mr. …",
           "t": "43:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=2585"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "DMSPC",
+          "text": "… Good morning. I would like to thank the co-chairs for convening this meeting and for inviting the Department of Management Strategy, Policy and Compliance to brief you. These interactive dialogues are valuable opportunities to ensure that …",
+          "t": "25:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k14/k14hjli1me?t=1534"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Williams",
+          "text": "I thank the Director of News and Media of the Department of Global Communications. And I now give the floor to Mr. Alessandro Susini, Acting Director of the Division of Administration of the Department for Operational Support.",
+          "t": "46:05",
+          "pageUrl": "https://transcripts.un.org/en/asset/k14/k14hjli1me?t=2765"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "DOS",
+          "text": "… delegates, colleagues, I am pleased to brief you today on recent and ongoing work undertaken by the Department of Operational Support on behalf of the Under-Secretary-General, Mr. Atul Khare, as unfortunately he could not attend today's …",
+          "t": "46:27",
+          "pageUrl": "https://transcripts.un.org/en/asset/k14/k14hjli1me?t=2787"
         },
         {
           "date": "2026-08-27",
