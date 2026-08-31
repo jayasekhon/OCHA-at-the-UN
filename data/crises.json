@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:19:01.719Z",
+  "generatedAt": "2026-08-31T22:14:35.686Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -254,8 +254,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-07-29",
@@ -1212,15 +1212,15 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-08-19",
           "country": "AU",
           "text": "Madam President, I congratulate and thank Denmark for successful presidency of Security Council, for convening this important debate, and able co-chairing with Pakistan the IWG. As well, I appreciate the insightful briefing of Ms. Shamila …",
-          "t": "167:06",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=10026"
+          "t": "149:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=8975"
         },
         {
           "date": "2026-08-11",
@@ -1284,6 +1284,133 @@
           "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
           "t": "95:13",
           "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=5713"
+        }
+      ]
+    },
+    {
+      "id": "npl",
+      "name": "Nepal",
+      "lon": 84.1,
+      "lat": 28.4,
+      "volume": 12,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ],
+      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+      "briefings": [
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+          "t": "42:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2556"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of Al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
+          "t": "41:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2495"
+        },
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… The government of Nepal has more than 20,000 personnel deployed for search and rescue and has declared a flood emergency in 15 municipalities with two more designated at impact. Our resident coordinator in Nepal, Lila Pidas Yaya, continued …",
+          "t": "38:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2330"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary-General for Emergency -- for Humanitarian …",
+          "t": "36:32",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2192"
+        },
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Alright, good afternoon. Sorry for the usual delay. We're having a bit of a e-mail breakdown today. So if you're sending me emails and I'm not responding to this time, it's not, I'm not ignoring you. We're just not getting them. Sorry, 2 …",
+          "t": "31:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=1886"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
+          "t": "34:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2088"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
+          "t": "34:42",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2082"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "… and I would like to thank very much USG Fletcher for his support and we're getting a lot of support I have a team from OCHA who is arriving tomorrow morning to support us with coordination of the UN agency, particularly UNICEF, WFP, UNFPA. …",
+          "t": "18:43",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=1123"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "… of al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
+          "t": "6:57",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=417"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary General for Emergency from humanitarian …",
+          "t": "1:54",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=114"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "For your patience, I'm just going to start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a …",
+          "t": "0:01",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=1"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "China",
+          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
+          "t": "95:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=5728"
         }
       ]
     },
@@ -3080,8 +3207,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-08-07",
@@ -3138,106 +3265,6 @@
           "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. Madam President, the Democratic Republic of the Congo wishes to congratulate you and your country the sister Republic of …",
           "t": "39:52",
           "pageUrl": "https://transcripts.un.org/en/sc/10163?t=2392"
-        }
-      ]
-    },
-    {
-      "id": "npl",
-      "name": "Nepal",
-      "lon": 84.1,
-      "lat": 28.4,
-      "volume": 9,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        9
-      ],
-      "top": "… of Al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
-      "briefings": [
-        {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… of Al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
-          "t": "41:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2495"
-        },
-        {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary-General for Emergency -- for Humanitarian …",
-          "t": "36:32",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2192"
-        },
-        {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
-          "t": "34:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2088"
-        },
-        {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
-          "t": "34:42",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2082"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-08-27",
-          "country": "UN",
-          "text": "… and I would like to thank very much USG Fletcher for his support and we're getting a lot of support I have a team from OCHA who is arriving tomorrow morning to support us with coordination of the UN agency, particularly UNICEF, WFP, UNFPA. …",
-          "t": "18:43",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=1123"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "UN",
-          "text": "… of al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
-          "t": "6:57",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=417"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "UN",
-          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary General for Emergency from humanitarian …",
-          "t": "1:54",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=114"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "UN",
-          "text": "For your patience, I'm just going to start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a …",
-          "t": "0:01",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=1"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "China",
-          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
-          "t": "95:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=5728"
         }
       ]
     },
@@ -3567,8 +3594,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-07-22",
@@ -4003,8 +4030,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-08-07",
@@ -4033,6 +4060,74 @@
           "text": "Thank you, Mr. President. I have the honor to deliver this statement on behalf of A3, namely the Democratic Republic of Congo, Liberia, and my own country, Somalia. A3 thanks Special Envoy Hans Granberg and OCHA Director, Ms. Adam Ozorno …",
           "t": "19:15",
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=1155"
+        }
+      ]
+    },
+    {
+      "id": "lby",
+      "name": "Libya",
+      "lon": 17.2,
+      "lat": 26.3,
+      "volume": 3,
+      "level": "elevated",
+      "trend": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+      "briefings": [
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+          "t": "42:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2556"
+        },
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Alright, good afternoon. Sorry for the usual delay. We're having a bit of a e-mail breakdown today. So if you're sending me emails and I'm not responding to this time, it's not, I'm not ignoring you. We're just not getting them. Sorry, 2 …",
+          "t": "31:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=1886"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-22",
+          "country": "Somalia",
+          "text": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
+          "t": "58:47",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=3527"
+        },
+        {
+          "date": "2026-06-03",
+          "country": "UN Secretariat",
+          "text": "… comes together. So— and what was very helpful in Haiti— I was in Haiti before coming to Libya— was to have, of course, OCHA and the RC office co-located. Unfortunately, it's no longer the case when I left, but that was a very helpful thing. …",
+          "t": "161:14",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/21?t=9674"
+        },
+        {
+          "date": "2026-08-18",
+          "country": "UNSMIL",
+          "text": "Thank you very much, Your Excellency, Madam President, Excellencies, distinguished members of the Security Council, Ambassador Tahir El-Souni, Permanent Representative of the State of Libya. I would like to begin by thanking this Council …",
+          "t": "1:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10209?t=103"
         }
       ]
     },
@@ -4087,8 +4182,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-08-11",
@@ -4105,6 +4200,52 @@
           "pageUrl": "https://transcripts.un.org/en/sc/10179?t=5795"
         }
       ]
+    },
+    {
+      "id": "kgz",
+      "name": "Kyrgyzstan",
+      "lon": 74.8,
+      "lat": 41.2,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+      "briefings": [
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+          "t": "42:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2556"
+        },
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Alright, good afternoon. Sorry for the usual delay. We're having a bit of a e-mail breakdown today. So if you're sending me emails and I'm not responding to this time, it's not, I'm not ignoring you. We're just not getting them. Sorry, 2 …",
+          "t": "31:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=1886"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
     },
     {
       "id": "ven",
@@ -4843,8 +4984,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-08-11",
@@ -5195,8 +5336,8 @@
           "date": "2026-08-19",
           "country": "AU",
           "text": "Madam President, I congratulate and thank Denmark for successful presidency of Security Council, for convening this important debate, and able co-chairing with Pakistan the IWG. As well, I appreciate the insightful briefing of Ms. Shamila …",
-          "t": "167:06",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=10026"
+          "t": "149:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=8975"
         },
         {
           "date": "2026-06-02",
@@ -5218,55 +5359,6 @@
           "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. Madam President, the Democratic Republic of the Congo wishes to congratulate you and your country the sister Republic of …",
           "t": "39:52",
           "pageUrl": "https://transcripts.un.org/en/sc/10163?t=2392"
-        }
-      ]
-    },
-    {
-      "id": "lby",
-      "name": "Libya",
-      "lon": 17.2,
-      "lat": 26.3,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-22",
-          "country": "Somalia",
-          "text": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
-          "t": "58:47",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=3527"
-        },
-        {
-          "date": "2026-06-03",
-          "country": "UN Secretariat",
-          "text": "… comes together. So— and what was very helpful in Haiti— I was in Haiti before coming to Libya— was to have, of course, OCHA and the RC office co-located. Unfortunately, it's no longer the case when I left, but that was a very helpful thing. …",
-          "t": "161:14",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/21?t=9674"
-        },
-        {
-          "date": "2026-08-18",
-          "country": "UNSMIL",
-          "text": "Thank you very much, Your Excellency, Madam President, Excellencies, distinguished members of the Security Council, Ambassador Tahir El-Souni, Permanent Representative of the State of Libya. I would like to begin by thanking this Council …",
-          "t": "1:43",
-          "pageUrl": "https://transcripts.un.org/en/sc/10209?t=103"
         }
       ]
     },
@@ -5454,8 +5546,8 @@
           "date": "2026-08-19",
           "country": "Liberia",
           "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "34:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=2051"
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=1000"
         },
         {
           "date": "2026-06-30",
@@ -5465,6 +5557,43 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k10/k10a9o2oc8?t=1184"
         }
       ]
+    },
+    {
+      "id": "plw",
+      "name": "Palau",
+      "lon": 134.6,
+      "lat": 7.5,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… challenges. We'll share those remarks with you in due course and any other updates we may receive. Meanwhile, our Deputy Secretary-General is in Palau today representing the Secretary-General at the 55th Pacific Islands Forum Leaders …",
+      "briefings": [
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… challenges. We'll share those remarks with you in due course and any other updates we may receive. Meanwhile, our Deputy Secretary-General is in Palau today representing the Secretary-General at the 55th Pacific Islands Forum Leaders …",
+          "t": "36:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2173"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
     },
     {
       "id": "jpn",
@@ -5802,99 +5931,11 @@
       "onOcha": []
     },
     {
-      "id": "nic",
-      "name": "Nicaragua",
-      "lon": -85.2,
-      "lat": 12.9,
-      "volume": 0,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… the 19th of July. The violence has further displaced civilians and restricted humanitarian access in affected areas. OCHA also tells us that at least 6 humanitarian organizations, including partners supporting the Ebola response, have …",
-      "briefings": [
-        {
-          "date": "2026-07-22",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the 19th of July. The violence has further displaced civilians and restricted humanitarian access in affected areas. OCHA also tells us that at least 6 humanitarian organizations, including partners supporting the Ebola response, have …",
-          "t": "5:31",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=331"
-        },
-        {
-          "date": "2026-07-22",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… offices in Geneva. This is a gathering that takes place every 2 years, co-chaired by Dr. Ahmad Kawesa Sengendo, the Assistant Secretary-General for Economic Affairs for the OIC, and Khaled Khiori, the Assistant Secretary-General in the …",
-          "t": "0:40",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=40"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": []
-    },
-    {
-      "id": "est",
-      "name": "Estonia",
-      "lon": 25,
-      "lat": 58.6,
-      "volume": 0,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… humanitarian crisis has been more than €12.6 million since 2011. We have funded the activities of ICRC, UNICEF, UNHCR, OCHA, IOM, and WFP. In addition, Estonia's NGOs are improving the education and livelihoods of IDPs and Syrian refugees …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-07-21",
-          "country": "Estonia",
-          "text": "… humanitarian crisis has been more than €12.6 million since 2011. We have funded the activities of ICRC, UNICEF, UNHCR, OCHA, IOM, and WFP. In addition, Estonia's NGOs are improving the education and livelihoods of IDPs and Syrian refugees …",
-          "t": "156:23",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dkwq3c0t?t=9383"
-        },
-        {
-          "date": "2026-06-30",
-          "country": "Estonia",
-          "text": "Excellencies, colleagues, Estonia aligns itself with the statement of the European Union. We thank the Secretary General and UNRWA for convening today's pledging conference at a moment of exceptional humanitarian need and political urgency. …",
-          "t": "118:57",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17lxc4l2b?t=7137"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 51,
+      "volume": 52,
       "level": "elevated",
       "trend": [
         39,
@@ -5908,7 +5949,7 @@
         2,
         6,
         15,
-        28
+        29
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -6811,6 +6852,13 @@
           "text": "Muchas gracias, Subsecretario General. I thank the Acting ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and I now give the floor to My name is Rania Dagash Kamara, Assistant Executive Director of Partnerships and …",
           "t": "116:04",
           "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=6964"
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GA",
+          "text": "I thank the Under-Secretary-General and High Representative for Disarmament Affairs. Before proceeding further and as indicated in my letter dated August 24th, 2026, I should like to consult members with a view to inviting the following …",
+          "t": "16:27",
+          "pageUrl": "https://transcripts.un.org/en/ga/80/108?t=987"
         },
         {
           "date": "2026-08-19",
