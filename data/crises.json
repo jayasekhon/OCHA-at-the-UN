@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:21:04.997Z",
+  "generatedAt": "2026-08-31T02:42:21.349Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -10,16 +10,16 @@
       "volume": 23,
       "level": "elevated",
       "trend": [
-        1,
-        1,
-        6,
+        0,
         2,
+        7,
         0,
         0,
         0,
-        3,
-        0,
-        15,
+        1,
+        2,
+        2,
+        13,
         3,
         5
       ],
@@ -355,20 +355,20 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 20,
+      "volume": 19,
       "level": "elevated",
       "trend": [
-        2,
-        14,
-        4,
+        3,
+        13,
         6,
-        2,
+        4,
+        4,
         4,
         7,
-        8,
+        6,
         1,
-        6,
         7,
+        6,
         5
       ],
       "top": "… country is just 42% funded, with $112 million that we need. Quick update from the occupied Palestinian territory. Our OCHA colleagues on the ground tell us that in the West Bank, they continue to monitor the situation around Kusra village, …",
@@ -960,8 +960,8 @@
         0,
         2,
         0,
-        0,
-        13
+        10,
+        3
       ],
       "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
       "briefings": [
@@ -1121,8 +1121,8 @@
       "level": "elevated",
       "trend": [
         0,
-        2,
         3,
+        2,
         0,
         2,
         0,
@@ -1130,8 +1130,8 @@
         0,
         1,
         1,
-        2,
-        9
+        7,
+        4
       ],
       "top": "… now make a statement in my capacity as Minister for Foreign Affairs of Denmark. First of all, I would like to thank Emergency Relief Coordinator Tom Fletcher and Under-Secretary Rosemary DiCairo for their important briefings. And I would …",
       "briefings": [],
@@ -1295,16 +1295,16 @@
       "volume": 12,
       "level": "elevated",
       "trend": [
-        10,
+        7,
         5,
         5,
         0,
-        3,
+        5,
+        0,
         2,
-        1,
-        1,
-        3,
-        4,
+        0,
+        5,
+        2,
         1,
         4
       ],
@@ -1714,21 +1714,21 @@
       "name": "Ukraine",
       "lon": 31,
       "lat": 49,
-      "volume": 12,
+      "volume": 11,
       "level": "elevated",
       "trend": [
-        10,
-        1,
         4,
-        5,
-        8,
-        0,
-        0,
-        11,
-        1,
+        4,
         2,
         3,
-        5
+        8,
+        0,
+        8,
+        3,
+        3,
+        0,
+        8,
+        0
       ],
       "top": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
       "briefings": [
@@ -2174,9 +2174,9 @@
         6,
         0,
         0,
-        0,
         5,
         1,
+        0,
         0,
         0,
         11,
@@ -2386,12 +2386,12 @@
       "level": "elevated",
       "trend": [
         1,
-        2,
+        1,
         1,
         0,
         4,
-        0,
         6,
+        0,
         0,
         0,
         0,
@@ -2603,15 +2603,15 @@
         1,
         6,
         11,
+        2,
+        1,
         0,
         3,
         0,
         3,
         0,
-        3,
-        0,
-        0,
-        7
+        7,
+        0
       ],
       "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
       "briefings": [
@@ -2911,17 +2911,17 @@
       "level": "elevated",
       "trend": [
         2,
-        2,
-        1,
+        3,
         0,
-        1,
-        1,
-        5,
-        4,
-        5,
         0,
         2,
-        3
+        1,
+        5,
+        3,
+        5,
+        0,
+        3,
+        2
       ],
       "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
       "briefings": [
@@ -3249,12 +3249,12 @@
       "volume": 8,
       "level": "elevated",
       "trend": [
-        7,
         0,
         0,
         0,
         0,
         2,
+        0,
         0,
         0,
         2,
@@ -3428,17 +3428,17 @@
       "level": "elevated",
       "trend": [
         1,
-        1,
-        1,
-        0,
-        1,
-        1,
-        4,
-        4,
         2,
         0,
-        1,
-        3
+        0,
+        2,
+        0,
+        5,
+        3,
+        2,
+        0,
+        2,
+        2
       ],
       "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
       "briefings": [
@@ -3616,8 +3616,8 @@
       "level": "elevated",
       "trend": [
         1,
-        1,
-        6,
+        7,
+        0,
         2,
         0,
         0,
@@ -3874,11 +3874,11 @@
       "level": "elevated",
       "trend": [
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         3,
@@ -3961,11 +3961,11 @@
       "level": "elevated",
       "trend": [
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         3,
@@ -4045,7 +4045,6 @@
       "level": "elevated",
       "trend": [
         0,
-        0,
         2,
         0,
         0,
@@ -4053,9 +4052,10 @@
         0,
         0,
         0,
+        0,
         1,
-        1,
-        1
+        2,
+        0
       ],
       "top": "Thank you, Madam President. I thank the Assistant Secretary General Khaled Kihari and the OCHA Director Adem Warsornu for for their factual briefings. Latvia strongly condemns the massive Russian missile and drone assaults against Ukrainian …",
       "briefings": [],
@@ -4375,7 +4375,7 @@
       "volume": 2,
       "level": "standard",
       "trend": [
-        1,
+        0,
         3,
         0,
         0,
@@ -4541,69 +4541,6 @@
           "text": "Thank you, Madam President. I have the honor to deliver this intervention on behalf of the Group of 77 and China. The Group appreciates the information on UNAID Workstream 3 provided by the Deputy Secretary-General, Mrs. Amina Mohammed; the …",
           "t": "44:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k19/k19ajx0e2m?t=2645"
-        }
-      ]
-    },
-    {
-      "id": "mmr",
-      "name": "Myanmar",
-      "lon": 96,
-      "lat": 21,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1
-      ],
-      "top": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=4323"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Myanmar",
-          "text": "… As a recent example, the junta was confiscating essential supplies at checkpoints and arresting civilians for food relief efforts to food victims in central Myanmar. Previously, the junta adopted sanctions measures on individuals and …",
-          "t": "81:09",
-          "pageUrl": "https://transcripts.un.org/en/sc/10213/3?t=4869"
-        },
-        {
-          "date": "2026-07-31",
-          "country": "UN",
-          "text": "… Counsellor Aung San Suu Kyi in detention today in Myanmar. In accordance with the ICRC's standards and procedures for visiting people deprived of liberty, Previously, the Special Envoy of the Secretary-General on Myanmar, Ms. Julie Bishop, …",
-          "t": "26:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=1608"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "UN",
-          "text": "… Council adopted its landmark Resolution 2669. The General Assembly and the Security Council have consistently called for a cessation of hostilities, inclusive dialogue, unfettered humanitarian access, and the release of political prisoners. …",
-          "t": "6:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=367"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Philippines",
-          "text": "Thank you. Thank you, Mr. President, and thank you for convening this dialogue this afternoon. We also wish to thank Ms. Julie Bishop, the Special Envoy of the Secretary-General on Myanmar, for her briefing this afternoon and of course for …",
-          "t": "37:56",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=2276"
         }
       ]
     },
@@ -4787,9 +4724,9 @@
       "level": "standard",
       "trend": [
         0,
+        3,
         2,
-        2,
-        1,
+        0,
         1,
         0,
         0,
@@ -4878,8 +4815,8 @@
       "level": "standard",
       "trend": [
         0,
-        1,
-        1,
+        2,
+        0,
         0,
         0,
         0,
@@ -4948,9 +4885,9 @@
       "level": "standard",
       "trend": [
         0,
-        0,
-        2,
         1,
+        2,
+        0,
         0,
         0,
         0,
@@ -5293,8 +5230,8 @@
       "level": "standard",
       "trend": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -5334,6 +5271,69 @@
       ]
     },
     {
+      "id": "mmr",
+      "name": "Myanmar",
+      "lon": 96,
+      "lat": 21,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=4323"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "Myanmar",
+          "text": "… As a recent example, the junta was confiscating essential supplies at checkpoints and arresting civilians for food relief efforts to food victims in central Myanmar. Previously, the junta adopted sanctions measures on individuals and …",
+          "t": "81:09",
+          "pageUrl": "https://transcripts.un.org/en/sc/10213/3?t=4869"
+        },
+        {
+          "date": "2026-07-31",
+          "country": "UN",
+          "text": "… Counsellor Aung San Suu Kyi in detention today in Myanmar. In accordance with the ICRC's standards and procedures for visiting people deprived of liberty, Previously, the Special Envoy of the Secretary-General on Myanmar, Ms. Julie Bishop, …",
+          "t": "26:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=1608"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "UN",
+          "text": "… Council adopted its landmark Resolution 2669. The General Assembly and the Security Council have consistently called for a cessation of hostilities, inclusive dialogue, unfettered humanitarian access, and the release of political prisoners. …",
+          "t": "6:07",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=367"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "Philippines",
+          "text": "Thank you. Thank you, Mr. President, and thank you for convening this dialogue this afternoon. We also wish to thank Ms. Julie Bishop, the Special Envoy of the Secretary-General on Myanmar, for her briefing this afternoon and of course for …",
+          "t": "37:56",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=2276"
+        }
+      ]
+    },
+    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -5343,8 +5343,8 @@
       "trend": [
         0,
         1,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -5547,7 +5547,7 @@
       "volume": 1,
       "level": "standard",
       "trend": [
-        1,
+        0,
         1,
         0,
         0,
@@ -5665,8 +5665,8 @@
         0,
         0,
         3,
-        0,
-        6,
+        3,
+        3,
         0,
         0,
         0,
@@ -5897,18 +5897,18 @@
       "volume": 50,
       "level": "elevated",
       "trend": [
-        34,
-        91,
+        39,
+        90,
+        26,
         24,
-        28,
-        13,
-        5,
+        9,
+        4,
         8,
         2,
         2,
         6,
-        9,
-        33
+        15,
+        27
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
