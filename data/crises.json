@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:53:12.993Z",
+  "generatedAt": "2026-09-01T15:51:24.261Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -5935,7 +5935,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 52,
+      "volume": 53,
       "level": "elevated",
       "trend": [
         53,
@@ -5949,7 +5949,7 @@
         4,
         7,
         24,
-        17
+        18
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -6579,6 +6579,13 @@
           "text": "Thank you, Madam President. I thank Special Envoy Hans Krohnberg and OCHA Director Edim Vosornu for their comprehensive briefings. I appreciate the sustained efforts of the Special Envoy in advancing stability and supporting a peaceful …",
           "t": "36:26",
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=2186"
+        },
+        {
+          "date": "2026-09-01",
+          "country": "IFRC",
+          "text": "… and drinking water are reaching affected households. The local Red Cross is pre-positioned to dispatch thousands of relief items, tarpaulins, hygiene kits, emergency toilets, stretchers and first aid kits, while supporting search and …",
+          "t": "6:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-09-01?t=409"
         },
         {
           "date": "2026-08-27",
