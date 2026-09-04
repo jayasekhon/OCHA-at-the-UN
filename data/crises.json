@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:31:45.701Z",
+  "generatedAt": "2026-09-04T20:06:39.419Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -985,6 +985,165 @@
       ]
     },
     {
+      "id": "npl",
+      "name": "Nepal",
+      "lon": 84.1,
+      "lat": 28.4,
+      "volume": 16,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        7
+      ],
+      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+      "briefings": [
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+          "t": "42:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2556"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of Al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
+          "t": "41:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2495"
+        },
+        {
+          "date": "2026-09-03",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… has been shared with you. Turning to Nepal and response to the devastating floods that we saw there, Tom Fletcher, our Emergency Relief Coordinator, has allocated an additional half a million dollars from the UN Central Emergency Response …",
+          "t": "2:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-03?t=156"
+        },
+        {
+          "date": "2026-09-01",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… colleagues tell us that the response to last week's flash flood is entering a new phase with authorities intensifying relief efforts and recovery operations. As of today, authorities have recovered more than 1,000 bodies, while 3,900 people …",
+          "t": "59:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-01?t=3589"
+        },
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… The government of Nepal has more than 20,000 personnel deployed for search and rescue and has declared a flood emergency in 15 municipalities with two more designated at impact. Our resident coordinator in Nepal, Lila Pidas Yaya, continued …",
+          "t": "38:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2330"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary-General for Emergency -- for Humanitarian …",
+          "t": "36:32",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2192"
+        },
+        {
+          "date": "2026-08-31",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Alright, good afternoon. Sorry for the usual delay. We're having a bit of a e-mail breakdown today. So if you're sending me emails and I'm not responding to this time, it's not, I'm not ignoring you. We're just not getting them. Sorry, 2 …",
+          "t": "31:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=1886"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
+          "t": "34:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2088"
+        },
+        {
+          "date": "2026-08-27",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
+          "t": "34:42",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2082"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "… and I would like to thank very much USG Fletcher for his support and we're getting a lot of support I have a team from OCHA who is arriving tomorrow morning to support us with coordination of the UN agency, particularly UNICEF, WFP, UNFPA. …",
+          "t": "18:43",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=1123"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "… of al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
+          "t": "6:57",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=417"
+        },
+        {
+          "date": "2026-09-04",
+          "country": "Unknown speaker",
+          "text": "… this morning in Nepal, we and our humanitarian partners launched a nearly $50 million flash appeal to support the emergency response following the recent catastrophic flash floods and landslides. The four-month appeal aims to help about …",
+          "t": "37:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-04?t=2233"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary General for Emergency from humanitarian …",
+          "t": "1:54",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=114"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "UN",
+          "text": "For your patience, I'm just going to start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a …",
+          "t": "0:01",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=1"
+        },
+        {
+          "date": "2026-09-04",
+          "country": "Unknown speaker",
+          "text": "… welcome. We'll return here on Tuesday with the briefing. Also on Tuesday, it will be handover day for the presidents of the General Assembly, and we expect a stakeout by the new president of the General Assembly, Dr. Khalilur Rahman of …",
+          "t": "34:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-04?t=2091"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "China",
+          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
+          "t": "95:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=5728"
+        }
+      ]
+    },
+    {
       "id": "ssd",
       "name": "South Sudan",
       "lon": 30.5,
@@ -1155,147 +1314,478 @@
       ]
     },
     {
-      "id": "npl",
-      "name": "Nepal",
-      "lon": 84.1,
-      "lat": 28.4,
+      "id": "ukr",
+      "name": "Ukraine",
+      "lon": 31,
+      "lat": 49,
       "volume": 14,
       "level": "elevated",
       "trend": [
+        1,
+        4,
+        5,
+        8,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        9,
-        5
+        11,
+        1,
+        2,
+        3,
+        5,
+        3
       ],
-      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+      "top": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
       "briefings": [
         {
-          "date": "2026-08-31",
+          "date": "2026-09-02",
           "speaker": "Stefan",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
-          "t": "42:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2556"
+          "text": "… off the top of my head. I know we've in the past our Ukraine appeals have been the most funded, but we'll get our OCHA colleagues to crunch some numbers for you, Eini.",
+          "t": "17:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-02?t=1056"
         },
         {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… of Al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
-          "t": "41:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2495"
-        },
-        {
-          "date": "2026-09-03",
+          "date": "2026-08-20",
           "speaker": "Stephane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… has been shared with you. Turning to Nepal and response to the devastating floods that we saw there, Tom Fletcher, our Emergency Relief Coordinator, has allocated an additional half a million dollars from the UN Central Emergency Response …",
-          "t": "2:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-03?t=156"
+          "text": "… their ability to wash, their ability to store food, water, maintain adequate lighting and cope with the temperatures. OCHA remains estimates that nearly two in every three families live in tents or makeshift shelters that rapidly …",
+          "t": "5:55",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-20?t=355"
         },
         {
-          "date": "2026-09-01",
+          "date": "2026-07-30",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… nearly 2.5 million people with at least one form of humanitarian assistance across Ukraine. On the Middle East, OCHA warns that the humanitarian consequences of the regional escalation are worsening by the day, with civilians increasingly …",
+          "t": "28:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=1699"
+        },
+        {
+          "date": "2026-07-02",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… work. Despite these challenges, UNIFIL continues to facilitate humanitarian access. Yesterday, in cooperation with our OCHA colleagues, the mission facilitated 13 humanitarian missions in Sector West, following 14 missions on Tuesday across …",
+          "t": "7:46",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=466"
+        },
+        {
+          "date": "2026-07-02",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… reconstruction, both physical reconstruction and psychological reconstruction for the people impacted. Next week, our OCHA colleagues, I think, will convene a conference to look at that transition to see how we can get more funding. The …",
+          "t": "19:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=1184"
+        },
+        {
+          "date": "2026-06-12",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… crossing the Blue Line. On the humanitarian front, UNIFIL facilitated 9 humanitarian missions in coordination with OCHA and in liaison with the IDF. 8 of them were in Sector West, mainly to Tyre, and one was done in Sector East. Also …",
+          "t": "31:02",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=1862"
+        },
+        {
+          "date": "2026-05-28",
           "speaker": "Stephane",
           "speakerAffiliation": "UN Secretariat",
           "speakerFunction": "Spokesperson",
-          "text": "… colleagues tell us that the response to last week's flash flood is entering a new phase with authorities intensifying relief efforts and recovery operations. As of today, authorities have recovered more than 1,000 bodies, while 3,900 people …",
-          "t": "59:49",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-01?t=3589"
+          "text": "… city of Tyre and Nabatiyeh. Collective shelters in Tyre and Saida are reportedly full and cannot take any more people. OCHA is concerned that families are once again being forced to flee their homes under conditions that are intolerable for …",
+          "t": "6:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-28?t=405"
         },
         {
-          "date": "2026-08-31",
-          "speaker": "Stefan",
+          "date": "2026-08-18",
+          "speaker": "Stephane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… The government of Nepal has more than 20,000 personnel deployed for search and rescue and has declared a flood emergency in 15 municipalities with two more designated at impact. Our resident coordinator in Nepal, Lila Pidas Yaya, continued …",
-          "t": "38:50",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=2330"
+          "text": "… less than half of Gaza Strip territory. Turning to Ukraine, our Under Secretary General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, arrived in Ukraine yesterday. Today in southern Ukraine, he visited the regions …",
+          "t": "27:09",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-18?t=1629"
         },
         {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
+          "date": "2026-07-02",
+          "speaker": "Stéphane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary-General for Emergency -- for Humanitarian …",
-          "t": "36:32",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2192"
+          "text": "… Following the attacks in Kyiv, which were one of the largest since the escalation of the war, the Humanitarian Coordinator for Ukraine, Matthias Schmale, noted that the loss and fear caused by this attack By the Russian armed forces and …",
+          "t": "4:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=275"
         },
         {
-          "date": "2026-08-31",
-          "speaker": "Stefan",
+          "date": "2026-06-15",
+          "speaker": "Stéphane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "Alright, good afternoon. Sorry for the usual delay. We're having a bit of a e-mail breakdown today. So if you're sending me emails and I'm not responding to this time, it's not, I'm not ignoring you. We're just not getting them. Sorry, 2 …",
-          "t": "31:26",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=1886"
+          "text": "… and critical civilian infrastructure. The attacks also impacted spiritual and cultural landmarks. The Humanitarian Coordinator for Ukraine, Matthias Schmale, said that beyond the tragic loss of life and destruction of homes, damage to sites …",
+          "t": "47:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-15?t=2843"
         },
         {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
+          "date": "2026-06-02",
+          "speaker": "Stéphane",
           "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
-          "t": "34:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2088"
+          "speakerFunction": "Spokesperson for the SG",
+          "text": "… immediate de-escalation leading to a full, immediate, and unconditional ceasefire in this conflict. The humanitarian coordinator in Ukraine, Matthias Schmale, also condemned the attacks. Our humanitarian colleagues noted that rescue …",
+          "t": "3:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-02?t=200"
         },
         {
-          "date": "2026-08-27",
-          "speaker": "Stefan",
+          "date": "2026-06-12",
+          "speaker": "Stéphane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
-          "t": "34:42",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2082"
+          "text": "… away from us, can they? They will try. They will try. Good afternoon. We will be joined shortly by Anjali Ashokar, the Deputy Executive Director of the Joint Programme on HIV/AIDS, better known to all of us as UNAIDS. She will be here to …",
+          "t": "27:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=1649"
+        },
+        {
+          "date": "2026-08-05",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Okay. Good afternoon, everyone. Today we're going to start with Ukraine. The Humanitarian Coordinator in the country, Matthias Schmale, today condemned a new wave of large-scale attacks by the Armed Forces of the Russian Federation and …",
+          "t": "0:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-05?t=10"
+        },
+        {
+          "date": "2026-08-20",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… good afternoon. After you're done with me, I will be joined by our guest, Jean-Philippe Antolin, who is the IOM's humanitarian response and recovery specialist. for Latin America and the Caribbean. He'll be joining us from Quibdoo in the …",
+          "t": "0:21",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-20?t=21"
+        },
+        {
+          "date": "2026-07-30",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Okay, um, sorry. As part of this release, the Secretary-General is expected to deliver remarks tomorrow at approximately 12:15 PM New York time. We will keep you updated on this. Turning to Ukraine, the Secretary-General strongly condemns …",
+          "t": "26:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=1566"
+        },
+        {
+          "date": "2026-05-28",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… of tomorrow, we will be joined tomorrow by Pramila Patten, who, as you know, is a Special Representative of the Secretary-General on Sexual Violence in Conflict. She will be here to brief you on her latest report, which we expect We expect …",
+          "t": "0:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-28?t=12"
         }
       ],
       "leadership": [],
-      "sc": [],
+      "sc": [
+        {
+          "date": "2026-07-27",
+          "speaker": "Indrika Ratwatte",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator",
+          "text": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
+          "t": "16:32",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=992"
+        },
+        {
+          "date": "2026-06-08",
+          "speaker": "Indrika Ratwat",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Acting ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator",
+          "text": "… humanitarian relief for civilians in need, wherever they are. In line with this, our own offer remains unchanged. OCHA is ready to work discreetly with both parties on practical humanitarian arrangements that help civilians who are trapped …",
+          "t": "22:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=1331"
+        },
+        {
+          "date": "2026-07-09",
+          "speaker": "Indrika Ratwat",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Acting ASG Humanitarian Affairs and Deputy Emergency Relief Coordinator",
+          "text": "… intermittently suspended, making it harder for humanitarians to help civilians leave these areas and for humanitarian relief to reach those who remain. International humanitarian law binds all parties to this armed conflict wherever they …",
+          "t": "12:51",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=771"
+        },
+        {
+          "date": "2026-07-09",
+          "speaker": "Indrika Ratwat",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Acting ASG Humanitarian Affairs and Deputy Emergency Relief Coordinator",
+          "text": "Mr. President, Excellencies, building on the political and security developments outlined by Under-Secretary-General de Calo, allow me to focus on the impact of the latest hostilities on civilians in this armed conflict. The past week has …",
+          "t": "11:00",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=660"
+        }
+      ],
       "onOcha": [
         {
-          "date": "2026-08-27",
-          "country": "UN",
-          "text": "… and I would like to thank very much USG Fletcher for his support and we're getting a lot of support I have a team from OCHA who is arriving tomorrow morning to support us with coordination of the UN agency, particularly UNICEF, WFP, UNFPA. …",
-          "t": "18:43",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=1123"
+          "date": "2026-09-04",
+          "country": "Unknown speaker",
+          "text": "… and nutrition workers have the tools to identify and assist vulnerable children and mothers. Turning to Ukraine, our OCHA colleagues in Ukraine tell us that residents of Kyiv and Odesa have faced repeated attacks over the past two days. We …",
+          "t": "39:15",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-04?t=2355"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-08-10",
           "country": "UN",
-          "text": "… of al-Mansouri in Sector West and airstrikes in in Deir Mimas municipality in northeast of Kham in Sector East. And OCHA also says that in Deir Mimas municipality, Lebanese civil defense personnel were reportedly forced to withdraw while …",
-          "t": "6:57",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=417"
+          "text": "… Donetsk, Kherson, and Mykolaiv. This is what Ukrainian authorities are telling our colleagues on the ground. OCHA notes that humanitarian operations have also been impacted. An attack in the city of Dnipro destroyed a World Health …",
+          "t": "16:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=968"
         },
         {
-          "date": "2026-08-27",
-          "country": "UN",
-          "text": "… statement should have just been sent out to you. And I think you heard quite an extensive update from our resident coordinator in Nepal. I do want to add a bit on Tom Fletcher, our Under Secretary General for Emergency from humanitarian …",
-          "t": "1:54",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=114"
+          "date": "2026-07-27",
+          "country": "Panama",
+          "text": "… Political and Peacebuilding Affairs. And we also thank Mr. Enrique Raduarte, Acting Assistant Secretary General from OCHA. We thank them both for their invaluable statements on the conflict in Ukraine, which continues to intensify. We …",
+          "t": "62:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3766"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-07-09",
+          "country": "Liberia",
+          "text": "… Second, we propose strengthening existing humanitarian deconfliction and notification networks through OCHA, ensuring that the verified coordinates of medical and aid personnel are rigorously respected as off-limits, with any systemic …",
+          "t": "43:24",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=2604"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "Panama",
+          "text": "… for Political and Peacebuilding Affairs, and Mr. Indrika Ratwate, Acting Assistant Secretary-General of OCHA, for the valuable briefings on the situation on the ground. We acknowledge the participation of the representatives of the …",
+          "t": "78:54",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=4734"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "United Kingdom",
+          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February 2022. …",
+          "t": "70:39",
+          "pageUrl": "https://transcripts.un.org/en/sc/10187?t=4239"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "United Kingdom",
+          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February, 2022. …",
+          "t": "60:28",
+          "pageUrl": "https://transcripts.un.org/en/sc/10188?t=3628"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "France",
+          "text": "… thank Mr. Khalid Hiry, Assistant Secretary General of the Department of Political Affairs, as well as the Director of OCHA, Ms. Edem Osornu, for their statements. This Council is meeting today after Russian strikes on the 14th and 15th of …",
+          "t": "26:42",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1602"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "United Kingdom",
+          "text": "… 41 launched earlier this month. These intensifying attacks have driven a sharp rise in civilian casualties. In May, OCHA recorded the highest monthly total since the beginning of the war. Casualty figures for June are on course to be even …",
+          "t": "36:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=2200"
+        },
+        {
+          "date": "2026-06-09",
           "country": "UN",
-          "text": "For your patience, I'm just going to start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a …",
+          "text": "… of statements that were delivered to the Security Council yesterday by Rosemary DiCarlo and also by the Acting ASG of OCHA concerning Ukraine. Ms. DiCarlo notes how the UN has— well, She's warned that the war in Ukraine has entered an even …",
+          "t": "29:18",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-09?t=1758"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Panama",
+          "text": "… for Political and Peacebuilding Affairs, as well as Mr. Indrika Ratwat, Acting Assistant Secretary General for OCHA for sharing detailed information about recent events in the conflict in Ukraine. We recognize the participation of the …",
+          "t": "39:05",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=2345"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Somalia",
+          "text": "Thank you, Madam President. At the outset, we thank USG DeCarlo and Ocha Acting ASG Ratwat for their comprehensive briefings. As we gather here today, our delegation remains deeply concerned by the ongoing hostilities and the continued …",
+          "t": "68:55",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=4135"
+        },
+        {
+          "date": "2026-05-28",
+          "country": "France",
+          "text": "… Odessa, Sumy, and Zhytomyr. While the members of this council were denouncing last week the drone strikes on an OCHA humanitarian convoy in Kherson, a new missile strike targeted a World Food Programme warehouse in Dnipro, destroying food …",
+          "t": "21:42",
+          "pageUrl": "https://transcripts.un.org/en/sc/10160?t=1302"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Denmark",
+          "text": "… for Political and Peacebuilding Affairs, and Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's provisional rules of procedure, …",
+          "t": "18:02",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=1082"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Panama",
+          "text": "… Political and Peacebuilding Affairs, and to Mr. Tom Fletcher, Under Secretary General. for Humanitarian Affairs and Emergency Relief Coordinator for their invaluable briefings on the situation on the ground in Ukraine. This Council has now …",
+          "t": "65:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=3952"
+        },
+        {
+          "date": "2026-07-31",
+          "country": "UN",
+          "text": "… for hand hygiene and routine infection prevention, are largely unavailable. Turning to Ukraine, the Humanitarian Coordinator in the country ad interim, Auke Lutzma, today warned of escalating risks to civilians as attacks on urban areas …",
+          "t": "31:53",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=1913"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "DR Congo",
+          "text": "… and Peace Operations; and Mr. Indrika Ratwatte, Acting Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's provisional rules of …",
+          "t": "0:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=46"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "Colombia",
+          "text": "… grateful for the briefing delivered by Mr. Enrique Rodarte, Assistant Secretary General of Humanitarian Affairs and Emergency Relief Coordinator. I also wish to welcome the delegations who are with us in the Chamber today. My country deeply …",
+          "t": "57:25",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3445"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "Bahrain",
+          "text": "… Operations, as well as Mr Indrajit Ratwatte, Acting Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. I thank them for their briefings today. And I would like to welcome all of the participants in …",
+          "t": "66:08",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3968"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "Security Council",
+          "text": "… Peacebuilding Affairs, and Mr. Indrika Ratwat, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's Provisional Rules of …",
+          "t": "1:01",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=61"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "Bahrain",
+          "text": "… Political and Peacebuilding Affairs, and Mr. Ratwate, Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and I would like to welcome all of the participants in this meeting today. The Kingdom of …",
+          "t": "75:39",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=4539"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Colombia",
+          "text": "… Peacebuilding Affairs, and Mr. Indrika Ratwat, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's Provisional Rules of …",
+          "t": "0:57",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=57"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Bahrain",
+          "text": "… and Peacebuilding Affairs, and Mr. Ratwat, Acting Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, for their valuable briefings. I also welcome Her Excellency Ms. Elina Valtonen, Minister of …",
+          "t": "64:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=3880"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Colombia",
+          "text": "… Affairs, as well as Mr. Indrika Ratwat, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, for their briefings. I also welcome Her Excellency Elina Valtonen, Minister of Foreign Affairs of …",
+          "t": "89:21",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=5361"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Bahrain",
+          "text": "… Ms. Rosemary DiCarlo, USG for Political Affairs and Mr. Fletcher, Under Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, for their briefings. I also welcome the participation of His Excellency Mr. Lars Rasmussen, …",
+          "t": "85:41",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=5141"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "DR Congo",
+          "text": "… Peace Operations. We also thank Mr Indrika Ratwatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. We thank them for their presentations. The information we have been receiving about …",
+          "t": "90:10",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=5410"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Denmark",
+          "text": "… first attend when we... The 10,212th meeting of the Security Council is called to order. The provisional agenda for this meeting is maintenance of peace and security of Ukraine. The agenda is approved. In accordance with Rule 37 of the …",
+          "t": "17:34",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=1054"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Colombia",
+          "text": "Thank you, Mr President. We recognise your presence here as Minister for Foreign Affairs. You are presiding over this meeting, and indeed we welcome your convening thereof. We're grateful to Undersecretaries General Rosemary DiCarlo and Tom …",
+          "t": "89:17",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=5357"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "Security Council",
+          "text": "The 10,191st meeting of the Security Council is called to order. The provisional agenda for this meeting is: Maintenance of Peace and Security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules …",
+          "t": "0:13",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=13"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Colombia",
+          "text": "The 10,166th meeting of the Security Council is called to order. The provisional agenda for this meeting is the following: Maintenance of Peace and Security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's …",
+          "t": "0:13",
+          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=13"
+        },
+        {
+          "date": "2026-08-10",
+          "country": "UN",
+          "text": "… of the Security Council on the situation of Ukrainian prisoners of war and civilian detainees. This morning, the Assistant Secretary General for Human Rights, Claudio Fuentes Julio, brief Security Council members during the meeting on the …",
+          "t": "15:11",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=911"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "France",
+          "text": "Thank you, Mr. President. I first of all wish to thank Ms. Kayoko Goto, Director for Europe, Central Asia and the Americas, and the Acting Assistant Secretary-General for Humanitarian Affairs, Mr. Enrique Ratuati. I thank both for their …",
+          "t": "28:10",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=1690"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Colombia",
+          "text": "I declare open the 10,179th meeting of the Security Council. The provisional agenda for this meeting is: Maintenance of peace and security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules of …",
+          "t": "0:15",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=15"
+        },
+        {
+          "date": "2026-09-04",
+          "country": "Unknown speaker",
+          "text": "… welcome. We'll return here on Tuesday with the briefing. Also on Tuesday, it will be handover day for the presidents of the General Assembly, and we expect a stakeout by the new president of the General Assembly, Dr. Khalilur Rahman of …",
+          "t": "34:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-04?t=2091"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "DR Congo",
+          "text": "The 10202nd meeting of the Security Council is called to order. The provisional agenda for this meeting is maintenance of peace and security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's provisional rules of …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=4"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "Russia",
+          "text": "Good morning, Mr. President. Today, the members of the Security Council once again have to waste time in a meeting, although the positions of the parties are well known to everyone. But it is difficult for Western colleagues to decline an …",
+          "t": "45:47",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=2747"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Colombia",
+          "text": "I declare open the 10,179th meeting of the Security Council. The provisional agenda for this meeting is: Maintenance of peace and security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules of …",
           "t": "0:01",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27/2?t=1"
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1"
         },
         {
-          "date": "2026-08-26",
-          "country": "China",
-          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
-          "t": "95:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=5728"
+          "date": "2026-05-28",
+          "country": "Russia",
+          "text": "… thank the countries that have convened this meeting for giving us yet another opportunity to again draw the attention of the international community to what happened on the 22nd of May. Your goal, of course, was not to do this, but on the …",
+          "t": "66:31",
+          "pageUrl": "https://transcripts.un.org/en/sc/10160?t=3991"
         }
       ]
     },
@@ -1735,464 +2225,328 @@
       ]
     },
     {
-      "id": "ukr",
-      "name": "Ukraine",
-      "lon": 31,
-      "lat": 49,
+      "id": "sdn",
+      "name": "Sudan",
+      "lon": 30,
+      "lat": 15,
       "volume": 12,
       "level": "elevated",
       "trend": [
-        1,
-        4,
-        5,
-        8,
-        0,
-        0,
+        6,
         11,
-        1,
-        2,
+        0,
         3,
-        5,
-        1
+        0,
+        3,
+        0,
+        3,
+        0,
+        0,
+        7,
+        2
       ],
-      "top": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
+      "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
       "briefings": [
         {
-          "date": "2026-09-02",
+          "date": "2026-08-07",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
+          "t": "2:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=140"
+        },
+        {
+          "date": "2026-07-22",
           "speaker": "Stefan",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… off the top of my head. I know we've in the past our Ukraine appeals have been the most funded, but we'll get our OCHA colleagues to crunch some numbers for you, Eini.",
-          "t": "17:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-02?t=1056"
+          "text": "… the 19th of July. The violence has further displaced civilians and restricted humanitarian access in affected areas. OCHA also tells us that at least 6 humanitarian organizations, including partners supporting the Ebola response, have …",
+          "t": "5:31",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=331"
         },
         {
-          "date": "2026-08-20",
+          "date": "2026-07-06",
           "speaker": "Stephane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… their ability to wash, their ability to store food, water, maintain adequate lighting and cope with the temperatures. OCHA remains estimates that nearly two in every three families live in tents or makeshift shelters that rapidly …",
-          "t": "5:55",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-20?t=355"
+          "text": "… these deadly attacks, noting that they tear apart homes, take innocent lives, and must not be accepted. And our OCHA colleagues tell us that search and rescue operations for people who might still be trapped in rubble are underway. Local …",
+          "t": "45:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-06?t=2751"
         },
         {
-          "date": "2026-07-30",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… nearly 2.5 million people with at least one form of humanitarian assistance across Ukraine. On the Middle East, OCHA warns that the humanitarian consequences of the regional escalation are worsening by the day, with civilians increasingly …",
-          "t": "28:19",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=1699"
-        },
-        {
-          "date": "2026-07-02",
+          "date": "2026-06-25",
           "speaker": "Stéphane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… work. Despite these challenges, UNIFIL continues to facilitate humanitarian access. Yesterday, in cooperation with our OCHA colleagues, the mission facilitated 13 humanitarian missions in Sector West, following 14 missions on Tuesday across …",
-          "t": "7:46",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=466"
+          "text": "… efforts on the ground to ensure that assistance reaches those most in need as quickly and effectively as possible. OCHA is also supporting the coordination of incoming international search and rescue teams, which we expect will arrive or …",
+          "t": "31:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-25?t=1905"
         },
         {
-          "date": "2026-07-02",
-          "speaker": "Stéphane",
+          "date": "2026-06-19",
+          "speaker": "Steph",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… reconstruction, both physical reconstruction and psychological reconstruction for the people impacted. Next week, our OCHA colleagues, I think, will convene a conference to look at that transition to see how we can get more funding. The …",
-          "t": "19:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=1184"
+          "text": "… and logistical operations. On the humanitarian front, UNIFIL, through its liaison branch and its coordination with OCHA, facilitated 8 humanitarian missions in Sector West yesterday. This week, UNIFIL also scaled up delivery of food and …",
+          "t": "46:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-19?t=2804"
         },
         {
-          "date": "2026-06-12",
+          "date": "2026-06-01",
           "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
+          "speakerAffiliation": "UN Secretariat",
           "speakerFunction": "Spokesperson",
-          "text": "… crossing the Blue Line. On the humanitarian front, UNIFIL facilitated 9 humanitarian missions in coordination with OCHA and in liaison with the IDF. 8 of them were in Sector West, mainly to Tyre, and one was done in Sector East. Also …",
-          "t": "31:02",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=1862"
+          "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
+          "t": "22:56",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=1376"
         },
         {
-          "date": "2026-05-28",
+          "date": "2026-09-01",
           "speaker": "Stephane",
           "speakerAffiliation": "UN Secretariat",
           "speakerFunction": "Spokesperson",
-          "text": "… city of Tyre and Nabatiyeh. Collective shelters in Tyre and Saida are reportedly full and cannot take any more people. OCHA is concerned that families are once again being forced to flee their homes under conditions that are intolerable for …",
-          "t": "6:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-28?t=405"
+          "text": "… colleagues tell us that the response to last week's flash flood is entering a new phase with authorities intensifying relief efforts and recovery operations. As of today, authorities have recovered more than 1,000 bodies, while 3,900 people …",
+          "t": "59:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-01?t=3589"
         },
         {
-          "date": "2026-08-18",
+          "date": "2026-06-23",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Council's strong message that there can be no impunity for attacks against UN peacekeepers. Tom Fletcher, Head of our Emergency Relief Coordinator, announced this morning that $110 million was being released from the UN Central Emergency …",
+          "t": "15:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=950"
+        },
+        {
+          "date": "2026-06-19",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… visit by the French and British ministers of development, who were joined by Imran Riza, the humanitarian and resident coordinator for the UN. They visited a collective shelter. Site managers told them that many families who'd initially …",
+          "t": "47:37",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-19?t=2857"
+        },
+        {
+          "date": "2026-06-18",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Those choosing to remain must be respected. They must be protected. And they must have access to the humanitarian relief that they need. The Secretary-General reminds all parties of their clear obligations under international humanitarian …",
+          "t": "35:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=2113"
+        },
+        {
+          "date": "2026-07-06",
           "speaker": "Stephane",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… less than half of Gaza Strip territory. Turning to Ukraine, our Under Secretary General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, arrived in Ukraine yesterday. Today in southern Ukraine, he visited the regions …",
-          "t": "27:09",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-18?t=1629"
+          "text": "… yet. And before we get to more football, at 1:15 PM there will be a briefing here by our friend Jean-Pierre Lacroix, Under-Secretary-General for Peace Operations. He will be joined by Faisal Shakhar, the UN Police Advisor, and they will be …",
+          "t": "36:59",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-06?t=2219"
         },
         {
-          "date": "2026-07-02",
-          "speaker": "Stéphane",
+          "date": "2026-06-23",
+          "speaker": "Stefan",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… Following the attacks in Kyiv, which were one of the largest since the escalation of the war, the Humanitarian Coordinator for Ukraine, Matthias Schmale, noted that the loss and fear caused by this attack By the Russian armed forces and …",
-          "t": "4:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=275"
+          "text": "… the same answer: a fast, fair transition to clean energy, a surge in adaptation, resilience, and climate justice for those already facing climate harm. The good news, he said, is that unlike every past energy crisis, we now have a clear way …",
+          "t": "0:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=38"
         },
         {
-          "date": "2026-06-15",
-          "speaker": "Stéphane",
+          "date": "2026-06-19",
+          "speaker": "Steph",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… and critical civilian infrastructure. The attacks also impacted spiritual and cultural landmarks. The Humanitarian Coordinator for Ukraine, Matthias Schmale, said that beyond the tragic loss of life and destruction of homes, damage to sites …",
-          "t": "47:23",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-15?t=2843"
+          "text": "… you had asked me about contacts regarding Sudan, and I can tell you that the Personal Envoy of the Secretary-General for Sudan, Pekka Havisto, spoke with the Commander-in-Chief of the Rapid Support Forces, General Mohamed Hamdan Dagalo, …",
+          "t": "42:43",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-19?t=2563"
         },
         {
-          "date": "2026-06-02",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson for the SG",
-          "text": "… immediate de-escalation leading to a full, immediate, and unconditional ceasefire in this conflict. The humanitarian coordinator in Ukraine, Matthias Schmale, also condemned the attacks. Our humanitarian colleagues noted that rescue …",
-          "t": "3:20",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-02?t=200"
-        },
-        {
-          "date": "2026-06-12",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… away from us, can they? They will try. They will try. Good afternoon. We will be joined shortly by Anjali Ashokar, the Deputy Executive Director of the Joint Programme on HIV/AIDS, better known to all of us as UNAIDS. She will be here to …",
-          "t": "27:29",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=1649"
-        },
-        {
-          "date": "2026-08-05",
+          "date": "2026-08-07",
           "speaker": "Farhan",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "Okay. Good afternoon, everyone. Today we're going to start with Ukraine. The Humanitarian Coordinator in the country, Matthias Schmale, today condemned a new wave of large-scale attacks by the Armed Forces of the Russian Federation and …",
+          "text": "Good afternoon and happy Friday, everybody. Amina Mohamed, the Deputy Secretary-General, spoke to the Security Council members this morning at an ARIA formula meeting on education in Sudan. She said that among everything the war in Sudan …",
+          "t": "0:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=7"
+        },
+        {
+          "date": "2026-07-22",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… offices in Geneva. This is a gathering that takes place every 2 years, co-chaired by Dr. Ahmad Kawesa Sengendo, the Assistant Secretary-General for Economic Affairs for the OIC, and Khaled Khiori, the Assistant Secretary-General in the …",
+          "t": "0:40",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=40"
+        },
+        {
+          "date": "2026-06-25",
+          "speaker": "Stéphane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… had to cancel at the last minute. But we're trying to get him reprogrammed very soon. We will have Pekka Havisto, the Secretary-General's Personal Envoy for Sudan. He should be here in about half an hour or so. Let me start off first with a …",
+          "t": "29:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-25?t=1746"
+        },
+        {
+          "date": "2026-06-23",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "All right. Speaking of announcements, good morning. The Secretary-General remains in London, where earlier today he delivered a special address at the London Climate Action Week. He said that our world is facing two crises: a climate crisis …",
+          "t": "0:05",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=5"
+        },
+        {
+          "date": "2026-06-11",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Happy to be back with you. Just a programming note, 3 PM today in the Chamber of the Economic and Social Council, the Secretary-General will deliver remarks on the launch of the Muscat Plan of Action. Which for those of you who don't know …",
           "t": "0:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-05?t=10"
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-11?t=10"
         },
         {
-          "date": "2026-08-20",
-          "speaker": "Stephane",
+          "date": "2026-06-18",
+          "speaker": "Steph",
           "speakerAffiliation": "UN",
           "speakerFunction": "Spokesperson",
-          "text": "… good afternoon. After you're done with me, I will be joined by our guest, Jean-Philippe Antolin, who is the IOM's humanitarian response and recovery specialist. for Latin America and the Caribbean. He'll be joining us from Quibdoo in the …",
-          "t": "0:21",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-20?t=21"
-        },
-        {
-          "date": "2026-07-30",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "Okay, um, sorry. As part of this release, the Secretary-General is expected to deliver remarks tomorrow at approximately 12:15 PM New York time. We will keep you updated on this. Turning to Ukraine, the Secretary-General strongly condemns …",
-          "t": "26:06",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=1566"
-        },
-        {
-          "date": "2026-05-28",
-          "speaker": "Stephane",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… of tomorrow, we will be joined tomorrow by Pramila Patten, who, as you know, is a Special Representative of the Secretary-General on Sexual Violence in Conflict. She will be here to brief you on her latest report, which we expect We expect …",
-          "t": "0:12",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-28?t=12"
+          "text": "and civilian infrastructure. The Secretary-General is particularly alarmed by reports of deployment by the Rapid Support Forces of substantial military reinforcements around El-Obeid, which may indicate an imminent ground offensive into the …",
+          "t": "33:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=1987"
         }
       ],
       "leadership": [],
-      "sc": [
-        {
-          "date": "2026-07-27",
-          "speaker": "Indrika Ratwatte",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator",
-          "text": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
-          "t": "16:32",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=992"
-        },
-        {
-          "date": "2026-06-08",
-          "speaker": "Indrika Ratwat",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Acting ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator",
-          "text": "… humanitarian relief for civilians in need, wherever they are. In line with this, our own offer remains unchanged. OCHA is ready to work discreetly with both parties on practical humanitarian arrangements that help civilians who are trapped …",
-          "t": "22:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=1331"
-        },
-        {
-          "date": "2026-07-09",
-          "speaker": "Indrika Ratwat",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Acting ASG Humanitarian Affairs and Deputy Emergency Relief Coordinator",
-          "text": "… intermittently suspended, making it harder for humanitarians to help civilians leave these areas and for humanitarian relief to reach those who remain. International humanitarian law binds all parties to this armed conflict wherever they …",
-          "t": "12:51",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=771"
-        },
-        {
-          "date": "2026-07-09",
-          "speaker": "Indrika Ratwat",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Acting ASG Humanitarian Affairs and Deputy Emergency Relief Coordinator",
-          "text": "Mr. President, Excellencies, building on the political and security developments outlined by Under-Secretary-General de Calo, allow me to focus on the impact of the latest hostilities on civilians in this armed conflict. The past week has …",
-          "t": "11:00",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=660"
-        }
-      ],
+      "sc": [],
       "onOcha": [
         {
-          "date": "2026-08-10",
-          "country": "UN",
-          "text": "… Donetsk, Kherson, and Mykolaiv. This is what Ukrainian authorities are telling our colleagues on the ground. OCHA notes that humanitarian operations have also been impacted. An attack in the city of Dnipro destroyed a World Health …",
-          "t": "16:08",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=968"
+          "date": "2026-08-24",
+          "country": "United Kingdom",
+          "text": "… towards peace. Third, by supporting the humanitarian agencies working with the people trapped in this war, and led by OCHA, thank you. Humanitarian access continues to be obstructed by all parties to the conflict, with costs measured in …",
+          "t": "49:02",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=2942"
         },
         {
-          "date": "2026-07-27",
-          "country": "Panama",
-          "text": "… Political and Peacebuilding Affairs. And we also thank Mr. Enrique Raduarte, Acting Assistant Secretary General from OCHA. We thank them both for their invaluable statements on the conflict in Ukraine, which continues to intensify. We …",
-          "t": "62:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3766"
+          "date": "2026-08-24",
+          "country": "Russia",
+          "text": "… facing an acute food shortage. The scale of need exceeds the capacity of humanitarian agencies. A lack of funding, the OCHA humanitarian plan is only funded at 40 percent, is already forcing humanitarian agencies to cut their food rations …",
+          "t": "82:56",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=4976"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Colombia",
+          "text": "… for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher for the information he has shared and thank OCHA for the valuable work that they do on the ground. I'd also like to thank Under Secretary General for Political and …",
+          "t": "93:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=5615"
         },
         {
           "date": "2026-07-09",
-          "country": "Liberia",
-          "text": "… Second, we propose strengthening existing humanitarian deconfliction and notification networks through OCHA, ensuring that the verified coordinates of medical and aid personnel are rigorously respected as off-limits, with any systemic …",
-          "t": "43:24",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=2604"
-        },
-        {
-          "date": "2026-07-09",
-          "country": "Panama",
-          "text": "… for Political and Peacebuilding Affairs, and Mr. Indrika Ratwate, Acting Assistant Secretary-General of OCHA, for the valuable briefings on the situation on the ground. We acknowledge the participation of the representatives of the …",
-          "t": "78:54",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=4734"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "United Kingdom",
-          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February 2022. …",
-          "t": "70:39",
-          "pageUrl": "https://transcripts.un.org/en/sc/10187?t=4239"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "United Kingdom",
-          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February, 2022. …",
-          "t": "60:28",
-          "pageUrl": "https://transcripts.un.org/en/sc/10188?t=3628"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "France",
-          "text": "… thank Mr. Khalid Hiry, Assistant Secretary General of the Department of Political Affairs, as well as the Director of OCHA, Ms. Edem Osornu, for their statements. This Council is meeting today after Russian strikes on the 14th and 15th of …",
-          "t": "26:42",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1602"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "United Kingdom",
-          "text": "… 41 launched earlier this month. These intensifying attacks have driven a sharp rise in civilian casualties. In May, OCHA recorded the highest monthly total since the beginning of the war. Casualty figures for June are on course to be even …",
-          "t": "36:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=2200"
-        },
-        {
-          "date": "2026-06-09",
           "country": "UN",
-          "text": "… of statements that were delivered to the Security Council yesterday by Rosemary DiCarlo and also by the Acting ASG of OCHA concerning Ukraine. Ms. DiCarlo notes how the UN has— well, She's warned that the war in Ukraine has entered an even …",
-          "t": "29:18",
-          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-09?t=1758"
+          "text": "… WHO reports that cholera response supplies have been prepositioned in al-Obaid. For the broader humanitarian response, OCHA has already allocated more than $44 million through the Sudan Humanitarian Fund to our partners to provide critical …",
+          "t": "45:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-09?t=2720"
         },
         {
-          "date": "2026-06-08",
-          "country": "Panama",
-          "text": "… for Political and Peacebuilding Affairs, as well as Mr. Indrika Ratwat, Acting Assistant Secretary General for OCHA for sharing detailed information about recent events in the conflict in Ukraine. We recognize the participation of the …",
-          "t": "39:05",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=2345"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Somalia",
-          "text": "Thank you, Madam President. At the outset, we thank USG DeCarlo and Ocha Acting ASG Ratwat for their comprehensive briefings. As we gather here today, our delegation remains deeply concerned by the ongoing hostilities and the continued …",
-          "t": "68:55",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=4135"
-        },
-        {
-          "date": "2026-05-28",
-          "country": "France",
-          "text": "… Odessa, Sumy, and Zhytomyr. While the members of this council were denouncing last week the drone strikes on an OCHA humanitarian convoy in Kherson, a new missile strike targeted a World Food Programme warehouse in Dnipro, destroying food …",
-          "t": "21:42",
-          "pageUrl": "https://transcripts.un.org/en/sc/10160?t=1302"
+          "date": "2026-06-26",
+          "country": "United States",
+          "text": "… ground. That is why we are working closely with the United Nations, including the Secretary-General's Office, DPPA, OCHA, and the Office of the Personal Envoy for Sudan. The UN, as well as many members of this Council, to develop a …",
+          "t": "74:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=4451"
         },
         {
           "date": "2026-08-24",
           "country": "Denmark",
-          "text": "… for Political and Peacebuilding Affairs, and Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's provisional rules of procedure, …",
-          "t": "18:02",
-          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=1082"
+          "text": "… for Political and Peacebuilding Affairs, Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, and Dr. Eva Kher, Health Protection and Peacebuilding Adviser. It is so decided. The Security …",
+          "t": "0:49",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=49"
         },
         {
           "date": "2026-08-24",
-          "country": "Panama",
-          "text": "… Political and Peacebuilding Affairs, and to Mr. Tom Fletcher, Under Secretary General. for Humanitarian Affairs and Emergency Relief Coordinator for their invaluable briefings on the situation on the ground in Ukraine. This Council has now …",
-          "t": "65:52",
-          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=3952"
+          "country": "UN Secretariat",
+          "text": "… face the unrelenting consequences of one of the worst humanitarian crises of our time. My colleague, Tom Fletcher, the emergency relief coordinator, will brief you in detail about the unbearable suffering the men, women, and children of …",
+          "t": "3:20",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=200"
         },
         {
-          "date": "2026-07-31",
-          "country": "UN",
-          "text": "… for hand hygiene and routine infection prevention, are largely unavailable. Turning to Ukraine, the Humanitarian Coordinator in the country ad interim, Auke Lutzma, today warned of escalating risks to civilians as attacks on urban areas …",
-          "t": "31:53",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=1913"
+          "date": "2026-08-06",
+          "country": "Latvia",
+          "text": "… of its declaration, and the priority now is to translate this step into concrete action. Third, The humanitarian emergency continues to deepen amid ongoing conflict and violations of international humanitarian law. More than half of the …",
+          "t": "79:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10206?t=4754"
         },
         {
-          "date": "2026-07-27",
-          "country": "DR Congo",
-          "text": "… and Peace Operations; and Mr. Indrika Ratwatte, Acting Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's provisional rules of …",
-          "t": "0:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=46"
-        },
-        {
-          "date": "2026-07-27",
-          "country": "Colombia",
-          "text": "… grateful for the briefing delivered by Mr. Enrique Rodarte, Assistant Secretary General of Humanitarian Affairs and Emergency Relief Coordinator. I also wish to welcome the delegations who are with us in the Chamber today. My country deeply …",
-          "t": "57:25",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3445"
-        },
-        {
-          "date": "2026-07-27",
-          "country": "Bahrain",
-          "text": "… Operations, as well as Mr Indrajit Ratwatte, Acting Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. I thank them for their briefings today. And I would like to welcome all of the participants in …",
-          "t": "66:08",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=3968"
-        },
-        {
-          "date": "2026-07-09",
-          "country": "Security Council",
-          "text": "… Peacebuilding Affairs, and Mr. Indrika Ratwat, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's Provisional Rules of …",
-          "t": "1:01",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=61"
-        },
-        {
-          "date": "2026-07-09",
-          "country": "Bahrain",
-          "text": "… Political and Peacebuilding Affairs, and Mr. Ratwate, Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and I would like to welcome all of the participants in this meeting today. The Kingdom of …",
-          "t": "75:39",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=4539"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Colombia",
-          "text": "… Peacebuilding Affairs, and Mr. Indrika Ratwat, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. In accordance with Rule 39 of the Council's Provisional Rules of …",
-          "t": "0:57",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=57"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Bahrain",
-          "text": "… and Peacebuilding Affairs, and Mr. Ratwat, Acting Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, for their valuable briefings. I also welcome Her Excellency Ms. Elina Valtonen, Minister of …",
-          "t": "64:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=3880"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Colombia",
-          "text": "… Affairs, as well as Mr. Indrika Ratwat, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, for their briefings. I also welcome Her Excellency Elina Valtonen, Minister of Foreign Affairs of …",
-          "t": "89:21",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=5361"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "Bahrain",
-          "text": "… Ms. Rosemary DiCarlo, USG for Political Affairs and Mr. Fletcher, Under Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, for their briefings. I also welcome the participation of His Excellency Mr. Lars Rasmussen, …",
-          "t": "85:41",
-          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=5141"
-        },
-        {
-          "date": "2026-07-27",
-          "country": "DR Congo",
-          "text": "… Peace Operations. We also thank Mr Indrika Ratwatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. We thank them for their presentations. The information we have been receiving about …",
-          "t": "90:10",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=5410"
+          "date": "2026-06-16",
+          "country": "EU",
+          "text": "… in crisis with severe access constraints, such as Palestine, Sudan, or DRC, to name a few, under the leadership of the Emergency Relief Coordinator and in cooperation with other UN agencies. We regret that UNICEF received only 31% of its …",
+          "t": "136:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=8219"
         },
         {
           "date": "2026-08-24",
           "country": "Denmark",
-          "text": "… first attend when we... The 10,212th meeting of the Security Council is called to order. The provisional agenda for this meeting is maintenance of peace and security of Ukraine. The agenda is approved. In accordance with Rule 37 of the …",
-          "t": "17:34",
-          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=1054"
+          "text": "Good morning. The 10211th meeting of the Security Council is called to order. The provisional agenda for this meeting is reports of the Secretary General on the Sudan and South Sudan. The agenda is adopted. In accordance with rule 37 of the …",
+          "t": "0:09",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=9"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We are grateful for the briefings delivered by the Under-Secretary-General for Political and Peacebuilding Affairs, Ms. Rosemary DiCarlo, and by Hanan Souleiman, Deputy Executive Director of UNICEF. We thank them …",
+          "t": "42:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=2534"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Bahrain",
+          "text": "Madam President, we thank Major Osmo Di Carlo, Under-Secretary-General for Political and Peacebuilding Affairs, and Ms. Anan Suleiman, Deputy Executive Director of UNICEF. We thank them both for the detailed briefings. We welcome the …",
+          "t": "47:54",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=2874"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Sudan",
+          "text": "… first of all like to congratulate you, Madam President, on your country's assumption of the presidency of the Council for this month. We commend your able leadership of the Council's deliberations. I also wish to thank Ms. Rosemary DiCarlo, …",
+          "t": "103:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=6220"
         },
         {
           "date": "2026-08-24",
-          "country": "Colombia",
-          "text": "Thank you, Mr President. We recognise your presence here as Minister for Foreign Affairs. You are presiding over this meeting, and indeed we welcome your convening thereof. We're grateful to Undersecretaries General Rosemary DiCarlo and Tom …",
-          "t": "89:17",
-          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=5357"
+          "country": "United Arab Emirates",
+          "text": "President, I thank you for convening today's meeting. I wish to thank Tom Fletcher USG for Humanitarian Affairs and USG Rosemary DeCarlo, as well as Dr. Eva Khair for the briefings provided. The latest report of the Secretary-General on the …",
+          "t": "173:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=10420"
         },
         {
-          "date": "2026-07-09",
-          "country": "Security Council",
-          "text": "The 10,191st meeting of the Security Council is called to order. The provisional agenda for this meeting is: Maintenance of Peace and Security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules …",
-          "t": "0:13",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=13"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Colombia",
-          "text": "The 10,166th meeting of the Security Council is called to order. The provisional agenda for this meeting is the following: Maintenance of Peace and Security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's …",
-          "t": "0:13",
-          "pageUrl": "https://transcripts.un.org/en/sc/10166?t=13"
-        },
-        {
-          "date": "2026-08-10",
+          "date": "2026-06-24",
           "country": "UN",
-          "text": "… of the Security Council on the situation of Ukrainian prisoners of war and civilian detainees. This morning, the Assistant Secretary General for Human Rights, Claudio Fuentes Julio, brief Security Council members during the meeting on the …",
-          "t": "15:11",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-10?t=911"
+          "text": "All right. Hello. Good afternoon, everyone. Tomorrow, our guest will be Pekka Havisto, Personal Envoy of the Secretary-General for Sudan, and he will be here to brief on the situation in Sudan. The Secretary-General will be back in New York …",
+          "t": "0:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-24?t=8"
         },
         {
-          "date": "2026-07-27",
-          "country": "France",
-          "text": "Thank you, Mr. President. I first of all wish to thank Ms. Kayoko Goto, Director for Europe, Central Asia and the Americas, and the Acting Assistant Secretary-General for Humanitarian Affairs, Mr. Enrique Ratuati. I thank both for their …",
-          "t": "28:10",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=1690"
+          "date": "2026-09-04",
+          "country": "Unknown speaker",
+          "text": "… welcome. We'll return here on Tuesday with the briefing. Also on Tuesday, it will be handover day for the presidents of the General Assembly, and we expect a stakeout by the new president of the General Assembly, Dr. Khalilur Rahman of …",
+          "t": "34:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-04?t=2091"
         },
         {
-          "date": "2026-06-22",
-          "country": "Colombia",
-          "text": "I declare open the 10,179th meeting of the Security Council. The provisional agenda for this meeting is: Maintenance of peace and security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules of …",
-          "t": "0:15",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=15"
+          "date": "2026-07-24",
+          "country": "UNIS",
+          "text": "… you again, Anna. Very, very important briefing. You talked about accountability, justice, support for the many victims of this conflict in Sudan, humanitarian assistance, and of course the fighting must end. These are messages which we've …",
+          "t": "31:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-07-24?t=1898"
         },
         {
-          "date": "2026-07-27",
-          "country": "DR Congo",
-          "text": "The 10202nd meeting of the Security Council is called to order. The provisional agenda for this meeting is maintenance of peace and security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's provisional rules of …",
-          "t": "0:04",
-          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=4"
-        },
-        {
-          "date": "2026-07-09",
+          "date": "2026-06-26",
           "country": "Russia",
-          "text": "Good morning, Mr. President. Today, the members of the Security Council once again have to waste time in a meeting, although the positions of the parties are well known to everyone. But it is difficult for Western colleagues to decline an …",
-          "t": "45:47",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=2747"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Colombia",
-          "text": "I declare open the 10,179th meeting of the Security Council. The provisional agenda for this meeting is: Maintenance of peace and security of Ukraine. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules of …",
-          "t": "0:01",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1"
-        },
-        {
-          "date": "2026-05-28",
-          "country": "Russia",
-          "text": "… thank the countries that have convened this meeting for giving us yet another opportunity to again draw the attention of the international community to what happened on the 22nd of May. Your goal, of course, was not to do this, but on the …",
-          "t": "66:31",
-          "pageUrl": "https://transcripts.un.org/en/sc/10160?t=3991"
+          "text": "… Under-Secretary-General for Political Affairs and Peacebuilding, Ms. Rosemary DiCarlo, as well as Deputy Executive Director of UNICEF, Ms. Hanan Suleiman for their briefings. We welcome the participation of Sudan's permanent representative, …",
+          "t": "36:48",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=2208"
         }
       ]
     },
@@ -2615,325 +2969,6 @@
           "text": "… with Security Council Resolution 2793. While there, the Secretary-General was also briefed by the Force Commander of the Gang Suppression Force, Before the day is over, the Secretary-General will have met with the Prime Minister. He will …",
           "t": "15:42",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-16?t=942"
-        }
-      ]
-    },
-    {
-      "id": "sdn",
-      "name": "Sudan",
-      "lon": 30,
-      "lat": 15,
-      "volume": 11,
-      "level": "elevated",
-      "trend": [
-        6,
-        11,
-        0,
-        3,
-        0,
-        3,
-        0,
-        3,
-        0,
-        0,
-        7,
-        1
-      ],
-      "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
-      "briefings": [
-        {
-          "date": "2026-08-07",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
-          "t": "2:20",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=140"
-        },
-        {
-          "date": "2026-07-22",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the 19th of July. The violence has further displaced civilians and restricted humanitarian access in affected areas. OCHA also tells us that at least 6 humanitarian organizations, including partners supporting the Ebola response, have …",
-          "t": "5:31",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=331"
-        },
-        {
-          "date": "2026-07-06",
-          "speaker": "Stephane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… these deadly attacks, noting that they tear apart homes, take innocent lives, and must not be accepted. And our OCHA colleagues tell us that search and rescue operations for people who might still be trapped in rubble are underway. Local …",
-          "t": "45:51",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-06?t=2751"
-        },
-        {
-          "date": "2026-06-25",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… efforts on the ground to ensure that assistance reaches those most in need as quickly and effectively as possible. OCHA is also supporting the coordination of incoming international search and rescue teams, which we expect will arrive or …",
-          "t": "31:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-25?t=1905"
-        },
-        {
-          "date": "2026-06-19",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… and logistical operations. On the humanitarian front, UNIFIL, through its liaison branch and its coordination with OCHA, facilitated 8 humanitarian missions in Sector West yesterday. This week, UNIFIL also scaled up delivery of food and …",
-          "t": "46:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-19?t=2804"
-        },
-        {
-          "date": "2026-06-01",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
-          "t": "22:56",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=1376"
-        },
-        {
-          "date": "2026-09-01",
-          "speaker": "Stephane",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… colleagues tell us that the response to last week's flash flood is entering a new phase with authorities intensifying relief efforts and recovery operations. As of today, authorities have recovered more than 1,000 bodies, while 3,900 people …",
-          "t": "59:49",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-01?t=3589"
-        },
-        {
-          "date": "2026-06-23",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Council's strong message that there can be no impunity for attacks against UN peacekeepers. Tom Fletcher, Head of our Emergency Relief Coordinator, announced this morning that $110 million was being released from the UN Central Emergency …",
-          "t": "15:50",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=950"
-        },
-        {
-          "date": "2026-06-19",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… visit by the French and British ministers of development, who were joined by Imran Riza, the humanitarian and resident coordinator for the UN. They visited a collective shelter. Site managers told them that many families who'd initially …",
-          "t": "47:37",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-19?t=2857"
-        },
-        {
-          "date": "2026-06-18",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Those choosing to remain must be respected. They must be protected. And they must have access to the humanitarian relief that they need. The Secretary-General reminds all parties of their clear obligations under international humanitarian …",
-          "t": "35:13",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=2113"
-        },
-        {
-          "date": "2026-07-06",
-          "speaker": "Stephane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… yet. And before we get to more football, at 1:15 PM there will be a briefing here by our friend Jean-Pierre Lacroix, Under-Secretary-General for Peace Operations. He will be joined by Faisal Shakhar, the UN Police Advisor, and they will be …",
-          "t": "36:59",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-06?t=2219"
-        },
-        {
-          "date": "2026-06-23",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the same answer: a fast, fair transition to clean energy, a surge in adaptation, resilience, and climate justice for those already facing climate harm. The good news, he said, is that unlike every past energy crisis, we now have a clear way …",
-          "t": "0:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=38"
-        },
-        {
-          "date": "2026-06-19",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… you had asked me about contacts regarding Sudan, and I can tell you that the Personal Envoy of the Secretary-General for Sudan, Pekka Havisto, spoke with the Commander-in-Chief of the Rapid Support Forces, General Mohamed Hamdan Dagalo, …",
-          "t": "42:43",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-19?t=2563"
-        },
-        {
-          "date": "2026-08-07",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "Good afternoon and happy Friday, everybody. Amina Mohamed, the Deputy Secretary-General, spoke to the Security Council members this morning at an ARIA formula meeting on education in Sudan. She said that among everything the war in Sudan …",
-          "t": "0:07",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=7"
-        },
-        {
-          "date": "2026-07-22",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… offices in Geneva. This is a gathering that takes place every 2 years, co-chaired by Dr. Ahmad Kawesa Sengendo, the Assistant Secretary-General for Economic Affairs for the OIC, and Khaled Khiori, the Assistant Secretary-General in the …",
-          "t": "0:40",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=40"
-        },
-        {
-          "date": "2026-06-25",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… had to cancel at the last minute. But we're trying to get him reprogrammed very soon. We will have Pekka Havisto, the Secretary-General's Personal Envoy for Sudan. He should be here in about half an hour or so. Let me start off first with a …",
-          "t": "29:06",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-25?t=1746"
-        },
-        {
-          "date": "2026-06-23",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "All right. Speaking of announcements, good morning. The Secretary-General remains in London, where earlier today he delivered a special address at the London Climate Action Week. He said that our world is facing two crises: a climate crisis …",
-          "t": "0:05",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=5"
-        },
-        {
-          "date": "2026-06-11",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Happy to be back with you. Just a programming note, 3 PM today in the Chamber of the Economic and Social Council, the Secretary-General will deliver remarks on the launch of the Muscat Plan of Action. Which for those of you who don't know …",
-          "t": "0:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-11?t=10"
-        },
-        {
-          "date": "2026-06-18",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "and civilian infrastructure. The Secretary-General is particularly alarmed by reports of deployment by the Rapid Support Forces of substantial military reinforcements around El-Obeid, which may indicate an imminent ground offensive into the …",
-          "t": "33:07",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=1987"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-08-24",
-          "country": "United Kingdom",
-          "text": "… towards peace. Third, by supporting the humanitarian agencies working with the people trapped in this war, and led by OCHA, thank you. Humanitarian access continues to be obstructed by all parties to the conflict, with costs measured in …",
-          "t": "49:02",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=2942"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "Russia",
-          "text": "… facing an acute food shortage. The scale of need exceeds the capacity of humanitarian agencies. A lack of funding, the OCHA humanitarian plan is only funded at 40 percent, is already forcing humanitarian agencies to cut their food rations …",
-          "t": "82:56",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=4976"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "Colombia",
-          "text": "… for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher for the information he has shared and thank OCHA for the valuable work that they do on the ground. I'd also like to thank Under Secretary General for Political and …",
-          "t": "93:35",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=5615"
-        },
-        {
-          "date": "2026-07-09",
-          "country": "UN",
-          "text": "… WHO reports that cholera response supplies have been prepositioned in al-Obaid. For the broader humanitarian response, OCHA has already allocated more than $44 million through the Sudan Humanitarian Fund to our partners to provide critical …",
-          "t": "45:20",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-09?t=2720"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "United States",
-          "text": "… ground. That is why we are working closely with the United Nations, including the Secretary-General's Office, DPPA, OCHA, and the Office of the Personal Envoy for Sudan. The UN, as well as many members of this Council, to develop a …",
-          "t": "74:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=4451"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "Denmark",
-          "text": "… for Political and Peacebuilding Affairs, Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, and Dr. Eva Kher, Health Protection and Peacebuilding Adviser. It is so decided. The Security …",
-          "t": "0:49",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=49"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "UN Secretariat",
-          "text": "… face the unrelenting consequences of one of the worst humanitarian crises of our time. My colleague, Tom Fletcher, the emergency relief coordinator, will brief you in detail about the unbearable suffering the men, women, and children of …",
-          "t": "3:20",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=200"
-        },
-        {
-          "date": "2026-08-06",
-          "country": "Latvia",
-          "text": "… of its declaration, and the priority now is to translate this step into concrete action. Third, The humanitarian emergency continues to deepen amid ongoing conflict and violations of international humanitarian law. More than half of the …",
-          "t": "79:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10206?t=4754"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "EU",
-          "text": "… in crisis with severe access constraints, such as Palestine, Sudan, or DRC, to name a few, under the leadership of the Emergency Relief Coordinator and in cooperation with other UN agencies. We regret that UNICEF received only 31% of its …",
-          "t": "136:59",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=8219"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "Denmark",
-          "text": "Good morning. The 10211th meeting of the Security Council is called to order. The provisional agenda for this meeting is reports of the Secretary General on the Sudan and South Sudan. The agenda is adopted. In accordance with rule 37 of the …",
-          "t": "0:09",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=9"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "Panama",
-          "text": "Thank you, Madam President. We are grateful for the briefings delivered by the Under-Secretary-General for Political and Peacebuilding Affairs, Ms. Rosemary DiCarlo, and by Hanan Souleiman, Deputy Executive Director of UNICEF. We thank them …",
-          "t": "42:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=2534"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "Bahrain",
-          "text": "Madam President, we thank Major Osmo Di Carlo, Under-Secretary-General for Political and Peacebuilding Affairs, and Ms. Anan Suleiman, Deputy Executive Director of UNICEF. We thank them both for the detailed briefings. We welcome the …",
-          "t": "47:54",
-          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=2874"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "Sudan",
-          "text": "… first of all like to congratulate you, Madam President, on your country's assumption of the presidency of the Council for this month. We commend your able leadership of the Council's deliberations. I also wish to thank Ms. Rosemary DiCarlo, …",
-          "t": "103:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=6220"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "United Arab Emirates",
-          "text": "President, I thank you for convening today's meeting. I wish to thank Tom Fletcher USG for Humanitarian Affairs and USG Rosemary DeCarlo, as well as Dr. Eva Khair for the briefings provided. The latest report of the Secretary-General on the …",
-          "t": "173:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=10420"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "UN",
-          "text": "All right. Hello. Good afternoon, everyone. Tomorrow, our guest will be Pekka Havisto, Personal Envoy of the Secretary-General for Sudan, and he will be here to brief on the situation in Sudan. The Secretary-General will be back in New York …",
-          "t": "0:08",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-24?t=8"
-        },
-        {
-          "date": "2026-07-24",
-          "country": "UNIS",
-          "text": "… you again, Anna. Very, very important briefing. You talked about accountability, justice, support for the many victims of this conflict in Sudan, humanitarian assistance, and of course the fighting must end. These are messages which we've …",
-          "t": "31:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-07-24?t=1898"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "Russia",
-          "text": "… Under-Secretary-General for Political Affairs and Peacebuilding, Ms. Rosemary DiCarlo, as well as Deputy Executive Director of UNICEF, Ms. Hanan Suleiman for their briefings. We welcome the participation of Sudan's permanent representative, …",
-          "t": "36:48",
-          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=2208"
         }
       ]
     },
@@ -5996,8 +6031,8 @@
           "date": "2026-09-03",
           "country": "Fiji",
           "text": "Mr. President, Director, Excellencies, distinguished delegates, I am pleased to deliver the following remarks on behalf of the 12 members of the Pacific States represented in New York, namely, Federated States of Micronesia, Kiribati, …",
-          "t": "82:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=4925"
+          "t": "65:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=3902"
         }
       ]
     },
@@ -6031,8 +6066,8 @@
           "date": "2026-09-03",
           "country": "Fiji",
           "text": "Mr. President, Director, Excellencies, distinguished delegates, I am pleased to deliver the following remarks on behalf of the 12 members of the Pacific States represented in New York, namely, Federated States of Micronesia, Kiribati, …",
-          "t": "82:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=4925"
+          "t": "65:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=3902"
         }
       ]
     },
@@ -6041,7 +6076,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 66,
+      "volume": 69,
       "level": "elevated",
       "trend": [
         91,
@@ -6055,7 +6090,7 @@
         6,
         9,
         33,
-        16
+        19
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -7241,17 +7276,38 @@
         },
         {
           "date": "2026-09-03",
-          "country": "Estonia",
-          "text": "… surprisingly efficient, so it will take a minute. Thank you. So distinguished delegates, we will now turn to item six of the agenda, the update on UNICEF humanitarian action. The Deputy Executive Director, Humanitarian Action and Supply …",
-          "t": "58:16",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=3496"
+          "country": "Timor-Leste",
+          "text": "Thank you, Ambassador. Madam Chair, distinguished members of the committee, good morning, everyone. respond to yesterday question we know that many question that spending yesterday now we try to respond what we get information from our …",
+          "t": "3:09",
+          "pageUrl": "https://transcripts.un.org/en/crc/2941?t=189"
+        },
+        {
+          "date": "2026-09-03",
+          "country": "Timor-Leste",
+          "text": "Thank you. Minister order number of 4 2025 talks about the identification of the teaching staff needs for basic education establishments. This is why Minister of Education has recruited the new teacher through the candidate scholarship. …",
+          "t": "14:54",
+          "pageUrl": "https://transcripts.un.org/en/crc/2941?t=894"
+        },
+        {
+          "date": "2026-09-03",
+          "country": "Timor-Leste",
+          "text": "… support for girls to remain in school, and make sure to prevent violence and early pregnancy. Related to the question of breastfeeding, the government continue to promote exclusive breastfeeding for the first six months. health workers …",
+          "t": "125:59",
+          "pageUrl": "https://transcripts.un.org/en/crc/2941?t=7559"
+        },
+        {
+          "date": "2026-09-03",
+          "country": "UNICEF Executive Board",
+          "text": "… surprisingly efficient, so it will take a minute. Thank you. So, distinguished delegates, we will now turn to item 6 of the agenda, the update on UNICEF humanitarian action. The Deputy Executive Director, Humanitarian Action and Supply …",
+          "t": "41:13",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=2473"
         },
         {
           "date": "2026-09-03",
           "country": "UNICEF",
-          "text": "… because children affected by climate hazard and are affected by armed conflict continue to have the highest level of deprivation and rights violations. Nearly half of the world's children, or 1.1 billion children, are now exposed to at …",
-          "t": "58:47",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=3527"
+          "text": "… board because children affected by climate hazard and/or affected by armed conflict continue to have the highest level of deprivation and rights violations. Nearly half of the world's children, or 1.1 billion children, are now exposed to at …",
+          "t": "41:44",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=2504"
         },
         {
           "date": "2026-09-03",
