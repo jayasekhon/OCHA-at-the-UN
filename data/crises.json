@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:45:36.400Z",
+  "generatedAt": "2026-09-08T20:32:45.334Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,7 +7,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 23,
+      "volume": 24,
       "level": "elevated",
       "trend": [
         13,
@@ -21,7 +21,7 @@
         3,
         5,
         5,
-        5
+        6
       ],
       "top": "… Mansour. Thank you for the committee for the invitation to brief you today. Thanks also to the division, from the director to all the colleagues who made this happen today. I will be providing a short brief on the humanitarian situation …",
       "briefings": [
@@ -186,6 +186,15 @@
           "text": "… the cessation of hostilities and creating the conditions for a permanent ceasefire. On the humanitarian front, our OCHA colleagues report that humanitarian access and emergency response capacity continue to face severe constraints. In …",
           "t": "0:03",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-29?t=3"
+        },
+        {
+          "date": "2026-09-08",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of UNIFIL. And heading south to the occupied Palestinian territory, over the weekend, our colleague Tom Fletcher, our emergency relief coordinator, called for increased funding and access for essential supplies and equipment to help avert a …",
+          "t": "45:59",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=2759"
         },
         {
           "date": "2026-08-18",
@@ -6031,7 +6040,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 69,
+      "volume": 72,
       "level": "elevated",
       "trend": [
         62,
@@ -6045,10 +6054,19 @@
         7,
         24,
         26,
-        10
+        13
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
+        {
+          "date": "2026-09-08",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… colleagues on the ground tell us that civilians, including children, have been among those killed and injured. OCHA says the escalation is also forcing people to flee their homes. According to local authorities, around 5,000 families and/or …",
+          "t": "43:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=2624"
+        },
         {
           "date": "2026-08-21",
           "speaker": "Julien Arneil",
@@ -6167,6 +6185,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-01?t=2206"
         },
         {
+          "date": "2026-09-08",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… you. Yeah. All right. Good afternoon. Bear with me, since we had no briefing yesterday, we have a bit of a data dump for you, but perhaps even some news. But you will be the judge of that. As you heard this morning, the Secretary-General …",
+          "t": "36:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=2209"
+        },
+        {
           "date": "2026-06-29",
           "speaker": "Stéphane",
           "speakerAffiliation": "UN",
@@ -6235,6 +6262,13 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-09-08",
+          "country": "Physicians for Human Rights",
+          "text": "… regions nearly four years after the Cessation of Hostilities Agreement in the absence of meaningful justice. THR and OCHA have documented widespread, systematic, and deliberate acts of conflict-related sexual and reproductive violence, …",
+          "t": "84:03",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/4?t=5043"
+        },
         {
           "date": "2026-09-01",
           "country": "GA",
