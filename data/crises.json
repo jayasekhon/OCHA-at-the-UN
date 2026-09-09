@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:41:15.525Z",
+  "generatedAt": "2026-09-09T20:15:13.065Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -1009,7 +1009,7 @@
       "name": "Nepal",
       "lon": 84.1,
       "lat": 28.4,
-      "volume": 16,
+      "volume": 19,
       "level": "elevated",
       "trend": [
         0,
@@ -1023,10 +1023,19 @@
         0,
         1,
         12,
-        3
+        6
       ],
-      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
+      "top": "… insecurity and other constraints, especially in Ombembe Prefecture. Following serious security incidents in late June, OCHA and several partners temporarily suspended operations in Zemio and the the upcoming days, a NOCHA-led mission will …",
       "briefings": [
+        {
+          "date": "2026-09-09",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… insecurity and other constraints, especially in Ombembe Prefecture. Following serious security incidents in late June, OCHA and several partners temporarily suspended operations in Zemio and the the upcoming days, a NOCHA-led mission will …",
+          "t": "39:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-09?t=2346"
+        },
         {
           "date": "2026-08-31",
           "speaker": "Stefan",
@@ -1082,6 +1091,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2192"
         },
         {
+          "date": "2026-09-09",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "I'm not qualified for that discussion. I can tell you that much. Maybe Benno is, but I'm not. Yeah. Yeah, Benno is much more qualified for that, too. No, no, I see. You've missed the best part of the hair discussion. Good afternoon to you …",
+          "t": "26:39",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-09?t=1599"
+        },
+        {
           "date": "2026-08-31",
           "speaker": "Stefan",
           "speakerAffiliation": "UN",
@@ -1098,6 +1116,15 @@
           "text": "40 seconds. start with a statement following the death of Ratko Mladic. The Secretary-General takes note of the death of Ratko Mladic, the former commander of the Bosnian Serb Armed Forces. Mr. Mladic was serving a life sentence of …",
           "t": "34:48",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-27?t=2088"
+        },
+        {
+          "date": "2026-09-09",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… is, but I'm not. Yeah. Yeah, Benno is much more qualified for that, too. No, no, I see. You've missed the best part of the hair discussion. Good afternoon to you all. In a short while, we will be joined by Leela Peters Yaha, who is, you …",
+          "t": "27:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-09?t=1627"
         },
         {
           "date": "2026-08-27",
@@ -1814,7 +1841,7 @@
       "name": "Denmark",
       "lon": 10,
       "lat": 56,
-      "volume": 12,
+      "volume": 13,
       "level": "elevated",
       "trend": [
         3,
@@ -1828,7 +1855,7 @@
         2,
         8,
         1,
-        0
+        1
       ],
       "top": "… now make a statement in my capacity as Minister for Foreign Affairs of Denmark. First of all, I would like to thank Emergency Relief Coordinator Tom Fletcher and Under-Secretary Rosemary DiCairo for their important briefings. And I would …",
       "briefings": [],
@@ -1890,6 +1917,13 @@
           "text": "Mr. President, distinguished members of the Security Council, I thank the Chinese Presidency for convening this meeting and express my gratitude to the delegations of Denmark, France, Greece, Latvia, and the United Kingdom for supporting …",
           "t": "78:43",
           "pageUrl": "https://transcripts.un.org/en/sc/10160?t=4723"
+        },
+        {
+          "date": "2026-09-09",
+          "country": "Denmark",
+          "text": "Thank you, Mr. President, Executive Director, Excellencies, colleagues. In addition to the joint statement just delivered by Spain, Denmark wishes to add a few remarks in our national capacity. Denmark would like to thank UN Women for the …",
+          "t": "79:26",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=4766"
         },
         {
           "date": "2026-08-26",
@@ -5406,6 +5440,69 @@
       ]
     },
     {
+      "id": "esp",
+      "name": "Spain",
+      "lon": -3.7,
+      "lat": 40.5,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… Héctor Gómez of Spain, Vice President of ECOSOC, for his leadership and dedication. We also recognize the work of OCHA and all of its partners who work tirelessly to alleviate the suffering of people affected by humanitarian crises. The …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-19",
+          "country": "Dominican Republic",
+          "text": "… Héctor Gómez of Spain, Vice President of ECOSOC, for his leadership and dedication. We also recognize the work of OCHA and all of its partners who work tirelessly to alleviate the suffering of people affected by humanitarian crises. The …",
+          "t": "51:22",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=3082"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Germany",
+          "text": "Thank you, Chair. Let me first express our sincere appreciation to Spain for the exemplary leadership in organizing this year's ECOSOC Humanitarian Affairs Segment. Further, Germany aligns itself with the statement of the European Union, …",
+          "t": "97:21",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=5841"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "South Africa",
+          "text": "… on behalf of the African members of ECOSOC, the G77 plus China, and the Global Initiative on IHL. We thank Spain for convening this general debate of the ECOSOC Humanitarian Affairs Segment under the theme Strengthening Humanitarian …",
+          "t": "126:05",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=7565"
+        },
+        {
+          "date": "2026-09-09",
+          "country": "Denmark",
+          "text": "Thank you, Mr. President, Executive Director, Excellencies, colleagues. In addition to the joint statement just delivered by Spain, Denmark wishes to add a few remarks in our national capacity. Denmark would like to thank UN Women for the …",
+          "t": "79:26",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=4766"
+        },
+        {
+          "date": "2026-04-20",
+          "country": "Romania",
+          "text": "… its national capacity. Romania congratulates you on your appointment and assures your full support in guiding the work of this subcommittee. We also express our sincere appreciation to Mr. Santiago Ripoll Carullia of Spain for his dedicated …",
+          "t": "53:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j586wad2?t=3184"
+        }
+      ]
+    },
+    {
       "id": "mmr",
       "name": "Myanmar",
       "lon": 96,
@@ -5922,6 +6019,48 @@
       "onOcha": []
     },
     {
+      "id": "kor",
+      "name": "South Korea",
+      "lon": 127.8,
+      "lat": 36.5,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "I'd like to begin by expressing my thanks to Ms. Rosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs. And my thanks also to Mr. James Byrne of the Open Source Center. I thank them both for their very complete …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-04-30",
+          "country": "Bahrain",
+          "text": "I'd like to begin by expressing my thanks to Ms. Rosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs. And my thanks also to Mr. James Byrne of the Open Source Center. I thank them both for their very complete …",
+          "t": "89:53",
+          "pageUrl": "https://transcripts.un.org/en/sc/10147?t=5393"
+        },
+        {
+          "date": "2026-09-09",
+          "country": "South Korea",
+          "text": "Thank you, Mr. President. Let me begin by thanking the Executive Director and her team for their continued dedication in demanding period and the Bureau for its stewardship. The Republic of Korea has followed the strategic merger assessment …",
+          "t": "82:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=4939"
+        }
+      ]
+    },
+    {
       "id": "ury",
       "name": "Uruguay",
       "lon": -55.8,
@@ -6013,88 +6152,11 @@
       ]
     },
     {
-      "id": "fsm",
-      "name": "Micronesia",
-      "lon": 150,
-      "lat": 6.9,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "top": "Mr. President, Director, Excellencies, distinguished delegates, I am pleased to deliver the following remarks on behalf of the 12 members of the Pacific States represented in New York, namely, Federated States of Micronesia, Kiribati, …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-03",
-          "country": "Fiji",
-          "text": "Mr. President, Director, Excellencies, distinguished delegates, I am pleased to deliver the following remarks on behalf of the 12 members of the Pacific States represented in New York, namely, Federated States of Micronesia, Kiribati, …",
-          "t": "65:02",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=3902"
-        }
-      ]
-    },
-    {
-      "id": "gmb",
-      "name": "Gambia",
-      "lon": -15.3,
-      "lat": 13.5,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "… for the opportunity to share our national experience on this cluster, especially on the progressive implementation of the right to education. The progressive implementation of the right to education in the Gambia is grounded in our 1997 …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-01",
-          "country": "Gambia",
-          "text": "… for the opportunity to share our national experience on this cluster, especially on the progressive implementation of the right to education. The progressive implementation of the right to education in the Gambia is grounded in our 1997 …",
-          "t": "111:57",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hud4ao8s?t=6717"
-        },
-        {
-          "date": "2026-04-15",
-          "country": "Australia",
-          "text": "Thank you, Chair, distinguished delegates. Australia commends the Chair, the Director of the Office for Outer Space Affairs and the Secretariat their continued support of the subcommittee. We also welcome Cote d'Ivoire, the Gambia, …",
-          "t": "111:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17jmilsi2?t=6667"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 70,
+      "volume": 71,
       "level": "elevated",
       "trend": [
         33,
@@ -6108,7 +6170,7 @@
         11,
         24,
         23,
-        10
+        11
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -7298,6 +7360,13 @@
           "text": "Thank you, Mr. President. Mr. President, congratulations on the nomination as Minister of Foreign Affairs of your predecessor. Mr. President of the UN Women Board, Chairperson of the Joint Board, Madam President of the WFP Board, Mr. …",
           "t": "43:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=2585"
+        },
+        {
+          "date": "2026-09-09",
+          "country": "Dominican Republic",
+          "text": "Thank you. Thank you, Madam Executive Director, distinguished members of the Executive Board. The current moment where we are beginning the implementation of UN Women's Strategic Plan 2026-2029 shows the relevance of its triple mandate. At …",
+          "t": "59:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=3568"
         },
         {
           "date": "2026-09-07",
