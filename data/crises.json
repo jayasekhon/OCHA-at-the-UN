@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:22:26.275Z",
+  "generatedAt": "2026-09-14T17:20:24.469Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -845,7 +845,7 @@
       "name": "Sudan",
       "lon": 30,
       "lat": 15,
-      "volume": 14,
+      "volume": 15,
       "level": "elevated",
       "trend": [
         11,
@@ -859,7 +859,7 @@
         7,
         0,
         2,
-        5
+        6
       ],
       "top": "… insecurity and other constraints, especially in Ombembe Prefecture. Following serious security incidents in late June, OCHA and several partners temporarily suspended operations in Zemio and the the upcoming days, a NOCHA-led mission will …",
       "briefings": [
@@ -1083,6 +1083,13 @@
       "leadership": [],
       "sc": [],
       "onOcha": [
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "… Thursday and Friday, the mission facilitated 16 humanitarian missions through its liaison branch in coordination with OCHA, all in Sector West. Turning to Sudan, where our colleagues at the Office for the Coordination of Humanitarian …",
+          "t": "30:42",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1842"
+        },
         {
           "date": "2026-08-24",
           "country": "United Kingdom",
@@ -6332,7 +6339,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 72,
+      "volume": 74,
       "level": "elevated",
       "trend": [
         26,
@@ -6346,7 +6353,7 @@
         15,
         29,
         19,
-        9
+        11
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -7006,6 +7013,13 @@
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=2186"
         },
         {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
+          "t": "21:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1311"
+        },
+        {
           "date": "2026-09-03",
           "country": "IFRC",
           "text": "… more difficult, as well as the importance of doing much more before disasters strike. Some essential humanitarian relief items can face average import tariffs of around 17% globally when exemptions are not in place. This is also double the …",
@@ -7536,6 +7550,13 @@
           "text": "Thank you, Mr. President. Mr. President, congratulations on the nomination as Minister of Foreign Affairs of your predecessor. Mr. President of the UN Women Board, Chairperson of the Joint Board, Madam President of the WFP Board, Mr. …",
           "t": "43:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=2585"
+        },
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
+          "t": "21:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1270"
         },
         {
           "date": "2026-09-11",
