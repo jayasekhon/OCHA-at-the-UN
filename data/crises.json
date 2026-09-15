@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:46:13.208Z",
+  "generatedAt": "2026-09-15T15:59:15.016Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -6381,7 +6381,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 72,
+      "volume": 73,
       "level": "elevated",
       "trend": [
         31,
@@ -6395,7 +6395,7 @@
         24,
         26,
         13,
-        6
+        7
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
@@ -6585,6 +6585,13 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-09-15",
+          "country": "UN",
+          "text": "… ever, someone falls ill along the journey. This started a little over a month ago. It was financed through the SURF of OCHA to start this. So, this is an excellent example of the integration of the UN response, together with the government, …",
+          "t": "26:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-09-15?t=1611"
+        },
         {
           "date": "2026-09-08",
           "country": "Physicians for Human Rights",
