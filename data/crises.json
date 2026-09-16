@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:43:54.743Z",
+  "generatedAt": "2026-09-16T02:40:25.214Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -13,15 +13,15 @@
         6,
         1,
         4,
-        6,
+        5,
         7,
         5,
         5,
-        3,
-        5,
         5,
         8,
-        3
+        5,
+        6,
+        0
       ],
       "top": "… Mansour. Thank you for the committee for the invitation to brief you today. Thanks also to the division, from the director to all the colleagues who made this happen today. I will be providing a short brief on the humanitarian situation …",
       "briefings": [
@@ -697,8 +697,8 @@
         0,
         0,
         0,
-        0,
-        13,
+        1,
+        12,
         3,
         0
       ],
@@ -848,18 +848,18 @@
       "volume": 15,
       "level": "elevated",
       "trend": [
-        8,
+        7,
+        2,
+        1,
         2,
         1,
         0,
         3,
         0,
-        3,
-        0,
         7,
         1,
-        3,
-        4
+        6,
+        1
       ],
       "top": "… insecurity and other constraints, especially in Ombembe Prefecture. Following serious security incidents in late June, OCHA and several partners temporarily suspended operations in Zemio and the the upcoming days, a NOCHA-led mission will …",
       "briefings": [
@@ -1410,18 +1410,18 @@
       "volume": 13,
       "level": "elevated",
       "trend": [
-        1,
+        0,
         3,
         2,
         0,
         2,
         1,
         6,
-        0,
-        2,
+        1,
+        1,
         3,
-        2,
-        6
+        5,
+        3
       ],
       "top": "… you, consistently to the Security Council, the various envoys and special representatives of the SG, our colleagues in OCHA, and also in the Office for Peace and Peacebuilding Affairs. So thank you. Please refer to them. Anyone else in the …",
       "briefings": [
@@ -1904,18 +1904,18 @@
       "volume": 12,
       "level": "elevated",
       "trend": [
-        1,
-        1,
-        1,
-        0,
-        0,
         0,
         2,
         0,
-        9,
-        2,
         0,
-        1
+        0,
+        1,
+        1,
+        2,
+        8,
+        1,
+        1,
+        0
       ],
       "top": "… now make a statement in my capacity as Minister for Foreign Affairs of Denmark. First of all, I would like to thank Emergency Relief Coordinator Tom Fletcher and Under-Secretary Rosemary DiCairo for their important briefings. And I would …",
       "briefings": [],
@@ -2079,6 +2079,314 @@
       ]
     },
     {
+      "id": "yem",
+      "name": "Yemen",
+      "lon": 48,
+      "lat": 15,
+      "volume": 11,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        5,
+        1,
+        0,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        11
+      ],
+      "top": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
+      "briefings": [
+        {
+          "date": "2026-09-15",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
+          "t": "36:33",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=2193"
+        },
+        {
+          "date": "2026-09-11",
+          "speaker": "Melissa",
+          "speakerAffiliation": "GA",
+          "speakerFunction": "PGA Spokesperson",
+          "text": "… you, consistently to the Security Council, the various envoys and special representatives of the SG, our colleagues in OCHA, and also in the Office for Peace and Peacebuilding Affairs. So thank you. Please refer to them. Anyone else in the …",
+          "t": "7:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=443"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners, continue to coordinate very closely with the national authorities to scale up our efforts. Our colleagues at OCHA tells us that we are deploying teams to access needs in most impacted areas. in coordination of local authorities. …",
+          "t": "30:58",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1858"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… the same issues related to, for example, women and girls, like we have recently UN brief, UN guests here briefing from OCHA, speaking on the humanitarian situation. Yesterday, we saw that our very strong report from UNESCO and also from UN …",
+          "t": "44:18",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=2658"
+        },
+        {
+          "date": "2026-09-15",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… available to you online should you wish to read it, and I encourage you to look at it. We'll start in Yemen. where our Emergency Relief Coordinator, Tom Fletcher, just released $9 million from the Central Emergency Relief Fund to provide …",
+          "t": "36:11",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=2171"
+        },
+        {
+          "date": "2026-09-11",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… continue to pose severe challenges. For example, our partners working to mobilize rapid response efforts have 15,000 emergency kits ready to go, but cuts to roads mean the majority are stuck in Aden. The Mokha seaport sustained significant …",
+          "t": "14:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=884"
+        },
+        {
+          "date": "2026-09-10",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… to safely do their jobs. Despite the challenges, rapid response partners have reached more than 2,700 households with emergency assistance. More funding and better access are critical to reach all those who need assistance. Once again, we …",
+          "t": "17:42",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-10?t=1062"
+        },
+        {
+          "date": "2026-07-20",
+          "speaker": "Stephanie",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… hygiene infrastructure, and the establishment of temporary isolation sites. At the end of June, Tom Fletcher, our Emergency Relief Coordinator, allocated $2 million from the Central Emergency Response Fund to strengthen Ebola operational …",
+          "t": "49:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=2984"
+        },
+        {
+          "date": "2026-09-11",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "All right. Good afternoon and happy Friday, everyone. As you know, the Secretary-General is in New Delhi for the BRICS Summit, and he met there today with Indian Prime Minister Narendra Modi. The Secretary-General expressed appreciation for …",
+          "t": "10:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=613"
+        },
+        {
+          "date": "2026-08-13",
+          "speaker": "Daniela",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… while calling on the de facto authorities to take significant steps that could contribute to lasting stability for the Afghan people. The mission has pointed out that a reduction in conflict has brought tangible benefits for many Afghans …",
+          "t": "28:53",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1733"
+        },
+        {
+          "date": "2026-09-15",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… you yesterday, happy Monday nonetheless. Tomorrow, 11 o'clock, be in this room if you want to ask a question of the Secretary-General. He will be here to brief you ahead of the 81st session of the General Assembly. We will have the briefing …",
+          "t": "34:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=2088"
+        },
+        {
+          "date": "2026-09-10",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Moving to the situation in Yemen, our colleagues there confirmed that eight UN vehicles were seized from our humanitarian hub in Mocha this morning, amid recent developments in the city. The Office for the Coordination of Humanitarian …",
+          "t": "17:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-10?t=1026"
+        }
+      ],
+      "leadership": [],
+      "sc": [
+        {
+          "date": "2026-08-13",
+          "speaker": "Tom Fletcher",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "USG Humanitarian Affairs / ERC",
+          "text": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
+          "t": "9:55",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=595"
+        }
+      ],
+      "onOcha": [
+        {
+          "date": "2026-09-15",
+          "country": "UN Secretariat",
+          "text": "… operations under growing pressure. Our colleagues from the Office for the Coordination of Humanitarian Affairs, OCHA, warn that at least 125,000 people have now been displaced across Yemen since the start of the month. Over the same period, …",
+          "t": "9:56",
+          "pageUrl": "https://transcripts.un.org/en/sc/10222?t=596"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Panama",
+          "text": "… for a crisis which rumbles on. Since we took up our seat as an elected member of this council, figures reported by OCHA have continued to increase and have produced increasingly alarming forecasts. Every new figure is a reminder that …",
+          "t": "25:07",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=1507"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Russia",
+          "text": "… the Secretary-General for Yemen, Mr. Hans Grundberg, and Under-Secretary-General for Humanitarian Affairs and Head of OCHA, Mr. Tom Fletcher, for their briefings. We are following with growing concern the situation in Yemen. Today, it is …",
+          "t": "68:31",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=4111"
+        },
+        {
+          "date": "2026-07-13",
+          "country": "Denmark",
+          "text": "… must be protected, particularly to allow for the timely delivery of humanitarian aid in Yemen. But as we heard from OCHA both last month and now again today, less access, less presence, and less funding mean less food, less medicine and …",
+          "t": "58:32",
+          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=3512"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "China",
+          "text": "… Third, the humanitarian situation must be reversed. Yemen faces one of the most dire humanitarian situations Recently, OCHA and the World Bank, along with several organizations, successively released reports on Yemen forewarning continued …",
+          "t": "63:58",
+          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=3838"
+        },
+        {
+          "date": "2026-04-14",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. I thank the Special Envoy Hans Krohnberg and OCHA Director Adam Vosorno for their insightful briefings, and I welcome the participation of the Permanent Representative of Yemen in this meeting. In the light of …",
+          "t": "31:50",
+          "pageUrl": "https://transcripts.un.org/en/sc/10135?t=1910"
+        },
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
+          "t": "21:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1311"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Security Council",
+          "text": "… Envoy of the Secretary-General for Yemen, and Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of item two of the …",
+          "t": "0:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=35"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Panama",
+          "text": "… Envoy of the Secretary-General for Yemen, Mr. Hans Grundberg, and Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Mr. Tom Fletcher. We thank them both for their invaluable briefings and for their tireless …",
+          "t": "19:56",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=1196"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Bahrain",
+          "text": "… Envoy of the Secretary-General for Yemen, Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, for their valuable briefings. I also welcome the participation of the Permanent Representative of …",
+          "t": "43:36",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=2616"
+        },
+        {
+          "date": "2026-07-13",
+          "country": "DR Congo",
+          "text": "… Operations. As well as Mr. Endreka Ratwate, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of item 2 of the …",
+          "t": "1:05",
+          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=65"
+        },
+        {
+          "date": "2026-07-13",
+          "country": "Bahrain",
+          "text": "… and Peacebuilding Affairs and Peace Operations, and Mr. Acting Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. I also welcome the participation of the Permanent Representative of Yemen, His Excellency …",
+          "t": "16:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=1006"
+        },
+        {
+          "date": "2026-07-13",
+          "country": "Russia",
+          "text": "Mr. President, We thank ASG, Mr. Khalid Kiyari, as well as the Acting ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator, Mr. Endrika Ratweta, for their briefings. The problem raised by the Permanent Representative of …",
+          "t": "34:07",
+          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=2047"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "Colombia",
+          "text": "… Envoy of the Secretary-General for Yemen; And Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of Item 2 of the …",
+          "t": "0:44",
+          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=44"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "Bahrain",
+          "text": "… Envoy of the Secretary-General for Yemen, and Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator for their valuable briefings. I would also like to welcome the participation of the Permanent …",
+          "t": "23:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=1423"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "France",
+          "text": "… to thank the Secretary-General's Special Envoy for Yemen, Mr. Grunberg, and the U.S. Chief of Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher. I thank both for their briefings. I also wish to welcome the Permanent …",
+          "t": "43:50",
+          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=2630"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Security Council",
+          "text": "The 10208th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with rule 37 of the Council's provisional rules of procedure, …",
+          "t": "0:09",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=9"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We thank the Special Envoy of the Secretary-General for Yemen, Mr. Hans Grundberg, and the Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, for their invaluable …",
+          "t": "66:21",
+          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=3981"
+        },
+        {
+          "date": "2026-08-13",
+          "country": "Greece",
+          "text": "Thank you, Madam President, I would like to send special thanks to the Secretary-General and the Special Envoy for their. Work in Yemen. Tom Fletcher for their briefings. I also welcome the participation of the permanent representative of …",
+          "t": "56:58",
+          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=3418"
+        },
+        {
+          "date": "2026-07-13",
+          "country": "DR Congo",
+          "text": "The 10,193rd meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules of Procedure, …",
+          "t": "0:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=14"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "France",
+          "text": "Madame President, I first wish to thank the Secretary-General's Special Envoy for Yemen, Mr. Grunberg, and the U.S. Chief of Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher. I thank both for their briefings. I also wish …",
+          "t": "43:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=2623"
+        },
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
+          "t": "21:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1270"
+        },
+        {
+          "date": "2026-04-14",
+          "country": "China",
+          "text": "President, I thank Special Envoy Gronberg and Director Wasano for their briefings, and welcome the Permanent Representative of Yemen to today's meeting. Lately, the sharp escalation in the Middle East has posed new challenges to the …",
+          "t": "24:24",
+          "pageUrl": "https://transcripts.un.org/en/sc/10135?t=1464"
+        }
+      ]
+    },
+    {
       "id": "ukr",
       "name": "Ukraine",
       "lon": 31,
@@ -2091,12 +2399,12 @@
         8,
         0,
         8,
-        3,
-        3,
+        4,
+        2,
         1,
         7,
-        0,
-        3,
+        1,
+        2,
         0
       ],
       "top": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
@@ -2555,307 +2863,6 @@
       ]
     },
     {
-      "id": "yem",
-      "name": "Yemen",
-      "lon": 48,
-      "lat": 15,
-      "volume": 10,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        5,
-        1,
-        0,
-        0,
-        0,
-        11,
-        0,
-        0,
-        0,
-        10
-      ],
-      "top": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
-      "briefings": [
-        {
-          "date": "2026-09-15",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
-          "t": "36:33",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=2193"
-        },
-        {
-          "date": "2026-09-11",
-          "speaker": "Melissa",
-          "speakerAffiliation": "GA",
-          "speakerFunction": "PGA Spokesperson",
-          "text": "… you, consistently to the Security Council, the various envoys and special representatives of the SG, our colleagues in OCHA, and also in the Office for Peace and Peacebuilding Affairs. So thank you. Please refer to them. Anyone else in the …",
-          "t": "7:23",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=443"
-        },
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… partners, continue to coordinate very closely with the national authorities to scale up our efforts. Our colleagues at OCHA tells us that we are deploying teams to access needs in most impacted areas. in coordination of local authorities. …",
-          "t": "30:58",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1858"
-        },
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the same issues related to, for example, women and girls, like we have recently UN brief, UN guests here briefing from OCHA, speaking on the humanitarian situation. Yesterday, we saw that our very strong report from UNESCO and also from UN …",
-          "t": "44:18",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=2658"
-        },
-        {
-          "date": "2026-09-15",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… available to you online should you wish to read it, and I encourage you to look at it. We'll start in Yemen. where our Emergency Relief Coordinator, Tom Fletcher, just released $9 million from the Central Emergency Relief Fund to provide …",
-          "t": "36:11",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=2171"
-        },
-        {
-          "date": "2026-09-11",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… continue to pose severe challenges. For example, our partners working to mobilize rapid response efforts have 15,000 emergency kits ready to go, but cuts to roads mean the majority are stuck in Aden. The Mokha seaport sustained significant …",
-          "t": "14:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=884"
-        },
-        {
-          "date": "2026-09-10",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… to safely do their jobs. Despite the challenges, rapid response partners have reached more than 2,700 households with emergency assistance. More funding and better access are critical to reach all those who need assistance. Once again, we …",
-          "t": "17:42",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-10?t=1062"
-        },
-        {
-          "date": "2026-07-20",
-          "speaker": "Stephanie",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… hygiene infrastructure, and the establishment of temporary isolation sites. At the end of June, Tom Fletcher, our Emergency Relief Coordinator, allocated $2 million from the Central Emergency Response Fund to strengthen Ebola operational …",
-          "t": "49:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=2984"
-        },
-        {
-          "date": "2026-09-11",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "All right. Good afternoon and happy Friday, everyone. As you know, the Secretary-General is in New Delhi for the BRICS Summit, and he met there today with Indian Prime Minister Narendra Modi. The Secretary-General expressed appreciation for …",
-          "t": "10:13",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=613"
-        },
-        {
-          "date": "2026-08-13",
-          "speaker": "Daniela",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… while calling on the de facto authorities to take significant steps that could contribute to lasting stability for the Afghan people. The mission has pointed out that a reduction in conflict has brought tangible benefits for many Afghans …",
-          "t": "28:53",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=1733"
-        },
-        {
-          "date": "2026-09-15",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… you yesterday, happy Monday nonetheless. Tomorrow, 11 o'clock, be in this room if you want to ask a question of the Secretary-General. He will be here to brief you ahead of the 81st session of the General Assembly. We will have the briefing …",
-          "t": "34:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=2088"
-        },
-        {
-          "date": "2026-09-10",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Moving to the situation in Yemen, our colleagues there confirmed that eight UN vehicles were seized from our humanitarian hub in Mocha this morning, amid recent developments in the city. The Office for the Coordination of Humanitarian …",
-          "t": "17:06",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-10?t=1026"
-        }
-      ],
-      "leadership": [],
-      "sc": [
-        {
-          "date": "2026-08-13",
-          "speaker": "Tom Fletcher",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "USG Humanitarian Affairs / ERC",
-          "text": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
-          "t": "9:55",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=595"
-        }
-      ],
-      "onOcha": [
-        {
-          "date": "2026-08-13",
-          "country": "Panama",
-          "text": "… for a crisis which rumbles on. Since we took up our seat as an elected member of this council, figures reported by OCHA have continued to increase and have produced increasingly alarming forecasts. Every new figure is a reminder that …",
-          "t": "25:07",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=1507"
-        },
-        {
-          "date": "2026-08-13",
-          "country": "Russia",
-          "text": "… the Secretary-General for Yemen, Mr. Hans Grundberg, and Under-Secretary-General for Humanitarian Affairs and Head of OCHA, Mr. Tom Fletcher, for their briefings. We are following with growing concern the situation in Yemen. Today, it is …",
-          "t": "68:31",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=4111"
-        },
-        {
-          "date": "2026-07-13",
-          "country": "Denmark",
-          "text": "… must be protected, particularly to allow for the timely delivery of humanitarian aid in Yemen. But as we heard from OCHA both last month and now again today, less access, less presence, and less funding mean less food, less medicine and …",
-          "t": "58:32",
-          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=3512"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "China",
-          "text": "… Third, the humanitarian situation must be reversed. Yemen faces one of the most dire humanitarian situations Recently, OCHA and the World Bank, along with several organizations, successively released reports on Yemen forewarning continued …",
-          "t": "63:58",
-          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=3838"
-        },
-        {
-          "date": "2026-04-14",
-          "country": "Latvia",
-          "text": "Thank you, Madam President. I thank the Special Envoy Hans Krohnberg and OCHA Director Adam Vosorno for their insightful briefings, and I welcome the participation of the Permanent Representative of Yemen in this meeting. In the light of …",
-          "t": "31:50",
-          "pageUrl": "https://transcripts.un.org/en/sc/10135?t=1910"
-        },
-        {
-          "date": "2026-09-14",
-          "country": "UN",
-          "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
-          "t": "21:51",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1311"
-        },
-        {
-          "date": "2026-08-13",
-          "country": "Security Council",
-          "text": "… Envoy of the Secretary-General for Yemen, and Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of item two of the …",
-          "t": "0:35",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=35"
-        },
-        {
-          "date": "2026-08-13",
-          "country": "Panama",
-          "text": "… Envoy of the Secretary-General for Yemen, Mr. Hans Grundberg, and Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Mr. Tom Fletcher. We thank them both for their invaluable briefings and for their tireless …",
-          "t": "19:56",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=1196"
-        },
-        {
-          "date": "2026-08-13",
-          "country": "Bahrain",
-          "text": "… Envoy of the Secretary-General for Yemen, Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, for their valuable briefings. I also welcome the participation of the Permanent Representative of …",
-          "t": "43:36",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=2616"
-        },
-        {
-          "date": "2026-07-13",
-          "country": "DR Congo",
-          "text": "… Operations. As well as Mr. Endreka Ratwate, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of item 2 of the …",
-          "t": "1:05",
-          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=65"
-        },
-        {
-          "date": "2026-07-13",
-          "country": "Bahrain",
-          "text": "… and Peacebuilding Affairs and Peace Operations, and Mr. Acting Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. I also welcome the participation of the Permanent Representative of Yemen, His Excellency …",
-          "t": "16:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=1006"
-        },
-        {
-          "date": "2026-07-13",
-          "country": "Russia",
-          "text": "Mr. President, We thank ASG, Mr. Khalid Kiyari, as well as the Acting ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator, Mr. Endrika Ratweta, for their briefings. The problem raised by the Permanent Representative of …",
-          "t": "34:07",
-          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=2047"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "Colombia",
-          "text": "… Envoy of the Secretary-General for Yemen; And Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of Item 2 of the …",
-          "t": "0:44",
-          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=44"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "Bahrain",
-          "text": "… Envoy of the Secretary-General for Yemen, and Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator for their valuable briefings. I would also like to welcome the participation of the Permanent …",
-          "t": "23:43",
-          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=1423"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "France",
-          "text": "… to thank the Secretary-General's Special Envoy for Yemen, Mr. Grunberg, and the U.S. Chief of Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher. I thank both for their briefings. I also wish to welcome the Permanent …",
-          "t": "43:50",
-          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=2630"
-        },
-        {
-          "date": "2026-08-13",
-          "country": "Security Council",
-          "text": "The 10208th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with rule 37 of the Council's provisional rules of procedure, …",
-          "t": "0:09",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=9"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "Panama",
-          "text": "Thank you, Madam President. We thank the Special Envoy of the Secretary-General for Yemen, Mr. Hans Grundberg, and the Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, for their invaluable …",
-          "t": "66:21",
-          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=3981"
-        },
-        {
-          "date": "2026-08-13",
-          "country": "Greece",
-          "text": "Thank you, Madam President, I would like to send special thanks to the Secretary-General and the Special Envoy for their. Work in Yemen. Tom Fletcher for their briefings. I also welcome the participation of the permanent representative of …",
-          "t": "56:58",
-          "pageUrl": "https://transcripts.un.org/en/sc/10208?t=3418"
-        },
-        {
-          "date": "2026-07-13",
-          "country": "DR Congo",
-          "text": "The 10,193rd meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with Rule 37 of the Council's Provisional Rules of Procedure, …",
-          "t": "0:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=14"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "France",
-          "text": "Madame President, I first wish to thank the Secretary-General's Special Envoy for Yemen, Mr. Grunberg, and the U.S. Chief of Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher. I thank both for their briefings. I also wish …",
-          "t": "43:43",
-          "pageUrl": "https://transcripts.un.org/en/sc/10174?t=2623"
-        },
-        {
-          "date": "2026-09-14",
-          "country": "UN",
-          "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
-          "t": "21:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=1270"
-        },
-        {
-          "date": "2026-04-14",
-          "country": "China",
-          "text": "President, I thank Special Envoy Gronberg and Director Wasano for their briefings, and welcome the Permanent Representative of Yemen to today's meeting. Lately, the sharp escalation in the Middle East has posed new challenges to the …",
-          "t": "24:24",
-          "pageUrl": "https://transcripts.un.org/en/sc/10135?t=1464"
-        }
-      ]
-    },
-    {
       "id": "hti",
       "name": "Haiti",
       "lon": -72,
@@ -2863,7 +2870,7 @@
       "volume": 10,
       "level": "elevated",
       "trend": [
-        1,
+        0,
         0,
         4,
         6,
@@ -3079,15 +3086,15 @@
       "level": "elevated",
       "trend": [
         0,
-        0,
-        2,
-        2,
-        5,
-        2,
-        5,
-        0,
+        1,
+        1,
         4,
-        3,
+        5,
+        1,
+        4,
+        1,
+        4,
+        2,
         1,
         0
       ],
@@ -3338,16 +3345,16 @@
       "volume": 8,
       "level": "elevated",
       "trend": [
-        7,
-        0,
-        0,
-        0,
-        1,
-        2,
-        8,
-        7,
-        3,
         5,
+        0,
+        0,
+        0,
+        3,
+        0,
+        11,
+        5,
+        4,
+        3,
         0,
         0
       ],
@@ -3680,15 +3687,15 @@
       "level": "elevated",
       "trend": [
         0,
+        1,
+        1,
+        3,
+        5,
         0,
         2,
         1,
-        5,
-        2,
-        2,
-        0,
         3,
-        2,
+        1,
         1,
         0
       ],
@@ -3884,8 +3891,8 @@
         0,
         2,
         0,
-        10,
-        3,
+        12,
+        1,
         0,
         0,
         0,
@@ -4222,8 +4229,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         2
       ],
@@ -4458,9 +4465,9 @@
       "volume": 3,
       "level": "elevated",
       "trend": [
-        2,
-        0,
         1,
+        1,
+        0,
         0,
         0,
         0,
@@ -4666,8 +4673,8 @@
       "level": "standard",
       "trend": [
         9,
-        5,
-        10,
+        15,
+        0,
         1,
         1,
         0,
@@ -4931,10 +4938,10 @@
         1,
         0,
         0,
-        0,
-        3,
-        0,
         1,
+        2,
+        1,
+        0,
         0,
         1,
         0
@@ -5028,8 +5035,8 @@
         0,
         0,
         0,
-        1,
-        1,
+        2,
+        0,
         0,
         0
       ],
@@ -5204,8 +5211,8 @@
         0,
         0,
         3,
-        0,
         1,
+        0,
         0,
         1,
         0
@@ -5295,8 +5302,8 @@
         0,
         0,
         1,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         0
@@ -5474,8 +5481,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ],
@@ -5505,13 +5512,13 @@
       "trend": [
         0,
         0,
-        0,
-        5,
-        0,
+        1,
+        4,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -5615,8 +5622,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ],
       "top": "… Héctor Gómez of Spain, Vice President of ECOSOC, for his leadership and dedication. We also recognize the work of OCHA and all of its partners who work tirelessly to alleviate the suffering of people affected by humanitarian crises. The …",
       "briefings": [],
@@ -5676,8 +5683,8 @@
         1,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ],
@@ -5736,8 +5743,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         1,
@@ -5863,8 +5870,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ],
       "top": "… And I would also like to take this opportunity to publicly welcome Mr. Wadhwata in assuming his new role at OCHA. The Kingdom of the Netherlands would like to acknowledge the progress that has been made. In advancing the Humanitarian Reset. …",
       "briefings": [],
@@ -5977,8 +5984,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0
       ],
       "top": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
@@ -6084,8 +6091,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -6173,8 +6180,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ],
       "top": "I'd like to begin by expressing my thanks to Ms. Rosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs. And my thanks also to Mr. James Byrne of the Open Source Center. I thank them both for their very complete …",
       "briefings": [],
@@ -6268,8 +6275,8 @@
         0,
         0,
         1,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -6331,18 +6338,18 @@
       "volume": 1,
       "level": "standard",
       "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
+        0
       ],
       "top": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
       "briefings": [],
@@ -6401,18 +6408,18 @@
       "volume": 73,
       "level": "elevated",
       "trend": [
-        31,
-        20,
-        7,
+        36,
+        12,
+        8,
         6,
         4,
         2,
-        4,
-        7,
+        2,
+        11,
         24,
-        26,
-        13,
-        7
+        23,
+        14,
+        5
       ],
       "top": "… Good morning, Excellencies, distinguished delegates, and dear colleagues. It's an honour for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening finances …",
       "briefings": [
