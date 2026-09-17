@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:44:51.968Z",
+  "generatedAt": "2026-09-17T10:44:34.941Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -5473,6 +5473,48 @@
       ]
     },
     {
+      "id": "gab",
+      "name": "Gabon",
+      "lon": 11.6,
+      "lat": -0.8,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "Thank you very much, sir. Members of the committee, ladies and gentlemen, it is a true honor for me to take the floor today before your august committee on behalf of the government of the Republic of Gabon. My delegation has with it …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-16",
+          "country": "Gabon",
+          "text": "Thank you very much, sir. Members of the committee, ladies and gentlemen, it is a true honor for me to take the floor today before your august committee on behalf of the government of the Republic of Gabon. My delegation has with it …",
+          "t": "4:16",
+          "pageUrl": "https://transcripts.un.org/en/ced/580?t=256"
+        },
+        {
+          "date": "2026-09-16",
+          "country": "Gabon",
+          "text": "Thank you, Excellencies, ladies and gentlemen, members of the committee. On the issue of the specific issue, refoulement and the administrative measures, I would say the following. Administrative practices in the Republic of Gabon formally …",
+          "t": "80:36",
+          "pageUrl": "https://transcripts.un.org/en/ced/580?t=4836"
+        }
+      ]
+    },
+    {
       "id": "bdi",
       "name": "Burundi",
       "lon": 30,
@@ -6334,76 +6376,6 @@
           "text": "… for her briefing and Mr. Byrne for his presentation. Greece remains deeply concerned by the continued development of the DPRK's nuclear and ballistic missile programs, which continue to pose a serious threat to regional and international …",
           "t": "78:04",
           "pageUrl": "https://transcripts.un.org/en/sc/10147?t=4684"
-        }
-      ]
-    },
-    {
-      "id": "bel",
-      "name": "Belgium",
-      "lon": 4.5,
-      "lat": 50.8,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-09",
-          "country": "Luxembourg",
-          "text": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
-          "t": "10:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k15/k1561apa1e?t=605"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "Switzerland",
-          "text": "Vice President, distinguished members and observers of the Board, dear colleagues, I deliver this statement on behalf of Albania, Australia, Belgium, Canada, Croatia, Denmark, Finland, France, Germany, Iceland, Ireland, Kingdom of the …",
-          "t": "22:55",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j4ujp34q?t=1375"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Netherlands",
-          "text": "Mr. President, Madam Executive Director, Excellencies, colleagues, I have the honor to speak on behalf of the Benelux, our longstanding union with Belgium, Luxembourg, and my own country, the Kingdom of the Netherlands. Let me begin by …",
-          "t": "68:29",
-          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=4109"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Moldova",
-          "text": "Thank you, Madam President, Madam Executive Director, distinguished members of the Executive Board and observers. I deliver this statement on behalf of Australia, Armenia, Belgium, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, …",
-          "t": "19:21",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=1161"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Iceland",
-          "text": "Thank you. Mr. President, Madam Executive Director, distinguished staff association representatives, distinguished colleagues. I deliver this statement on behalf of the following cross-regional list of member states: Belgium, Bulgaria, …",
-          "t": "172:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dova123j?t=10350"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Netherlands",
-          "text": "Thank you, Madam Vice President, Madam Executive Director, Excellencies. I deliver this statement on behalf of Australia, Belgium, Canada, Czech Republic, Denmark, Finland, Germany, Iceland, Ireland, Japan, Liechtenstein, Luxembourg, …",
-          "t": "22:54",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=1374"
         }
       ]
     },
