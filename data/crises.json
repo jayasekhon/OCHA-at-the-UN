@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:31:28.645Z",
+  "generatedAt": "2026-09-18T10:19:57.333Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -6428,7 +6428,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 79,
+      "volume": 81,
       "level": "elevated",
       "trend": [
         28,
@@ -6442,7 +6442,7 @@
         33,
         19,
         11,
-        10
+        12
       ],
       "top": "… and good morning, excellencies, distinguished delegates, and dear colleagues. It's an honor for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening …",
       "briefings": [
@@ -7159,6 +7159,13 @@
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=2186"
         },
         {
+          "date": "2026-09-17",
+          "country": "OHCHR",
+          "text": "… essential services and development priorities and deepen poverty and inequality. The report stresses the need for debt relief for heavily indebted and climate-vulnerable countries, debt restructuring processes consistent with human rights …",
+          "t": "49:34",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/16?t=2974"
+        },
+        {
           "date": "2026-09-03",
           "country": "IFRC",
           "text": "… more difficult, as well as the importance of doing much more before disasters strike. Some essential humanitarian relief items can face average import tariffs of around 17% globally when exemptions are not in place. This is also double the …",
@@ -7538,10 +7545,17 @@
         },
         {
           "date": "2026-09-17",
+          "country": "OHCHR",
+          "text": "… Excellencies, Colleagues, it's my pleasure to introduce 14 reports of the Secretary General and the High Commission for Human Rights on a range of thematic issues to be considered under item 3 and item 8. The first report is the Secretary …",
+          "t": "44:50",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/16?t=2690"
+        },
+        {
+          "date": "2026-09-17",
           "country": "China",
           "text": "Chair, I welcome His Excellency Minister of Foreign Affairs, Al Zayani, for presiding over this meeting, and I thank all the briefers for their presentations. The ocean serves as a vital link connecting countries, while international …",
-          "t": "85:13",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6s6jmtc?t=5113"
+          "t": "66:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6s6jmtc?t=3962"
         },
         {
           "date": "2026-09-01",
@@ -8865,6 +8879,13 @@
           "text": "Thank you. Honorable Chairman, Under-Executive Director, Excellencies, distinguished delegates, ladies and gentlemen, I'd like to extend my sincere congratulations on the convening of the 13th World Urban Forum. Over the past decade since …",
           "t": "95:59",
           "pageUrl": "https://transcripts.un.org/en/asset/k1u/k1uh4ldfuj?t=5759"
+        },
+        {
+          "date": "2026-05-12",
+          "country": "Together for Safer Roads",
+          "text": "… you, Madam Chair, Excellencies, distinguished colleagues. My name is Peter Goldwasser, and I serve as the Executive Director of Together for Safer Roads, a global NGO committed to saving lives and preventing serious injuries by …",
+          "t": "82:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1axr5vk0a?t=4939"
         },
         {
           "date": "2026-04-23",
