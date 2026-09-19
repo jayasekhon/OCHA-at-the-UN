@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:07:39.354Z",
+  "generatedAt": "2026-09-19T19:50:14.166Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -5311,6 +5311,83 @@
       ]
     },
     {
+      "id": "grc",
+      "name": "Greece",
+      "lon": 22,
+      "lat": 39,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… has been compounded by June's devastating earthquakes. Greece has contributed to the humanitarian response through OCHA. We welcome the steps taken to release political prisoners. The adoption of the amnesty law offers an opportunity to …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-18",
+          "country": "Greece",
+          "text": "… has been compounded by June's devastating earthquakes. Greece has contributed to the humanitarian response through OCHA. We welcome the steps taken to release political prisoners. The adoption of the amnesty law offers an opportunity to …",
+          "t": "169:48",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/18?t=2:49:48"
+        },
+        {
+          "date": "2026-05-28",
+          "country": "Ukraine",
+          "text": "Mr. President, distinguished members of the Security Council, I thank the Chinese Presidency for convening this meeting and express my gratitude to the delegations of Denmark, France, Greece, Latvia, and the United Kingdom for supporting …",
+          "t": "78:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10160?t=1:18:43"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "Liberia",
+          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. I thank Deputy Special Coordinator Remzi Zalakhbarov and Deputy Executive Director of UNICEF Hanan Suleiman for their informative briefings. Together with Denmark, France, Greece and the United Kingdom, Latvia …",
+          "t": "32:34",
+          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=32:34"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Ukraine",
+          "text": "Madam President, distinguished members of the Security Council, let me foremost thank the Colombian Presidency for convening this meeting and express my gratitude to the delegation of Denmark, France, Greece, Latvia, and the United Kingdom …",
+          "t": "96:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1:36:35"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "Belgium",
+          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
+          "t": "95:13",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:35:13"
+        },
+        {
+          "date": "2026-04-30",
+          "country": "Greece",
+          "text": "… for her briefing and Mr. Byrne for his presentation. Greece remains deeply concerned by the continued development of the DPRK's nuclear and ballistic missile programs, which continue to pose a serious threat to regional and international …",
+          "t": "78:04",
+          "pageUrl": "https://transcripts.un.org/en/sc/10147?t=1:18:04"
+        }
+      ]
+    },
+    {
       "id": "bdi",
       "name": "Burundi",
       "lon": 30,
@@ -6336,46 +6413,11 @@
       ]
     },
     {
-      "id": "kir",
-      "name": "Kiribati",
-      "lon": -157.4,
-      "lat": 1.4,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0
-      ],
-      "top": "Mr. President, Director, Excellencies, distinguished delegates, I am pleased to deliver the following remarks on behalf of the 12 members of the Pacific States represented in New York, namely, Federated States of Micronesia, Kiribati, …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-03",
-          "country": "Fiji",
-          "text": "Mr. President, Director, Excellencies, distinguished delegates, I am pleased to deliver the following remarks on behalf of the 12 members of the Pacific States represented in New York, namely, Federated States of Micronesia, Kiribati, …",
-          "t": "65:02",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bnpvuaij?t=1:05:02"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 80,
+      "volume": 81,
       "level": "elevated",
       "trend": [
         28,
@@ -6388,7 +6430,7 @@
         9,
         33,
         19,
-        11,
+        12,
         15
       ],
       "top": "… and good morning, excellencies, distinguished delegates, and dear colleagues. It's an honor for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening …",
@@ -6401,6 +6443,15 @@
           "text": "… been used as collective shelters. Today, 16,000 displaced people, including 2,500 children, remain in 164 shelters. OCHA reiterates that children must be protected from the impact of hostilities and that schools must remain safe. They must, …",
           "t": "35:44",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-17?t=35:44"
+        },
+        {
+          "date": "2026-09-11",
+          "speaker": "Melissa",
+          "speakerAffiliation": "GA",
+          "speakerFunction": "Spokesperson",
+          "text": "… you, consistently to the Security Council, the various envoys and special representatives of the SG, our colleagues in OCHA, and also in the Office for Peace and Peacebuilding Affairs. So thank you. Please refer to them. Anyone else in the …",
+          "t": "7:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-09-11?t=7:23"
         },
         {
           "date": "2026-08-21",
