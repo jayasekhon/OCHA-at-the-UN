@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:34:07.833Z",
+  "generatedAt": "2026-09-21T21:30:09.186Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -4210,7 +4210,7 @@
       "name": "Nigeria",
       "lon": 8.7,
       "lat": 9.1,
-      "volume": 3,
+      "volume": 4,
       "level": "elevated",
       "trend": [
         0,
@@ -4224,7 +4224,7 @@
         1,
         0,
         2,
-        0
+        1
       ],
       "top": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
       "briefings": [
@@ -4247,6 +4247,13 @@
           "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
           "t": "21:51",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:51"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Candace",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
         },
         {
           "date": "2026-09-14",
@@ -4992,6 +4999,65 @@
       ]
     },
     {
+      "id": "vnm",
+      "name": "Vietnam",
+      "lon": 108.3,
+      "lat": 14.1,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "top": "… freedoms in and around the Strait of Hormuz. Today, he also met a bit earlier with the Vice President of Vietnam. Our Deputy Secretary-General, Mina Mohamed, participated in the 55th Pacific Islands Forum Leaders Meeting on behalf of the …",
+      "briefings": [
+        {
+          "date": "2026-09-01",
+          "speaker": "Stephane",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… freedoms in and around the Strait of Hormuz. Today, he also met a bit earlier with the Vice President of Vietnam. Our Deputy Secretary-General, Mina Mohamed, participated in the 55th Pacific Islands Forum Leaders Meeting on behalf of the …",
+          "t": "58:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-01?t=58:49"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-17",
+          "country": "Vietnam",
+          "text": "Mr. President, Excellencies, Vietnam thanks ECOSOC and OCHA for convening this important discussion. Today, humanitarian needs are reaching unprecedented levels. Armed conflicts, climate-related disasters, and economic shocks continue to …",
+          "t": "6:57",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=6:57"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Candace",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
+        },
+        {
+          "date": "2026-06-23",
+          "country": "Vietnam",
+          "text": "Thank you very much, Mr. President. I thank you, Madam Executive Director, for your very comprehensive report. Vietnam commends UN Women for delivering meaningful results in a very, very difficult global context, as well as the commitment …",
+          "t": "72:31",
+          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=1:12:31"
+        }
+      ]
+    },
+    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -5096,6 +5162,48 @@
           "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
           "t": "17:55",
           "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=17:55"
+        }
+      ]
+    },
+    {
+      "id": "sgp",
+      "name": "Singapore",
+      "lon": 103.8,
+      "lat": 1.35,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-21",
+          "country": "Candace",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Candace",
+          "text": "Thank you very much, Ambassador. Moving now to the other side of the world, let me continue with Ms. Ng Boon Yan, Director General of the International Organisations Directorate of the Ministry of Foreign Affairs of Singapore. From …",
+          "t": "39:26",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=39:26"
         }
       ]
     },
@@ -6000,58 +6108,6 @@
       ]
     },
     {
-      "id": "vnm",
-      "name": "Vietnam",
-      "lon": 108.3,
-      "lat": 14.1,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0
-      ],
-      "top": "… freedoms in and around the Strait of Hormuz. Today, he also met a bit earlier with the Vice President of Vietnam. Our Deputy Secretary-General, Mina Mohamed, participated in the 55th Pacific Islands Forum Leaders Meeting on behalf of the …",
-      "briefings": [
-        {
-          "date": "2026-09-01",
-          "speaker": "Stephane",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… freedoms in and around the Strait of Hormuz. Today, he also met a bit earlier with the Vice President of Vietnam. Our Deputy Secretary-General, Mina Mohamed, participated in the 55th Pacific Islands Forum Leaders Meeting on behalf of the …",
-          "t": "58:49",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-01?t=58:49"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-17",
-          "country": "Vietnam",
-          "text": "Mr. President, Excellencies, Vietnam thanks ECOSOC and OCHA for convening this important discussion. Today, humanitarian needs are reaching unprecedented levels. Armed conflicts, climate-related disasters, and economic shocks continue to …",
-          "t": "6:57",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=6:57"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Vietnam",
-          "text": "Thank you very much, Mr. President. I thank you, Madam Executive Director, for your very comprehensive report. Vietnam commends UN Women for delivering meaningful results in a very, very difficult global context, as well as the commitment …",
-          "t": "72:31",
-          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=1:12:31"
-        }
-      ]
-    },
-    {
       "id": "irn",
       "name": "Iran",
       "lon": 53.7,
@@ -6198,6 +6254,55 @@
       "onOcha": []
     },
     {
+      "id": "tha",
+      "name": "Thailand",
+      "lon": 101,
+      "lat": 15.9,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… in some of Venezuela's most affected regions. We also have Her Excellency Mrs. Chai Patyuth, currently serving as the Deputy Permanent Representative of Thailand in the United Nations in New York, A career diplomat with Thailand's Ministry …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-17",
+          "country": "Mike",
+          "text": "… in some of Venezuela's most affected regions. We also have Her Excellency Mrs. Chai Patyuth, currently serving as the Deputy Permanent Representative of Thailand in the United Nations in New York, A career diplomat with Thailand's Ministry …",
+          "t": "43:33",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1f/k1fd40unw5?t=43:33"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Candace",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
+        },
+        {
+          "date": "2026-04-15",
+          "country": "Thailand",
+          "text": "Mr. Chair, Excellency, distinguished delegate. It is the first time the delegation of Thailand takes the floor. We wish to extend our warmest congratulations to you, Mr Chair, on your election to preside over the 65th session of the Legal …",
+          "t": "101:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yth5mvfb?t=1:41:04"
+        }
+      ]
+    },
+    {
       "id": "kor",
       "name": "South Korea",
       "lon": 127.8,
@@ -6296,137 +6401,11 @@
       ]
     },
     {
-      "id": "bel",
-      "name": "Belgium",
-      "lon": 4.5,
-      "lat": 50.8,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-09",
-          "country": "Luxembourg",
-          "text": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
-          "t": "10:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k15/k1561apa1e?t=10:05"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "Switzerland",
-          "text": "Vice President, distinguished members and observers of the Board, dear colleagues, I deliver this statement on behalf of Albania, Australia, Belgium, Canada, Croatia, Denmark, Finland, France, Germany, Iceland, Ireland, Kingdom of the …",
-          "t": "22:55",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j4ujp34q?t=22:55"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Netherlands",
-          "text": "Mr. President, Madam Executive Director, Excellencies, colleagues, I have the honor to speak on behalf of the Benelux, our longstanding union with Belgium, Luxembourg, and my own country, the Kingdom of the Netherlands. Let me begin by …",
-          "t": "68:29",
-          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=1:08:29"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Moldova",
-          "text": "Thank you, Madam President, Madam Executive Director, distinguished members of the Executive Board and observers. I deliver this statement on behalf of Australia, Armenia, Belgium, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, …",
-          "t": "19:21",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=19:21"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Iceland",
-          "text": "Thank you. Mr. President, Madam Executive Director, distinguished staff association representatives, distinguished colleagues. I deliver this statement on behalf of the following cross-regional list of member states: Belgium, Bulgaria, …",
-          "t": "172:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dova123j?t=2:52:30"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Netherlands",
-          "text": "Thank you, Madam Vice President, Madam Executive Director, Excellencies. I deliver this statement on behalf of Australia, Belgium, Canada, Czech Republic, Denmark, Finland, Germany, Iceland, Ireland, Japan, Liechtenstein, Luxembourg, …",
-          "t": "22:54",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=22:54"
-        }
-      ]
-    },
-    {
-      "id": "lux",
-      "name": "Luxembourg",
-      "lon": 6.1,
-      "lat": 49.8,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-09",
-          "country": "Luxembourg",
-          "text": "Thank you, Madam Chair. Madam Executive Director, I have the honor to speak on behalf of the Benelux countries, Belgium, the Kingdom of the Netherlands, and my own country, Luxembourg. Let me begin by thanking Executive Director Sima Bahous …",
-          "t": "10:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k15/k1561apa1e?t=10:05"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Netherlands",
-          "text": "Mr. President, Madam Executive Director, Excellencies, colleagues, I have the honor to speak on behalf of the Benelux, our longstanding union with Belgium, Luxembourg, and my own country, the Kingdom of the Netherlands. Let me begin by …",
-          "t": "68:29",
-          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=1:08:29"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Netherlands",
-          "text": "Thank you, Madam Vice President, Madam Executive Director, Excellencies. I deliver this statement on behalf of Australia, Belgium, Canada, Czech Republic, Denmark, Finland, Germany, Iceland, Ireland, Japan, Liechtenstein, Luxembourg, …",
-          "t": "22:54",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=22:54"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "Belgium",
-          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
-          "t": "95:13",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:35:13"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 88,
+      "volume": 89,
       "level": "elevated",
       "trend": [
         24,
@@ -6440,7 +6419,7 @@
         29,
         19,
         10,
-        24
+        25
       ],
       "top": "… and good morning, excellencies, distinguished delegates, and dear colleagues. It's an honor for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening …",
       "briefings": [
@@ -7800,6 +7779,13 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=1:09:39"
         },
         {
+          "date": "2026-09-21",
+          "country": "Vietnam",
+          "text": "Ms. Monica Zuma, Executive Director of the United Nations Office on Drugs and Crime, Director General of United Nations Office at Vienna, heads of delegations, distinguished senior representatives, distinguished delegates, First of all, I …",
+          "t": "25:23",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=25:23"
+        },
+        {
           "date": "2026-09-17",
           "country": "UN DESA",
           "text": "Thank you. Thank you, Guy. Secretary-General, Executive Director, Excellencies, distinguished delegates, dear colleagues. United Nations system produces an extraordinary wealth of trusted, high-quality data and statistics. As the Secretary …",
@@ -9009,6 +8995,13 @@
           "text": "… you, Professor Carpenter, and to the esteemed panelists. Pleasure to be here. My name is Morgan Rodman, and I'm the Director of Federal Government Relations for the Cherokee Nation. And much of what was discussed on the panel was really …",
           "t": "66:00",
           "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xw0yo4wx?t=1:06:00"
+        },
+        {
+          "date": "2026-04-22",
+          "country": "ILO",
+          "text": "Good morning, everyone, and good day to all of those who are joining online. Thank you very much, Olivier, for that inspiring keynote, which I think has got everyone energized. As Olivier already said, my name is Shara Razavi, and I'm the …",
+          "t": "0:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jdet1wwc?t=0:01"
         },
         {
           "date": "2026-04-21",
