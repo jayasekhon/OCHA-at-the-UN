@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:36:44.919Z",
+  "generatedAt": "2026-09-21T17:34:07.833Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -1407,7 +1407,7 @@
       "name": "Yemen",
       "lon": 48,
       "lat": 15,
-      "volume": 12,
+      "volume": 13,
       "level": "elevated",
       "trend": [
         0,
@@ -1421,10 +1421,19 @@
         0,
         0,
         7,
-        5
+        6
       ],
       "top": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
       "briefings": [
+        {
+          "date": "2026-09-21",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… is meeting with senior Omani officials and representatives of the Houthis. On the humanitarian end, our colleagues at OCHA tell us that over the weekend, 21,000 households in Yemen were displaced across the country. That's since August 1st, …",
+          "t": "39:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-21?t=39:36"
+        },
         {
           "date": "2026-09-15",
           "speaker": "Steph",
@@ -6417,7 +6426,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 80,
+      "volume": 88,
       "level": "elevated",
       "trend": [
         24,
@@ -6431,7 +6440,7 @@
         29,
         19,
         10,
-        16
+        24
       ],
       "top": "… and good morning, excellencies, distinguished delegates, and dear colleagues. It's an honor for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening …",
       "briefings": [
@@ -6571,6 +6580,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-01?t=36:46"
         },
         {
+          "date": "2026-09-21",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "It's so cold down here. All right, bear with me two seconds. I'm still waiting for one more thing. All right, good afternoon. Welcome to the frequent flyers and welcome to the guests. Today is, what is today? Monday. No. It doesn't feel …",
+          "t": "30:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-21?t=30:50"
+        },
+        {
           "date": "2026-09-17",
           "speaker": "Stefan",
           "speakerAffiliation": "UN Secretariat",
@@ -6596,6 +6614,15 @@
           "text": "… colleague Gianluca already on the screen. Gianluca will be with you in just a moment, if I ask you just to be patient for a few more minutes. So, as mentioned, we'll be joined in a short while by Gianluca Rampolla del Tienardo, the Resident …",
           "t": "0:07",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-29?t=0:07"
+        },
+        {
+          "date": "2026-09-21",
+          "speaker": "Stefan",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Today is, what is today? Monday. No. It doesn't feel like Monday. It feels like Wednesday, frankly. International Day of Peace, exactly. Yeah, peace, do you remember that? Yeah. We mark the International Day of Peace. In his message, the …",
+          "t": "33:02",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-21?t=33:02"
         },
         {
           "date": "2026-09-17",
@@ -6666,6 +6693,27 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-09-21",
+          "country": "WFP",
+          "text": "… about that. But number two was humanitarian diplomacy. And so we are stepping up that capacity together with Tom, OCHA and other humanitarian agencies on what we can do more and how we define diplomacy is drawing on diplomacy, drawing on …",
+          "t": "70:21",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=1:10:21"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Palestine",
+          "text": "… Also, I want to welcome and express our gratitude to our friends. We know them. are with us in the floor the ICRC, OCHA, WFP, and other and UNRWA and many others from the United Nations for being with us in the ground helping our people to …",
+          "t": "88:00",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=1:28:00"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Egypt",
+          "text": "… operations. We reaffirm our support for the central role of United Nations humanitarian organizations, particularly OCHA, we reiterate our call to increase and predictable, uh, to, to an incre- for an increased and predictable funding for …",
+          "t": "122:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=2:02:30"
+        },
         {
           "date": "2026-09-16",
           "country": "Pakistan",
@@ -7157,6 +7205,13 @@
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=36:26"
         },
         {
+          "date": "2026-09-21",
+          "country": "Stephanie Fillion",
+          "text": "Al-Rabi'a for his remarks. And now I would like to invite Tom Fletcher, Emergency Relief Coordinator and Under-Secretary-General for Humanitarian Affairs.",
+          "t": "63:57",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=1:03:57"
+        },
+        {
           "date": "2026-09-18",
           "country": "UN",
           "text": "… needed assistance. While this marks a significant scale-up of the response, the needs are continuing to outpace relief efforts, which face ongoing funding shortfalls and constraints. During the same period, our OCHA colleagues tell us that …",
@@ -7458,6 +7513,13 @@
           "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=1:56:04"
         },
         {
+          "date": "2026-09-21",
+          "country": "Stephanie Fillion",
+          "text": "Al-Rabi'a for his remarks. And now I would like to invite Tom Fletcher, Emergency Relief Coordinator and Under-Secretary-General for Humanitarian Affairs.",
+          "t": "63:56",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=1:03:56"
+        },
+        {
           "date": "2026-09-07",
           "country": "Switzerland",
           "text": "… At the outset, I'd like to thank Ambassador Cafaro and President of the Meeting of High Contracting Parties for having opened this meeting and presiding over my election. It is a great honor for me and the country I represent to guide the …",
@@ -7729,6 +7791,13 @@
           "text": "Thank you. This is the end of the interactive dialogue. I wish to thank the members of the fact-finding mission for their participation. We will now take a short break before the interactive dialogue on the report of the High Commissioner …",
           "t": "59:06",
           "pageUrl": "https://transcripts.un.org/en/hrc/63/19?t=59:06"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "WFP",
+          "text": "… were fundamental challenges to the rules-based order, but also to IHL. And Tom, I think, explained well how this sense of everything works, basically, everyone feels that they get away with it, and the fundamental need of this …",
+          "t": "69:39",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1a1r3hlky?t=1:09:39"
         },
         {
           "date": "2026-09-17",
