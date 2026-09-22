@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:41:49.337Z",
+  "generatedAt": "2026-09-22T16:02:04.520Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -6412,7 +6412,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 94,
+      "volume": 98,
       "level": "elevated",
       "trend": [
         20,
@@ -6426,7 +6426,7 @@
         26,
         13,
         8,
-        29
+        33
       ],
       "top": "… and good morning, excellencies, distinguished delegates, and dear colleagues. It's an honor for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening …",
       "briefings": [
@@ -7815,10 +7815,38 @@
         },
         {
           "date": "2026-09-21",
+          "country": "Joint SDG Fund",
+          "text": "… Joint SDG Fund. We have a distinguished panel who has traveled many miles to be here today. So I won't take up much of that time to welcome you, but please embrace the fact that this is one of the earliest events of the week of the UN …",
+          "t": "2:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1erc4hdor?t=2:30"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "SECORE International",
+          "text": "So my name is Cassandra Morecroft-King. I am the director of technology at Seacore International. Our focus is on scaling coral reef restoration across the world. We started in the Caribbean and have slowly spread out. So, SeaCorps has been …",
+          "t": "18:37",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11qndetc3?t=18:37"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "WIPO",
+          "text": "Yes, thank you, thank you, Lucy. And now I move to Mr. Bernhard Kowarz, Director of Global Accelerator and Ventures, United Nations World Food Program. Bernhard, WFP operates at the intersection of hunger, climate change, and emergency …",
+          "t": "45:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11qndetc3?t=45:19"
+        },
+        {
+          "date": "2026-09-21",
           "country": "Vietnam",
           "text": "Ms. Monica Zuma, Executive Director of the United Nations Office on Drugs and Crime, Director General of United Nations Office at Vienna, heads of delegations, distinguished senior representatives, distinguished delegates, First of all, I …",
           "t": "25:23",
           "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=25:23"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Turkey",
+          "text": "Thank you very much, Mr. Arbash, for those inspiring remarks. We have heard today the importance of placing LDC priorities at the heart of our efforts and of building partnerships that can translate climate ambition into tangible …",
+          "t": "18:58",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hm5pyz6v?t=18:58"
         },
         {
           "date": "2026-09-21",
