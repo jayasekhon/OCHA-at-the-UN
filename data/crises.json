@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:02:04.520Z",
+  "generatedAt": "2026-09-22T20:42:49.364Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -3663,6 +3663,93 @@
       ]
     },
     {
+      "id": "nga",
+      "name": "Nigeria",
+      "lon": 8.7,
+      "lat": 9.1,
+      "volume": 5,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2
+      ],
+      "top": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
+      "briefings": [
+        {
+          "date": "2026-08-26",
+          "speaker": "Steph",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
+          "t": "39:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=39:12"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
+          "t": "21:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:51"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "NIMC",
+          "text": "Good morning, everyone. Your excellency, the Vice President of the Federal Republic of Nigeria, Senator Kashim Shatima, GCON, ably represented by the Deputy Chief of Staff, my DG, Engineer Abisoya Kuka Odusote, CEO, Nigeria in Diaspora, …",
+          "t": "66:13",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17bmbqo9p?t=1:06:13"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Candace",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
+        },
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
+          "t": "21:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:10"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "IAA",
+          "text": "… distinguished delegates, Chair Todorov Valentin, allow me first to congratulate you on your election as the chair of the committee. I also extend our congratulations to Ms. Melita Župič of Slovenia and Mr. Akin Babatunde Rabayo of Nigeria …",
+          "t": "11:21",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xucghx4p?t=11:21"
+        },
+        {
+          "date": "2026-06-09",
+          "country": "Mozambique",
+          "text": "Thank you, Mr. President. Mr. President, distinguished members of the Executive Board, I have the honor to deliver this statement on behalf of the African members of this board, namely Chad, Côte d'Ivoire, Madagascar, Mozambique, Nigeria, …",
+          "t": "36:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1eqrb7ena?t=36:19"
+        },
+        {
+          "date": "2026-04-08",
+          "country": "MLF",
+          "text": "Please. Thank you. Your Excellency, Minister of Nigeria, dear Mr. Müller, Director-General of UNITO and Deputy Director-General Mr. Zion, distinguished parties to the Montreal Protocol, members of the Executive Committee, I see a number of …",
+          "t": "76:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vp9ujalv?t=1:16:35"
+        }
+      ]
+    },
+    {
       "id": "col",
       "name": "Colombia",
       "lon": -74.3,
@@ -4202,86 +4289,6 @@
           "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. Madam President, the Democratic Republic of the Congo wishes to congratulate you and your country the sister Republic of …",
           "t": "39:52",
           "pageUrl": "https://transcripts.un.org/en/sc/10163?t=39:52"
-        }
-      ]
-    },
-    {
-      "id": "nga",
-      "name": "Nigeria",
-      "lon": 8.7,
-      "lat": 9.1,
-      "volume": 4,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        2,
-        1
-      ],
-      "top": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
-      "briefings": [
-        {
-          "date": "2026-08-26",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
-          "t": "39:12",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=39:12"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-14",
-          "country": "UN",
-          "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
-          "t": "21:51",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:51"
-        },
-        {
-          "date": "2026-09-21",
-          "country": "Candace",
-          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
-          "t": "14:34",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
-        },
-        {
-          "date": "2026-09-14",
-          "country": "UN",
-          "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
-          "t": "21:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:10"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "IAA",
-          "text": "… distinguished delegates, Chair Todorov Valentin, allow me first to congratulate you on your election as the chair of the committee. I also extend our congratulations to Ms. Melita Župič of Slovenia and Mr. Akin Babatunde Rabayo of Nigeria …",
-          "t": "11:21",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xucghx4p?t=11:21"
-        },
-        {
-          "date": "2026-06-09",
-          "country": "Mozambique",
-          "text": "Thank you, Mr. President. Mr. President, distinguished members of the Executive Board, I have the honor to deliver this statement on behalf of the African members of this board, namely Chad, Côte d'Ivoire, Madagascar, Mozambique, Nigeria, …",
-          "t": "36:19",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1eqrb7ena?t=36:19"
-        },
-        {
-          "date": "2026-04-08",
-          "country": "MLF",
-          "text": "Please. Thank you. Your Excellency, Minister of Nigeria, dear Mr. Müller, Director-General of UNITO and Deputy Director-General Mr. Zion, distinguished parties to the Montreal Protocol, members of the Executive Committee, I see a number of …",
-          "t": "76:35",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vp9ujalv?t=1:16:35"
         }
       ]
     },
@@ -6412,7 +6419,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 98,
+      "volume": 107,
       "level": "elevated",
       "trend": [
         20,
@@ -6426,9 +6433,9 @@
         26,
         13,
         8,
-        33
+        42
       ],
-      "top": "… and good morning, excellencies, distinguished delegates, and dear colleagues. It's an honor for me today to, on behalf of the Office for the Coordination of Humanitarian Affairs, to be part of and moderate this panel on strengthening …",
+      "top": "… survivor-centered approach at the heart of the toolkit being launched today really matters. The toolkit aligns with OCHA's gender policy and reinforces a people-centered approach to humanitarian action. It can help us engage with survivors …",
       "briefings": [
         {
           "date": "2026-09-17",
@@ -6640,6 +6647,24 @@
       ],
       "leadership": [
         {
+          "date": "2026-09-22",
+          "speaker": "Lisa Doten",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Director of Finance and Outreach",
+          "text": "… survivor-centered approach at the heart of the toolkit being launched today really matters. The toolkit aligns with OCHA's gender policy and reinforces a people-centered approach to humanitarian action. It can help us engage with survivors …",
+          "t": "73:15",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=1:13:15"
+        },
+        {
+          "date": "2026-09-22",
+          "speaker": "Lisa Doten",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Director of Finance and Outreach",
+          "text": "… and colleagues, as has been said before, we know that conflict-related sexual violence is not inevitable. We know many of the risks that allow it to occur. We also know that those risks become more acute when people are displaced, when …",
+          "t": "71:12",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=1:11:12"
+        },
+        {
           "date": "2026-06-16",
           "speaker": "Indrika Ratwate",
           "speakerAffiliation": "OCHA",
@@ -6679,6 +6704,34 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-09-22",
+          "country": "Human Rights Research League",
+          "text": "… recurring conflict and climate-related displacement, and serious lack of humanitarian funding. According to UN OCHA, of a total population of just over 35 million, more than 22 million were projected to be in need of humanitarian assistance …",
+          "t": "146:15",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/22?t=2:26:15"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "UN Action",
+          "text": "… and rightly stated. As we bring contemporary humanitarian crises into focus, I wanted to turn now to our colleagues at OCHA, another founding member and active participant around the UN Action Table, to layer in some frontline perspectives …",
+          "t": "70:41",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=1:10:41"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "UN Action",
+          "text": "Thank you so much for bringing OCHA's frontline humanitarian perspective to the podium and for really collaborating with us to address the RSV as a civilian protection imperative over the years. And indeed, Under-Secretary-General Fletcher …",
+          "t": "77:53",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1d4yh9uje?t=1:17:53"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "EU",
+          "text": "… Initiative was instrumental in stopping a global food security crisis from happening. I'm glad we are joined today by OCHA, UNOPS, and the World Food Programme. What has been done since then, or what was done then, and what can be also done …",
+          "t": "21:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1q56ks2zq?t=21:17"
+        },
         {
           "date": "2026-09-21",
           "country": "WFP",
@@ -7527,6 +7580,13 @@
           "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=1:56:04"
         },
         {
+          "date": "2026-09-22",
+          "country": "Australia",
+          "text": "… the Friends of the Comprehensive Nuclear-Test-Ban Treaty at our 12th Ministerial Meeting, and welcome particularly the Under-Secretary-General Nakamitsu and Executive Director Robert Floyd. Dr. Floyd, thank you very much. Thank you to all …",
+          "t": "15:54",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18hoe49ep?t=15:54"
+        },
+        {
           "date": "2026-09-21",
           "country": "Stephanie Fillion",
           "text": "Al-Rabi'a for his remarks. And now I would like to invite Tom Fletcher, Emergency Relief Coordinator and Under-Secretary-General for Humanitarian Affairs.",
@@ -7798,6 +7858,20 @@
           "text": "Thank you, Mr. President. Mr. President, congratulations on the nomination as Minister of Foreign Affairs of your predecessor. Mr. President of the UN Women Board, Chairperson of the Joint Board, Madam President of the WFP Board, Mr. …",
           "t": "43:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=43:05"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "Bimbai Mutini Ekweong",
+          "text": "Honourable Abike Awa, somebody I really have such fond regard for because of her broadcast background, but beyond her broadcast background, she's shared some statistics and I want to buttress some of the points that she's made. When we …",
+          "t": "64:32",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17bmbqo9p?t=1:04:32"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "G7+",
+          "text": "Thank you, sir. Allow me to turn to Ms. Anne Burch, sorry, managing director of operations at the World Bank. So the floor is yours, ma'am, please.",
+          "t": "66:57",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1c/k1cv0jhwpq?t=1:06:57"
         },
         {
           "date": "2026-09-21",
