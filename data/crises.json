@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:41:05.096Z",
+  "generatedAt": "2026-09-23T10:33:23.173Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,7 +7,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 16,
+      "volume": 17,
       "level": "elevated",
       "trend": [
         1,
@@ -21,7 +21,7 @@
         5,
         6,
         0,
-        0
+        1
       ],
       "top": "… Mansour. Thank you for the committee for the invitation to brief you today. Thanks also to the division, from the director to all the colleagues who made this happen today. I will be providing a short brief on the humanitarian situation …",
       "briefings": [
@@ -552,6 +552,13 @@
           "text": "… only the Kerem Shalom, Kerem Abu Salem crossing as the only entry point for cargo that we can use. In the West Bank, OCHA reports that yesterday, a Palestinian trying to cross the Israeli barrier in East, into East Jerusalem, reportedly in …",
           "t": "12:46",
           "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=12:46"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+          "t": "738:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
         },
         {
           "date": "2026-08-26",
@@ -5250,6 +5257,55 @@
       ]
     },
     {
+      "id": "mar",
+      "name": "Morocco",
+      "lon": -7.1,
+      "lat": 31.8,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+          "t": "738:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "Your Excellency, President of the General Assembly, Mr. Secretary-General, Your Excellencies, ladies and gentlemen. I extend my sincere congratulations on behalf of the delegation of the Kingdom of Morocco to His Excellency Mr. Khalilur …",
+          "t": "728:54",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:08:54"
+        },
+        {
+          "date": "2026-06-10",
+          "country": "France",
+          "text": "Thank you, Chair. Mr. Chair, dear colleagues, first and foremost, I would like to thank Professor Rafiq Akram of Morocco for his commitment during the previous session of COPUOS. I also congratulate Professor Teodoro Valente of Italy on his …",
+          "t": "159:37",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6oixtij?t=2:39:37"
+        }
+      ]
+    },
+    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -6359,67 +6415,11 @@
       ]
     },
     {
-      "id": "ury",
-      "name": "Uruguay",
-      "lon": -55.8,
-      "lat": -32.5,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… by Uruguay on behalf of G77 in China and wishes to add the following in national capacity. We recognize ECOSOC humanitarian affairs segment as an indispensable mechanism of the United Nations system to turn global commitments to coordinated …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-19",
-          "country": "Nepal",
-          "text": "… by Uruguay on behalf of G77 in China and wishes to add the following in national capacity. We recognize ECOSOC humanitarian affairs segment as an indispensable mechanism of the United Nations system to turn global commitments to coordinated …",
-          "t": "31:55",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=31:55"
-        },
-        {
-          "date": "2026-08-25",
-          "country": "China",
-          "text": "President, China wishes to thank Executive Director da Silva for the briefing. China supports the statement delivered by Uruguay on behalf of G77 and China. China appreciates the efforts of UNOPS in actively advancing the implementation of …",
-          "t": "38:17",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=38:17"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "Peru",
-          "text": "The statement delivered by Uruguay on behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying …",
-          "t": "142:49",
-          "pageUrl": "https://transcripts.un.org/en/ga/80/107?t=2:22:49"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Nepal",
-          "text": "Thank you, Mr. President, UNDP Administrator, Executive Director of UNOPS, Excellencies, colleagues. I have the honour to deliver this statement on behalf of the LDC group. The group aligns itself with the statement delivered by Uruguay on …",
-          "t": "63:50",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3kt514h?t=1:03:50"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 110,
+      "volume": 114,
       "level": "elevated",
       "trend": [
         12,
@@ -6433,7 +6433,7 @@
         23,
         14,
         10,
-        41
+        45
       ],
       "top": "… survivor-centered approach at the heart of the toolkit being launched today really matters. The toolkit aligns with OCHA's gender policy and reinforces a people-centered approach to humanitarian action. It can help us engage with survivors …",
       "briefings": [
@@ -6757,8 +6757,8 @@
           "date": "2026-09-21",
           "country": "Microsoft Elevate",
           "text": "… build solutions. What was taking months, sometimes years, we can now get done in weeks. A recent project we did with OCHA to build a grant management system and an improved reporting capability took three weeks and helped unlock a billion …",
-          "t": "300:46",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mmbf1u54?t=5:00:46"
+          "t": "287:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mmbf1u54?t=4:47:02"
         },
         {
           "date": "2026-09-21",
@@ -7272,6 +7272,13 @@
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=36:26"
         },
         {
+          "date": "2026-09-22",
+          "country": "UN",
+          "text": "… This is not a technical debate. It is a question of representation, of fairness, and of sharing of power. For debt relief that is timely, effective, and just. For multilateral development banks that are bigger, bolder, and better equipped …",
+          "t": "38:49",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=38:49"
+        },
+        {
           "date": "2026-09-21",
           "country": "Stephanie Fillion",
           "text": "Al-Rabi'a for his remarks. And now I would like to invite Tom Fletcher, Emergency Relief Coordinator and Under-Secretary-General for Humanitarian Affairs.",
@@ -7692,6 +7699,20 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k13/k13o19ktg6?t=7:31"
         },
         {
+          "date": "2026-09-22",
+          "country": "Qatar",
+          "text": "… of the presidency of this session, and wish him every success. I also thank her excellency, miss Anna Lena Beabok, for her efforts in presiding over the work of the previous session. I would also like to commend the efforts and endeavors of …",
+          "t": "231:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=3:51:19"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "France",
+          "text": "Madame President, Deputy Secretary-General, Majesties, Heads of State and Government, Ministers, Ambassadors, distinguished delegates, dear friends. Since this morning, we've heard A number of speeches from this rostrum about the state of …",
+          "t": "338:41",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=5:38:41"
+        },
+        {
           "date": "2026-09-18",
           "country": "UN",
           "text": "what I know exactly all right good afternoon I'm sorry for the delay and I know there's a lot of stuff uh going on um in a short while we'll be joined by David nanopoulos the head of the treaty section who will be here to talk to you about …",
@@ -7861,6 +7882,13 @@
         },
         {
           "date": "2026-09-22",
+          "country": "Turkey",
+          "text": "Mr. President, Excellencies, Heads of State and Government, Mr. Secretary-General, Esteemed Delegates, I greet you with my warmest regards on behalf of myself and my nation, and I am deeply pleased to address you once again from this …",
+          "t": "172:51",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=2:52:51"
+        },
+        {
+          "date": "2026-09-22",
           "country": "Bimbai Mutini Ekweong",
           "text": "Honourable Abike Awa, somebody I really have such fond regard for because of her broadcast background, but beyond her broadcast background, she's shared some statistics and I want to buttress some of the points that she's made. When we …",
           "t": "64:32",
@@ -7869,9 +7897,9 @@
         {
           "date": "2026-09-22",
           "country": "G7+",
-          "text": "Thank you, sir. Allow me to turn to Ms. Anne Burch, sorry, managing director of operations at the World Bank. So the floor is yours, ma'am, please.",
-          "t": "66:57",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1c/k1cv0jhwpq?t=1:06:57"
+          "text": "Thank you, sir. Allow me to turn to Ms. Anne Bertsch, sorry, managing director of operations at the World Bank. So the floor is yours, ma'am, please.",
+          "t": "48:47",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1c/k1cv0jhwpq?t=48:47"
         },
         {
           "date": "2026-09-22",
