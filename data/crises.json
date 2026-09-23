@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:52:13.774Z",
+  "generatedAt": "2026-09-23T20:55:02.907Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -2938,7 +2938,7 @@
       "name": "Ukraine",
       "lon": 31,
       "lat": 49,
-      "volume": 8,
+      "volume": 9,
       "level": "elevated",
       "trend": [
         3,
@@ -2952,7 +2952,7 @@
         1,
         2,
         0,
-        0
+        1
       ],
       "top": "… They can support safe and voluntary evacuation of civilians and allow lifesaving aid to reach civilians in need. OCHA remains committed to pursuing such practical arrangements. Mr. President, four and a half years since the escalation of …",
       "briefings": [
@@ -3322,6 +3322,13 @@
           "text": "… Peace Operations. We also thank Mr Indrika Ratwatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. We thank them for their presentations. The information we have been receiving about …",
           "t": "90:10",
           "pageUrl": "https://transcripts.un.org/en/sc/10202?t=1:30:10"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Bahrain",
+          "text": "… and blessings of God be upon you. At the beginning of our statement today, we would like to express our thanks to the Under-Secretary-General for Political and Peacebuilding Affairs for her valuable briefing. We would also like to express …",
+          "t": "68:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10227?t=1:08:11"
         },
         {
           "date": "2026-08-24",
@@ -4304,7 +4311,7 @@
       "name": "France",
       "lon": 2.2,
       "lat": 46.6,
-      "volume": 3,
+      "volume": 4,
       "level": "elevated",
       "trend": [
         1,
@@ -4318,7 +4325,7 @@
         1,
         1,
         1,
-        0
+        1
       ],
       "top": "Play all songs of CID. Il faut bien siffler. All right, good afternoon. I know I'm just standing between you and the ambassador of France, so I'll just have a few notes to share with you. Tomorrow, sorry, 12:30 here, we'll have Jerome …",
       "briefings": [
@@ -4335,6 +4342,13 @@
       "leadership": [],
       "sc": [],
       "onOcha": [
+        {
+          "date": "2026-09-23",
+          "country": "France",
+          "text": "I thank Ms. DiCarlo for her briefing. I shall now make a statement in my capacity as the Minister for Europe and Foreign Affairs of France. Under-Secretary-General, ladies and gentlemen, almost five years ago, Vladimir Putin threw his own …",
+          "t": "31:58",
+          "pageUrl": "https://transcripts.un.org/en/sc/10227?t=31:58"
+        },
         {
           "date": "2026-09-10",
           "country": "Bahrain",
@@ -4411,6 +4425,118 @@
           "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
           "t": "95:13",
           "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:35:13"
+        }
+      ]
+    },
+    {
+      "id": "pan",
+      "name": "Panama",
+      "lon": -80.8,
+      "lat": 8.5,
+      "volume": 3,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1
+      ],
+      "top": "Mr. President, Excellencies, Panama thanks the Under-Secretary-General for Political and Peace Building Affairs, Ms. Rosemary DiCarlo, for her invaluable briefing. We also welcome the distinguished authorities that accompany us today in …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-23",
+          "country": "Panama",
+          "text": "Mr. President, Excellencies, Panama thanks the Under-Secretary-General for Political and Peace Building Affairs, Ms. Rosemary DiCarlo, for her invaluable briefing. We also welcome the distinguished authorities that accompany us today in …",
+          "t": "57:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10227?t=57:52"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We thank you for convening this meeting, which Panama considers to be important. We also thank the Special Representative of the Secretary-General in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary …",
+          "t": "16:50",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=16:50"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "26:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=26:46"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Dominican Republic",
+          "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
+          "t": "17:55",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=17:55"
+        }
+      ]
+    },
+    {
+      "id": "bgd",
+      "name": "Bangladesh",
+      "lon": 90.4,
+      "lat": 23.7,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "… Every dollar lost to unnecessary bureaucracy is a dollar that does not reach a Rohingya family in need. Bangladesh's OCHA-managed pooled funds show what a more disciplined approach can look like: better coordination, greater transparency, …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-23",
+          "country": "United States",
+          "text": "… Every dollar lost to unnecessary bureaucracy is a dollar that does not reach a Rohingya family in need. Bangladesh's OCHA-managed pooled funds show what a more disciplined approach can look like: better coordination, greater transparency, …",
+          "t": "78:40",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=1:18:40"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "UN",
+          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies, as the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership and the co-sponsors. It is imperative we continue to …",
+          "t": "48:42",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=48:42"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "ECOSOC",
+          "text": "I thank the Minister of State for Foreign Affairs of Bangladesh. I now turn to the Executive Director of Physicians for Human Rights, Mr. Zia Sarafi, to whom I ask, what are the operational and humanitarian consequences of increasing …",
+          "t": "10:51",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/30?t=10:51"
         }
       ]
     },
@@ -5198,6 +5324,76 @@
       ]
     },
     {
+      "id": "mmr",
+      "name": "Myanmar",
+      "lon": 96,
+      "lat": 21,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "Myanmar",
+          "text": "… As a recent example, the junta was confiscating essential supplies at checkpoints and arresting civilians for food relief efforts to food victims in central Myanmar. Previously, the junta adopted sanctions measures on individuals and …",
+          "t": "81:09",
+          "pageUrl": "https://transcripts.un.org/en/sc/10213/3?t=1:21:09"
+        },
+        {
+          "date": "2026-07-31",
+          "country": "UN",
+          "text": "… Counsellor Aung San Suu Kyi in detention today in Myanmar. In accordance with the ICRC's standards and procedures for visiting people deprived of liberty, Previously, the Special Envoy of the Secretary-General on Myanmar, Ms. Julie Bishop, …",
+          "t": "26:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=26:48"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "UN",
+          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies, as the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership and the co-sponsors. It is imperative we continue to …",
+          "t": "48:42",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=48:42"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "UN",
+          "text": "… Council adopted its landmark Resolution 2669. The General Assembly and the Security Council have consistently called for a cessation of hostilities, inclusive dialogue, unfettered humanitarian access, and the release of political prisoners. …",
+          "t": "6:07",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=6:07"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "Philippines",
+          "text": "Thank you. Thank you, Mr. President, and thank you for convening this dialogue this afternoon. We also wish to thank Ms. Julie Bishop, the Special Envoy of the Secretary-General on Myanmar, for her briefing this afternoon and of course for …",
+          "t": "37:56",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=37:56"
+        }
+      ]
+    },
+    {
       "id": "vnm",
       "name": "Vietnam",
       "lon": 108.3,
@@ -5361,55 +5557,6 @@
           "text": "… capacity and based on our national experience. India has been contributing uniformed personnel to United Nations peace operations since 1948. Over 300,000 military and police personnel have since been deployed over 49 missions, and we have …",
           "t": "49:52",
           "pageUrl": "https://transcripts.un.org/en/asset/k11/k11avknjrx?t=49:52"
-        }
-      ]
-    },
-    {
-      "id": "pan",
-      "name": "Panama",
-      "lon": -80.8,
-      "lat": 8.5,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        0,
-        0,
-        0
-      ],
-      "top": "Thank you, Madam President. We thank you for convening this meeting, which Panama considers to be important. We also thank the Special Representative of the Secretary-General in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-08-28",
-          "country": "Panama",
-          "text": "Thank you, Madam President. We thank you for convening this meeting, which Panama considers to be important. We also thank the Special Representative of the Secretary-General in Haiti, Carlos Ruiz Massieu. and the Acting Assistant Secretary …",
-          "t": "16:50",
-          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=16:50"
-        },
-        {
-          "date": "2026-08-28",
-          "country": "Colombia",
-          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
-          "t": "26:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=26:46"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Dominican Republic",
-          "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
-          "t": "17:55",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=17:55"
         }
       ]
     },
@@ -5930,69 +6077,6 @@
       ]
     },
     {
-      "id": "mmr",
-      "name": "Myanmar",
-      "lon": 96,
-      "lat": 21,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Myanmar",
-          "text": "… As a recent example, the junta was confiscating essential supplies at checkpoints and arresting civilians for food relief efforts to food victims in central Myanmar. Previously, the junta adopted sanctions measures on individuals and …",
-          "t": "81:09",
-          "pageUrl": "https://transcripts.un.org/en/sc/10213/3?t=1:21:09"
-        },
-        {
-          "date": "2026-07-31",
-          "country": "UN",
-          "text": "… Counsellor Aung San Suu Kyi in detention today in Myanmar. In accordance with the ICRC's standards and procedures for visiting people deprived of liberty, Previously, the Special Envoy of the Secretary-General on Myanmar, Ms. Julie Bishop, …",
-          "t": "26:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=26:48"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "UN",
-          "text": "… Council adopted its landmark Resolution 2669. The General Assembly and the Security Council have consistently called for a cessation of hostilities, inclusive dialogue, unfettered humanitarian access, and the release of political prisoners. …",
-          "t": "6:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=6:07"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Philippines",
-          "text": "Thank you. Thank you, Mr. President, and thank you for convening this dialogue this afternoon. We also wish to thank Ms. Julie Bishop, the Special Envoy of the Secretary-General on Myanmar, for her briefing this afternoon and of course for …",
-          "t": "37:56",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=37:56"
-        }
-      ]
-    },
-    {
       "id": "usa",
       "name": "United States",
       "lon": -98.6,
@@ -6369,48 +6453,6 @@
           "text": "Mr. Chair, Excellency, distinguished delegate. It is the first time the delegation of Thailand takes the floor. We wish to extend our warmest congratulations to you, Mr Chair, on your election to preside over the 65th session of the Legal …",
           "t": "101:04",
           "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yth5mvfb?t=1:41:04"
-        }
-      ]
-    },
-    {
-      "id": "kor",
-      "name": "South Korea",
-      "lon": 127.8,
-      "lat": 36.5,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0
-      ],
-      "top": "I'd like to begin by expressing my thanks to Ms. Rosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs. And my thanks also to Mr. James Byrne of the Open Source Center. I thank them both for their very complete …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-04-30",
-          "country": "Bahrain",
-          "text": "I'd like to begin by expressing my thanks to Ms. Rosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs. And my thanks also to Mr. James Byrne of the Open Source Center. I thank them both for their very complete …",
-          "t": "89:53",
-          "pageUrl": "https://transcripts.un.org/en/sc/10147?t=1:29:53"
-        },
-        {
-          "date": "2026-09-09",
-          "country": "South Korea",
-          "text": "Thank you, Mr. President. Let me begin by thanking the Executive Director and her team for their continued dedication in demanding period and the Bureau for its stewardship. The Republic of Korea has followed the strategic merger assessment …",
-          "t": "82:19",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1ho7m57as?t=1:22:19"
         }
       ]
     },
@@ -7590,8 +7632,8 @@
           "date": "2026-09-22",
           "country": "Australia",
           "text": "… the Friends of the Comprehensive Nuclear-Test-Ban Treaty at our 12th Ministerial Meeting, and welcome particularly the Under-Secretary-General Nakamitsu and Executive Director Robert Floyd. Dr. Floyd, thank you very much. Thank you to all …",
-          "t": "15:54",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18hoe49ep?t=15:54"
+          "t": "0:09",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18hoe49ep?t=0:09"
         },
         {
           "date": "2026-09-21",
