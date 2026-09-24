@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T02:30:50.264Z",
+  "generatedAt": "2026-09-24T10:51:32.285Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -6465,17 +6465,17 @@
       "onOcha": []
     },
     {
-      "id": "tha",
-      "name": "Thailand",
-      "lon": 101,
-      "lat": 15.9,
+      "id": "jor",
+      "name": "Jordan",
+      "lon": 36.2,
+      "lat": 31.2,
       "volume": 1,
       "level": "standard",
       "trend": [
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,
@@ -6485,31 +6485,34 @@
         0,
         1
       ],
-      "top": "… in some of Venezuela's most affected regions. We also have Her Excellency Mrs. Chai Patyuth, currently serving as the Deputy Permanent Representative of Thailand in the United Nations in New York, A career diplomat with Thailand's Ministry …",
-      "briefings": [],
+      "top": "… to New York on Wednesday. Earlier today, before departing for Cyprus, the Secretary-General met in Amman with Jordan's Deputy Prime Minister and Minister of Foreign Affairs and Expatriates, Ayman Safadi. They discussed regional …",
+      "briefings": [
+        {
+          "date": "2026-07-27",
+          "speaker": "Farhan",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… to New York on Wednesday. Earlier today, before departing for Cyprus, the Secretary-General met in Amman with Jordan's Deputy Prime Minister and Minister of Foreign Affairs and Expatriates, Ayman Safadi. They discussed regional …",
+          "t": "0:30",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=0:30"
+        }
+      ],
       "leadership": [],
       "sc": [],
       "onOcha": [
         {
-          "date": "2026-06-17",
-          "country": "Mike",
-          "text": "… in some of Venezuela's most affected regions. We also have Her Excellency Mrs. Chai Patyuth, currently serving as the Deputy Permanent Representative of Thailand in the United Nations in New York, A career diplomat with Thailand's Ministry …",
-          "t": "43:33",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1f/k1fd40unw5?t=43:33"
+          "date": "2026-09-23",
+          "country": "Australia",
+          "text": "Thank you, Minister Safadi, for your remarks, and thank you for your personal leadership and Jordan's steadfast support in the championing of the declaration and its implementation, which is very appreciated. I'm very honoured now to invite …",
+          "t": "12:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jwzmxbsa?t=12:17"
         },
         {
-          "date": "2026-09-21",
-          "country": "Candace",
-          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
-          "t": "14:34",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
-        },
-        {
-          "date": "2026-04-15",
-          "country": "Thailand",
-          "text": "Mr. Chair, Excellency, distinguished delegate. It is the first time the delegation of Thailand takes the floor. We wish to extend our warmest congratulations to you, Mr Chair, on your election to preside over the 65th session of the Legal …",
-          "t": "101:04",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yth5mvfb?t=1:41:04"
+          "date": "2026-06-26",
+          "country": "Jordan",
+          "text": "Thank you, Mr. Chair. I will be making the statement on behalf of His Excellency Hindawi. Mr. Chair, Madam Executive Director, Jordan thanks UNODC for this important briefing on on the World Drug Report 2026 and commends UNODC's continued …",
+          "t": "101:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19rfgzd3w?t=1:41:01"
         }
       ]
     },
@@ -6518,7 +6521,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 112,
+      "volume": 115,
       "level": "elevated",
       "trend": [
         13,
@@ -6532,7 +6535,7 @@
         26,
         8,
         16,
-        42
+        45
       ],
       "top": "… survivor-centered approach at the heart of the toolkit being launched today really matters. The toolkit aligns with OCHA's gender policy and reinforces a people-centered approach to humanitarian action. It can help us engage with survivors …",
       "briefings": [
@@ -7379,6 +7382,13 @@
         },
         {
           "date": "2026-09-23",
+          "country": "DR Congo",
+          "text": "… translate into better access to concessional financing, greater mobilization of lateral development banks, and debt relief mechanisms that protect our state's ability to invest. Lastly, no financial architecture can be sustainable without …",
+          "t": "728:51",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1b5jwwa58?t=12:08:51"
+        },
+        {
+          "date": "2026-09-23",
           "country": "Margaret Bashir",
           "text": "… your commitment and the EU's commitment. Finally, I'd like to ask Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, for his opening remarks as our co-host.",
           "t": "31:06",
@@ -7819,6 +7829,13 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k13/k13o19ktg6?t=7:31"
         },
         {
+          "date": "2026-09-23",
+          "country": "Cyprus",
+          "text": "… that the foundational values of multilateralism must be protected. International law, the UN Charter, respect for sovereign and territorial integrity, the peaceful settlement of disputes, respect for human rights, the quality of states, all …",
+          "t": "245:43",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1b5jwwa58?t=4:05:43"
+        },
+        {
           "date": "2026-09-22",
           "country": "Qatar",
           "text": "… of the presidency of this session, and wish him every success. I also thank her excellency, miss Anna Lena Beabok, for her efforts in presiding over the work of the previous session. I would also like to commend the efforts and endeavors of …",
@@ -7999,6 +8016,13 @@
           "text": "Thank you, Mr. President. Mr. President, congratulations on the nomination as Minister of Foreign Affairs of your predecessor. Mr. President of the UN Women Board, Chairperson of the Joint Board, Madam President of the WFP Board, Mr. …",
           "t": "43:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=43:05"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Estonia",
+          "text": "… Excellencies, Ladies and Gentlemen, Last year, speaking from this podium, I described the United Nations as an idea of a better world. It is a carefully crafted agreement to safeguard peace and security, promote development and uphold human …",
+          "t": "161:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1b5jwwa58?t=2:41:28"
         },
         {
           "date": "2026-09-22",
