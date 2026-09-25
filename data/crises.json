@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:14:48.450Z",
+  "generatedAt": "2026-09-25T20:56:17.727Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -3591,6 +3591,69 @@
       ]
     },
     {
+      "id": "eth",
+      "name": "Ethiopia",
+      "lon": 40,
+      "lat": 9,
+      "volume": 4,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      "top": "… framework and help advance a broader process towards sustainable peace and stability. On the humanitarian front, our OCHA colleagues tell us that escalation of conflict in northern Ethiopia risks adding to already substantial humanitarian …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… framework and help advance a broader process towards sustainable peace and stability. On the humanitarian front, our OCHA colleagues tell us that escalation of conflict in northern Ethiopia risks adding to already substantial humanitarian …",
+          "t": "29:57",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=29:57"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… regular humanitarian operations where security allows in Tigray, also in Amhara and Afar. provinces, assessing emergency needs, and developing plans to respond to those impacted by the fighting. However, insecurity is already affecting our …",
+          "t": "30:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=30:27"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… encourage you to be here. In addition to Dr. Tedros, he will have Professor Muhammad Janabi, the WHO Regional Director for Africa, and Dr. Nedret Emiroglu, head of the Secretariat for Intergovernmental Working Group on the WHO Pandemic …",
+          "t": "27:54",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:54"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… Welcome to Siberia. It's cold and it's freezing in here. Freezing. Yes, exactly. We will be open tomorrow, regardless of the weather. All right, good afternoon. Happy Friday. Nice to see you all again after a long week. 00 p.m., Dr. Tedros, …",
+          "t": "27:32",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:32"
+        },
+        {
+          "date": "2026-06-24",
+          "country": "Ethiopia",
+          "text": "… you for convening this meeting. I would also like to thank SRSG Vanessa Fraser and Ms. Catherine Russell, Executive Director of UNICEF, for their briefings. Mr. President, the Government of Ethiopia reiterates its unwavering commitment to …",
+          "t": "150:23",
+          "pageUrl": "https://transcripts.un.org/en/sc/10182/2?t=2:30:23"
+        }
+      ]
+    },
+    {
       "id": "cod",
       "name": "DR Congo",
       "lon": 23,
@@ -5922,6 +5985,76 @@
       "onOcha": []
     },
     {
+      "id": "tur",
+      "name": "Turkey",
+      "lon": 35.2,
+      "lat": 39,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-07-21",
+          "country": "Pakistan",
+          "text": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
+          "t": "27:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=27:59"
+        },
+        {
+          "date": "2026-06-09",
+          "country": "Zambia",
+          "text": "I think that's a great summary of what OCHA does around the world. At this point, I will invite our Vice President, Madam Emine Yüldız of Turkey, to say a few words.",
+          "t": "4:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qt9vfgcl?t=4:59"
+        },
+        {
+          "date": "2026-08-04",
+          "country": "UNIS",
+          "text": "… in the country there, in Turkey— including youth and women representatives. And I also would like to add that the Under-Secretary-General for Humanitarian Affairs, Tom Fletcher, stressed that humanitarians are scaling up efforts— and we've …",
+          "t": "37:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-04?t=37:49"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UNFCCC",
+          "text": "Good afternoon, everybody. I'm Wasi Mir, the Director for Conference Affairs at UNFCCC, responsible for working with the government of Turkey for delivering the operations of COP31 in Antalya. So we have the pleasure in a minute to have …",
+          "t": "0:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19kdqv3oj?t=0:01"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "China",
+          "text": "President, I thank Deputy Special Envoy Cordonnet and Director Vosorno for their briefings, and I welcome the representative of Syria and Turkey and Palestine to today's meeting. Recently, tensions in the Middle East have escalated once …",
+          "t": "60:33",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:00:33"
+        },
+        {
+          "date": "2026-06-04",
+          "country": "United Kingdom",
+          "text": "Thank you, President. I thank High Representative Nakamitsu for her briefing today, and I welcome the participation of the Permanent Representative of Syria and the Representative of Turkey in today's meeting. The United Kingdom remains …",
+          "t": "49:51",
+          "pageUrl": "https://transcripts.un.org/en/sc/10164?t=49:51"
+        }
+      ]
+    },
+    {
       "id": "chn",
       "name": "China",
       "lon": 104,
@@ -6438,179 +6571,11 @@
       ]
     },
     {
-      "id": "irn",
-      "name": "Iran",
-      "lon": 53.7,
-      "lat": 32.4,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        2,
-        2,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "top": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
-      "briefings": [
-        {
-          "date": "2026-06-03",
-          "speaker": "Steph",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
-          "t": "8:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-03?t=8:35"
-        },
-        {
-          "date": "2026-07-20",
-          "speaker": "Stephanie",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… hygiene infrastructure, and the establishment of temporary isolation sites. At the end of June, Tom Fletcher, our Emergency Relief Coordinator, allocated $2 million from the Central Emergency Response Fund to strengthen Ebola operational …",
-          "t": "49:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=49:44"
-        },
-        {
-          "date": "2026-07-13",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… Speaking of diplomacy, I can confirm that on his first visit to Iran, the officer in charge of the UN Special Coordinator for Lebanon, Jean Arnault, met with Iranian Foreign Minister Abbas Araghchi. Mr. Arnaud outlined the UN efforts on the …",
-          "t": "35:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-07-13?t=35:24"
-        },
-        {
-          "date": "2026-07-13",
-          "speaker": "Stéphane",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Speaking of diplomacy, I can confirm that on his first visit to Iran, The officer in charge of the UN Special Coordinator for Lebanon, Jean Arnault, met with Iranian Foreign Minister Abbas Araghchi. Mr. Arnault outlined the UN efforts on …",
-          "t": "3:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-13/2?t=3:10"
-        },
-        {
-          "date": "2026-09-02",
-          "speaker": "Stefan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… patience. In a short while, we'll be joined virtually by our guest, Inger Andersen, who as you know, is the executive director of the UN Environment Program. She will brief you on the launch of the latest UNEP report called Limiting …",
-          "t": "0:09",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-02?t=0:09"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "… this year. The Deputy Secretary General will be back in New York on Monday. Back here, Ademou Sorunu, the Director of OCHA's Crisis Response Division, spoke at today's Security Council meeting on the protection of civilians. saying that …",
-          "t": "3:41",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=3:41"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "Yes, I will get that from our OCHA colleagues. Benno.",
-          "t": "19:29",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=19:29"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "… she said. It is the minimum that humanity and civilization require. She was speaking on behalf of Tom Fletcher, Emergency Relief Coordinator, and added that the need, asserted the need by all states to uphold their commitments under the …",
-          "t": "4:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=4:38"
-        },
-        {
-          "date": "2026-04-08",
-          "country": "UN",
-          "text": "… efforts are led by the Ministry of Health, supported by the World Health Organization, UNICEF, the United Nations Relief and Works Agency, donors and partners to vaccinate children under the age of three who have missed routine vaccination …",
-          "t": "5:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-04-08?t=5:35"
-        },
-        {
-          "date": "2026-07-23",
-          "country": "Panama",
-          "text": "Thank you, Mr. President. We'd like to thank the Democratic Republic of the Congo and the Islamic Republic of Iran for convening this open debate at a time at which the international order is facing major challenges. We are also grateful …",
-          "t": "98:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10201?t=1:38:14"
-        }
-      ]
-    },
-    {
-      "id": "ind",
-      "name": "India",
-      "lon": 79,
-      "lat": 22,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1,
-        0,
-        0
-      ],
-      "top": "… close cooperation with the United Nations. The Secretary-General and the Prime Minister discussed the priorities of India's presidency of the BRICS including the need for multilateral institutions that clearly reflect the realities of the …",
-      "briefings": [
-        {
-          "date": "2026-09-11",
-          "speaker": "Farhan",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… close cooperation with the United Nations. The Secretary-General and the Prime Minister discussed the priorities of India's presidency of the BRICS including the need for multilateral institutions that clearly reflect the realities of the …",
-          "t": "10:26",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-11?t=10:26"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-08-25",
-          "country": "India",
-          "text": "… water security, food systems, biodiversity, and economic stability. India integrates early warnings, mitigation, relief, and community resilience through coordinated multi-institutional approach, rainfall tracking, and satellite-based …",
-          "t": "16:49",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qryndud0?t=16:49"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "India",
-          "text": "Thank you, Svetlana. I hope I'm audible. So I'll start by thanking France UNCTAD, UNOCT and GIFCT as co-hosts of India in this important event. I'm joining online in my capacity as Director of AML Safety Policy in the Finance Ministry of …",
-          "t": "40:41",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1z/k1zxyvf0qn?t=40:41"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "India",
-          "text": "… capacity and based on our national experience. India has been contributing uniformed personnel to United Nations peace operations since 1948. Over 300,000 military and police personnel have since been deployed over 49 missions, and we have …",
-          "t": "49:52",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11avknjrx?t=49:52"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 117,
+      "volume": 123,
       "level": "elevated",
       "trend": [
         13,
@@ -6624,7 +6589,7 @@
         19,
         12,
         15,
-        56
+        62
       ],
       "top": "… survivor-centered approach at the heart of the toolkit being launched today really matters. The toolkit aligns with OCHA's gender policy and reinforces a people-centered approach to humanitarian action. It can help us engage with survivors …",
       "briefings": [
@@ -6908,6 +6873,13 @@
           "text": "… what, three days old? So I don't know if there is any more clarity on the figures internal. I'm just referring to the OCHA update last night, Christiane, colleagues, 133,000 is mentioned as of yesterday, the 24th, so it's quite possible …",
           "t": "20:24",
           "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-09-25?t=20:24"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "War Child Alliance",
+          "text": "… Founding Global Ambassador. Thank you all for being here. I'd like to start with a question to you, Mr. Yahya. OCHA plays a central role in advancing the protection of civilians, including tracking, analyzing, and regularly reporting on …",
+          "t": "23:53",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19zfk7l2f?t=23:53"
         },
         {
           "date": "2026-09-24",
@@ -7489,6 +7461,13 @@
           "text": "Thank you, Madam President. I thank Special Envoy Hans Krohnberg and OCHA Director Edim Vosornu for their comprehensive briefings. I appreciate the sustained efforts of the Special Envoy in advancing stability and supporting a peaceful …",
           "t": "36:26",
           "pageUrl": "https://transcripts.un.org/en/sc/10135?t=36:26"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "War Child Alliance",
+          "text": "… introduce our panelists. We have Mr. Mohamed Yakhya, Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. Mr. Olof Skoug, Deputy Secretary General for Political Affairs of the European External …",
+          "t": "23:21",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19zfk7l2f?t=23:21"
         },
         {
           "date": "2026-09-24",
@@ -8163,6 +8142,27 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k11/k11x5kddsd?t=29:30"
         },
         {
+          "date": "2026-09-25",
+          "country": "Diana Butu",
+          "text": "… Excellencies, colleagues, and friends, I want to begin with a confession. There are times when I wonder whether any of this matters, whether the UN resolutions matter, whether the advisory opinions matter, whether the careful drafting over …",
+          "t": "91:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qk4rkagp?t=1:31:19"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "Turkey",
+          "text": "… I would like to brief you on the planning for participants we have meticulously completed the planning for every stage of the journey of participants from their arrival in Antalya and until their departure the preparations are under three …",
+          "t": "8:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19kdqv3oj?t=8:01"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "Turkey",
+          "text": "Excellencies, distinguished members of the diplomatic community, it's a pleasure to welcome you all to today's briefing. Let me begin with the basic arrangements for COP31 Leaders Summit. The Leaders Summit will take place in the first week …",
+          "t": "21:24",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19kdqv3oj?t=21:24"
+        },
+        {
           "date": "2026-09-24",
           "country": "CTED",
           "text": "… Sergio Piazzi, Honorable Giulio Centemero, Dear Under-Secretary-General Alexander Zuyev, Your Excellencies, Members of Parliament, dear colleagues, dear friends, I wish first and foremost to thank the Parliamentary Assembly of the …",
@@ -8182,6 +8182,13 @@
           "text": "Thank you, Honorable Minister, also for reminding us about the importance of investing in the next generation of the health workforce as we look into this very critical area in public health. So thank you for those remarks. It is an honor …",
           "t": "46:45",
           "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bm53qpv8?t=46:45"
+        },
+        {
+          "date": "2026-09-24",
+          "country": "Italy",
+          "text": "… colleagues, together with Minister Radman, my friend Gordon, we are very pleased to welcome you to the second meeting of the Roma Coalition on Fertilizers and Food Security. We launched this coalition in Rome last May with FAO, and we …",
+          "t": "0:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jzkdwdai?t=0:01"
         },
         {
           "date": "2026-09-24",
