@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:07:30.976Z",
+  "generatedAt": "2026-09-27T16:08:21.069Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -4225,6 +4225,62 @@
       ]
     },
     {
+      "id": "mar",
+      "name": "Morocco",
+      "lon": -7.1,
+      "lat": 31.8,
+      "volume": 3,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "top": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+          "t": "738:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "Your Excellency, President of the General Assembly, Mr. Secretary-General, Your Excellencies, ladies and gentlemen. I extend my sincere congratulations on behalf of the delegation of the Kingdom of Morocco to His Excellency Mr. Khalilur …",
+          "t": "728:54",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:08:54"
+        },
+        {
+          "date": "2026-09-24",
+          "country": "Bon Appetit",
+          "text": "… Rethinking Food from Plate to Planet, a conversation about reducing food waste. I'm Chris Morocco. I am the food director of Bon Appetit, which means that I oversee all of our recipe content, as well as our team of fabulous test kitchen …",
+          "t": "195:14",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1z/k1zojmdqzt?t=3:15:14"
+        },
+        {
+          "date": "2026-06-10",
+          "country": "France",
+          "text": "Thank you, Chair. Mr. Chair, dear colleagues, first and foremost, I would like to thank Professor Rafiq Akram of Morocco for his commitment during the previous session of COPUOS. I also congratulate Professor Teodoro Valente of Italy on his …",
+          "t": "159:37",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6oixtij?t=2:39:37"
+        }
+      ]
+    },
+    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -5526,55 +5582,6 @@
           "text": "Thank you very much, Mr. President. I thank you, Madam Executive Director, for your very comprehensive report. Vietnam commends UN Women for delivering meaningful results in a very, very difficult global context, as well as the commitment …",
           "t": "72:31",
           "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=1:12:31"
-        }
-      ]
-    },
-    {
-      "id": "mar",
-      "name": "Morocco",
-      "lon": -7.1,
-      "lat": 31.8,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      "top": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-22",
-          "country": "Morocco",
-          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
-          "t": "738:35",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
-        },
-        {
-          "date": "2026-09-22",
-          "country": "Morocco",
-          "text": "Your Excellency, President of the General Assembly, Mr. Secretary-General, Your Excellencies, ladies and gentlemen. I extend my sincere congratulations on behalf of the delegation of the Kingdom of Morocco to His Excellency Mr. Khalilur …",
-          "t": "728:54",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:08:54"
-        },
-        {
-          "date": "2026-06-10",
-          "country": "France",
-          "text": "Thank you, Chair. Mr. Chair, dear colleagues, first and foremost, I would like to thank Professor Rafiq Akram of Morocco for his commitment during the previous session of COPUOS. I also congratulate Professor Teodoro Valente of Italy on his …",
-          "t": "159:37",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6oixtij?t=2:39:37"
         }
       ]
     },
