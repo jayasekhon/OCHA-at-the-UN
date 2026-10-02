@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:40:17.824Z",
+  "generatedAt": "2026-10-02T17:15:02.428Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -1471,6 +1471,120 @@
       ]
     },
     {
+      "id": "eth",
+      "name": "Ethiopia",
+      "lon": 40,
+      "lat": 9,
+      "volume": 10,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        6
+      ],
+      "top": "… can gradually resume in parts of Wag Hamra and North Welo zones. In the AFAR region, our partners are mobilizing emergency assistance in the areas of highest priority where access is allowed. However, in Tigray, humanitarian operations are …",
+      "briefings": [
+        {
+          "date": "2026-10-01",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… can gradually resume in parts of Wag Hamra and North Welo zones. In the AFAR region, our partners are mobilizing emergency assistance in the areas of highest priority where access is allowed. However, in Tigray, humanitarian operations are …",
+          "t": "2:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-01?t=2:10"
+        },
+        {
+          "date": "2026-09-28",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… area. Restrictions on key roads are also impeding our operations. This has limited the movements of humanitarians, of relief supplies and people. Humanitarian operations are already under severe pressure from funding shortages, as we've …",
+          "t": "31:18",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=31:18"
+        },
+        {
+          "date": "2026-09-28",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… where everyone can contribute, and technology companies to address bias in artificial intelligence. He also called for concrete measures to deliver reparatory justice and urged everyone to stand against injustice and build societies where …",
+          "t": "30:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=30:13"
+        },
+        {
+          "date": "2026-09-28",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… cold room. This morning, the Secretary General delivered remarks at the high level event marking the 25th anniversary of the Durban Declaration and Program of Action. He stressed that the fight against racism and the fight against …",
+          "t": "29:28",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=29:28"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-02",
+          "country": "UNOG",
+          "text": "… we are following the situation there very closely, and you may want to consult John and colleagues the update from OCHA that we shared last night on the hostilities in the north of Ethiopia, in the Tigray region in particular. So we'll …",
+          "t": "35:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-02?t=35:07"
+        },
+        {
+          "date": "2026-09-29",
+          "country": "UNIS",
+          "text": "Yeah, indeed. Yes, I think OCHA was warning that worsening security conditions across northern Ethiopia are adding to humanitarian needs and disrupting humanitarian operations. And the problem is really seems to be that the access for …",
+          "t": "41:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-09-29?t=41:27"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… framework and help advance a broader process towards sustainable peace and stability. On the humanitarian front, our OCHA colleagues tell us that escalation of conflict in northern Ethiopia risks adding to already substantial humanitarian …",
+          "t": "29:57",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=29:57"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… regular humanitarian operations where security allows in Tigray, also in Amhara and Afar. provinces, assessing emergency needs, and developing plans to respond to those impacted by the fighting. However, insecurity is already affecting our …",
+          "t": "30:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=30:27"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… encourage you to be here. In addition to Dr. Tedros, he will have Professor Muhammad Janabi, the WHO Regional Director for Africa, and Dr. Nedret Emiroglu, head of the Secretariat for Intergovernmental Working Group on the WHO Pandemic …",
+          "t": "27:54",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:54"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UN Secretariat",
+          "text": "… Welcome to Siberia. It's cold and it's freezing in here. Freezing. Yes, exactly. We will be open tomorrow, regardless of the weather. All right, good afternoon. Happy Friday. Nice to see you all again after a long week. 00 p.m., Dr. Tedros, …",
+          "t": "27:32",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:32"
+        },
+        {
+          "date": "2026-06-24",
+          "country": "Ethiopia",
+          "text": "… you for convening this meeting. I would also like to thank SRSG Vanessa Fraser and Ms. Catherine Russell, Executive Director of UNICEF, for their briefings. Mr. President, the Government of Ethiopia reiterates its unwavering commitment to …",
+          "t": "150:23",
+          "pageUrl": "https://transcripts.un.org/en/sc/10182/2?t=2:30:23"
+        }
+      ]
+    },
+    {
       "id": "ukr",
       "name": "Ukraine",
       "lon": 31,
@@ -2000,113 +2114,6 @@
           "text": "… thank the countries that have convened this meeting for giving us yet another opportunity to again draw the attention of the international community to what happened on the 22nd of May. Your goal, of course, was not to do this, but on the …",
           "t": "66:31",
           "pageUrl": "https://transcripts.un.org/en/sc/10160?t=1:06:31"
-        }
-      ]
-    },
-    {
-      "id": "eth",
-      "name": "Ethiopia",
-      "lon": 40,
-      "lat": 9,
-      "volume": 9,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        4,
-        5
-      ],
-      "top": "… can gradually resume in parts of Wag Hamra and North Welo zones. In the AFAR region, our partners are mobilizing emergency assistance in the areas of highest priority where access is allowed. However, in Tigray, humanitarian operations are …",
-      "briefings": [
-        {
-          "date": "2026-10-01",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… can gradually resume in parts of Wag Hamra and North Welo zones. In the AFAR region, our partners are mobilizing emergency assistance in the areas of highest priority where access is allowed. However, in Tigray, humanitarian operations are …",
-          "t": "2:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-01?t=2:10"
-        },
-        {
-          "date": "2026-09-28",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… area. Restrictions on key roads are also impeding our operations. This has limited the movements of humanitarians, of relief supplies and people. Humanitarian operations are already under severe pressure from funding shortages, as we've …",
-          "t": "31:18",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=31:18"
-        },
-        {
-          "date": "2026-09-28",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… where everyone can contribute, and technology companies to address bias in artificial intelligence. He also called for concrete measures to deliver reparatory justice and urged everyone to stand against injustice and build societies where …",
-          "t": "30:13",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=30:13"
-        },
-        {
-          "date": "2026-09-28",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… cold room. This morning, the Secretary General delivered remarks at the high level event marking the 25th anniversary of the Durban Declaration and Program of Action. He stressed that the fight against racism and the fight against …",
-          "t": "29:28",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-28?t=29:28"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-29",
-          "country": "UNIS",
-          "text": "Yeah, indeed. Yes, I think OCHA was warning that worsening security conditions across northern Ethiopia are adding to humanitarian needs and disrupting humanitarian operations. And the problem is really seems to be that the access for …",
-          "t": "41:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-09-29?t=41:27"
-        },
-        {
-          "date": "2026-09-25",
-          "country": "UN Secretariat",
-          "text": "… framework and help advance a broader process towards sustainable peace and stability. On the humanitarian front, our OCHA colleagues tell us that escalation of conflict in northern Ethiopia risks adding to already substantial humanitarian …",
-          "t": "29:57",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=29:57"
-        },
-        {
-          "date": "2026-09-25",
-          "country": "UN Secretariat",
-          "text": "… regular humanitarian operations where security allows in Tigray, also in Amhara and Afar. provinces, assessing emergency needs, and developing plans to respond to those impacted by the fighting. However, insecurity is already affecting our …",
-          "t": "30:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=30:27"
-        },
-        {
-          "date": "2026-09-25",
-          "country": "UN Secretariat",
-          "text": "… encourage you to be here. In addition to Dr. Tedros, he will have Professor Muhammad Janabi, the WHO Regional Director for Africa, and Dr. Nedret Emiroglu, head of the Secretariat for Intergovernmental Working Group on the WHO Pandemic …",
-          "t": "27:54",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:54"
-        },
-        {
-          "date": "2026-09-25",
-          "country": "UN Secretariat",
-          "text": "… Welcome to Siberia. It's cold and it's freezing in here. Freezing. Yes, exactly. We will be open tomorrow, regardless of the weather. All right, good afternoon. Happy Friday. Nice to see you all again after a long week. 00 p.m., Dr. Tedros, …",
-          "t": "27:32",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-25?t=27:32"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "Ethiopia",
-          "text": "… you for convening this meeting. I would also like to thank SRSG Vanessa Fraser and Ms. Catherine Russell, Executive Director of UNICEF, for their briefings. Mr. President, the Government of Ethiopia reiterates its unwavering commitment to …",
-          "t": "150:23",
-          "pageUrl": "https://transcripts.un.org/en/sc/10182/2?t=2:30:23"
         }
       ]
     },
@@ -4120,8 +4127,8 @@
           "date": "2026-09-23",
           "country": "United States",
           "text": "… Every dollar lost to unnecessary bureaucracy is a dollar that does not reach a Rohingya family in need. Bangladesh's OCHA-managed pooled funds show what a more disciplined approach can look like: better coordination, greater transparency, …",
-          "t": "78:40",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=1:18:40"
+          "t": "64:08",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=1:04:08"
         },
         {
           "date": "2026-06-19",
@@ -4133,9 +4140,9 @@
         {
           "date": "2026-09-23",
           "country": "UN",
-          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies, as the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership and the co-sponsors. It is imperative we continue to …",
-          "t": "48:42",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=48:42"
+          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies. As the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership, and the co-sponsors. It is imperative we continue to …",
+          "t": "34:16",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=34:16"
         },
         {
           "date": "2026-06-18",
@@ -6074,9 +6081,9 @@
         {
           "date": "2026-09-23",
           "country": "UN",
-          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies, as the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership and the co-sponsors. It is imperative we continue to …",
-          "t": "48:42",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=48:42"
+          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies. As the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership, and the co-sponsors. It is imperative we continue to …",
+          "t": "34:16",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=34:16"
         },
         {
           "date": "2026-06-19",
@@ -6447,7 +6454,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 123,
+      "volume": 128,
       "level": "elevated",
       "trend": [
         5,
@@ -6461,10 +6468,19 @@
         12,
         15,
         71,
-        17
+        22
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
+        {
+          "date": "2026-10-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… are also providing hot meals, water, health care, and nutrition support. We continue to monitor the situation, and OCHA colleagues are assessing the humanitarian impact. At the same time, we're working with authorities and partners to …",
+          "t": "37:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-02?t=37:29"
+        },
         {
           "date": "2026-09-17",
           "speaker": "Spokesperson (UN Secretariat)",
@@ -6574,6 +6590,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-17?t=35:14"
         },
         {
+          "date": "2026-10-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… on aid operations around the globe. Today, to keep our vital work going, we've released $160 million from the Central Emergency Response Fund to support lifesaving assistance in 12 of the world's most underfunded humanitarian crises across …",
+          "t": "32:25",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-02?t=32:25"
+        },
+        {
           "date": "2026-08-28",
           "speaker": "OCHA",
           "speakerAffiliation": "OCHA",
@@ -6590,6 +6615,15 @@
           "text": "… improve durability, safety, and living conditions. They also supported the manufacture and installation of 150 large emergency family shelters and provided shelter assistance to hundreds of families, combining cash and in-kind support. Um, …",
           "t": "35:57",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-17?t=35:57"
+        },
+        {
+          "date": "2026-10-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… All right, it's okay. It's today, Friday. Yes. That's it. All right, good afternoon. I will start off with Money and humanitarian needs. I think as we tell you almost every day from this podium, we tell you about the impact that the lack of …",
+          "t": "32:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-02?t=32:10"
         },
         {
           "date": "2026-07-01",
@@ -6741,6 +6775,20 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-10-02",
+          "country": "UNOG",
+          "text": "… the 2nd of October. As usual, we have a very important and somewhat packed agenda today. We have announcements from OCHA on allocations of funds, much needed funds, I'd say, to the CERF. We have an announcement from UNHCR as well later on …",
+          "t": "0:17",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-02?t=0:17"
+        },
+        {
+          "date": "2026-10-02",
+          "country": "OHCHR",
+          "text": "… on both sides of the border. more than 8,000 Cambodian civilians reportedly remain displaced as of September 2026. OCHA supported the government in addressing challenges relating to housing, livelihoods, access to health services, food …",
+          "t": "182:23",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/38?t=3:02:23"
+        },
         {
           "date": "2026-10-01",
           "country": "HRRL",
