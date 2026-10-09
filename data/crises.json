@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:55:34.170Z",
+  "generatedAt": "2026-10-09T12:22:07.576Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,7 +7,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 16,
+      "volume": 17,
       "level": "elevated",
       "trend": [
         7,
@@ -21,7 +21,7 @@
         0,
         4,
         5,
-        4
+        5
       ],
       "top": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
       "briefings": [
@@ -596,6 +596,13 @@
           "text": "… only the Kerem Shalom, Kerem Abu Salem crossing as the only entry point for cargo that we can use. In the West Bank, OCHA reports that yesterday, a Palestinian trying to cross the Israeli barrier in East, into East Jerusalem, reportedly in …",
           "t": "12:46",
           "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=12:46"
+        },
+        {
+          "date": "2026-10-09",
+          "country": "IOM",
+          "text": "… requirements and specifications, yet supplies continue to be turned away at crossing points. IOM alone has about 8,600 emergency shelter kits pre-positioned outside of Gaza that have been repeatedly denied entry by Israeli authorities. …",
+          "t": "53:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-09?t=53:10"
         },
         {
           "date": "2026-10-07",
@@ -5014,6 +5021,273 @@
       ]
     },
     {
+      "id": "cod",
+      "name": "DR Congo",
+      "lon": 23,
+      "lat": -3,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        5,
+        4,
+        5,
+        0,
+        2,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
+      "briefings": [
+        {
+          "date": "2026-08-07",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
+          "t": "2:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=2:20"
+        },
+        {
+          "date": "2026-07-20",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "And on that note, our OCHA colleagues tell us that they're concerned about the spread of Ebola in displacement sites in the eastern part of the DRC. Confirmed Ebola cases have been reported in at least 16 of these sites across Ituri. These …",
+          "t": "47:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=47:19"
+        },
+        {
+          "date": "2026-07-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Representative for the UN Peacekeeping Mission in the Democratic Republic of the Congo and the Ad Interim Resident Coordinator in the DRC. He will also serve as Humanitarian Coordinator— triple-hatted, as we call them. Mr. Mama takes up his …",
+          "t": "40:52",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=40:52"
+        },
+        {
+          "date": "2026-08-07",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of losing another generation of its children. From the Democratic Republic of the Congo, our colleagues at the Office for the Coordination of Humanitarian Affairs tell us that children and women continue to bear a disproportionate share of …",
+          "t": "1:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=1:10"
+        },
+        {
+          "date": "2026-07-29",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Democratic Republic of the Congo to update us on the Ebola response on the ground. Concerning our Ebola response, Our humanitarian colleagues note that Julian Harniss is calling on the international community to ramp up support in response …",
+          "t": "0:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-29?t=0:26"
+        },
+        {
+          "date": "2026-07-28",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… us virtually from Bunia in the Democratic Republic of the Congo, to update us on the Ebola response on the ground. The Secretary-General is currently in Cyprus. His visit comes as part of his Good Offices Mission and to show his strong …",
+          "t": "0:33",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-28?t=0:33"
+        },
+        {
+          "date": "2026-07-29",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… joined virtually by our guests, Julian Harnes, who is the UN senior Ebola coordinator, and Carl Skau, acting executive director of the UN World Food Program. They will both be connecting from Bunia in the Democratic Republic of the Congo to …",
+          "t": "0:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-29?t=0:06"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-09",
+          "country": "UNIS Geneva",
+          "text": "… to ask Mrs. Holt to be very, very brief so that we can free James and have our colleague who also needs to leave from OCHA on the DRC. Please, Mrs. Holt. And sorry again for all these technical problems.",
+          "t": "15:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-09?t=15:07"
+        },
+        {
+          "date": "2026-09-01",
+          "country": "UNICEF",
+          "text": "… in DRC. The second track is on humanitarian diplomacy, where UNICEF continues to work with IOM, UNHCR, WFP and OCHA under the ERC's leadership to advance principled access and protection focused humanitarian diplomacy, particularly in …",
+          "t": "24:15",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1i/k1ilcz19km?t=24:15"
+        },
+        {
+          "date": "2026-08-21",
+          "country": "Journalist",
+          "text": "… morning. Thank you very much for this briefing. I had a question about the, well, the US had announced funding through OCHA's pooled funds that would include response assistance in the DRC. But I'm just wondering if now that the outbreak …",
+          "t": "33:04",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-21?t=33:04"
+        },
+        {
+          "date": "2026-07-13",
+          "country": "Somalia",
+          "text": "… the A3, namely the Democratic Republic of the Congo, Liberia, and my own country, Somalia. We thank ASG Khayyari and OCHA Acting ASG Ratwathe for their comprehensive briefing. We also welcome the participation of the Permanent …",
+          "t": "43:49",
+          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=43:49"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Somalia",
+          "text": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
+          "t": "58:47",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=58:47"
+        },
+        {
+          "date": "2026-09-01",
+          "country": "UN",
+          "text": "… $2.9 billion that is needed. Staying on the continent, turning to the Democratic Republic of the Congo, Tom Fletcher, Emergency Relief Coordinator, stressed today that we cannot respond incrementally to the Ebola epidemic, which is now …",
+          "t": "1:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k14/k149sexlei?t=1:17"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "EU",
+          "text": "… in crisis with severe access constraints, such as Palestine, Sudan, or DRC, to name a few, under the leadership of the Emergency Relief Coordinator and in cooperation with other UN agencies. We regret that UNICEF received only 31% of its …",
+          "t": "136:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=2:16:59"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "DR Congo",
+          "text": "Mr. President, the Democratic Republic of the Congo would like to thank Denmark for having convened this meeting and would like to wish a warm welcome to the Security Council, to His Excellency Mr. Lars Loker Rasmussen, Minister for Foreign …",
+          "t": "93:28",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=1:33:28"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "DR Congo",
+          "text": "Thank you, Madame President. The Democratic Republic of the Congo wishes to thank you for having convened this meeting. Meeting dedicated to the humanitarian situation in the Gaza Strip. My delegation wishes to thank the …",
+          "t": "33:05",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=33:05"
+        },
+        {
+          "date": "2026-08-07",
+          "country": "China",
+          "text": "Chair, I thank Somalia, DRC and Liberia for jointly organizing this AREA Formula meeting. I thank Deputy Secretary-General Amina, Deputy Executive Director Suleiman and Executive Director Banda for their briefings. Amid continued armed …",
+          "t": "65:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1w/k1weks0au8?t=1:05:04"
+        },
+        {
+          "date": "2026-07-27",
+          "country": "DR Congo",
+          "text": "Distinguished members of the Council, the Democratic Republic of the Congo thanks Ms. Kayoko Goto, Director for Europe and Central Asia Departments of Political and Peacebuilding Affairs and Peace Operations. We also thank Mr Indrika …",
+          "t": "89:53",
+          "pageUrl": "https://transcripts.un.org/en/sc/10202?t=1:29:53"
+        },
+        {
+          "date": "2026-07-23",
+          "country": "Panama",
+          "text": "Thank you, Mr. President. We'd like to thank the Democratic Republic of the Congo and the Islamic Republic of Iran for convening this open debate at a time at which the international order is facing major challenges. We are also grateful …",
+          "t": "98:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10201?t=1:38:14"
+        },
+        {
+          "date": "2026-07-22",
+          "country": "Bahrain",
+          "text": "… Excellencies, at the outset, I am pleased to welcome Her Excellency Ms. Thérèse Kayakomba Wagner, Minister of Foreign Affairs, International Cooperation, and Francophonie in the friendly Democratic Republic of the Congo, and we thank her …",
+          "t": "118:56",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sa86m4dn?t=1:58:56"
+        },
+        {
+          "date": "2026-09-03",
+          "country": "Somalia",
+          "text": "Thank you, Mr. President. I have the honor to deliver this statement on behalf of the A3, namely the Democratic Republic of the Congo, Liberia, and my own country, Somalia. On behalf of the group, allow me, Mr. President, to congratulate …",
+          "t": "35:05",
+          "pageUrl": "https://transcripts.un.org/en/sc/10217?t=35:05"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "DR Congo",
+          "text": "Madam President, the Democratic Republic of the Congo would like to thank the Special Coordinator, Mr. Alagbarov, the High Representative Mr. Mladenov, and the Executive Director, Ms. Rayburn. We thank them for their briefings. Madam …",
+          "t": "116:38",
+          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=1:56:38"
+        },
+        {
+          "date": "2026-08-25",
+          "country": "DR Congo",
+          "text": "Mr. President, Mr. Secretary-General, Excellencies, distinguished members of the Council, the Democratic Republic of the Congo would like to thank Denmark for convening this open debate devoted to an issue that lies at the heart of …",
+          "t": "52:03",
+          "pageUrl": "https://transcripts.un.org/en/sc/10213?t=52:03"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "Liberia",
+          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
+        },
+        {
+          "date": "2026-08-07",
+          "country": "Russia",
+          "text": "Chair, we welcome the initiative of Somalia to convene a meeting of the African Union. this informal discussion and we're also to the delegation of DRC and Liberia who co-sponsored it. We're grateful for the views shared by the DSG Amina …",
+          "t": "53:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1w/k1weks0au8?t=53:35"
+        },
+        {
+          "date": "2026-08-05",
+          "country": "China",
+          "text": "President, I congratulate Denmark on assuming the presidency of the Security Council this month. The Chinese delegation assures you and your team of its full cooperation. I also take this opportunity to commend the DRC for its work during …",
+          "t": "70:31",
+          "pageUrl": "https://transcripts.un.org/en/sc/10205?t=1:10:31"
+        },
+        {
+          "date": "2026-07-22",
+          "country": "Kazakhstan",
+          "text": "Mr. President, we warmly welcome the participation of the Minister for Foreign Affairs of the Democratic Republic of the Congo in today's debate and thank the Democratic Republic of the Congo for convening this timely high-level debate. We …",
+          "t": "173:48",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sa86m4dn?t=2:53:48"
+        },
+        {
+          "date": "2026-07-08",
+          "country": "Denmark",
+          "text": "President, Denmark commends the Democratic Republic of the Congo for convening this crucial debate. Prime Minister Tshilika, thank you for your presence here today and for both your country's and your personal commitment to this agenda. Let …",
+          "t": "87:18",
+          "pageUrl": "https://transcripts.un.org/en/sc/10190?t=1:27:18"
+        },
+        {
+          "date": "2026-06-09",
+          "country": "WHO",
+          "text": "… much, Rolando, and good morning, everyone. While we have been briefing you about Ebola outbreak in Democratic Republic of the Congo and the response led by ministry of health, national health authorities, with support of WHO and other …",
+          "t": "0:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-09?t=0:49"
+        },
+        {
+          "date": "2026-06-09",
+          "country": "UNICEF",
+          "text": "Thank you. I'm pleased to speak on behalf of UNICEF's Director of Health Emergencies, who unfortunately couldn't be here as he is responding to the Ebola outbreak in the DRC at this time. Pandemic preparedness is ultimately tested where the …",
+          "t": "70:25",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n1n7ztig?t=1:10:25"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "DR Congo",
+          "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. The Democratic Republic of the Congo wishes to congratulate you and your country, the sister republic of Colombia, on the …",
+          "t": "35:12",
+          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=35:12"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Colombia",
+          "text": "Thank you very much to the representative of Pakistan. I now give the floor to the Democratic Republic of the Congo. Madam President, the Democratic Republic of the Congo wishes to congratulate you and your country the sister Republic of …",
+          "t": "39:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10163?t=39:52"
+        }
+      ]
+    },
+    {
       "id": "tcd",
       "name": "Chad",
       "lon": 19,
@@ -6391,81 +6665,6 @@
           "text": "Thank you very much, Mr. President. I thank you, Madam Executive Director, for your very comprehensive report. Vietnam commends UN Women for delivering meaningful results in a very, very difficult global context, as well as the commitment …",
           "t": "72:31",
           "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=1:12:31"
-        }
-      ]
-    },
-    {
-      "id": "cub",
-      "name": "Cuba",
-      "lon": -77.8,
-      "lat": 21.5,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "… As I said, my first visit or a visit of my predecessors hasn't happened before, but there have been visits of OCHA and conversations of OCHA with Cuba when it comes to civil protection. They are part of UNDAC, the United Nations Disaster …",
-      "briefings": [],
-      "leadership": [
-        {
-          "date": "2026-06-04",
-          "speaker": "Director, Crisis Response Division (OCHA)",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Director, Crisis Response Division",
-          "text": "… As I said, my first visit or a visit of my predecessors hasn't happened before, but there have been visits of OCHA and conversations of OCHA with Cuba when it comes to civil protection. They are part of UNDAC, the United Nations Disaster …",
-          "t": "2:22",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=2:22"
-        },
-        {
-          "date": "2026-06-04",
-          "speaker": "Director, Crisis Response Division (OCHA)",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Director, Crisis Response Division",
-          "text": "… on the humanitarian situation in Cuba. Our resident coordinator, Mr. Francisco Pichón, is dialing in. We have the PR of Cuba to my right, and I have my director who's in my team, Victoria Saez Omeika, on my left. She's the one who covers …",
-          "t": "0:36",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=0:36"
-        }
-      ],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-04",
-          "country": "UN",
-          "text": "Thank you very much, Adam, and colleagues, and thank you so much for your interest in this briefing from OCHA and also from the UN Country Team on the ground in Cuba. And I'd like to start by saying that what we are witnessing today in Cuba …",
-          "t": "12:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=12:05"
-        },
-        {
-          "date": "2026-06-04",
-          "country": "Cuba",
-          "text": "Thank you, dear Adem. Dear Adem Bozon, Director of OCHA's Crisis Crisis Response Division, dear Francisco Pichón, Resident Coordinator, distinguished participants. I appreciate the opportunity to address you today. I also wish to thank the …",
-          "t": "30:42",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=30:42"
-        },
-        {
-          "date": "2026-09-26",
-          "country": "Cuba",
-          "text": "Senor President, distinguished delegates, we thank the government of the United Arab Emirates for the warm hospitality provided and for their efforts in organizing this event. Cuba joins this 15th Congress of the United Nations on crime …",
-          "t": "230:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mqdvzist?t=3:50:28"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Dominican Republic",
-          "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
-          "t": "17:55",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=17:55"
         }
       ]
     },
