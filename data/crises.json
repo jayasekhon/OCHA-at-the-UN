@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:16:10.484Z",
+  "generatedAt": "2026-10-14T21:09:45.048Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -3929,6 +3929,69 @@
       ]
     },
     {
+      "id": "dji",
+      "name": "Djibouti",
+      "lon": 42.5,
+      "lat": 11.6,
+      "volume": 4,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      "top": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
+      "briefings": [
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
+          "t": "46:21",
+          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-10-13?t=46:21"
+        },
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… We will be joined just a programming note tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti having to do with the issues …",
+          "t": "0:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:08"
+        },
+        {
+          "date": "2026-10-12",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… risk. As of today, we and our humanitarian partners have managed to reach some 143,000 men, women, and children with emergency assistance, which includes food, hygiene, and cash assistance. But the needs continue to grow, while access …",
+          "t": "2:14",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-12?t=2:14"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-14",
+          "country": "UN",
+          "text": "… Good afternoon, everyone. In a short while, we will be joined virtually by my guest, Jose Barahona, the Resident Coordinator in Djibouti, who will brief on the influx of migrants to Djibouti. 30 p.m., there will be a briefing here by the UN …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-14?t=0:04"
+        }
+      ]
+    },
+    {
       "id": "arm",
       "name": "Armenia",
       "lon": 45,
@@ -4098,61 +4161,6 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1giatwpoo?t=1:18:59"
         }
       ]
-    },
-    {
-      "id": "dji",
-      "name": "Djibouti",
-      "lon": 42.5,
-      "lat": 11.6,
-      "volume": 3,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3
-      ],
-      "top": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
-      "briefings": [
-        {
-          "date": "2026-10-13",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
-          "t": "46:21",
-          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-10-13?t=46:21"
-        },
-        {
-          "date": "2026-10-13",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… We will be joined just a programming note tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti having to do with the issues …",
-          "t": "0:08",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:08"
-        },
-        {
-          "date": "2026-10-12",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… risk. As of today, we and our humanitarian partners have managed to reach some 143,000 men, women, and children with emergency assistance, which includes food, hygiene, and cash assistance. But the needs continue to grow, while access …",
-          "t": "2:14",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-12?t=2:14"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": []
     },
     {
       "id": "mar",
@@ -6798,7 +6806,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 142,
+      "volume": 147,
       "level": "elevated",
       "trend": [
         4,
@@ -6812,7 +6820,7 @@
         56,
         38,
         16,
-        27
+        32
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -7128,6 +7136,13 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-10-14",
+          "country": "Myanmar",
+          "text": "… bureaucratic abuses under the junta. At this juncture, the drastic decline in foreign funding, recently documented by OCHA, remains deeply worrisome. This financial strain is worsened by the junta's ongoing attacks on local clinics, …",
+          "t": "28:38",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/15?t=28:38"
+        },
         {
           "date": "2026-10-13",
           "country": "Ukraine",
@@ -7822,6 +7837,27 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4kqhazq?t=2:59:15"
         },
         {
+          "date": "2026-10-14",
+          "country": "Iran",
+          "text": "… more vulnerable to the adverse impacts of disasters. In this regard, international cooperation should extend beyond emergency relief and place particular emphasis on assisting developing countries upon their request in strengthening their …",
+          "t": "31:58",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/15?t=31:58"
+        },
+        {
+          "date": "2026-10-14",
+          "country": "Haiti",
+          "text": "… recalls that the protection of persons must cover all steps of the management of disasters, prevention, preparation, relief, recovery and strengthening the resilience of populations. Madam Chair, my delegation underscores three principles, …",
+          "t": "54:38",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/15?t=54:38"
+        },
+        {
+          "date": "2026-10-14",
+          "country": "Belarus",
+          "text": "… systems for cooperation, there are rules for the affected country to issue requests, to exchange information, to send relief teams. simplified customs and border controls, and rules organizing the work of relief teams on the ground in …",
+          "t": "128:30",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/15?t=2:08:30"
+        },
+        {
           "date": "2026-10-13",
           "country": "China",
           "text": "… it all the more difficult to contain the Ebola outbreak. The international community should coordinate humanitarian relief efforts with the epidemic prevention and control. We urge the parties to the conflict to ensure unimpeded …",
@@ -8361,6 +8397,13 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qa5clk5f?t=1:28:43"
         },
         {
+          "date": "2026-10-14",
+          "country": "Niger",
+          "text": "… the African Group. We would like to make the following remarks in a national capacity. My delegation takes note of the Secretary-General's report as well as of the work undertaken in 2026 with a view to consolidating the proposed amendments …",
+          "t": "136:17",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/15?t=2:16:17"
+        },
+        {
           "date": "2026-10-12",
           "country": "France",
           "text": "Thank you, Madam President. I'd like to begin by thanking Deputy Special Envoy Mr. Claudio Cordoni, Assistant Secretary-General for Humanitarian Affairs, Mr. Mohamed Yahi, and Messrs. Bata and Malin for their briefings. Since our last …",
@@ -8644,8 +8687,8 @@
           "date": "2026-10-14",
           "country": "Djibouti",
           "text": "Mr. Chair, I have the honor to speak on behalf of the African Group on agenda item 138, proposed program budget for 2027 concerning special political mission. The group expresses appreciation to Assistant Secretary General Controller, Mr. …",
-          "t": "65:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/6?t=1:05:02"
+          "t": "47:03",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/6?t=47:03"
         },
         {
           "date": "2026-10-13",
