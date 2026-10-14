@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:42:54.147Z",
+  "generatedAt": "2026-10-14T02:57:20.193Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -11,17 +11,17 @@
       "level": "elevated",
       "trend": [
         8,
-        3,
-        3,
+        4,
+        2,
         1,
         7,
+        1,
+        2,
         0,
-        3,
-        0,
-        0,
-        7,
-        0,
-        11
+        2,
+        5,
+        4,
+        7
       ],
       "top": "… mines, and continuing hostilities make movement, evacuation, and the delivery of basic services extremely dangerous. OCHA has proposed practical solutions to reach these communities. Humanitarian needs have not diminished. The urgency has …",
       "briefings": [
@@ -1007,15 +1007,15 @@
         7,
         5,
         5,
-        3,
-        5,
         5,
         8,
-        3,
-        1,
+        5,
         6,
+        0,
         4,
-        4
+        4,
+        4,
+        3
       ],
       "top": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
       "briefings": [
@@ -1928,7 +1928,7 @@
       "volume": 14,
       "level": "elevated",
       "trend": [
-        3,
+        1,
         0,
         0,
         0,
@@ -1936,8 +1936,8 @@
         4,
         1,
         0,
-        6,
-        1,
+        7,
+        0,
         0,
         7
       ],
@@ -2282,14 +2282,14 @@
         0,
         0,
         1,
-        0,
         1,
         0,
         0,
         0,
-        1,
-        5,
+        0,
         3,
+        4,
+        2,
         1
       ],
       "top": "… representative of Greece to the United Nations, will be here to speak to as president of the Security Council for the month of October, she will -- and just as a note for those of you who are watching this via Zoom, they will only take …",
@@ -2425,15 +2425,15 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
-        2,
-        6
+        0,
+        7,
+        1
       ],
       "top": "I would, our OCHA colleagues have very useful and extensive web pages with all the money issues are found. We can share the link with you. Okay, Abu Sufyan.",
       "briefings": [
@@ -2714,9 +2714,9 @@
         0,
         0,
         2,
+        2,
+        2,
         0,
-        3,
-        1,
         1
       ],
       "top": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
@@ -2799,8 +2799,8 @@
         2,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         1,
         2,
         0
@@ -2993,14 +2993,14 @@
       "volume": 5,
       "level": "elevated",
       "trend": [
-        3,
+        1,
         0,
         3,
         0,
         7,
         1,
-        3,
-        4,
+        6,
+        1,
         0,
         4,
         0,
@@ -3615,13 +3615,13 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
         0,
         0,
-        4
+        4,
+        0
       ],
       "top": "I would, our OCHA colleagues have very useful and extensive web pages with all the money issues are found. We can share the link with you. Okay, Abu Sufyan.",
       "briefings": [
@@ -3749,15 +3749,15 @@
       "level": "elevated",
       "trend": [
         0,
-        0,
-        3,
-        0,
         1,
-        0,
-        1,
-        0,
-        0,
         2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
         1,
         1
       ],
@@ -3860,8 +3860,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         2,
         2,
@@ -3929,6 +3929,81 @@
       ]
     },
     {
+      "id": "arm",
+      "name": "Armenia",
+      "lon": 45,
+      "lat": 40.1,
+      "volume": 3,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2
+      ],
+      "top": "… because of insecurity, which has an obvious knock-on effect on services available to the people in the camp. OCHA warns that the security situation could further hinder the Ebola surveillance, contact tracing, and referral of suspected …",
+      "briefings": [
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… because of insecurity, which has an obvious knock-on effect on services available to the people in the camp. OCHA warns that the security situation could further hinder the Ebola surveillance, contact tracing, and referral of suspected …",
+          "t": "14:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=14:19"
+        },
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Deputy Secretary General Amina Mohammed is also in Bangkok, where she arrived to participate in the annual meetings of the IMF and the World Bank, just like the Administrator. As part of her engagements, Ms. Mohammed met with senior …",
+          "t": "0:30",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:30"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-26",
+          "country": "EU",
+          "text": "Thank you, Mr. President. Mr. President, Madam Executive Director, Ministers, Excellencies, Distinguished Delegates, I have the honor to speak on behalf of the European Union and its member states, Albania, Armenia, Iceland, Montenegro, …",
+          "t": "190:07",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=3:10:07"
+        },
+        {
+          "date": "2026-06-23",
+          "country": "Moldova",
+          "text": "Thank you, Madam President, Madam Executive Director, distinguished members of the Executive Board and observers. I deliver this statement on behalf of Australia, Armenia, Belgium, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, …",
+          "t": "19:21",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=19:21"
+        },
+        {
+          "date": "2026-06-11",
+          "country": "Armenia",
+          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I would like to thank Executive Director Geita for her presentation and for her outstanding leadership in guiding UNFPA's crucial work. Armenia reaffirms its strong support for …",
+          "t": "39:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19nkqrbaw?t=39:28"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Armenia",
+          "text": "… discussions under the UN Haiti Initiative. Armenia believes that any reform process should be guided by the objective of strengthening the effectiveness, coherence, and responsiveness of the UN system while ensuring that it remains fully …",
+          "t": "27:00",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j175xw2w?t=27:00"
+        }
+      ]
+    },
+    {
       "id": "isr",
       "name": "Israel",
       "lon": 34.9,
@@ -3944,8 +4019,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         1,
         1
       ],
@@ -4025,6 +4100,61 @@
       ]
     },
     {
+      "id": "dji",
+      "name": "Djibouti",
+      "lon": 42.5,
+      "lat": 11.6,
+      "volume": 3,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "top": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
+      "briefings": [
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
+          "t": "46:21",
+          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-10-13?t=46:21"
+        },
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… We will be joined just a programming note tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti having to do with the issues …",
+          "t": "0:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:08"
+        },
+        {
+          "date": "2026-10-12",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… risk. As of today, we and our humanitarian partners have managed to reach some 143,000 men, women, and children with emergency assistance, which includes food, hygiene, and cash assistance. But the needs continue to grow, while access …",
+          "t": "2:14",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-12?t=2:14"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
+    },
+    {
       "id": "mar",
       "name": "Morocco",
       "lon": -7.1,
@@ -4089,11 +4219,11 @@
       "level": "standard",
       "trend": [
         5,
-        2,
-        5,
-        0,
+        1,
         4,
-        3,
+        1,
+        4,
+        2,
         1,
         0,
         0,
@@ -4365,8 +4495,8 @@
         0,
         0,
         1,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         0,
@@ -4454,8 +4584,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0
       ],
@@ -4506,8 +4636,8 @@
         0,
         0,
         0,
-        0,
-        13,
+        1,
+        12,
         3,
         0,
         0,
@@ -4863,8 +4993,8 @@
         0,
         0,
         0,
-        1,
-        1,
+        2,
+        0,
         0,
         0,
         0,
@@ -5036,52 +5166,6 @@
       ]
     },
     {
-      "id": "dji",
-      "name": "Djibouti",
-      "lon": 42.5,
-      "lat": 11.6,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      "top": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
-      "briefings": [
-        {
-          "date": "2026-10-13",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… We will be joined, just a programming note, tomorrow we'll be joined virtually by Jose Barahona, who is the resident coordinator in Djibouti, who will brief you on the current humanitarian situation in Djibouti, having to do with the issues …",
-          "t": "46:21",
-          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-10-13?t=46:21"
-        },
-        {
-          "date": "2026-10-12",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… risk. As of today, we and our humanitarian partners have managed to reach some 143,000 men, women, and children with emergency assistance, which includes food, hygiene, and cash assistance. But the needs continue to grow, while access …",
-          "t": "2:14",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-12?t=2:14"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": []
-    },
-    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -5163,13 +5247,13 @@
       "level": "standard",
       "trend": [
         0,
-        0,
-        2,
-        0,
-        9,
-        2,
-        0,
         1,
+        1,
+        2,
+        8,
+        1,
+        1,
+        0,
         0,
         0,
         0,
@@ -5655,8 +5739,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0
@@ -5957,12 +6041,12 @@
       "volume": 1,
       "level": "standard",
       "trend": [
-        1,
-        2,
-        8,
-        7,
         3,
+        0,
+        11,
         5,
+        4,
+        3,
         0,
         0,
         0,
@@ -6306,11 +6390,11 @@
       "level": "standard",
       "trend": [
         5,
-        2,
-        2,
         0,
-        3,
         2,
+        1,
+        3,
+        1,
         1,
         0,
         0,
@@ -6636,8 +6720,8 @@
         0,
         0,
         3,
-        0,
         1,
+        0,
         0,
         1,
         0,
@@ -6710,95 +6794,25 @@
       ]
     },
     {
-      "id": "mmr",
-      "name": "Myanmar",
-      "lon": 96,
-      "lat": 21,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0
-      ],
-      "top": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Myanmar",
-          "text": "… As a recent example, the junta was confiscating essential supplies at checkpoints and arresting civilians for food relief efforts to food victims in central Myanmar. Previously, the junta adopted sanctions measures on individuals and …",
-          "t": "81:09",
-          "pageUrl": "https://transcripts.un.org/en/sc/10213/3?t=1:21:09"
-        },
-        {
-          "date": "2026-07-31",
-          "country": "UN",
-          "text": "… Counsellor Aung San Suu Kyi in detention today in Myanmar. In accordance with the ICRC's standards and procedures for visiting people deprived of liberty, Previously, the Special Envoy of the Secretary-General on Myanmar, Ms. Julie Bishop, …",
-          "t": "26:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=26:48"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "UN",
-          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies. As the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership, and the co-sponsors. It is imperative we continue to …",
-          "t": "34:16",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=34:16"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "UN",
-          "text": "… Council adopted its landmark Resolution 2669. The General Assembly and the Security Council have consistently called for a cessation of hostilities, inclusive dialogue, unfettered humanitarian access, and the release of political prisoners. …",
-          "t": "6:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=6:07"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Philippines",
-          "text": "Thank you. Thank you, Mr. President, and thank you for convening this dialogue this afternoon. We also wish to thank Ms. Julie Bishop, the Special Envoy of the Secretary-General on Myanmar, for her briefing this afternoon and of course for …",
-          "t": "37:56",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=37:56"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 134,
+      "volume": 140,
       "level": "elevated",
       "trend": [
         4,
         2,
-        4,
-        7,
+        2,
+        11,
         24,
-        26,
-        13,
-        8,
-        50,
-        47,
-        15,
-        21
+        23,
+        14,
+        10,
+        56,
+        38,
+        16,
+        25
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -7804,8 +7818,22 @@
           "date": "2026-10-13",
           "country": "China",
           "text": "… it all the more difficult to contain the Ebola outbreak. The international community should coordinate humanitarian relief efforts with the epidemic prevention and control. We urge the parties to the conflict to ensure unimpeded …",
-          "t": "78:32",
-          "pageUrl": "https://transcripts.un.org/en/sc/10240?t=1:18:32"
+          "t": "58:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10240?t=58:52"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "Nigeria",
+          "text": "… recognizes that the affected states have the primary role in the direction control, coordination, and supervision of relief assistance, and draft Article 13 makes external assistance subject to its consent. These provisions guard against …",
+          "t": "58:05",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/14?t=58:05"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "Vietnam",
+          "text": "… responsibility of the affected state and its primary role in the direction, control, coordination and supervision of relief assistance within its territory. The decision to seek external assistance must remain within the sovereign …",
+          "t": "140:08",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/14?t=2:20:08"
         },
         {
           "date": "2026-10-12",
@@ -8604,6 +8632,34 @@
           "text": "I shall. Thank you very much. And thank you to member states for those helpful sort of reflections and questions. I'll take them sort of 1 by 1, if I may, because I think they warrant and we have time for clear responses. So firstly, I …",
           "t": "84:47",
           "pageUrl": "https://transcripts.un.org/en/asset/k12/k12cqmof15?t=1:24:47"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "Unknown speaker",
+          "text": "Thank you, Director General, for this inspiring and powerful intervention, where you reminded us that a lot of progress has been made and we need to sustain our achievements, particularly as we face multiple shocks. You also recalled that …",
+          "t": "23:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1ak9m7z8h?t=23:34"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "IFAD",
+          "text": "Distinguished Director-General Chiu, Excellencies, Fellow panellists, ladies and gentlemen, good morning and thank you for the opportunity to be with you today at the opening of this Hand in Hand Initiative forum. I think the theme for this …",
+          "t": "24:25",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1ak9m7z8h?t=24:25"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "EIB",
+          "text": "Good morning, Director General, Excellencies, distinguished guests, colleagues. Let me begin with a simple observation. Agriculture, agri-food, value chains and the bioeconomy are no longer viewed only as development sectors. They have …",
+          "t": "35:50",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1ak9m7z8h?t=35:50"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "Syria",
+          "text": "Mr. Chair, please allow me to congratulate you on your election as chair of the First Committee. I also congratulate your bureau members. We stand ready to cooperate with you to make a success of this session. We align ourselves with the …",
+          "t": "91:33",
+          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/7?t=1:31:33"
         },
         {
           "date": "2026-10-12",
@@ -10242,13 +10298,6 @@
           "text": "Thank you, Chair, distinguished delegates. Above our heads, the once open lanes of orbit grow crowded. Fragments, some no larger than a bolt, others the husks of defunct machines, race unseen at immense speed, crossing paths with working …",
           "t": "55:47",
           "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1tiandw3u?t=55:47"
-        },
-        {
-          "date": "2026-04-16",
-          "country": "Greece",
-          "text": "… previous speakers in wishing you success in your important task. We would also like to express our appreciation to the Director of the UNOUSA, Mrs. Arti Holmaini, as well as to the Secretariat for their dedicated work. Mr. Chairman, Over …",
-          "t": "51:16",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1y52ssw7c?t=51:16"
         }
       ]
     }
