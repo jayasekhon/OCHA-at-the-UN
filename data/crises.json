@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:25:17.165Z",
+  "generatedAt": "2026-10-16T15:51:44.963Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -2454,7 +2454,7 @@
       "name": "Pakistan",
       "lon": 69.3,
       "lat": 30.4,
-      "volume": 8,
+      "volume": 9,
       "level": "elevated",
       "trend": [
         0,
@@ -2468,7 +2468,7 @@
         0,
         0,
         8,
-        0
+        1
       ],
       "top": "I would, our OCHA colleagues have very useful and extensive web pages with all the money issues are found. We can share the link with you. Okay, Abu Sufyan.",
       "briefings": [
@@ -2575,6 +2575,13 @@
       "leadership": [],
       "sc": [],
       "onOcha": [
+        {
+          "date": "2026-10-16",
+          "country": "Uganda",
+          "text": "… the requisite experience for partnership in the UN family, considering that he also doubles as the focal point of IOM, OCHA, ICRC, IFRC and UNDRR. Additionally, Fayaz is a diplomat of Pakistan that currently serves as the coordinator of the …",
+          "t": "70:39",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1i/k1iaao7gaw?t=1:10:39"
+        },
         {
           "date": "2026-10-06",
           "country": "UN",
@@ -5640,6 +5647,121 @@
       ]
     },
     {
+      "id": "usa",
+      "name": "United States",
+      "lon": -98.6,
+      "lat": 39.8,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+      "briefings": [
+        {
+          "date": "2026-07-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+          "t": "0:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=0:19"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-15",
+          "country": "United States",
+          "text": "… continues to invest heavily in humanitarian assistance. In FY 2026, the United States provided $3.8 billion towards OCHA-pooled funds, which included support for UNHCR's work. For decades, the American taxpayer has carried an outsized share …",
+          "t": "125:36",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=2:05:36"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "United States",
+          "text": "… to its children. To this end, the United States United States is providing significant resources through OCHA-managed pooled funds, which deliver assistance twice as fast as previous years and more efficiently for frontline activities. We …",
+          "t": "111:15",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:51:15"
+        },
+        {
+          "date": "2026-06-02",
+          "country": "WFP",
+          "text": "… from the United States meant for our response. The US remains our top donor, and whether directly to us or through the OCHA pooled funds, which they have also generously funded. What has been a bit of a shock to the system has been the …",
+          "t": "46:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-02?t=46:24"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "… this year. The Deputy Secretary General will be back in New York on Monday. Back here, Ademou Sorunu, the Director of OCHA's Crisis Response Division, spoke at today's Security Council meeting on the protection of civilians. saying that …",
+          "t": "3:41",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=3:41"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "Yes, I will get that from our OCHA colleagues. Benno.",
+          "t": "19:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=19:29"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Executive Director",
+          "text": "… system. That's why today we welcome the return of the United States and the the United States and the work of the Emergency Relief Coordinator to ensure that financing is managed more effectively and works more closely with local actors. …",
+          "t": "26:26",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=26:26"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "… she said. It is the minimum that humanity and civilization require. She was speaking on behalf of Tom Fletcher, Emergency Relief Coordinator, and added that the need, asserted the need by all states to uphold their commitments under the …",
+          "t": "4:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=4:38"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "26:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=26:46"
+        },
+        {
+          "date": "2026-08-05",
+          "country": "United States",
+          "text": "Good morning, dear colleagues. I call to order the first meeting of the 16th session of the Committee of Experts on Global Geospatial Information Management. I am Deirdre Delpiaz Bishop from the United States of America, co-chair of the …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=0:04"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "UNISEC Global",
+          "text": "Thank you, Chair. Mr. Chair and distinguished delegates, on behalf of UNISEC Global, I would like to express my appreciation to Professor Teodoro Valente, Chair of UN Copious, and Ms. Arti Hora Maini, Director of UN USA and her team, for …",
+          "t": "3:57",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1ofvfocrf?t=3:57"
+        }
+      ]
+    },
+    {
       "id": "tcd",
       "name": "Chad",
       "lon": 19,
@@ -6667,81 +6789,11 @@
       ]
     },
     {
-      "id": "mmr",
-      "name": "Myanmar",
-      "lon": 96,
-      "lat": 21,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        1,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "top": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Myanmar",
-          "text": "… As a recent example, the junta was confiscating essential supplies at checkpoints and arresting civilians for food relief efforts to food victims in central Myanmar. Previously, the junta adopted sanctions measures on individuals and …",
-          "t": "81:09",
-          "pageUrl": "https://transcripts.un.org/en/sc/10213/3?t=1:21:09"
-        },
-        {
-          "date": "2026-07-31",
-          "country": "UN",
-          "text": "… Counsellor Aung San Suu Kyi in detention today in Myanmar. In accordance with the ICRC's standards and procedures for visiting people deprived of liberty, Previously, the Special Envoy of the Secretary-General on Myanmar, Ms. Julie Bishop, …",
-          "t": "26:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=26:48"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "UN",
-          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies. As the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership, and the co-sponsors. It is imperative we continue to …",
-          "t": "34:16",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=34:16"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "UN",
-          "text": "… Council adopted its landmark Resolution 2669. The General Assembly and the Security Council have consistently called for a cessation of hostilities, inclusive dialogue, unfettered humanitarian access, and the release of political prisoners. …",
-          "t": "6:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=6:07"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Philippines",
-          "text": "Thank you. Thank you, Mr. President, and thank you for convening this dialogue this afternoon. We also wish to thank Ms. Julie Bishop, the Special Envoy of the Secretary-General on Myanmar, for her briefing this afternoon and of course for …",
-          "t": "37:56",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=37:56"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 158,
+      "volume": 161,
       "level": "elevated",
       "trend": [
         2,
@@ -6755,7 +6807,7 @@
         71,
         19,
         18,
-        36
+        39
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -7789,8 +7841,8 @@
           "date": "2026-10-14",
           "country": "IOM",
           "text": "… humanitarian goods to a shared model. In this regard, we are collating with UNHCR on harmonized procurement of core relief items in emergency settings. In closing, please allow me to extend our congratulations to you, High Commissioner, on …",
-          "t": "153:46",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1v8sy1vrm?t=2:33:46"
+          "t": "132:45",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1v8sy1vrm?t=2:12:45"
         },
         {
           "date": "2026-10-14",
@@ -8645,6 +8697,27 @@
           "text": "I shall. Thank you very much. And thank you to member states for those helpful sort of reflections and questions. I'll take them sort of 1 by 1, if I may, because I think they warrant and we have time for clear responses. So firstly, I …",
           "t": "84:47",
           "pageUrl": "https://transcripts.un.org/en/asset/k12/k12cqmof15?t=1:24:47"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Japan",
+          "text": "… Excellencies, distinguished delegates. Let us now turn our attention to agenda item 4B. which concerns the work of the Standing Committee on Programme Budgets, Management, Financial Control and Administrative Oversight. Please be advised …",
+          "t": "0:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=0:34"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Japan",
+          "text": "… item, and which has been made available to Executive Committee members as decision 1. As I mentioned at the start of this item, Under established working methods and in advance of this session, Executive Committee members previously held …",
+          "t": "92:42",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=1:32:42"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Germany",
+          "text": "… High Commissioner, Assistant High Commissioners, Directors, distinguished delegates, we thank UNHCR for its proposal of the program budget for 2027. No easy task given the exacerbating funding crisis faced by the organization and the wider …",
+          "t": "105:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=1:45:28"
         },
         {
           "date": "2026-10-15",
