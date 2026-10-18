@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:55:39.076Z",
+  "generatedAt": "2026-10-18T02:24:56.374Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -1582,357 +1582,6 @@
       ]
     },
     {
-      "id": "syr",
-      "name": "Syria",
-      "lon": 38.5,
-      "lat": 35,
-      "volume": 14,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        4,
-        1,
-        0,
-        6,
-        1,
-        0,
-        0,
-        7
-      ],
-      "top": "… of conflict, displacement, economic collapse, there's now a real opportunity to help Syrians move from dependence on emergency assistance towards recovery and self-reliance. This opportunity is closely linked to the government's efforts to …",
-      "briefings": [
-        {
-          "date": "2026-07-21",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… including this, the Security Council, remains critical. Also briefing was our colleague Edem Wosornu, as you know, is OCHA's Director of Crisis Response. She also briefed on the humanitarian situation in the country. Since December of 2024, …",
-          "t": "37:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=37:45"
-        },
-        {
-          "date": "2026-07-02",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… work. Despite these challenges, UNIFIL continues to facilitate humanitarian access. Yesterday, in cooperation with our OCHA colleagues, the mission facilitated 13 humanitarian missions in Sector West, following 14 missions on Tuesday across …",
-          "t": "7:46",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=7:46"
-        },
-        {
-          "date": "2026-07-02",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… reconstruction, both physical reconstruction and psychological reconstruction for the people impacted. Next week, our OCHA colleagues, I think, will convene a conference to look at that transition to see how we can get more funding. The …",
-          "t": "19:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=19:44"
-        },
-        {
-          "date": "2026-09-17",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… from our colleague, Claudio Cordone, the Deputy Special Envoy for Syria, and they also heard from Tom Fletcher, our Emergency Relief Coordinator. Mr. Cordone spoke about the progress being made in Syria, notably the preparations for holding …",
-          "t": "33:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-17?t=33:27"
-        },
-        {
-          "date": "2026-07-21",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… as it happens. This morning, the Security Council also met to discuss Syria. Claudio Cordone, the Secretary-General's Deputy Special Envoy for Syria, briefed from Damascus and told Council members that despite challenges, the opportunities …",
-          "t": "36:52",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=36:52"
-        },
-        {
-          "date": "2026-07-21",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… I think you saw Thank you, Mr. President. I would like to inform you that this morning we issued a note on the Secretary-General's upcoming travel to Syria. He will arrive in Syria later this week at the invitation of the government of …",
-          "t": "35:23",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=35:23"
-        },
-        {
-          "date": "2026-07-23",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "All right, good afternoon. In a short while, I will be joined by our guest, Carla Quintana, who is the head of the Independent Institution on Missing Persons in Syria. She will be here to discuss the situation of missing persons in Syria. …",
-          "t": "0:02",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-23?t=0:02"
-        },
-        {
-          "date": "2026-07-22",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… y'all. Tomorrow— we don't have a guest today, so just me, but tomorrow we will have Carla Quintana, who is the head of the Independent Institution on Missing Persons in Syria. She will be here to discuss the situation in Syria following her …",
-          "t": "0:06",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=0:06"
-        },
-        {
-          "date": "2026-07-21",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… a note on the Secretary-General's upcoming travel to Syria. He will arrive in Syria later this week at the invitation of the government of Syria. In Damascus, he's scheduled to meet with President Ahmed al-Sharar, as well as other …",
-          "t": "35:28",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=35:28"
-        }
-      ],
-      "leadership": [],
-      "sc": [
-        {
-          "date": "2026-07-21",
-          "speaker": "Director, Crisis Response Division (OCHA)",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Director, Crisis Response Division",
-          "text": "… of conflict, displacement, economic collapse, there's now a real opportunity to help Syrians move from dependence on emergency assistance towards recovery and self-reliance. This opportunity is closely linked to the government's efforts to …",
-          "t": "18:41",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=18:41"
-        }
-      ],
-      "onOcha": [
-        {
-          "date": "2026-10-12",
-          "country": "Latvia",
-          "text": "… people who still require assistance. The forthcoming multi-sector needs assessment for 2027, to be conducted by OCHA and the Syrian government, will be important in ensuring that the Syria without camps policy can continue on the basis of a …",
-          "t": "91:49",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:31:49"
-        },
-        {
-          "date": "2026-09-17",
-          "country": "Bahrain",
-          "text": "… for Humanitarian Affairs and Emergency Relief Coordinator in the Office for Coordination of Humanitarian Affairs, the OCHA, for their comprehensive briefings on the latest developments in Syria. We have taken note of the intervention by the …",
-          "t": "60:43",
-          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=1:00:43"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "Russia",
-          "text": "… the humanitarian front remains alarming. Seventy percent of Syria's population still needs aid. At the same time, the OCHA country humanitarian plan, which is already highly prioritized, has been funded only at the level of 30 percent. …",
-          "t": "45:29",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=45:29"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "Panama",
-          "text": "… Deputy Special Envoy for Syria, Indrika Ratwatte, the Acting Assistant Secretary-General for Humanitarian Affairs of OCHA, and Rola Rugbi, the country director of Women Now for Development Lebanon. Moreover, we recognize the presence of the …",
-          "t": "67:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1:07:11"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "Pakistan",
-          "text": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
-          "t": "27:59",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=27:59"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "Denmark",
-          "text": "Thank you, Mr. President, and let me also thank Deputy Special Envoy Cordona and OCHA Director Wosorno for their briefings. Mr. President, as we have heard, the Syrian People's Assembly convening for the first time on July 12th marks an …",
-          "t": "32:29",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=32:29"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "Russia",
-          "text": "Mr. President, we thank Deputy Special Envoy of the Secretary-General Claudia Cordone and the OCHA Chief of Crisis Response, Adam Bosorno. We thank them for their briefings on the situation in the Syrian Arab Republic. The Russian …",
-          "t": "36:56",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=36:56"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Russia",
-          "text": "… grateful to the Deputy Special Envoy of the UN Secretary-General for Syria, Claudio Cordone, and Acting Deputy Head of OCHA, Indrika Rathwat, for their comprehensive briefings on the situation in the Syrian Arab Republic. Russia, like most …",
-          "t": "28:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=28:11"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Somalia",
-          "text": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
-          "t": "58:47",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=58:47"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "Greece",
-          "text": "… of the Secretary General for Syria. Mr. Mohamed Yahia, Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. Mr. George Bata, Founder, Syrian Youth Empowerment Initiative. And Mr. Hajar Malim, …",
-          "t": "0:59",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=0:59"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "Bahrain",
-          "text": "… Deputy Special Envoy of the Secretary-General for Syria. Mr. Mohammed Yahya, ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator of the Office of Coordination of Humanitarian Affairs, for their important briefings. We have …",
-          "t": "74:25",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:14:25"
-        },
-        {
-          "date": "2026-09-17",
-          "country": "France",
-          "text": "… Envoy of the Secretary-General for Syria; Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator; and Mr. Yasser Tabbara, Co-founder of the Syrian Forum. It is so decided. The Security Council …",
-          "t": "0:50",
-          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=0:50"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "Denmark",
-          "text": "… for Syria, Mr. Indrika Rajadatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and Ms. Rula Rugby, Country Director of Women Now for Development, Lebanon. It is so decided. The …",
-          "t": "0:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=0:40"
-        },
-        {
-          "date": "2026-07-22",
-          "country": "GA",
-          "text": "… but above all to the people of Syria, and to ensure that the end of the Assad dictatorship becomes a moment of relief for all one day, including the families of the missing who are still asking a direct and deeply human question: What …",
-          "t": "7:20",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vcdv0re2?t=7:20"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Colombia",
-          "text": "… for Syria, and Mr. Enrique Raduati, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of Item 2 of the agenda. I now …",
-          "t": "0:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=0:46"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Bahrain",
-          "text": "… Syrian Arab Republic, and Mr. Endrika Ratwate, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. I thank them for their valuable, valuable briefings on the latest developments in Syria. I …",
-          "t": "52:57",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=52:57"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Colombia",
-          "text": "… Mr. Claudio Cordone, and Mr. Indrika Radwati, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator for their briefings. Moreover, I welcome to this meeting the Permanent Representative of Syria …",
-          "t": "88:22",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=1:28:22"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "SARC",
-          "text": "… speed, and with the principled approach required to reduce suffering and save lives. Thank you. In Syria, Syria Air Relief, SRF, turns humanitarian financing into practical life-saving support every day. This has included mobile health …",
-          "t": "18:41",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/31?t=18:41"
-        },
-        {
-          "date": "2026-06-10",
-          "country": "UNDP",
-          "text": "… to see that firsthand. For example, in Syria, where a few months ago in April I was there together with our UN Emergency Relief Coordinator Tom Fletcher. We saw together what 14 years of war delivers. It leads to flattened cities. Today, 4 …",
-          "t": "4:11",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1f/k1fbkc7rbm?t=4:11"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "Greece",
-          "text": "… provisional rules of procedure, I invite the following briefers to participate in this meeting: Mr. Claudio Cordone, Deputy Special Envoy of the Secretary General for Syria. Mr. Mohamed Yahia, Assistant Secretary General for Humanitarian …",
-          "t": "0:42",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=0:42"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "Bahrain",
-          "text": "Madam President, I wish to thank Mr. Claudio Cordone, Deputy Special Envoy of the Secretary-General for Syria. Mr. Mohammed Yahya, ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator of the Office of Coordination of …",
-          "t": "74:13",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:14:13"
-        },
-        {
-          "date": "2026-09-17",
-          "country": "France",
-          "text": "The 10,225th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with rule 37 of the Council's provisional rules of procedure, …",
-          "t": "0:10",
-          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=0:10"
-        },
-        {
-          "date": "2026-09-17",
-          "country": "Panama",
-          "text": "Thank you, President. We are grateful for the briefings of the Deputy Special Envoy for Syria, Mr. Claudio Cordone, the Under-Secretary-General for Humanitarian Affairs, Mr. Tom Fletcher, and of Yasser Tabbara, the co-founder of Syrian …",
-          "t": "85:38",
-          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=1:25:38"
-        },
-        {
-          "date": "2026-09-17",
-          "country": "France",
-          "text": "First and foremost, I'd like to thank the Director's Special Envoy, Mr. Claudio Codona, and Under-Secretary-General for Humanitarian Affairs, Tom Fletcher, and Mr. Yasser Tabbara, representative of civil society, and I welcome the …",
-          "t": "91:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=1:31:11"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "UN",
-          "text": "… following engagements in New York during High-Level Week, including a meeting between President Al-Shara and the Secretary-General, who welcomed steady progress in Syria and reaffirmed the UN's readiness to support Syria's political …",
-          "t": "1:47",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:47"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "Russia",
-          "text": "Madam President, We thank the Deputy Special Envoy of the United Nations Secretary-General for Syria, Claudia Cordone, and the Assistant Secretary-General for Humanitarian Affairs, Mohamed Yahiya, for the comprehensive briefings on the …",
-          "t": "44:25",
-          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=44:25"
-        },
-        {
-          "date": "2026-08-27",
-          "country": "Bahrain",
-          "text": "Sayed Al Raisi, Madam President. I would like to thank Mr. Claudio Cordoni, Deputy Special Envoy of the Secretary-General for Syria, and Mr. Enrique Ratwate, Assistant Secretary-General for -- Acting Assistant Secretary-General for …",
-          "t": "73:44",
-          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1:13:44"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Panama",
-          "text": "Thank you, Madam President. We are grateful for the briefings delivered by the Deputy Special Envoy of the Secretary-General for Syria and the Acting Assistant Secretary-General for Humanitarian Affairs, Mr. Enrique Raduad. Their briefings …",
-          "t": "42:17",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=42:17"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "Syria",
-          "text": "There are a couple of points that I took from Mr. Qutaiba's intervention. So first, We're not here to rely on aid. You've heard in Mr. Qutaiba's statement that we want the private sector to flourish. Many of the Syrian cities are very well …",
-          "t": "83:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hosrsro6?t=1:23:30"
-        },
-        {
-          "date": "2026-09-03",
-          "country": "United States",
-          "text": "… Mr. Ambassador, for your remarks. Since our last meeting on this topic in June, the Organization for the Prohibition of Chemical Weapons, the OPCW, Executive Council has acknowledged Syria's significant progress in tackling the remnants of …",
-          "t": "25:15",
-          "pageUrl": "https://transcripts.un.org/en/sc/10217?t=25:15"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "China",
-          "text": "President, I thank Deputy Special Envoy Cordonnet and Director Vosorno for their briefings, and I welcome the representative of Syria and Turkey and Palestine to today's meeting. Recently, tensions in the Middle East have escalated once …",
-          "t": "60:33",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:00:33"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "Bahrain",
-          "text": "Thank you, Mr. President. At the outset, we'd like to thank Mr. Claudio Cordoni, Deputy Special Envoy of the Secretary-General of the United Nations to the Syrian Arab Republic, and Ms. Idam Wosorno, Director of the Operations— Director of …",
-          "t": "89:39",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:29:39"
-        },
-        {
-          "date": "2026-06-04",
-          "country": "United Kingdom",
-          "text": "Thank you, President. I thank High Representative Nakamitsu for her briefing today, and I welcome the participation of the Permanent Representative of Syria and the Representative of Turkey in today's meeting. The United Kingdom remains …",
-          "t": "49:51",
-          "pageUrl": "https://transcripts.un.org/en/sc/10164?t=49:51"
-        }
-      ]
-    },
-    {
       "id": "grc",
       "name": "Greece",
       "lon": 22,
@@ -2641,6 +2290,357 @@
       ]
     },
     {
+      "id": "syr",
+      "name": "Syria",
+      "lon": 38.5,
+      "lat": 35,
+      "volume": 8,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        4,
+        1,
+        0,
+        6,
+        1,
+        0,
+        0,
+        7
+      ],
+      "top": "… of conflict, displacement, economic collapse, there's now a real opportunity to help Syrians move from dependence on emergency assistance towards recovery and self-reliance. This opportunity is closely linked to the government's efforts to …",
+      "briefings": [
+        {
+          "date": "2026-07-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… including this, the Security Council, remains critical. Also briefing was our colleague Edem Wosornu, as you know, is OCHA's Director of Crisis Response. She also briefed on the humanitarian situation in the country. Since December of 2024, …",
+          "t": "37:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=37:45"
+        },
+        {
+          "date": "2026-07-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… work. Despite these challenges, UNIFIL continues to facilitate humanitarian access. Yesterday, in cooperation with our OCHA colleagues, the mission facilitated 13 humanitarian missions in Sector West, following 14 missions on Tuesday across …",
+          "t": "7:46",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=7:46"
+        },
+        {
+          "date": "2026-07-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… reconstruction, both physical reconstruction and psychological reconstruction for the people impacted. Next week, our OCHA colleagues, I think, will convene a conference to look at that transition to see how we can get more funding. The …",
+          "t": "19:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=19:44"
+        },
+        {
+          "date": "2026-09-17",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… from our colleague, Claudio Cordone, the Deputy Special Envoy for Syria, and they also heard from Tom Fletcher, our Emergency Relief Coordinator. Mr. Cordone spoke about the progress being made in Syria, notably the preparations for holding …",
+          "t": "33:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-17?t=33:27"
+        },
+        {
+          "date": "2026-07-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… as it happens. This morning, the Security Council also met to discuss Syria. Claudio Cordone, the Secretary-General's Deputy Special Envoy for Syria, briefed from Damascus and told Council members that despite challenges, the opportunities …",
+          "t": "36:52",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=36:52"
+        },
+        {
+          "date": "2026-07-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… I think you saw Thank you, Mr. President. I would like to inform you that this morning we issued a note on the Secretary-General's upcoming travel to Syria. He will arrive in Syria later this week at the invitation of the government of …",
+          "t": "35:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=35:23"
+        },
+        {
+          "date": "2026-07-23",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "All right, good afternoon. In a short while, I will be joined by our guest, Carla Quintana, who is the head of the Independent Institution on Missing Persons in Syria. She will be here to discuss the situation of missing persons in Syria. …",
+          "t": "0:02",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-23?t=0:02"
+        },
+        {
+          "date": "2026-07-22",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… y'all. Tomorrow— we don't have a guest today, so just me, but tomorrow we will have Carla Quintana, who is the head of the Independent Institution on Missing Persons in Syria. She will be here to discuss the situation in Syria following her …",
+          "t": "0:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-22?t=0:06"
+        },
+        {
+          "date": "2026-07-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… a note on the Secretary-General's upcoming travel to Syria. He will arrive in Syria later this week at the invitation of the government of Syria. In Damascus, he's scheduled to meet with President Ahmed al-Sharar, as well as other …",
+          "t": "35:28",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-21?t=35:28"
+        }
+      ],
+      "leadership": [],
+      "sc": [
+        {
+          "date": "2026-07-21",
+          "speaker": "Director, Crisis Response Division (OCHA)",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Director, Crisis Response Division",
+          "text": "… of conflict, displacement, economic collapse, there's now a real opportunity to help Syrians move from dependence on emergency assistance towards recovery and self-reliance. This opportunity is closely linked to the government's efforts to …",
+          "t": "18:41",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=18:41"
+        }
+      ],
+      "onOcha": [
+        {
+          "date": "2026-10-12",
+          "country": "Latvia",
+          "text": "… people who still require assistance. The forthcoming multi-sector needs assessment for 2027, to be conducted by OCHA and the Syrian government, will be important in ensuring that the Syria without camps policy can continue on the basis of a …",
+          "t": "91:49",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:31:49"
+        },
+        {
+          "date": "2026-09-17",
+          "country": "Bahrain",
+          "text": "… for Humanitarian Affairs and Emergency Relief Coordinator in the Office for Coordination of Humanitarian Affairs, the OCHA, for their comprehensive briefings on the latest developments in Syria. We have taken note of the intervention by the …",
+          "t": "60:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=1:00:43"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "Russia",
+          "text": "… the humanitarian front remains alarming. Seventy percent of Syria's population still needs aid. At the same time, the OCHA country humanitarian plan, which is already highly prioritized, has been funded only at the level of 30 percent. …",
+          "t": "45:29",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=45:29"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "Panama",
+          "text": "… Deputy Special Envoy for Syria, Indrika Ratwatte, the Acting Assistant Secretary-General for Humanitarian Affairs of OCHA, and Rola Rugbi, the country director of Women Now for Development Lebanon. Moreover, we recognize the presence of the …",
+          "t": "67:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1:07:11"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "Pakistan",
+          "text": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
+          "t": "27:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=27:59"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "Denmark",
+          "text": "Thank you, Mr. President, and let me also thank Deputy Special Envoy Cordona and OCHA Director Wosorno for their briefings. Mr. President, as we have heard, the Syrian People's Assembly convening for the first time on July 12th marks an …",
+          "t": "32:29",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=32:29"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "Russia",
+          "text": "Mr. President, we thank Deputy Special Envoy of the Secretary-General Claudia Cordone and the OCHA Chief of Crisis Response, Adam Bosorno. We thank them for their briefings on the situation in the Syrian Arab Republic. The Russian …",
+          "t": "36:56",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=36:56"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Russia",
+          "text": "… grateful to the Deputy Special Envoy of the UN Secretary-General for Syria, Claudio Cordone, and Acting Deputy Head of OCHA, Indrika Rathwat, for their comprehensive briefings on the situation in the Syrian Arab Republic. Russia, like most …",
+          "t": "28:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=28:11"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Somalia",
+          "text": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
+          "t": "58:47",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=58:47"
+        },
+        {
+          "date": "2026-10-12",
+          "country": "Greece",
+          "text": "… of the Secretary General for Syria. Mr. Mohamed Yahia, Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. Mr. George Bata, Founder, Syrian Youth Empowerment Initiative. And Mr. Hajar Malim, …",
+          "t": "0:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=0:59"
+        },
+        {
+          "date": "2026-10-12",
+          "country": "Bahrain",
+          "text": "… Deputy Special Envoy of the Secretary-General for Syria. Mr. Mohammed Yahya, ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator of the Office of Coordination of Humanitarian Affairs, for their important briefings. We have …",
+          "t": "74:25",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:14:25"
+        },
+        {
+          "date": "2026-09-17",
+          "country": "France",
+          "text": "… Envoy of the Secretary-General for Syria; Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator; and Mr. Yasser Tabbara, Co-founder of the Syrian Forum. It is so decided. The Security Council …",
+          "t": "0:50",
+          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=0:50"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "Denmark",
+          "text": "… for Syria, Mr. Indrika Rajadatte, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator, and Ms. Rula Rugby, Country Director of Women Now for Development, Lebanon. It is so decided. The …",
+          "t": "0:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=0:40"
+        },
+        {
+          "date": "2026-07-22",
+          "country": "GA",
+          "text": "… but above all to the people of Syria, and to ensure that the end of the Assad dictatorship becomes a moment of relief for all one day, including the families of the missing who are still asking a direct and deeply human question: What …",
+          "t": "7:20",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vcdv0re2?t=7:20"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Colombia",
+          "text": "… for Syria, and Mr. Enrique Raduati, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. It is so decided. The Security Council will now begin its consideration of Item 2 of the agenda. I now …",
+          "t": "0:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=0:46"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Bahrain",
+          "text": "… Syrian Arab Republic, and Mr. Endrika Ratwate, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator. I thank them for their valuable, valuable briefings on the latest developments in Syria. I …",
+          "t": "52:57",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=52:57"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Colombia",
+          "text": "… Mr. Claudio Cordone, and Mr. Indrika Radwati, Acting Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator for their briefings. Moreover, I welcome to this meeting the Permanent Representative of Syria …",
+          "t": "88:22",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=1:28:22"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "SARC",
+          "text": "… speed, and with the principled approach required to reduce suffering and save lives. Thank you. In Syria, Syria Air Relief, SRF, turns humanitarian financing into practical life-saving support every day. This has included mobile health …",
+          "t": "18:41",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/31?t=18:41"
+        },
+        {
+          "date": "2026-06-10",
+          "country": "UNDP",
+          "text": "… to see that firsthand. For example, in Syria, where a few months ago in April I was there together with our UN Emergency Relief Coordinator Tom Fletcher. We saw together what 14 years of war delivers. It leads to flattened cities. Today, 4 …",
+          "t": "4:11",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1f/k1fbkc7rbm?t=4:11"
+        },
+        {
+          "date": "2026-10-12",
+          "country": "Greece",
+          "text": "… provisional rules of procedure, I invite the following briefers to participate in this meeting: Mr. Claudio Cordone, Deputy Special Envoy of the Secretary General for Syria. Mr. Mohamed Yahia, Assistant Secretary General for Humanitarian …",
+          "t": "0:42",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=0:42"
+        },
+        {
+          "date": "2026-10-12",
+          "country": "Bahrain",
+          "text": "Madam President, I wish to thank Mr. Claudio Cordone, Deputy Special Envoy of the Secretary-General for Syria. Mr. Mohammed Yahya, ASG for Humanitarian Affairs and Deputy Emergency Relief Coordinator of the Office of Coordination of …",
+          "t": "74:13",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:14:13"
+        },
+        {
+          "date": "2026-09-17",
+          "country": "France",
+          "text": "The 10,225th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. The agenda is adopted. In accordance with rule 37 of the Council's provisional rules of procedure, …",
+          "t": "0:10",
+          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=0:10"
+        },
+        {
+          "date": "2026-09-17",
+          "country": "Panama",
+          "text": "Thank you, President. We are grateful for the briefings of the Deputy Special Envoy for Syria, Mr. Claudio Cordone, the Under-Secretary-General for Humanitarian Affairs, Mr. Tom Fletcher, and of Yasser Tabbara, the co-founder of Syrian …",
+          "t": "85:38",
+          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=1:25:38"
+        },
+        {
+          "date": "2026-09-17",
+          "country": "France",
+          "text": "First and foremost, I'd like to thank the Director's Special Envoy, Mr. Claudio Codona, and Under-Secretary-General for Humanitarian Affairs, Tom Fletcher, and Mr. Yasser Tabbara, representative of civil society, and I welcome the …",
+          "t": "91:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10225?t=1:31:11"
+        },
+        {
+          "date": "2026-10-12",
+          "country": "UN",
+          "text": "… following engagements in New York during High-Level Week, including a meeting between President Al-Shara and the Secretary-General, who welcomed steady progress in Syria and reaffirmed the UN's readiness to support Syria's political …",
+          "t": "1:47",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=1:47"
+        },
+        {
+          "date": "2026-10-12",
+          "country": "Russia",
+          "text": "Madam President, We thank the Deputy Special Envoy of the United Nations Secretary-General for Syria, Claudia Cordone, and the Assistant Secretary-General for Humanitarian Affairs, Mohamed Yahiya, for the comprehensive briefings on the …",
+          "t": "44:25",
+          "pageUrl": "https://transcripts.un.org/en/sc/10239?t=44:25"
+        },
+        {
+          "date": "2026-08-27",
+          "country": "Bahrain",
+          "text": "Sayed Al Raisi, Madam President. I would like to thank Mr. Claudio Cordoni, Deputy Special Envoy of the Secretary-General for Syria, and Mr. Enrique Ratwate, Assistant Secretary-General for -- Acting Assistant Secretary-General for …",
+          "t": "73:44",
+          "pageUrl": "https://transcripts.un.org/en/sc/10215?t=1:13:44"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We are grateful for the briefings delivered by the Deputy Special Envoy of the Secretary-General for Syria and the Acting Assistant Secretary-General for Humanitarian Affairs, Mr. Enrique Raduad. Their briefings …",
+          "t": "42:17",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=42:17"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Syria",
+          "text": "There are a couple of points that I took from Mr. Qutaiba's intervention. So first, We're not here to rely on aid. You've heard in Mr. Qutaiba's statement that we want the private sector to flourish. Many of the Syrian cities are very well …",
+          "t": "83:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hosrsro6?t=1:23:30"
+        },
+        {
+          "date": "2026-09-03",
+          "country": "United States",
+          "text": "… Mr. Ambassador, for your remarks. Since our last meeting on this topic in June, the Organization for the Prohibition of Chemical Weapons, the OPCW, Executive Council has acknowledged Syria's significant progress in tackling the remnants of …",
+          "t": "25:15",
+          "pageUrl": "https://transcripts.un.org/en/sc/10217?t=25:15"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "China",
+          "text": "President, I thank Deputy Special Envoy Cordonnet and Director Vosorno for their briefings, and I welcome the representative of Syria and Turkey and Palestine to today's meeting. Recently, tensions in the Middle East have escalated once …",
+          "t": "60:33",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:00:33"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "Bahrain",
+          "text": "Thank you, Mr. President. At the outset, we'd like to thank Mr. Claudio Cordoni, Deputy Special Envoy of the Secretary-General of the United Nations to the Syrian Arab Republic, and Ms. Idam Wosorno, Director of the Operations— Director of …",
+          "t": "89:39",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:29:39"
+        },
+        {
+          "date": "2026-06-04",
+          "country": "United Kingdom",
+          "text": "Thank you, President. I thank High Representative Nakamitsu for her briefing today, and I welcome the participation of the Permanent Representative of Syria and the Representative of Turkey in today's meeting. The United Kingdom remains …",
+          "t": "49:51",
+          "pageUrl": "https://transcripts.un.org/en/sc/10164?t=49:51"
+        }
+      ]
+    },
+    {
       "id": "rus",
       "name": "Russia",
       "lon": 90,
@@ -3205,8 +3205,8 @@
         0,
         0,
         0,
-        3,
-        1,
+        4,
+        0,
         1,
         0
       ],
@@ -3403,8 +3403,8 @@
         0,
         0,
         0,
-        2,
-        3,
+        4,
+        1,
         0,
         0
       ],
@@ -6991,7 +6991,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 159,
+      "volume": 152,
       "level": "elevated",
       "trend": [
         2,
@@ -7002,8 +7002,8 @@
         19,
         12,
         15,
-        74,
-        16,
+        75,
+        15,
         18,
         41
       ],
@@ -10631,20 +10631,6 @@
           "text": "Thank you. Thank you, Ambassador Tappa. Esteemed guests, ministers, authorities, good afternoon. On behalf of my board colleagues, many present here, let me say that we are honored and glad to address this audience on the Seville Commitment …",
           "t": "31:27",
           "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1tl21qdbu?t=31:27"
-        },
-        {
-          "date": "2026-04-20",
-          "country": "Poland",
-          "text": "… distinguished delegates, At the outset, I would like to congratulate you, Mr. Chair, on your election. On behalf of the Polish delegation, I wish you every success in leading the 65th session of the Legal Subcommittee. We also thank former …",
-          "t": "36:40",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1nj88gfi8?t=36:40"
-        },
-        {
-          "date": "2026-04-20",
-          "country": "Japan",
-          "text": "Dear distinguished delegates, in outer space, the risk of collision between objects in Earth's orbit is steadily increasing due to the growing amount of space debris and the deployment of large-scale satellite constellations. Destructive …",
-          "t": "55:43",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1nj88gfi8?t=55:43"
         }
       ]
     }
