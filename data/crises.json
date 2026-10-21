@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:23:14.064Z",
+  "generatedAt": "2026-10-21T21:04:55.764Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,7 +7,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 21,
+      "volume": 22,
       "level": "elevated",
       "trend": [
         5,
@@ -21,10 +21,19 @@
         4,
         4,
         3,
-        6
+        7
       ],
       "top": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
       "briefings": [
+        {
+          "date": "2026-10-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… for the safe, unhindered delivery of humanitarian goods. And in the occupied Palestinian territory, our colleagues at OCHA tell us that they remain deeply concerned about the continued strikes and reportedly causing civilian casualties in …",
+          "t": "10:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-21?t=10:38"
+        },
         {
           "date": "2026-10-08",
           "speaker": "Spokesperson (UN)",
@@ -375,15 +384,6 @@
           "text": "Rough 3.5 hours. Turning to the occupied Palestinian territory, the Office for the Coordination of Humanitarian Affairs tells us that over the weekend, Israeli authorities issued displacement orders to families in the Zeitoun neighborhood …",
           "t": "41:55",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=41:55"
-        },
-        {
-          "date": "2026-06-23",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "All right. Speaking of announcements, good morning. The Secretary-General remains in London, where earlier today he delivered a special address at the London Climate Action Week. He said that our world is facing two crises: a climate crisis …",
-          "t": "0:05",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=0:05"
         }
       ],
       "leadership": [
@@ -7353,7 +7353,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 163,
+      "volume": 166,
       "level": "elevated",
       "trend": [
         2,
@@ -7367,7 +7367,7 @@
         38,
         16,
         40,
-        23
+        26
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -7516,6 +7516,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-17?t=35:57"
         },
         {
+          "date": "2026-10-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… good afternoon. Welcome to all of you. Everybody settled in, buckled up. All right, a couple of programming notes for you. 30 p.m. here in this very room, Paola Gaviria Betancourt, the UN Special Rapporteur on Human Rights for Internally …",
+          "t": "0:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-21?t=0:10"
+        },
+        {
           "date": "2026-07-01",
           "speaker": "Spokesperson (UN)",
           "speakerAffiliation": "UN",
@@ -7568,6 +7577,15 @@
           "text": "… colleague Gianluca already on the screen. Gianluca will be with you in just a moment, if I ask you just to be patient for a few more minutes. So, as mentioned, we'll be joined in a short while by Gianluca Rampolla del Tienardo, the Resident …",
           "t": "0:07",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-29?t=0:07"
+        },
+        {
+          "date": "2026-10-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "All right, good afternoon. Welcome to all of you. Everybody settled in, buckled up. All right, a couple of programming notes for you. 30 p.m. here in this very room, Paola Gaviria Betancourt, the UN Special Rapporteur on Human Rights for …",
+          "t": "0:03",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-21?t=0:03"
         },
         {
           "date": "2026-10-13",
@@ -7689,6 +7707,13 @@
           "text": "… and when action is needed. Our greatest concern is for people already living on the edge. WMO is working closely with OCHA and partners across the United Nations and the humanitarian community to turn climate forecasts into practical …",
           "t": "5:24",
           "pageUrl": "https://transcripts.un.org/en/asset/k15/k15rgv33hs?t=5:24"
+        },
+        {
+          "date": "2026-10-21",
+          "country": "Unknown speaker",
+          "text": "Thank you so much, Steph. So today I was following the press briefing by the WMO and the OCHA. So there was a mention of giving like families of affected, in affected regions, cash before disaster hits. So now my question is, how exactly is …",
+          "t": "20:25",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-21?t=20:25"
         },
         {
           "date": "2026-10-20",
@@ -9311,8 +9336,8 @@
           "date": "2026-10-21",
           "country": "Austria",
           "text": "Thank you very much for giving me the floor, the Chair, the distinguished members of the committee. I'd like to answer on the question of Mr. Yegiazou regarding human trafficking. Thank you very much for your question. The fight against …",
-          "t": "134:51",
-          "pageUrl": "https://transcripts.un.org/en/ccpr/4293?t=2:14:51"
+          "t": "120:43",
+          "pageUrl": "https://transcripts.un.org/en/ccpr/4293?t=2:00:43"
         },
         {
           "date": "2026-10-20",
