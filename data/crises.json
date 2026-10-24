@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:50:49.504Z",
+  "generatedAt": "2026-10-24T02:44:56.609Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,7 +7,7 @@
       "name": "Ukraine",
       "lon": 31,
       "lat": 49,
-      "volume": 23,
+      "volume": 21,
       "level": "elevated",
       "trend": [
         1,
@@ -666,7 +666,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 21,
+      "volume": 18,
       "level": "elevated",
       "trend": [
         1,
@@ -2673,11 +2673,132 @@
       ]
     },
     {
+      "id": "rus",
+      "name": "Russia",
+      "lon": 90,
+      "lat": 61.5,
+      "volume": 8,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        2,
+        0,
+        1
+      ],
+      "top": "… human beings, with water trucking providing up to 2,500 cubic meters of water every day for about 150,000 people. OCHA is calling for additional funding to scale up critical assistance. The 2026 Humanitarian Needs and Response Plan, which …",
+      "briefings": [
+        {
+          "date": "2026-09-29",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… human beings, with water trucking providing up to 2,500 cubic meters of water every day for about 150,000 people. OCHA is calling for additional funding to scale up critical assistance. The 2026 Humanitarian Needs and Response Plan, which …",
+          "t": "41:40",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=41:40"
+        },
+        {
+          "date": "2026-09-29",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… services to their communities. And turning to Africa and the impacts of El Nino on the continent, Tom Fletcher, our Emergency Relief Coordinator, has allocated millions of dollars from the UN Central Emergency Response Fund to get ahead of …",
+          "t": "46:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=46:36"
+        },
+        {
+          "date": "2026-09-29",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… are two more coming so we'll have about 142 140 readouts And there will be a quiz on all of them. This morning, the Secretary-General delivered remarks at the plenary meeting marking the International Day for the Total Elimination of …",
+          "t": "33:42",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=33:42"
+        },
+        {
+          "date": "2026-09-29",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… here. Absolutely freezing. No, it's trying to keep you guys awake because I know I put you to sleep. So, it's a form of torture. All right. Good afternoon to all of you. You heard a good friend, Melissa, give you a whole bunch of data. I …",
+          "t": "32:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=32:20"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-09",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. and I thank Assistant Secretary-General Khalid Khari and OCHA Director Connell for their briefings. Latvia supported Ukraine's call for meeting of this Council in response to Russia's relentless attacks against …",
+          "t": "18:15",
+          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=18:15"
+        },
+        {
+          "date": "2026-10-09",
+          "country": "France",
+          "text": "Thank you, Madam President. I thank Mr. Khaled Khayri, Assistant Secretary-General, and Ms. Gemma Connell, Director at OCHA, for coordination for their briefings. The Council is meeting as Russia takes yet another step in its bloody …",
+          "t": "22:54",
+          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=22:54"
+        },
+        {
+          "date": "2026-07-09",
+          "country": "Ukraine",
+          "text": "… also deliberately creating unbearable living conditions in temporarily occupied territories. Despite repeated calls by OCHA and Red Cross, Russia continues to push thousands of innocent Ukrainians whose homes remain under the temporary …",
+          "t": "96:51",
+          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=1:36:51"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "United Kingdom",
+          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February 2022. …",
+          "t": "70:39",
+          "pageUrl": "https://transcripts.un.org/en/sc/10187?t=1:10:39"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "United Kingdom",
+          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February, 2022. …",
+          "t": "60:28",
+          "pageUrl": "https://transcripts.un.org/en/sc/10188?t=1:00:28"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Russia",
+          "text": "… grateful to the Deputy Special Envoy of the UN Secretary-General for Syria, Claudio Cordone, and Acting Deputy Head of OCHA, Indrika Rathwat, for their comprehensive briefings on the situation in the Syrian Arab Republic. Russia, like most …",
+          "t": "28:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=28:11"
+        },
+        {
+          "date": "2026-10-20",
+          "country": "Ukraine",
+          "text": "Thank you. Thank you, Mr. Chair, for clarifications. Thank you. We would like to exercise the right of reply to the statement made by the Russian Federation earlier in our proceedings. So we just want to reject Russia's claims that the …",
+          "t": "124:25",
+          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/15?t=2:04:25"
+        },
+        {
+          "date": "2026-09-28",
+          "country": "Ukraine",
+          "text": "… our sincere appreciation to the United Arab Emirates for their very warm hospitality and excellent organization of this Congress. For Ukraine, the issues discussed by the Congress are not abstract. Russia's ongoing war of aggression against …",
+          "t": "48:47",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1s7q9ccj8?t=48:47"
+        }
+      ]
+    },
+    {
       "id": "grc",
       "name": "Greece",
       "lon": 22,
       "lat": 39,
-      "volume": 10,
+      "volume": 8,
       "level": "elevated",
       "trend": [
         0,
@@ -2827,7 +2948,7 @@
       "name": "Syria",
       "lon": 38.5,
       "lat": 35,
-      "volume": 8,
+      "volume": 7,
       "level": "elevated",
       "trend": [
         0,
@@ -3174,132 +3295,11 @@
       ]
     },
     {
-      "id": "rus",
-      "name": "Russia",
-      "lon": 90,
-      "lat": 61.5,
-      "volume": 8,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        5,
-        2,
-        0,
-        1
-      ],
-      "top": "… human beings, with water trucking providing up to 2,500 cubic meters of water every day for about 150,000 people. OCHA is calling for additional funding to scale up critical assistance. The 2026 Humanitarian Needs and Response Plan, which …",
-      "briefings": [
-        {
-          "date": "2026-09-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… human beings, with water trucking providing up to 2,500 cubic meters of water every day for about 150,000 people. OCHA is calling for additional funding to scale up critical assistance. The 2026 Humanitarian Needs and Response Plan, which …",
-          "t": "41:40",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=41:40"
-        },
-        {
-          "date": "2026-09-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… services to their communities. And turning to Africa and the impacts of El Nino on the continent, Tom Fletcher, our Emergency Relief Coordinator, has allocated millions of dollars from the UN Central Emergency Response Fund to get ahead of …",
-          "t": "46:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=46:36"
-        },
-        {
-          "date": "2026-09-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… are two more coming so we'll have about 142 140 readouts And there will be a quiz on all of them. This morning, the Secretary-General delivered remarks at the plenary meeting marking the International Day for the Total Elimination of …",
-          "t": "33:42",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=33:42"
-        },
-        {
-          "date": "2026-09-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… here. Absolutely freezing. No, it's trying to keep you guys awake because I know I put you to sleep. So, it's a form of torture. All right. Good afternoon to all of you. You heard a good friend, Melissa, give you a whole bunch of data. I …",
-          "t": "32:20",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-29?t=32:20"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-09",
-          "country": "Latvia",
-          "text": "Thank you, Madam President. and I thank Assistant Secretary-General Khalid Khari and OCHA Director Connell for their briefings. Latvia supported Ukraine's call for meeting of this Council in response to Russia's relentless attacks against …",
-          "t": "18:15",
-          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=18:15"
-        },
-        {
-          "date": "2026-10-09",
-          "country": "France",
-          "text": "Thank you, Madam President. I thank Mr. Khaled Khayri, Assistant Secretary-General, and Ms. Gemma Connell, Director at OCHA, for coordination for their briefings. The Council is meeting as Russia takes yet another step in its bloody …",
-          "t": "22:54",
-          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=22:54"
-        },
-        {
-          "date": "2026-07-09",
-          "country": "Ukraine",
-          "text": "… also deliberately creating unbearable living conditions in temporarily occupied territories. Despite repeated calls by OCHA and Red Cross, Russia continues to push thousands of innocent Ukrainians whose homes remain under the temporary …",
-          "t": "96:51",
-          "pageUrl": "https://transcripts.un.org/en/sc/10191?t=1:36:51"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "United Kingdom",
-          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February 2022. …",
-          "t": "70:39",
-          "pageUrl": "https://transcripts.un.org/en/sc/10187?t=1:10:39"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "United Kingdom",
-          "text": "… truly wished to protect civilians, it would agree to a full, immediate, and unconditional ceasefire. According to OCHA, over 16,000 civilians have been killed in Ukraine since Russia launched its war of choice on the 24th of February, 2022. …",
-          "t": "60:28",
-          "pageUrl": "https://transcripts.un.org/en/sc/10188?t=1:00:28"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Russia",
-          "text": "… grateful to the Deputy Special Envoy of the UN Secretary-General for Syria, Claudio Cordone, and Acting Deputy Head of OCHA, Indrika Rathwat, for their comprehensive briefings on the situation in the Syrian Arab Republic. Russia, like most …",
-          "t": "28:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=28:11"
-        },
-        {
-          "date": "2026-10-20",
-          "country": "Ukraine",
-          "text": "Thank you. Thank you, Mr. Chair, for clarifications. Thank you. We would like to exercise the right of reply to the statement made by the Russian Federation earlier in our proceedings. So we just want to reject Russia's claims that the …",
-          "t": "124:25",
-          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/15?t=2:04:25"
-        },
-        {
-          "date": "2026-09-28",
-          "country": "Ukraine",
-          "text": "… our sincere appreciation to the United Arab Emirates for their very warm hospitality and excellent organization of this Congress. For Ukraine, the issues discussed by the Congress are not abstract. Russia's ongoing war of aggression against …",
-          "t": "48:47",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1s7q9ccj8?t=48:47"
-        }
-      ]
-    },
-    {
       "id": "som",
       "name": "Somalia",
       "lon": 46,
       "lat": 5.5,
-      "volume": 6,
+      "volume": 5,
       "level": "elevated",
       "trend": [
         3,
@@ -3419,277 +3419,11 @@
       ]
     },
     {
-      "id": "sau",
-      "name": "Saudi Arabia",
-      "lon": 45.1,
-      "lat": 24,
-      "volume": 6,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        3,
-        1,
-        0,
-        2,
-        0
-      ],
-      "top": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
-      "briefings": [
-        {
-          "date": "2026-09-15",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
-          "t": "36:33",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=36:33"
-        },
-        {
-          "date": "2026-10-12",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… risk. As of today, we and our humanitarian partners have managed to reach some 143,000 men, women, and children with emergency assistance, which includes food, hygiene, and cash assistance. But the needs continue to grow, while access …",
-          "t": "2:14",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-12?t=2:14"
-        },
-        {
-          "date": "2026-09-30",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… we are following the situation involving the Fly Dubai plane that was en route from Dubai to Tel Aviv and made an emergency landing in Saudi Arabia. We're thankful that a major tragic incident was averted and will continue to monitor …",
-          "t": "31:55",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-30?t=31:55"
-        },
-        {
-          "date": "2026-09-15",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… you yesterday, happy Monday nonetheless. Tomorrow, 11 o'clock, be in this room if you want to ask a question of the Secretary-General. He will be here to brief you ahead of the 81st session of the General Assembly. We will have the briefing …",
-          "t": "34:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=34:48"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-24",
-          "country": "UNDP",
-          "text": "… And let me start by thanking the Kingdom of Saudi Arabia, thanking KSR, the European Union, United Kingdom, and OCHA for bringing us together. Maybe one observation is, if you look at the humanitarian reset, I mean, the humanitarian reset …",
-          "t": "22:02",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1m8b5nh2x?t=22:02"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "KSrelief",
-          "text": "Excellencies, ladies and gentlemen, on behalf of the Kingdom of Saudi Arabia, EU, and OCHA, I welcome you to our event, Humanitarian Diplomacy in Practice, Diplomacy as Enabler of Humanitarian Action. We gather today because humanitarian …",
-          "t": "20:44",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1syfgmubf?t=20:44"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "Turkey",
-          "text": "… you, of course, civil society is present also here, and all international organizations. and we thank Saudi Arabia and OCHA for organizing this meeting. Thank you very much.",
-          "t": "49:22",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1syfgmubf?t=49:22"
-        },
-        {
-          "date": "2026-10-16",
-          "country": "COP17",
-          "text": "I thank Chief Executive Officer of the National Center for Wildlife of the Kingdom of Saudi Arabia. I now give the floor to Mr. Claude Casson, Director of Strategy and Operations of the Global Environment Facility.",
-          "t": "132:43",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1o1rvw956?t=2:12:43"
-        }
-      ]
-    },
-    {
-      "id": "are",
-      "name": "United Arab Emirates",
-      "lon": 54.3,
-      "lat": 24,
-      "volume": 5,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        5,
-        0,
-        0,
-        0
-      ],
-      "top": "… the State of Qatar, and the United Arab Emirates rank 2nd, 3rd, and 5th among the top donor countries according to the OCHA Financial Tracking Service for 2025. The United Arab Emirates implements sustainable support programs through a …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-25",
-          "country": "Bahrain",
-          "text": "… the State of Qatar, and the United Arab Emirates rank 2nd, 3rd, and 5th among the top donor countries according to the OCHA Financial Tracking Service for 2025. The United Arab Emirates implements sustainable support programs through a …",
-          "t": "78:55",
-          "pageUrl": "https://transcripts.un.org/en/ga/80/93?t=1:18:55"
-        },
-        {
-          "date": "2026-09-28",
-          "country": "Ukraine",
-          "text": "… our sincere appreciation to the United Arab Emirates for their very warm hospitality and excellent organization of this Congress. For Ukraine, the issues discussed by the Congress are not abstract. Russia's ongoing war of aggression against …",
-          "t": "48:47",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1s7q9ccj8?t=48:47"
-        },
-        {
-          "date": "2026-09-27",
-          "country": "Turkey",
-          "text": "Mr. President, Ms. Executive Director, distinguished delegates. First of all, I would like to express my sincere appreciation to the authorities of the United Arab Emirates and the Secretariat of the UNODC for their valuable efforts in …",
-          "t": "134:49",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1epjgtvdi?t=2:14:49"
-        },
-        {
-          "date": "2026-09-27",
-          "country": "United Arab Emirates",
-          "text": "… today, having the same goal to combat crime and fighting against scams and fraud. I'm Lieutenant Colonel Said Al Kabe, Director of International Cooperation Department at the Ministry of Interior of the United Arab Emirates, the strategic …",
-          "t": "44:11",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dtifwe0i?t=44:11"
-        },
-        {
-          "date": "2026-09-26",
-          "country": "Italy",
-          "text": "Excellencies, distinguished delegates, colleagues, let me begin by thanking the Government of the United Arab Emirates for its hospitality and for the commitment shown in preparing this Congress. In particular, I wish to thank His …",
-          "t": "127:19",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mqdvzist?t=2:07:19"
-        },
-        {
-          "date": "2026-09-26",
-          "country": "Cuba",
-          "text": "Senor President, distinguished delegates, we thank the government of the United Arab Emirates for the warm hospitality provided and for their efforts in organizing this event. Cuba joins this 15th Congress of the United Nations on crime …",
-          "t": "230:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mqdvzist?t=3:50:28"
-        },
-        {
-          "date": "2026-07-07",
-          "country": "UNICRI",
-          "text": "… Interregional Crime and Justice Research Institute, based here in New York, and I have the distinct honor and pleasure of moderating today's discussion. Just to say, maybe to start on a light note, I was given explicit request to make sure …",
-          "t": "12:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11140q3j4?t=12:05"
-        },
-        {
-          "date": "2026-07-07",
-          "country": "United Arab Emirates",
-          "text": "Good morning, everyone, and welcome. My name is Fatma Al Ali from United Arab Emirates Ministry of Interior. We are glad to have you here for this event alongside UN COPS26. Today, peacekeeping missions matter a great deal and reach many …",
-          "t": "86:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11140q3j4?t=1:26:30"
-        },
-        {
-          "date": "2026-07-01",
-          "country": "UNOCT",
-          "text": "Thank you very much, Jurena. Your Excellency, Maxime Kruse. Envoy of the Minister of Foreign Affairs for Countering Extremism and Terrorism from United Arab Emirates. Your Excellency, Mr. Jeong Chul, Permanent Representative of the Republic …",
-          "t": "3:02",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11gxeld3s?t=3:02"
-        }
-      ]
-    },
-    {
-      "id": "arm",
-      "name": "Armenia",
-      "lon": 45,
-      "lat": 40.1,
-      "volume": 4,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        3,
-        0
-      ],
-      "top": "… because of insecurity, which has an obvious knock-on effect on services available to the people in the camp. OCHA warns that the security situation could further hinder the Ebola surveillance, contact tracing, and referral of suspected …",
-      "briefings": [
-        {
-          "date": "2026-10-13",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… because of insecurity, which has an obvious knock-on effect on services available to the people in the camp. OCHA warns that the security situation could further hinder the Ebola surveillance, contact tracing, and referral of suspected …",
-          "t": "14:19",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=14:19"
-        },
-        {
-          "date": "2026-10-13",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Deputy Secretary General Amina Mohammed is also in Bangkok, where she arrived to participate in the annual meetings of the IMF and the World Bank, just like the Administrator. As part of her engagements, Ms. Mohammed met with senior …",
-          "t": "0:30",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:30"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-16",
-          "country": "UN",
-          "text": "Okay. Good afternoon and happy Friday. The Secretary-General addressed the Leaders' Summit at the 17th Conference of Parties on Biodiversity in Yerevan, Armenia today. He said that the signing of the Montreal-Kunming Global Biodiversity …",
-          "t": "15:30",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-16?t=15:30"
-        },
-        {
-          "date": "2026-09-26",
-          "country": "EU",
-          "text": "Thank you, Mr. President. Mr. President, Madam Executive Director, Ministers, Excellencies, Distinguished Delegates, I have the honor to speak on behalf of the European Union and its member states, Albania, Armenia, Iceland, Montenegro, …",
-          "t": "190:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=3:10:07"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Moldova",
-          "text": "Thank you, Madam President, Madam Executive Director, distinguished members of the Executive Board and observers. I deliver this statement on behalf of Australia, Armenia, Belgium, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, …",
-          "t": "19:21",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=19:21"
-        },
-        {
-          "date": "2026-06-11",
-          "country": "Armenia",
-          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I would like to thank Executive Director Geita for her presentation and for her outstanding leadership in guiding UNFPA's crucial work. Armenia reaffirms its strong support for …",
-          "t": "39:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19nkqrbaw?t=39:28"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Armenia",
-          "text": "… discussions under the UN Haiti Initiative. Armenia believes that any reform process should be guided by the objective of strengthening the effectiveness, coherence, and responsiveness of the UN system while ensuring that it remains fully …",
-          "t": "27:00",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j175xw2w?t=27:00"
-        }
-      ]
-    },
-    {
       "id": "irn",
       "name": "Iran",
       "lon": 53.7,
       "lat": 32.4,
-      "volume": 4,
+      "volume": 5,
       "level": "elevated",
       "trend": [
         0,
@@ -3703,7 +3437,7 @@
         0,
         4,
         0,
-        0
+        1
       ],
       "top": "I would, our OCHA colleagues have very useful and extensive web pages with all the money issues are found. We can share the link with you. Okay, Abu Sufyan.",
       "briefings": [
@@ -3819,6 +3553,186 @@
           "text": "Thank you, Mr. President. We'd like to thank the Democratic Republic of the Congo and the Islamic Republic of Iran for convening this open debate at a time at which the international order is facing major challenges. We are also grateful …",
           "t": "98:14",
           "pageUrl": "https://transcripts.un.org/en/sc/10201?t=1:38:14"
+        },
+        {
+          "date": "2026-10-23",
+          "country": "Israel",
+          "text": "… chosen to exploit this distinguished forum to distort the facts, evade responsibility, and portray itself as a victim of the very threat it continues to generate. Iran's claims regarding the alleged peaceful nature of its nuclear program …",
+          "t": "177:02",
+          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/20?t=2:57:02"
+        }
+      ]
+    },
+    {
+      "id": "are",
+      "name": "United Arab Emirates",
+      "lon": 54.3,
+      "lat": 24,
+      "volume": 5,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0,
+        0
+      ],
+      "top": "… the State of Qatar, and the United Arab Emirates rank 2nd, 3rd, and 5th among the top donor countries according to the OCHA Financial Tracking Service for 2025. The United Arab Emirates implements sustainable support programs through a …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-25",
+          "country": "Bahrain",
+          "text": "… the State of Qatar, and the United Arab Emirates rank 2nd, 3rd, and 5th among the top donor countries according to the OCHA Financial Tracking Service for 2025. The United Arab Emirates implements sustainable support programs through a …",
+          "t": "78:55",
+          "pageUrl": "https://transcripts.un.org/en/ga/80/93?t=1:18:55"
+        },
+        {
+          "date": "2026-09-28",
+          "country": "Ukraine",
+          "text": "… our sincere appreciation to the United Arab Emirates for their very warm hospitality and excellent organization of this Congress. For Ukraine, the issues discussed by the Congress are not abstract. Russia's ongoing war of aggression against …",
+          "t": "48:47",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1s7q9ccj8?t=48:47"
+        },
+        {
+          "date": "2026-09-27",
+          "country": "Turkey",
+          "text": "Mr. President, Ms. Executive Director, distinguished delegates. First of all, I would like to express my sincere appreciation to the authorities of the United Arab Emirates and the Secretariat of the UNODC for their valuable efforts in …",
+          "t": "134:49",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1epjgtvdi?t=2:14:49"
+        },
+        {
+          "date": "2026-09-27",
+          "country": "United Arab Emirates",
+          "text": "… today, having the same goal to combat crime and fighting against scams and fraud. I'm Lieutenant Colonel Said Al Kabe, Director of International Cooperation Department at the Ministry of Interior of the United Arab Emirates, the strategic …",
+          "t": "44:11",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dtifwe0i?t=44:11"
+        },
+        {
+          "date": "2026-09-26",
+          "country": "Italy",
+          "text": "Excellencies, distinguished delegates, colleagues, let me begin by thanking the Government of the United Arab Emirates for its hospitality and for the commitment shown in preparing this Congress. In particular, I wish to thank His …",
+          "t": "127:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mqdvzist?t=2:07:19"
+        },
+        {
+          "date": "2026-09-26",
+          "country": "Cuba",
+          "text": "Senor President, distinguished delegates, we thank the government of the United Arab Emirates for the warm hospitality provided and for their efforts in organizing this event. Cuba joins this 15th Congress of the United Nations on crime …",
+          "t": "230:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mqdvzist?t=3:50:28"
+        },
+        {
+          "date": "2026-07-07",
+          "country": "UNICRI",
+          "text": "… Interregional Crime and Justice Research Institute, based here in New York, and I have the distinct honor and pleasure of moderating today's discussion. Just to say, maybe to start on a light note, I was given explicit request to make sure …",
+          "t": "12:05",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11140q3j4?t=12:05"
+        },
+        {
+          "date": "2026-07-07",
+          "country": "United Arab Emirates",
+          "text": "Good morning, everyone, and welcome. My name is Fatma Al Ali from United Arab Emirates Ministry of Interior. We are glad to have you here for this event alongside UN COPS26. Today, peacekeeping missions matter a great deal and reach many …",
+          "t": "86:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11140q3j4?t=1:26:30"
+        },
+        {
+          "date": "2026-07-01",
+          "country": "UNOCT",
+          "text": "Thank you very much, Jurena. Your Excellency, Maxime Kruse. Envoy of the Minister of Foreign Affairs for Countering Extremism and Terrorism from United Arab Emirates. Your Excellency, Mr. Jeong Chul, Permanent Representative of the Republic …",
+          "t": "3:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11gxeld3s?t=3:02"
+        }
+      ]
+    },
+    {
+      "id": "arm",
+      "name": "Armenia",
+      "lon": 45,
+      "lat": 40.1,
+      "volume": 4,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "top": "… because of insecurity, which has an obvious knock-on effect on services available to the people in the camp. OCHA warns that the security situation could further hinder the Ebola surveillance, contact tracing, and referral of suspected …",
+      "briefings": [
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… because of insecurity, which has an obvious knock-on effect on services available to the people in the camp. OCHA warns that the security situation could further hinder the Ebola surveillance, contact tracing, and referral of suspected …",
+          "t": "14:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=14:19"
+        },
+        {
+          "date": "2026-10-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Deputy Secretary General Amina Mohammed is also in Bangkok, where she arrived to participate in the annual meetings of the IMF and the World Bank, just like the Administrator. As part of her engagements, Ms. Mohammed met with senior …",
+          "t": "0:30",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-13?t=0:30"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-16",
+          "country": "UN",
+          "text": "Okay. Good afternoon and happy Friday. The Secretary-General addressed the Leaders' Summit at the 17th Conference of Parties on Biodiversity in Yerevan, Armenia today. He said that the signing of the Montreal-Kunming Global Biodiversity …",
+          "t": "15:30",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-16?t=15:30"
+        },
+        {
+          "date": "2026-09-26",
+          "country": "EU",
+          "text": "Thank you, Mr. President. Mr. President, Madam Executive Director, Ministers, Excellencies, Distinguished Delegates, I have the honor to speak on behalf of the European Union and its member states, Albania, Armenia, Iceland, Montenegro, …",
+          "t": "190:07",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=3:10:07"
+        },
+        {
+          "date": "2026-06-23",
+          "country": "Moldova",
+          "text": "Thank you, Madam President, Madam Executive Director, distinguished members of the Executive Board and observers. I deliver this statement on behalf of Australia, Armenia, Belgium, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, …",
+          "t": "19:21",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=19:21"
+        },
+        {
+          "date": "2026-06-11",
+          "country": "Armenia",
+          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I would like to thank Executive Director Geita for her presentation and for her outstanding leadership in guiding UNFPA's crucial work. Armenia reaffirms its strong support for …",
+          "t": "39:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19nkqrbaw?t=39:28"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Armenia",
+          "text": "… discussions under the UN Haiti Initiative. Armenia believes that any reform process should be guided by the objective of strengthening the effectiveness, coherence, and responsiveness of the UN system while ensuring that it remains fully …",
+          "t": "27:00",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j175xw2w?t=27:00"
         }
       ]
     },
@@ -4143,6 +4057,99 @@
       ]
     },
     {
+      "id": "sau",
+      "name": "Saudi Arabia",
+      "lon": 45.1,
+      "lat": 24,
+      "volume": 4,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        1,
+        0,
+        2,
+        0
+      ],
+      "top": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
+      "briefings": [
+        {
+          "date": "2026-09-15",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… to the humanitarian impact of the ongoing hostilities. We are deeply concerned about the situation ongoing there. Our OCHA colleagues tell us that the toll on civilians continue to grow, forcing families from their homes, killing and …",
+          "t": "36:33",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=36:33"
+        },
+        {
+          "date": "2026-10-12",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… risk. As of today, we and our humanitarian partners have managed to reach some 143,000 men, women, and children with emergency assistance, which includes food, hygiene, and cash assistance. But the needs continue to grow, while access …",
+          "t": "2:14",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-12?t=2:14"
+        },
+        {
+          "date": "2026-09-30",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… we are following the situation involving the Fly Dubai plane that was en route from Dubai to Tel Aviv and made an emergency landing in Saudi Arabia. We're thankful that a major tragic incident was averted and will continue to monitor …",
+          "t": "31:55",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-30?t=31:55"
+        },
+        {
+          "date": "2026-09-15",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… you yesterday, happy Monday nonetheless. Tomorrow, 11 o'clock, be in this room if you want to ask a question of the Secretary-General. He will be here to brief you ahead of the 81st session of the General Assembly. We will have the briefing …",
+          "t": "34:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-15?t=34:48"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-24",
+          "country": "UNDP",
+          "text": "… And let me start by thanking the Kingdom of Saudi Arabia, thanking KSR, the European Union, United Kingdom, and OCHA for bringing us together. Maybe one observation is, if you look at the humanitarian reset, I mean, the humanitarian reset …",
+          "t": "22:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1m8b5nh2x?t=22:02"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "KSrelief",
+          "text": "Excellencies, ladies and gentlemen, on behalf of the Kingdom of Saudi Arabia, EU, and OCHA, I welcome you to our event, Humanitarian Diplomacy in Practice, Diplomacy as Enabler of Humanitarian Action. We gather today because humanitarian …",
+          "t": "20:44",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1syfgmubf?t=20:44"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Turkey",
+          "text": "… you, of course, civil society is present also here, and all international organizations. and we thank Saudi Arabia and OCHA for organizing this meeting. Thank you very much.",
+          "t": "49:22",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1syfgmubf?t=49:22"
+        },
+        {
+          "date": "2026-10-16",
+          "country": "COP17",
+          "text": "I thank Chief Executive Officer of the National Center for Wildlife of the Kingdom of Saudi Arabia. I now give the floor to Mr. Claude Casson, Director of Strategy and Operations of the Global Environment Facility.",
+          "t": "132:43",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1o1rvw956?t=2:12:43"
+        }
+      ]
+    },
+    {
       "id": "dji",
       "name": "Djibouti",
       "lon": 42.5,
@@ -4220,8 +4227,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         2
@@ -4297,8 +4304,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         2
@@ -4655,102 +4662,6 @@
       ]
     },
     {
-      "id": "isr",
-      "name": "Israel",
-      "lon": 34.9,
-      "lat": 31,
-      "volume": 3,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        2,
-        0,
-        0
-      ],
-      "top": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
-      "briefings": [
-        {
-          "date": "2026-06-03",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
-          "t": "8:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-03?t=8:35"
-        },
-        {
-          "date": "2026-06-09",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Mr. Guterres is also deeply concerned by the decision by Israel to close crossings into Gaza. He reiterates his call for the immediate reopening of all crossings to ensure the rapid, safe, and unhindered passage of humanitarian assistance …",
-          "t": "1:37",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-09?t=1:37"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-23",
-          "country": "Syria",
-          "text": "… for mentioning the new displacements with areas newly occupied by Israel, the families there. We're grateful to our OCHA colleagues for doing an assessment. And it's costing money because there are families who are having to move from those …",
-          "t": "95:16",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hosrsro6?t=1:35:16"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "UN",
-          "text": "… of last week's additional flash appeal, which called for an additional $331.5 million to help 1.4 million people, OCHA reports that without immediate funding, the humanitarian response could be disrupted as early as the 1st of July. We …",
-          "t": "5:46",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-08?t=5:46"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "UN",
-          "text": "… was shared with you in full much earlier today. We also have statements available online from Tom Fletcher, our Emergency Relief Coordinator, and Dr. Ramiz Alabkarov, the acting special coordinator for the Middle East peace process. Turning …",
-          "t": "30:12",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-06?t=30:12"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "UN",
-          "text": "… Division at the UN Office for the Coordination of Humanitarian Affairs and Chair of the Interagency Standing Committee Emergency Directors Group. She brings to the position over two decades of experience in humanitarian affairs, including …",
-          "t": "9:47",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-08?t=9:47"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "UN",
-          "text": "Good afternoon, everyone. Today is World Oceans Day. In a message for the day, the Secretary-General noted that in these turbulent times, the ocean reminds us that we are bound together. But the ocean is in deep trouble, he said, and we're …",
-          "t": "0:12",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-08?t=0:12"
-        },
-        {
-          "date": "2026-10-08",
-          "country": "Israel",
-          "text": "You're assuming the chairmanship. Mr. Chair, allow me to congratulate you on assuming the chairmanship and assure you of my delegation's full cooperation. Three years ago, on October 7, 2023, Israel suffered the bloodiest massacre since its …",
-          "t": "122:38",
-          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/4?t=2:02:38"
-        },
-        {
-          "date": "2026-06-10",
-          "country": "Israel",
-          "text": "Mr. Chair, dear colleagues, this is my first time representing the State of Israel as the newly appointed Director of the Israeli Space Agency. Israel would like to congratulate you, Professor Valente, for your appointment and to thank the …",
-          "t": "78:59",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1giatwpoo?t=1:18:59"
-        }
-      ]
-    },
-    {
       "id": "chn",
       "name": "China",
       "lon": 104,
@@ -4942,76 +4853,6 @@
       ]
     },
     {
-      "id": "jor",
-      "name": "Jordan",
-      "lon": 36.2,
-      "lat": 31.2,
-      "volume": 3,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        2
-      ],
-      "top": "… to New York on Wednesday. Earlier today, before departing for Cyprus, the Secretary-General met in Amman with Jordan's Deputy Prime Minister and Minister of Foreign Affairs and Expatriates, Ayman Safadi. They discussed regional …",
-      "briefings": [
-        {
-          "date": "2026-07-27",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… to New York on Wednesday. Earlier today, before departing for Cyprus, the Secretary-General met in Amman with Jordan's Deputy Prime Minister and Minister of Foreign Affairs and Expatriates, Ayman Safadi. They discussed regional …",
-          "t": "0:30",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=0:30"
-        },
-        {
-          "date": "2026-10-23",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "All right. Good afternoon. A couple of programming notes. Our guest on Monday is, will be Bjorg Sangjer, Assistant Secretary General for Policy in the Department of Economic and Social Affairs; and Sarah Hendrix, the Director of Policy …",
-          "t": "30:49",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-23?t=30:49"
-        },
-        {
-          "date": "2026-10-23",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "All right. Good afternoon. A couple of programming notes. Our guest on Monday is, will be Bjorg Sangjer, Assistant Secretary General for Policy in the Department of Economic and Social Affairs; and Sarah Hendrix, the Director of Policy …",
-          "t": "30:47",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-23?t=30:47"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-23",
-          "country": "Australia",
-          "text": "Thank you, Minister Safadi, for your remarks, and thank you for your personal leadership and Jordan's steadfast support in the championing of the declaration and its implementation, which is very appreciated. I'm very honoured now to invite …",
-          "t": "12:17",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jwzmxbsa?t=12:17"
-        },
-        {
-          "date": "2026-06-26",
-          "country": "Jordan",
-          "text": "Thank you, Mr. Chair. I will be making the statement on behalf of His Excellency Hindawi. Mr. Chair, Madam Executive Director, Jordan thanks UNODC for this important briefing on on the World Drug Report 2026 and commends UNODC's continued …",
-          "t": "101:01",
-          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19rfgzd3w?t=1:41:01"
-        }
-      ]
-    },
-    {
       "id": "mne",
       "name": "Montenegro",
       "lon": 19.3,
@@ -5026,8 +4867,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         1
@@ -5628,10 +5469,10 @@
       ]
     },
     {
-      "id": "bgd",
-      "name": "Bangladesh",
-      "lon": 90.4,
-      "lat": 23.7,
+      "id": "isr",
+      "name": "Israel",
+      "lon": 34.9,
+      "lat": 31,
       "volume": 2,
       "level": "standard",
       "trend": [
@@ -5642,44 +5483,84 @@
         0,
         0,
         0,
+        1,
+        0,
         2,
-        0,
-        0,
         0,
         0
       ],
-      "top": "… Every dollar lost to unnecessary bureaucracy is a dollar that does not reach a Rohingya family in need. Bangladesh's OCHA-managed pooled funds show what a more disciplined approach can look like: better coordination, greater transparency, …",
-      "briefings": [],
+      "top": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
+      "briefings": [
+        {
+          "date": "2026-06-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
+          "t": "8:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-03?t=8:35"
+        },
+        {
+          "date": "2026-06-09",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Mr. Guterres is also deeply concerned by the decision by Israel to close crossings into Gaza. He reiterates his call for the immediate reopening of all crossings to ensure the rapid, safe, and unhindered passage of humanitarian assistance …",
+          "t": "1:37",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-09?t=1:37"
+        }
+      ],
       "leadership": [],
       "sc": [],
       "onOcha": [
         {
           "date": "2026-09-23",
-          "country": "United States",
-          "text": "… Every dollar lost to unnecessary bureaucracy is a dollar that does not reach a Rohingya family in need. Bangladesh's OCHA-managed pooled funds show what a more disciplined approach can look like: better coordination, greater transparency, …",
-          "t": "64:08",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=1:04:08"
+          "country": "Syria",
+          "text": "… for mentioning the new displacements with areas newly occupied by Israel, the families there. We're grateful to our OCHA colleagues for doing an assessment. And it's costing money because there are families who are having to move from those …",
+          "t": "95:16",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hosrsro6?t=1:35:16"
         },
         {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
-        },
-        {
-          "date": "2026-09-23",
+          "date": "2026-06-08",
           "country": "UN",
-          "text": "Prime Minister Raman, Vice President Jallow, President Raman, Excellencies. As the Secretary-General's Special Envoy on Myanmar, I thank the Government of Bangladesh for its leadership, and the co-sponsors. It is imperative we continue to …",
-          "t": "34:16",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r1b92irk?t=34:16"
+          "text": "… of last week's additional flash appeal, which called for an additional $331.5 million to help 1.4 million people, OCHA reports that without immediate funding, the humanitarian response could be disrupted as early as the 1st of July. We …",
+          "t": "5:46",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-08?t=5:46"
         },
         {
-          "date": "2026-06-18",
-          "country": "ECOSOC",
-          "text": "I thank the Minister of State for Foreign Affairs of Bangladesh. I now turn to the Executive Director of Physicians for Human Rights, Mr. Zia Sarafi, to whom I ask, what are the operational and humanitarian consequences of increasing …",
-          "t": "10:51",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/30?t=10:51"
+          "date": "2026-10-06",
+          "country": "UN",
+          "text": "… was shared with you in full much earlier today. We also have statements available online from Tom Fletcher, our Emergency Relief Coordinator, and Dr. Ramiz Alabkarov, the acting special coordinator for the Middle East peace process. Turning …",
+          "t": "30:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-06?t=30:12"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "UN",
+          "text": "… Division at the UN Office for the Coordination of Humanitarian Affairs and Chair of the Interagency Standing Committee Emergency Directors Group. She brings to the position over two decades of experience in humanitarian affairs, including …",
+          "t": "9:47",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-08?t=9:47"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "UN",
+          "text": "Good afternoon, everyone. Today is World Oceans Day. In a message for the day, the Secretary-General noted that in these turbulent times, the ocean reminds us that we are bound together. But the ocean is in deep trouble, he said, and we're …",
+          "t": "0:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-08?t=0:12"
+        },
+        {
+          "date": "2026-10-08",
+          "country": "Israel",
+          "text": "You're assuming the chairmanship. Mr. Chair, allow me to congratulate you on assuming the chairmanship and assure you of my delegation's full cooperation. Three years ago, on October 7, 2023, Israel suffered the bloodiest massacre since its …",
+          "t": "122:38",
+          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/4?t=2:02:38"
+        },
+        {
+          "date": "2026-06-10",
+          "country": "Israel",
+          "text": "Mr. Chair, dear colleagues, this is my first time representing the State of Israel as the newly appointed Director of the Israeli Space Agency. Israel would like to congratulate you, Professor Valente, for your appointment and to thank the …",
+          "t": "78:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1giatwpoo?t=1:18:59"
         }
       ]
     },
@@ -6358,72 +6239,6 @@
       ]
     },
     {
-      "id": "ita",
-      "name": "Italy",
-      "lon": 12.6,
-      "lat": 42.8,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1
-      ],
-      "top": "… institutional support. Yesterday, the mission enabled two humanitarian missions to Tyre following coordination with OCHA. Today, UNIFIL peacekeepers from Italy donated an ambulance and medical supplies to the Lebanese Armed Forces Military …",
-      "briefings": [
-        {
-          "date": "2026-06-02",
-          "speaker": "Spokesperson for the SG (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson for the SG",
-          "text": "… institutional support. Yesterday, the mission enabled two humanitarian missions to Tyre following coordination with OCHA. Today, UNIFIL peacekeepers from Italy donated an ambulance and medical supplies to the Lebanese Armed Forces Military …",
-          "t": "6:16",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-02?t=6:16"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-19",
-          "country": "Italy",
-          "text": "Mr. President, Executive Director, Human, Excellencies, distinguished delegates, Italy aligns itself with the statement delivered by the European Union. Only a few weeks ago, we met in Abu Dhabi for the 15th United Nations Crime Congress. …",
-          "t": "143:06",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1ge15pjyc?t=2:23:06"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "ICCROM",
-          "text": "Thank you very much, Ms. Barbara Faedda, for giving me the floor. And of course, let me echo the colleagues speaking before me. to sincerely thank the government of Greece and the government of Italy through their permanent representations …",
-          "t": "34:33",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=34:33"
-        },
-        {
-          "date": "2026-06-11",
-          "country": "Australia",
-          "text": "Thank you, Chair, distinguished delegates. Australia warmly welcomes you, Mr. Tedoro Valenti of Italy, as Chair of the Committee for 2026-2027. You have Australia's full support. We extend Australia's sincere thanks to Mr. Rafik Akram of …",
-          "t": "11:12",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dws19dqf?t=11:12"
-        },
-        {
-          "date": "2026-06-10",
-          "country": "France",
-          "text": "Thank you, Chair. Mr. Chair, dear colleagues, first and foremost, I would like to thank Professor Rafiq Akram of Morocco for his commitment during the previous session of COPUOS. I also congratulate Professor Teodoro Valente of Italy on his …",
-          "t": "159:37",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6oixtij?t=2:39:37"
-        }
-      ]
-    },
-    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -6700,6 +6515,76 @@
       ]
     },
     {
+      "id": "jor",
+      "name": "Jordan",
+      "lon": 36.2,
+      "lat": 31.2,
+      "volume": 2,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      "top": "… to New York on Wednesday. Earlier today, before departing for Cyprus, the Secretary-General met in Amman with Jordan's Deputy Prime Minister and Minister of Foreign Affairs and Expatriates, Ayman Safadi. They discussed regional …",
+      "briefings": [
+        {
+          "date": "2026-07-27",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… to New York on Wednesday. Earlier today, before departing for Cyprus, the Secretary-General met in Amman with Jordan's Deputy Prime Minister and Minister of Foreign Affairs and Expatriates, Ayman Safadi. They discussed regional …",
+          "t": "0:30",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=0:30"
+        },
+        {
+          "date": "2026-10-23",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "All right. Good afternoon. A couple of programming notes. Our guest on Monday is, will be Bjorg Sangjer, Assistant Secretary General for Policy in the Department of Economic and Social Affairs; and Sarah Hendrix, the Director of Policy …",
+          "t": "30:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-23?t=30:49"
+        },
+        {
+          "date": "2026-10-23",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "All right. Good afternoon. A couple of programming notes. Our guest on Monday is, will be Bjorg Sangjer, Assistant Secretary General for Policy in the Department of Economic and Social Affairs; and Sarah Hendrix, the Director of Policy …",
+          "t": "30:47",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-23?t=30:47"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-23",
+          "country": "Australia",
+          "text": "Thank you, Minister Safadi, for your remarks, and thank you for your personal leadership and Jordan's steadfast support in the championing of the declaration and its implementation, which is very appreciated. I'm very honoured now to invite …",
+          "t": "12:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jwzmxbsa?t=12:17"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Jordan",
+          "text": "Thank you, Mr. Chair. I will be making the statement on behalf of His Excellency Hindawi. Mr. Chair, Madam Executive Director, Jordan thanks UNODC for this important briefing on on the World Drug Report 2026 and commends UNODC's continued …",
+          "t": "101:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19rfgzd3w?t=1:41:01"
+        }
+      ]
+    },
+    {
       "id": "egy",
       "name": "Egypt",
       "lon": 30,
@@ -6830,48 +6715,6 @@
       ]
     },
     {
-      "id": "arg",
-      "name": "Argentina",
-      "lon": -64,
-      "lat": -34,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1
-      ],
-      "top": "Mr. President, distinguished Ambassador Wellington Benkosme, Argentina is grateful for the presentation of the report of the International Atomic Energy Agency, the IAEA, and welcomes its content, as well as the statement made in addition. …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-23",
-          "country": "Argentina",
-          "text": "Mr. President, distinguished Ambassador Wellington Benkosme, Argentina is grateful for the presentation of the report of the International Atomic Energy Agency, the IAEA, and welcomes its content, as well as the statement made in addition. …",
-          "t": "122:55",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/24?t=2:02:55"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "Peru",
-          "text": "To the Decent Work Programme. Well, I would like to refer back to my experience in the ILO when I was director in Argentina. After eight months, I achieved through dialogue and hard work that we had the three social partners working …",
-          "t": "15:05",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1u/k1uxc370ty?t=15:05"
-        }
-      ]
-    },
-    {
       "id": "bih",
       "name": "Bosnia and Herzegovina",
       "lon": 17.8,
@@ -6963,11 +6806,334 @@
       ]
     },
     {
+      "id": "tcd",
+      "name": "Chad",
+      "lon": 19,
+      "lat": 15.5,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "top": "My name is Claudine Joseph, and I serve as a humanitarian affairs officer with OCHA in the Lake region of Chad. Working on the front line means operating in a very difficult context where people face immense suffering. Many families have …",
+      "briefings": [],
+      "leadership": [
+        {
+          "date": "2026-09-24",
+          "speaker": "Humanitarian Affairs Officer (OCHA)",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Humanitarian Affairs Officer",
+          "text": "My name is Claudine Joseph, and I serve as a humanitarian affairs officer with OCHA in the Lake region of Chad. Working on the front line means operating in a very difficult context where people face immense suffering. Many families have …",
+          "t": "32:32",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s2idvr0?t=32:32"
+        }
+      ],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-09",
+          "country": "Mozambique",
+          "text": "Thank you, Mr. President. Mr. President, distinguished members of the Executive Board, I have the honor to deliver this statement on behalf of the African members of this board, namely Chad, Côte d'Ivoire, Madagascar, Mozambique, Nigeria, …",
+          "t": "36:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1eqrb7ena?t=36:19"
+        }
+      ]
+    },
+    {
+      "id": "nga",
+      "name": "Nigeria",
+      "lon": 8.7,
+      "lat": 9.1,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        1,
+        0
+      ],
+      "top": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
+      "briefings": [
+        {
+          "date": "2026-08-26",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… We're also supporting efforts to rapidly assess the scale of the disaster. The resident coordinator's office and OCHA's regional office are helping secure satellite imagery and analysis over the area that was impacted by these floods. Our …",
+          "t": "39:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-26?t=39:12"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "… for developing countries, stronger multilateral development banks, expanded concessional financing, and effective debt relief. Our institutional structures must reflect the realities of today, he said, stressing that a more representative …",
+          "t": "21:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:51"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Nigeria",
+          "text": "Thank you, Mr. Chair. Nigeria aligns itself with the statements delivered on behalf of the Group of 77 and China, as well as the statement delivered on behalf of the African Group. In our national capacity, we reaffirm our strong support …",
+          "t": "163:24",
+          "pageUrl": "https://transcripts.un.org/en/ga/c2/81/16?t=2:43:24"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "NIMC",
+          "text": "Good morning, everyone. Your excellency, the Vice President of the Federal Republic of Nigeria, Senator Kashim Shatima, GCON, ably represented by the Deputy Chief of Staff, my DG, Engineer Abisoya Kuka Odusote, CEO, Nigeria in Diaspora, …",
+          "t": "66:13",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17bmbqo9p?t=1:06:13"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Chair",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
+        },
+        {
+          "date": "2026-09-14",
+          "country": "UN",
+          "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
+          "t": "21:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:10"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "IAA",
+          "text": "… distinguished delegates, Chair Todorov Valentin, allow me first to congratulate you on your election as the chair of the committee. I also extend our congratulations to Ms. Melita Župič of Slovenia and Mr. Akin Babatunde Rabayo of Nigeria …",
+          "t": "11:21",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xucghx4p?t=11:21"
+        },
+        {
+          "date": "2026-06-09",
+          "country": "Mozambique",
+          "text": "Thank you, Mr. President. Mr. President, distinguished members of the Executive Board, I have the honor to deliver this statement on behalf of the African members of this board, namely Chad, Côte d'Ivoire, Madagascar, Mozambique, Nigeria, …",
+          "t": "36:19",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1e/k1eqrb7ena?t=36:19"
+        }
+      ]
+    },
+    {
+      "id": "ssd",
+      "name": "South Sudan",
+      "lon": 30.5,
+      "lat": 6.9,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        2,
+        0,
+        0,
+        13,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "top": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
+      "briefings": [
+        {
+          "date": "2026-08-07",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… complications. Ebola infection during pregnancy remains associated with almost universal fetal loss. OCHA stresses that restoring community confidence is key. Together with the Ministry of Public Health, the World Health Organization, and …",
+          "t": "2:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-07?t=2:20"
+        },
+        {
+          "date": "2026-08-25",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… further interference or damage. And just to add that the there was also a message in a similar vein from the special coordinator at interim, Dr. Ramiz Al-Akharraf. And just to flag that this was UNRWA's oldest vocational training center. It …",
+          "t": "49:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-25?t=49:35"
+        },
+        {
+          "date": "2026-08-25",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "Alright, good afternoon. I'm really sorry for the delay. I keep trying to break my own records and I'm succeeding. Bear with me two seconds. All right, good afternoon. This morning, the Secretary General addressed the Security Council on …",
+          "t": "43:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-25?t=43:51"
+        },
+        {
+          "date": "2026-08-25",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… protect humanitarian workers. His full remarks are shared with you. Also briefing was Karl Skau, the Acting Executive Director. Excuse me. It's a very, very long answer to a simple question. He called Skow, the acting executive director of …",
+          "t": "45:34",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-25?t=45:34"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-08-24",
+          "country": "United Kingdom",
+          "text": "… towards peace. Third, by supporting the humanitarian agencies working with the people trapped in this war, and led by OCHA, thank you. Humanitarian access continues to be obstructed by all parties to the conflict, with costs measured in …",
+          "t": "49:02",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=49:02"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Russia",
+          "text": "… facing an acute food shortage. The scale of need exceeds the capacity of humanitarian agencies. A lack of funding, the OCHA humanitarian plan is only funded at 40 percent, is already forcing humanitarian agencies to cut their food rations …",
+          "t": "82:56",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=1:22:56"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Colombia",
+          "text": "… for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher for the information he has shared and thank OCHA for the valuable work that they do on the ground. I'd also like to thank Under Secretary General for Political and …",
+          "t": "93:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=1:33:35"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "UN",
+          "text": "… on today. Also from just a stay in South Sudan, I have a Ebola update for you from that country. Our colleagues at OCHA tell us that we and our partners continue to support the government-led efforts to prepare for potential spread of …",
+          "t": "3:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-24?t=3:19"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Denmark",
+          "text": "… for Political and Peacebuilding Affairs, Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, and Dr. Eva Kher, Health Protection and Peacebuilding Adviser. It is so decided. The Security …",
+          "t": "0:49",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=0:49"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "UN Secretariat",
+          "text": "… face the unrelenting consequences of one of the worst humanitarian crises of our time. My colleague, Tom Fletcher, the emergency relief coordinator, will brief you in detail about the unbearable suffering the men, women, and children of …",
+          "t": "3:20",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=3:20"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "UN",
+          "text": "… ground also tell us that the mission deployed a quick reaction force to the area to secure it and to help support the emergency response. And as we've said before, all too often and tragically, that attacks against U.N. peacekeepers may …",
+          "t": "2:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-24?t=2:27"
+        },
+        {
+          "date": "2026-08-06",
+          "country": "Latvia",
+          "text": "… of its declaration, and the priority now is to translate this step into concrete action. Third, The humanitarian emergency continues to deepen amid ongoing conflict and violations of international humanitarian law. More than half of the …",
+          "t": "79:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10206?t=1:19:14"
+        },
+        {
+          "date": "2026-10-16",
+          "country": "Sudan",
+          "text": "In the name of God, the merciful, the compassionate, Madam President, I thank you, and I say I thank the Under-Secretary-General for Political and Peacebuilding Affairs, Ms. Di Carlo. Madam President, distinguished members of the Security …",
+          "t": "78:44",
+          "pageUrl": "https://transcripts.un.org/en/sc/10245?t=1:18:44"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Denmark",
+          "text": "Good morning. The 10211th meeting of the Security Council is called to order. The provisional agenda for this meeting is reports of the Secretary General on the Sudan and South Sudan. The agenda is adopted. In accordance with rule 37 of the …",
+          "t": "0:09",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=0:09"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "UN",
+          "text": "… that in March he established a task force to develop a proposal, propose a practical mechanism including to address humanitarian needs triggered by the Strait of Hormuz crisis. He underscored that the mechanism would not authorize passage …",
+          "t": "0:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-24?t=0:36"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Panama",
+          "text": "Thank you, Madam President. We are grateful for the briefings delivered by the Under-Secretary-General for Political and Peacebuilding Affairs, Ms. Rosemary DiCarlo, and by Hanan Souleiman, Deputy Executive Director of UNICEF. We thank them …",
+          "t": "42:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=42:14"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Bahrain",
+          "text": "Madam President, we thank Major Osmo Di Carlo, Under-Secretary-General for Political and Peacebuilding Affairs, and Ms. Anan Suleiman, Deputy Executive Director of UNICEF. We thank them both for the detailed briefings. We welcome the …",
+          "t": "47:54",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=47:54"
+        },
+        {
+          "date": "2026-06-26",
+          "country": "Sudan",
+          "text": "… first of all like to congratulate you, Madam President, on your country's assumption of the presidency of the Council for this month. We commend your able leadership of the Council's deliberations. I also wish to thank Ms. Rosemary DiCarlo, …",
+          "t": "103:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10184?t=1:43:40"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "United Arab Emirates",
+          "text": "President, I thank you for convening today's meeting. I wish to thank Tom Fletcher USG for Humanitarian Affairs and USG Rosemary DeCarlo, as well as Dr. Eva Khair for the briefings provided. The latest report of the Secretary-General on the …",
+          "t": "173:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10211?t=2:53:40"
+        },
+        {
+          "date": "2026-06-30",
+          "country": "UN",
+          "text": "… They will be presenting the findings ahead of the inaugural Global Dialogue on AI Governance, which is scheduled for Geneva the 6th and 7th of July. The two co-chairs will be participating virtually, but the Secretary General will be here …",
+          "t": "0:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=0:44"
+        },
+        {
+          "date": "2026-09-15",
+          "country": "UNIS",
+          "text": "Good morning. Welcome to the press briefing of the UN Information Service in Geneva. Today is Tuesday, 15 September. I hope you had a long, good weekend. And I'm very happy to start this week with a prequel to our briefing. with Matthew …",
+          "t": "0:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bu3wk1ok?t=0:02"
+        },
+        {
+          "date": "2026-09-15",
+          "country": "WFP",
+          "text": "… seeing as a fairly catastrophic situation unfolding across South Sudan. Simply put, South Sudan today is facing a sort of a collision of crises, plural, just as the humanitarian resources are starting to run out. I was the country director …",
+          "t": "1:02",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1b/k1bu3wk1ok?t=1:02"
+        }
+      ]
+    },
+    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 134,
+      "volume": 128,
       "level": "elevated",
       "trend": [
         2,
@@ -6977,11 +7143,11 @@
         19,
         12,
         15,
-        71,
-        19,
+        74,
+        16,
         18,
-        42,
-        20
+        43,
+        23
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -8639,6 +8805,13 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k13/k13o19ktg6?t=7:31"
         },
         {
+          "date": "2026-10-23",
+          "country": "UNREC",
+          "text": "… distinguished delegates, it is an honor to address the First Committee on behalf of the United Nations Regional Center for Peace and Disarmament in Africa. I will highlight key regional challenges and recent progress in disarmament, arms …",
+          "t": "18:40",
+          "pageUrl": "https://transcripts.un.org/en/ga/c1/81/20?t=18:40"
+        },
+        {
           "date": "2026-10-22",
           "country": "Libya",
           "text": "… It is my honor to deliver the statement on behalf of the Arab Group. The Arab Group expresses its appreciation to the Secretary-General for his report on the activities of the UN Program of Assistance in the Teaching, Study, Dissemination, …",
@@ -8961,6 +9134,20 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k12/k12cqmof15?t=1:24:47"
         },
         {
+          "date": "2026-10-23",
+          "country": "Iran",
+          "text": "… on impartiality and technical integrity. Nuclear energy is indispensable to development and energy security. Article 4 of the NPT affirms the inalienable right of all States Parties to develop, research, production and use of nuclear energy …",
+          "t": "58:41",
+          "pageUrl": "https://transcripts.un.org/en/ga/81/25?t=58:41"
+        },
+        {
+          "date": "2026-10-23",
+          "country": "Iran",
+          "text": "Bismillahirrahmanirrahim. Madam President. We have serious concerns regarding operative paragraph 1 of the draft resolution, which takes note with appreciation of the IEA annual report. A report deserves appreciation only when it meets the …",
+          "t": "87:02",
+          "pageUrl": "https://transcripts.un.org/en/ga/81/25?t=1:27:02"
+        },
+        {
           "date": "2026-10-22",
           "country": "Cameroon",
           "text": "… in 2016, new offenses were included in order to guarantee increased protection for the physical and moral integrity of women. And so you have a female genital mutilation, sexual harassment, kicking a woman out from the household, and also …",
@@ -9036,6 +9223,13 @@
           "text": "… High Commissioner, Assistant High Commissioners, Directors, distinguished delegates, we thank UNHCR for its proposal of the program budget for 2027. No easy task given the exacerbating funding crisis faced by the organization and the wider …",
           "t": "105:28",
           "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=1:45:28"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Angola",
+          "text": "Thank you very much, Madam Head of Delegation. Excellencies, I'd like to thank you for once again giving me the floor. Distinguished ladies and gentlemen, firstly, I'd like to refer to the approach we're going to follow. We're going to …",
+          "t": "3:58",
+          "pageUrl": "https://transcripts.un.org/en/cedaw/3025?t=3:58"
         },
         {
           "date": "2026-10-15",
