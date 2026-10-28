@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:44:04.479Z",
+  "generatedAt": "2026-10-28T22:03:36.129Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -1473,7 +1473,7 @@
       "name": "Sudan",
       "lon": 30,
       "lat": 15,
-      "volume": 14,
+      "volume": 15,
       "level": "elevated",
       "trend": [
         3,
@@ -1487,10 +1487,19 @@
         0,
         0,
         5,
-        5
+        6
       ],
-      "top": "… to deliver lifesaving assistance despite insecurity and access challenges in parts of the north of the country. OCHA says across Tigray, additional medical, nutrition, and other essential supplies have reached communities at health …",
+      "top": "… and civilian infrastructure, and for all parties to meet their obligations under international humanitarian law. OCHA says that despite severe funding shortfalls and insecurity, humanitarian organizations continue to deliver life-saving …",
       "briefings": [
+        {
+          "date": "2026-10-28",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… and civilian infrastructure, and for all parties to meet their obligations under international humanitarian law. OCHA says that despite severe funding shortfalls and insecurity, humanitarian organizations continue to deliver life-saving …",
+          "t": "46:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-28?t=46:51"
+        },
         {
           "date": "2026-10-20",
           "speaker": "Spokesperson (UN)",
@@ -6574,8 +6583,8 @@
           "date": "2026-10-28",
           "country": "Costa Rica",
           "text": "… that track storms, guiding crops and connecting remote communities, space capabilities today sustain the daily life of all nations. This includes those who, like Costa Rica, who do not have their own satellites. And precisely for this, the …",
-          "t": "20:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/13?t=20:02"
+          "t": "1:47",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/13?t=1:47"
         },
         {
           "date": "2026-10-24",
@@ -6879,7 +6888,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 115,
+      "volume": 114,
       "level": "elevated",
       "trend": [
         2,
@@ -6893,19 +6902,10 @@
         16,
         40,
         27,
-        23
+        22
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
-        {
-          "date": "2026-10-28",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… and civilian infrastructure, and for all parties to meet their obligations under international humanitarian law. OCHA says that despite severe funding shortfalls and insecurity, humanitarian organizations continue to deliver life-saving …",
-          "t": "46:51",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-28?t=46:51"
-        },
         {
           "date": "2026-10-13",
           "speaker": "Spokesperson (UN)",
