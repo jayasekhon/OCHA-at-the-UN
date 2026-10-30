@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:48:34.806Z",
+  "generatedAt": "2026-10-30T11:56:06.925Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -1498,7 +1498,7 @@
       "name": "Yemen",
       "lon": 48,
       "lat": 15,
-      "volume": 13,
+      "volume": 14,
       "level": "elevated",
       "trend": [
         11,
@@ -1512,7 +1512,7 @@
         6,
         2,
         2,
-        3
+        4
       ],
       "top": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
       "briefings": [
@@ -1776,6 +1776,13 @@
           "text": "… Third, the humanitarian situation must be reversed. Yemen faces one of the most dire humanitarian situations Recently, OCHA and the World Bank, along with several organizations, successively released reports on Yemen forewarning continued …",
           "t": "63:58",
           "pageUrl": "https://transcripts.un.org/en/sc/10174?t=1:03:58"
+        },
+        {
+          "date": "2026-10-30",
+          "country": "UNHCR",
+          "text": "… millions of people depend upon. UNHCR has been able to secure pro bono transport support for some 11 containers of emergency relief items to go from Dubai to Yemen. although shifting security conditions and logistical constraints are …",
+          "t": "30:15",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-30?t=30:15"
         },
         {
           "date": "2026-10-09",
@@ -6977,7 +6984,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 116,
+      "volume": 120,
       "level": "elevated",
       "trend": [
         6,
@@ -6991,10 +6998,19 @@
         18,
         43,
         23,
-        25
+        29
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
+        {
+          "date": "2026-10-30",
+          "speaker": "OCHA",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "",
+          "text": "… rights colleagues who does that and verifies these numbers, and then we report them on their behalf. But it’s not OCHA or humanitarians tracking that. What we have seen is, of course, concerning with the conflict coming back on. We all …",
+          "t": "42:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-30?t=42:23"
+        },
         {
           "date": "2026-10-13",
           "speaker": "Spokesperson (UN)",
@@ -7120,6 +7136,15 @@
           "text": "OCHA warns that humanitarian needs remain high. According to UNICEF, more than 770,000 children are experiencing heightened distress after repeated exposures to violence, loss, and displacement. We continue to call for the protection of …",
           "t": "35:14",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-17?t=35:14"
+        },
+        {
+          "date": "2026-10-30",
+          "speaker": "OCHA",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "",
+          "text": "… of what's going on there. So we are monitoring closely the situation. In terms of commentary, you may have seen the Emergency Relief Coordinator, Tom Fletcher, tweeted yesterday, and I can just read it out what he said. He said, \"Each day …",
+          "t": "46:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-30?t=46:51"
         },
         {
           "date": "2026-08-28",
@@ -7334,6 +7359,20 @@
         }
       ],
       "onOcha": [
+        {
+          "date": "2026-10-30",
+          "country": "UNHCR",
+          "text": "On the situation in Oleshky, I know that our colleague Jens from OCHA can probably give an update, but from our perspective, we’re also monitoring the situation very closely. The situation is evolving as we speak, and we all know the …",
+          "t": "18:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-30?t=18:07"
+        },
+        {
+          "date": "2026-10-30",
+          "country": "Reuters",
+          "text": "Thank you. Jens, What is your view, according to OCHA, in terms of whether this complies with the Geneva Conventions, this evacuation of Oleshky? And secondly, why hasn't the UN been asked for support, and is that unusual in a scenario like …",
+          "t": "48:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-30?t=48:12"
+        },
         {
           "date": "2026-10-28",
           "country": "UN",
