@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:50:38.562Z",
+  "generatedAt": "2026-11-01T03:37:59.783Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -702,7 +702,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 20,
+      "volume": 19,
       "level": "elevated",
       "trend": [
         6,
@@ -3337,7 +3337,7 @@
       "name": "Ethiopia",
       "lon": 40,
       "lat": 9,
-      "volume": 7,
+      "volume": 6,
       "level": "elevated",
       "trend": [
         0,
@@ -4024,7 +4024,7 @@
       "name": "Somalia",
       "lon": 46,
       "lat": 5.5,
-      "volume": 5,
+      "volume": 4,
       "level": "elevated",
       "trend": [
         0,
@@ -5719,83 +5719,6 @@
       ]
     },
     {
-      "id": "alb",
-      "name": "Albania",
-      "lon": 20,
-      "lat": 41,
-      "volume": 3,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0,
-        2,
-        0
-      ],
-      "top": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-22",
-          "country": "EU",
-          "text": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-          "t": "170:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
-        },
-        {
-          "date": "2026-10-19",
-          "country": "EU",
-          "text": "Thank you, President. Madam Executive Director, Ministers, Excellencies, distinguished delegates, ladies and gentlemen. I have the honor to speak on behalf of the European Union and its member states. Albania, Bosnia and Herzegovina, …",
-          "t": "99:37",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1ge15pjyc?t=1:39:37"
-        },
-        {
-          "date": "2026-10-01",
-          "country": "EU",
-          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
-          "t": "18:10",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
-        },
-        {
-          "date": "2026-09-26",
-          "country": "EU",
-          "text": "Thank you, Mr. President. Mr. President, Madam Executive Director, Ministers, Excellencies, Distinguished Delegates, I have the honor to speak on behalf of the European Union and its member states, Albania, Armenia, Iceland, Montenegro, …",
-          "t": "190:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=3:10:07"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "Albania",
-          "text": "… remarks in its national capacity. Albania remains deeply concerned by the evolving threat landscape in the sphere of information and communication technologies. The current environment is characterized by increasingly sophisticated, …",
-          "t": "52:34",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1taz4l7ox?t=52:34"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "Switzerland",
-          "text": "Vice President, distinguished members and observers of the Board, dear colleagues, I deliver this statement on behalf of Albania, Australia, Belgium, Canada, Croatia, Denmark, Finland, France, Germany, Iceland, Ireland, Kingdom of the …",
-          "t": "22:55",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j4ujp34q?t=22:55"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Albania",
-          "text": "Thank you, Mr. President. At the outset, I would like to thank the Executive Director, Ms. Sima Bahus, for the comprehensive presentation of the annual report and the achievements delivered under the 2022-2025 Strategic Plan. Albania …",
-          "t": "51:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=51:03"
-        }
-      ]
-    },
-    {
       "id": "hti",
       "name": "Haiti",
       "lon": -72,
@@ -6972,10 +6895,10 @@
       ]
     },
     {
-      "id": "mda",
-      "name": "Moldova",
-      "lon": 28.4,
-      "lat": 47.4,
+      "id": "alb",
+      "name": "Albania",
+      "lon": 20,
+      "lat": 41,
       "volume": 2,
       "level": "standard",
       "trend": [
@@ -6985,11 +6908,11 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         0,
         0,
-        1,
+        2,
         0
       ],
       "top": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
@@ -7005,46 +6928,11 @@
           "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
         },
         {
-          "date": "2026-10-01",
+          "date": "2026-10-19",
           "country": "EU",
-          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
-          "t": "18:10",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
-        }
-      ]
-    },
-    {
-      "id": "mne",
-      "name": "Montenegro",
-      "lon": 19.3,
-      "lat": 42.7,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-22",
-          "country": "EU",
-          "text": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-          "t": "170:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
+          "text": "Thank you, President. Madam Executive Director, Ministers, Excellencies, distinguished delegates, ladies and gentlemen. I have the honor to speak on behalf of the European Union and its member states. Albania, Bosnia and Herzegovina, …",
+          "t": "99:37",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1ge15pjyc?t=1:39:37"
         },
         {
           "date": "2026-10-01",
@@ -7061,53 +6949,25 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=3:10:07"
         },
         {
-          "date": "2026-06-23",
-          "country": "Montenegro",
-          "text": "Thank you, Madam President. We thank the Executive Director for the update on UN Women's engagement in the UNAID Initiative. Montenegro supports efforts to make the organizations more efficient and responsive. In the current financial …",
-          "t": "27:08",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=27:08"
-        }
-      ]
-    },
-    {
-      "id": "mkd",
-      "name": "North Macedonia",
-      "lon": 21.7,
-      "lat": 41.6,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-22",
-          "country": "EU",
-          "text": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-          "t": "170:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
+          "date": "2026-07-21",
+          "country": "Albania",
+          "text": "… remarks in its national capacity. Albania remains deeply concerned by the evolving threat landscape in the sphere of information and communication technologies. The current environment is characterized by increasingly sophisticated, …",
+          "t": "52:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1taz4l7ox?t=52:34"
         },
         {
-          "date": "2026-10-01",
-          "country": "EU",
-          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
-          "t": "18:10",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
+          "date": "2026-06-24",
+          "country": "Switzerland",
+          "text": "Vice President, distinguished members and observers of the Board, dear colleagues, I deliver this statement on behalf of Albania, Australia, Belgium, Canada, Croatia, Denmark, Finland, France, Germany, Iceland, Ireland, Kingdom of the …",
+          "t": "22:55",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j4ujp34q?t=22:55"
+        },
+        {
+          "date": "2026-06-23",
+          "country": "Albania",
+          "text": "Thank you, Mr. President. At the outset, I would like to thank the Executive Director, Ms. Sima Bahus, for the comprehensive presentation of the annual report and the achievements delivered under the 2022-2025 Strategic Plan. Albania …",
+          "t": "51:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k16/k1600irpix?t=51:03"
         }
       ]
     },
@@ -7238,48 +7098,6 @@
       ]
     },
     {
-      "id": "bih",
-      "name": "Bosnia and Herzegovina",
-      "lon": 17.8,
-      "lat": 44.2,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, President. Madam Executive Director, Ministers, Excellencies, distinguished delegates, ladies and gentlemen. I have the honor to speak on behalf of the European Union and its member states. Albania, Bosnia and Herzegovina, …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-19",
-          "country": "EU",
-          "text": "Thank you, President. Madam Executive Director, Ministers, Excellencies, distinguished delegates, ladies and gentlemen. I have the honor to speak on behalf of the European Union and its member states. Albania, Bosnia and Herzegovina, …",
-          "t": "99:37",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1ge15pjyc?t=1:39:37"
-        },
-        {
-          "date": "2026-10-01",
-          "country": "EU",
-          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
-          "t": "18:10",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
-        }
-      ]
-    },
-    {
       "id": "bdi",
       "name": "Burundi",
       "lon": 30,
@@ -7325,11 +7143,257 @@
       ]
     },
     {
+      "id": "tza",
+      "name": "Tanzania",
+      "lon": 34.9,
+      "lat": -6.4,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… of the confidence of people in the future of their country and the sustainability of that peace. According to OCHA, around 99,000 people came back to Burundi, returned to Burundi between January and August 2026, most of them from Tanzania, …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-28",
+          "country": "UN",
+          "text": "… of the confidence of people in the future of their country and the sustainability of that peace. According to OCHA, around 99,000 people came back to Burundi, returned to Burundi between January and August 2026, most of them from Tanzania, …",
+          "t": "58:35",
+          "pageUrl": "https://transcripts.un.org/en/ga/c3/81/31?t=58:35"
+        }
+      ]
+    },
+    {
+      "id": "cub",
+      "name": "Cuba",
+      "lon": -77.8,
+      "lat": 21.5,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… As I said, my first visit or a visit of my predecessors hasn't happened before, but there have been visits of OCHA and conversations of OCHA with Cuba when it comes to civil protection. They are part of UNDAC, the United Nations Disaster …",
+      "briefings": [],
+      "leadership": [
+        {
+          "date": "2026-06-04",
+          "speaker": "Director, Crisis Response Division (OCHA)",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Director, Crisis Response Division",
+          "text": "… As I said, my first visit or a visit of my predecessors hasn't happened before, but there have been visits of OCHA and conversations of OCHA with Cuba when it comes to civil protection. They are part of UNDAC, the United Nations Disaster …",
+          "t": "2:22",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=2:22"
+        },
+        {
+          "date": "2026-06-04",
+          "speaker": "Director, Crisis Response Division (OCHA)",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Director, Crisis Response Division",
+          "text": "… on the humanitarian situation in Cuba. Our resident coordinator, Mr. Francisco Pichón, is dialing in. We have the PR of Cuba to my right, and I have my director who's in my team, Victoria Saez Omeika, on my left. She's the one who covers …",
+          "t": "0:36",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=0:36"
+        }
+      ],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-27",
+          "country": "Malaysia",
+          "text": "… fuel shortages and power outages disrupt water distribution, food production, health care, and sanitation. OCHA’s August 2026 monitoring report recorded water shortages affecting approximately 3.5 million people in Cuba, an increase from …",
+          "t": "114:57",
+          "pageUrl": "https://transcripts.un.org/en/ga/81/27?t=1:54:57"
+        },
+        {
+          "date": "2026-06-04",
+          "country": "UN",
+          "text": "Thank you very much, Adam, and colleagues, and thank you so much for your interest in this briefing from OCHA and also from the UN Country Team on the ground in Cuba. And I'd like to start by saying that what we are witnessing today in Cuba …",
+          "t": "12:05",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=12:05"
+        },
+        {
+          "date": "2026-06-04",
+          "country": "Cuba",
+          "text": "Thank you, dear Adem. Dear Adem Bozon, Director of OCHA's Crisis Crisis Response Division, dear Francisco Pichón, Resident Coordinator, distinguished participants. I appreciate the opportunity to address you today. I also wish to thank the …",
+          "t": "30:42",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1k/k1kwb8umzw?t=30:42"
+        },
+        {
+          "date": "2026-09-26",
+          "country": "Cuba",
+          "text": "Senor President, distinguished delegates, we thank the government of the United Arab Emirates for the warm hospitality provided and for their efforts in organizing this event. Cuba joins this 15th Congress of the United Nations on crime …",
+          "t": "230:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1m/k1mqdvzist?t=3:50:28"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Dominican Republic",
+          "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
+          "t": "17:55",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=17:55"
+        }
+      ]
+    },
+    {
+      "id": "che",
+      "name": "Switzerland",
+      "lon": 8.2,
+      "lat": 46.8,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "top": "… have been displaced within the country and across its borders. That is 1.6 times the population of Switzerland. And OCHA reports that almost 34 million Sudanese children, women and men need assistance as of May 2026. And that is 3.7 times …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-21",
+          "country": "Switzerland",
+          "text": "… have been displaced within the country and across its borders. That is 1.6 times the population of Switzerland. And OCHA reports that almost 34 million Sudanese children, women and men need assistance as of May 2026. And that is 3.7 times …",
+          "t": "2:36",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k184ag7bu7?t=2:36"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Unknown speaker",
+          "text": "… regard. We encourage you to go further and to examine the possibilities for closer institutional alignment between OCHA and the DCO and also at the central level. Third, Switzerland continues to work to attain the objectives set in the …",
+          "t": "0:08",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/17?t=0:08"
+        },
+        {
+          "date": "2026-05-21",
+          "country": "Unknown speaker",
+          "text": "… come under increasing strain. Against this backdrop, this year's Protection of Civilians Week, coordinated by UN OCHA, Center for Civilians in Conflict, International Rescue Committee, and Switzerland, asked a critical question. How do we …",
+          "t": "0:52",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yba1fbe9?t=0:52"
+        }
+      ]
+    },
+    {
+      "id": "tur",
+      "name": "Turkey",
+      "lon": 35.2,
+      "lat": 39,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "top": "… kinds of responses. We have with us today Mehmet Golioglu, who's joining shortly the United Nations team running the OCHA office here in Geneva, who comes from one of those governments in Turkey that has responded to crises on a massive …",
+      "briefings": [],
+      "leadership": [
+        {
+          "date": "2026-10-21",
+          "speaker": "USG Humanitarian Affairs and Emergency Relief Coordinator (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "USG Humanitarian Affairs and Emergency Relief Coordinator",
+          "text": "… kinds of responses. We have with us today Mehmet Golioglu, who's joining shortly the United Nations team running the OCHA office here in Geneva, who comes from one of those governments in Turkey that has responded to crises on a massive …",
+          "t": "16:58",
+          "pageUrl": "https://transcripts.un.org/en/asset/k15/k15rgv33hs?t=16:58"
+        }
+      ],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-07-21",
+          "country": "Pakistan",
+          "text": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
+          "t": "27:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=27:59"
+        },
+        {
+          "date": "2026-06-09",
+          "country": "Zambia",
+          "text": "I think that's a great summary of what OCHA does around the world. At this point, I will invite our Vice President, Madam Emine Yüldız of Turkey, to say a few words.",
+          "t": "4:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qt9vfgcl?t=4:59"
+        },
+        {
+          "date": "2026-08-04",
+          "country": "UNIS",
+          "text": "… in the country there, in Turkey— including youth and women representatives. And I also would like to add that the Under-Secretary-General for Humanitarian Affairs, Tom Fletcher, stressed that humanitarians are scaling up efforts— and we've …",
+          "t": "37:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-08-04?t=37:49"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "UNFCCC",
+          "text": "Good afternoon, everybody. I'm Wasi Mir, the Director for Conference Affairs at UNFCCC, responsible for working with the government of Turkey for delivering the operations of COP31 in Antalya. So we have the pleasure in a minute to have …",
+          "t": "0:01",
+          "pageUrl": "https://transcripts.un.org/en/asset/k19/k19kdqv3oj?t=0:01"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "China",
+          "text": "President, I thank Deputy Special Envoy Cordonnet and Director Vosorno for their briefings, and I welcome the representative of Syria and Turkey and Palestine to today's meeting. Recently, tensions in the Middle East have escalated once …",
+          "t": "60:33",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:00:33"
+        },
+        {
+          "date": "2026-06-04",
+          "country": "United Kingdom",
+          "text": "Thank you, President. I thank High Representative Nakamitsu for her briefing today, and I welcome the participation of the Permanent Representative of Syria and the Representative of Turkey in today's meeting. The United Kingdom remains …",
+          "t": "49:51",
+          "pageUrl": "https://transcripts.un.org/en/sc/10164?t=49:51"
+        }
+      ]
+    },
+    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 119,
+      "volume": 115,
       "level": "elevated",
       "trend": [
         6,
@@ -7338,12 +7402,12 @@
         19,
         12,
         15,
-        75,
-        16,
+        76,
+        15,
         18,
         43,
-        23,
-        29
+        25,
+        27
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -8942,13 +9006,6 @@
           "text": "… and communities must remain at the centre of the response. There were strong calls for expanded concessional finance, emergency liquidity, and debt relief instruments. Countries need fiscal space to invest in resilience while managing …",
           "t": "128:39",
           "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t2k5zx1z?t=2:08:39"
-        },
-        {
-          "date": "2026-05-04",
-          "country": "Canada",
-          "text": "… We continue to assess the technical aspects of the proposal, but see potential for this to provide tangible near-term relief and to contribute to greater financial stability, thereby enabling the United Nations to continue delivering on …",
-          "t": "21:23",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/80/28?t=21:23"
         },
         {
           "date": "2026-09-18",
@@ -11413,27 +11470,6 @@
           "text": "… my warm congratulations on being elected to chair our committee, and please be assured that you have the full support of my delegation. The French delegation fully associates itself with the statement delivered on behalf of the European …",
           "t": "47:13",
           "pageUrl": "https://transcripts.un.org/en/asset/k10/k1014g5c8r?t=47:13"
-        },
-        {
-          "date": "2026-05-04",
-          "country": "5th Committee",
-          "text": "I thank you. In the absence of further statements, may I take it that the Committee approves the proposed programme of work on the understanding that it will be reviewed and adjusted by the Bureau as necessary during the course of the …",
-          "t": "68:50",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/80/28?t=1:08:50"
-        },
-        {
-          "date": "2026-05-04",
-          "country": "Canada",
-          "text": "… obligations. The NPT provides the essential framework enabling States to access and expand the peaceful application of nuclear technologies. Its benefits could be seen across medicine, agriculture, and clean energy production. This work …",
-          "t": "100:44",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17wcsc4ss?t=1:40:44"
-        },
-        {
-          "date": "2026-05-04",
-          "country": "Australia",
-          "text": "… Throughout this review cycle, we have heard the growing interest from NPT States Parties in accessing the benefits of nuclear science and technology. The NPT is the essential framework for doing this securely, safely, and with safeguards. …",
-          "t": "119:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17wcsc4ss?t=1:59:03"
         }
       ]
     }
