@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:22:58.834Z",
+  "generatedAt": "2026-11-03T22:44:33.734Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,7 +7,7 @@
       "name": "Ukraine",
       "lon": 31,
       "lat": 49,
-      "volume": 20,
+      "volume": 23,
       "level": "elevated",
       "trend": [
         1,
@@ -21,10 +21,19 @@
         11,
         1,
         4,
-        4
+        7
       ],
       "top": "… mines, and continuing hostilities make movement, evacuation, and the delivery of basic services extremely dangerous. OCHA has proposed practical solutions to reach these communities. Humanitarian needs have not diminished. The urgency has …",
       "briefings": [
+        {
+          "date": "2026-11-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Adiabo in northwestern Tigray have reportedly been forced to flee yet again because of renewed military activities. OCHA and our humanitarian partners are preparing to scale up assistance and prioritize people with the most critical …",
+          "t": "11:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-03?t=11:08"
+        },
         {
           "date": "2026-10-30",
           "speaker": "Spokesperson for the SG (UN)",
@@ -125,6 +134,15 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-28?t=6:45"
         },
         {
+          "date": "2026-11-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… the Charter of this Organization and relevant United Nations resolutions. From the ground in Ukraine, our humanitarian coordinator there, Matthias Schmale, also condemned yesterday's deadly strikes and stressed that civilians seeking …",
+          "t": "5:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-03?t=5:06"
+        },
+        {
           "date": "2026-10-30",
           "speaker": "Spokesperson for the SG (UN)",
           "speakerAffiliation": "UN",
@@ -186,6 +204,15 @@
           "text": "… away from us, can they? They will try. They will try. Good afternoon. We will be joined shortly by Anjali Ashokar, the Deputy Executive Director of the Joint Programme on HIV/AIDS, better known to all of us as UNAIDS. She will be here to …",
           "t": "27:29",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=27:29"
+        },
+        {
+          "date": "2026-11-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "It's okay? All right, just waiting for the all clear. All right, great crowd today. Thank you for making the effort. Just a programming note, tomorrow at 1:00 PM there will be a briefing here by Jean-Pierre Lacroix, the …",
+          "t": "0:02",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-03?t=0:02"
         },
         {
           "date": "2026-08-05",
@@ -1516,7 +1543,7 @@
       "name": "Yemen",
       "lon": 48,
       "lat": 15,
-      "volume": 16,
+      "volume": 18,
       "level": "elevated",
       "trend": [
         11,
@@ -1530,10 +1557,19 @@
         8,
         2,
         1,
-        5
+        7
       ],
       "top": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
       "briefings": [
+        {
+          "date": "2026-11-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Adiabo in northwestern Tigray have reportedly been forced to flee yet again because of renewed military activities. OCHA and our humanitarian partners are preparing to scale up assistance and prioritize people with the most critical …",
+          "t": "11:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-03?t=11:08"
+        },
         {
           "date": "2026-11-02",
           "speaker": "Spokesperson (UN)",
@@ -1686,6 +1722,15 @@
           "text": "… hygiene infrastructure, and the establishment of temporary isolation sites. At the end of June, Tom Fletcher, our Emergency Relief Coordinator, allocated $2 million from the Central Emergency Response Fund to strengthen Ebola operational …",
           "t": "49:44",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=49:44"
+        },
+        {
+          "date": "2026-11-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "It's okay? All right, just waiting for the all clear. All right, great crowd today. Thank you for making the effort. Just a programming note, tomorrow at 1:00 PM there will be a briefing here by Jean-Pierre Lacroix, the …",
+          "t": "0:02",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-03?t=0:02"
         },
         {
           "date": "2026-09-11",
@@ -8582,9 +8627,9 @@
         {
           "date": "2026-11-02",
           "country": "Myanmar",
-          "text": "… especially in conflict-affected areas. These restrictions obstruct humanitarian assistance, disrupt coordination among relief organizations, and deprived affected communities of life-saving information. In areas subjected to area …",
-          "t": "123:44",
-          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/16?t=2:03:44"
+          "text": "… especially in conflict-affected areas. These restrictions obstruct humanitarian assistance, disrupt coordination among relief organizations, and deprive affected communities of life-saving information. In areas subjected to area …",
+          "t": "104:16",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/16?t=1:44:16"
         },
         {
           "date": "2026-10-27",
@@ -9066,8 +9111,8 @@
           "date": "2026-11-02",
           "country": "Israel",
           "text": "… Committee its views on the extent by which UN organs and entities have done disservice to the UN Global Principles for Information Integrity, which were established to create a framework for maintaining truthfulness and reliability in the …",
-          "t": "91:49",
-          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/16?t=1:31:49"
+          "t": "72:21",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/16?t=1:12:21"
         },
         {
           "date": "2026-10-21",
@@ -9577,8 +9622,8 @@
           "date": "2026-11-02",
           "country": "Israel",
           "text": "Mr. Chair, my delegation concurs with views already expressed regarding the important work of the Department of Global Communications raising public awareness of the work of the United Nations through digital and traditional platforms, the …",
-          "t": "91:03",
-          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/16?t=1:31:03"
+          "t": "71:35",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/16?t=1:11:35"
         },
         {
           "date": "2026-10-29",
