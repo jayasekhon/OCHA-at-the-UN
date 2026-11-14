@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:05:09.866Z",
+  "generatedAt": "2026-11-14T04:21:48.201Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -5990,8 +5990,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         2,
@@ -6644,8 +6644,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         2,
@@ -6725,8 +6725,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0
       ],
@@ -6767,8 +6767,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0
       ],
@@ -7049,8 +7049,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -7316,8 +7316,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         3,
         0,
@@ -7589,15 +7589,15 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 96,
+      "volume": 82,
       "level": "elevated",
       "trend": [
         33,
         19,
         12,
         15,
-        71,
-        20,
+        75,
+        16,
         19,
         43,
         23,
@@ -11689,13 +11689,6 @@
           "text": "Thank you. Thank you very much for the introduction, for the warm welcome, and for having us. It's great to see so many of you here in this wonderful room, which always reminds me a bit of the Security Council with the round table, so …",
           "t": "111:14",
           "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j5cbv85k?t=1:51:14"
-        },
-        {
-          "date": "2026-05-17",
-          "country": "Japan",
-          "text": "Thank you. Honorable Chairman, Under-Executive Director, Excellencies, distinguished delegates, ladies and gentlemen, I'd like to extend my sincere congratulations on the convening of the 13th World Urban Forum. Over the past decade since …",
-          "t": "95:59",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1u/k1uh4ldfuj?t=1:35:59"
         }
       ]
     }
