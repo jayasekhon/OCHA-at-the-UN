@@ -1,849 +1,7 @@
 {
-  "generatedAt": "2026-11-14T21:51:36.592Z",
+  "generatedAt": "2026-11-15T04:06:11.748Z",
   "dataQuality": "ok",
   "crises": [
-    {
-      "id": "pse",
-      "name": "Palestine",
-      "lon": 35.2,
-      "lat": 31.9,
-      "volume": 22,
-      "level": "elevated",
-      "trend": [
-        5,
-        5,
-        6,
-        0,
-        4,
-        5,
-        5,
-        6,
-        2,
-        6,
-        2,
-        7
-      ],
-      "top": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
-      "briefings": [
-        {
-          "date": "2026-11-11",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Fighting continued today in parts of Kalehe territory, raising fears that more families could be forced to flee. OCHA says many families have already been displaced multiple times as front lines shift. Some are sheltering in schools and …",
-          "t": "31:40",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-11?t=31:40"
-        },
-        {
-          "date": "2026-11-04",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "Regarding the I don’t have that. I mean, I would encourage you to reach out to our OCHA friends who do monitoring. They will point you to their – to the regular updates, but I don’t have that at the tip of my fingers. Okay. No more …",
-          "t": "54:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-04?t=54:35"
-        },
-        {
-          "date": "2026-10-27",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… verification can prevent nuclear proliferation in the long term. And turning to the occupied Palestinian territory, OCHA tells us that transport operations had to be suspended due to the Israeli closure of the Kerem Shalom/Karin Abu Salim …",
-          "t": "4:19",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-27?t=4:19"
-        },
-        {
-          "date": "2026-10-21",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… for the safe, unhindered delivery of humanitarian goods. And in the occupied Palestinian territory, our colleagues at OCHA tell us that they remain deeply concerned about the continued strikes and reportedly causing civilian casualties in …",
-          "t": "10:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-21?t=10:38"
-        },
-        {
-          "date": "2026-10-08",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… humanitarian missions across area of operations yesterday through the liaison branch and in coordination with OCHA. Turning to the occupied Palestinian territory in Gaza, the Office of the Coordination of Humanitarian Affairs remains …",
-          "t": "6:16",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-08?t=6:16"
-        },
-        {
-          "date": "2026-10-01",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… humanitarian missions across both of their sectors, working closely, obviously, with our humanitarian colleagues at OCHA to ensure that the assistance reaches everyone that needs to receive it. And turning to the occupied Palestinian …",
-          "t": "4:55",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-01?t=4:55"
-        },
-        {
-          "date": "2026-09-30",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… as well as safe ammunition handling, two very important points. Turning to the Occupied Palestinian Territory, our OCHA colleagues tell us that we and our partners continue to help families in Gaza prepare for the rainy season. Since …",
-          "t": "36:26",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-30?t=36:26"
-        },
-        {
-          "date": "2026-09-09",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… insecurity and other constraints, especially in Ombembe Prefecture. Following serious security incidents in late June, OCHA and several partners temporarily suspended operations in Zemio and the the upcoming days, a NOCHA-led mission will …",
-          "t": "39:06",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-09?t=39:06"
-        },
-        {
-          "date": "2026-09-08",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… colleagues on the ground tell us that civilians, including children, have been among those killed and injured. OCHA says the escalation is also forcing people to flee their homes. According to local authorities, around 5,000 families and/or …",
-          "t": "43:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=43:44"
-        },
-        {
-          "date": "2026-09-02",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… achieved only through dialogue and negotiations. Turning to the situation in the occupied Palestinian territory, our OCHA colleagues tell us they remain deeply concerned over the safety and welfare of Palestinian civilians in both the West …",
-          "t": "4:26",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-02?t=4:26"
-        },
-        {
-          "date": "2026-08-21",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… country is just 42% funded, with $112 million that we need. Quick update from the occupied Palestinian territory. Our OCHA colleagues on the ground tell us that in the West Bank, they continue to monitor the situation around Kusra village, …",
-          "t": "33:49",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=33:49"
-        },
-        {
-          "date": "2026-08-20",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… their ability to wash, their ability to store food, water, maintain adequate lighting and cope with the temperatures. OCHA remains estimates that nearly two in every three families live in tents or makeshift shelters that rapidly …",
-          "t": "5:55",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-20?t=5:55"
-        },
-        {
-          "date": "2026-08-17",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… delivered water, food, medicines and hygiene items, as well as recreational kits for children. As of earlier today, OCHA reports that three Palestinian families in the village remain surrounded by a heavy presence of Israeli forces as well …",
-          "t": "34:39",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-17?t=34:39"
-        },
-        {
-          "date": "2026-08-11",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Consistent funding and greater access for spare parts and landfills remain essential. Turning to the West Bank, OCHA also reports continued settler-related violence. On Sunday in Nablus Governorate, Israeli settlers installed a gate …",
-          "t": "35:49",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=35:49"
-        },
-        {
-          "date": "2026-07-30",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… More than 600 homes have been damaged in Rabak locality, with additional damage reported in Kosti and Guli localities. OCHA continues to call on donors to provide additional funding for the humanitarian response. This year's humanitarian …",
-          "t": "40:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=40:24"
-        },
-        {
-          "date": "2026-07-27",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… services such as emergency medical care and the sources of their livelihoods. Since the beginning of this year, OCHA has documented more than 1,330 incidents involving Israeli settlers that resulted in casualties, property damage, or both. …",
-          "t": "4:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=4:10"
-        },
-        {
-          "date": "2026-07-20",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… needs and are preparing to distribute tarpaulins, jerry cans, hygiene kits, blankets, and mattresses. Yesterday, OCHA team met with local partner organizations implementing a multipurpose cash assistance project in Gaza City. This project …",
-          "t": "42:25",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=42:25"
-        },
-        {
-          "date": "2026-07-15",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… of national cholera treatments and referral centers from 40 to 70 beds. Turning to the occupied Palestinian territory, OCHA teams there have received initial reports of an armed group entering a solid waste management site in the vicinity …",
-          "t": "6:39",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-15?t=6:39"
-        },
-        {
-          "date": "2026-07-13",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… these challenges, UNIFIL facilitated 2 humanitarian missions in Sector West and Sector East in coordination with OCHA. That took place Friday after the briefing, I assume. Turning to the Occupied Palestinian Territory, our Deputy Special …",
-          "t": "39:40",
-          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-07-13?t=39:40"
-        },
-        {
-          "date": "2026-07-13",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… these challenges, UNIFIL facilitated 2 humanitarian missions in Sector West and Sector East in coordination with OCHA. That took place Friday after the briefing, I assume. Turning to the Occupied Palestinian Territory, our Deputy Special …",
-          "t": "7:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-13/2?t=7:27"
-        },
-        {
-          "date": "2026-07-10",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… funded, and the broader humanitarian appeal is also underfunded. Turning to the occupied Palestinian territory, our OCHA colleagues said that humanitarian operations in Gaza continue to be constrained by insecurity, Israeli access …",
-          "t": "36:11",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=36:11"
-        },
-        {
-          "date": "2026-07-01",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… High Commissioner Volker Türk is scheduled to deliver a statement. Turning to the occupied Palestinian territory, our OCHA colleagues tell us that humanitarian partners today called for the protection of civilians in Gaza, including along …",
-          "t": "42:53",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-01?t=42:53"
-        },
-        {
-          "date": "2026-06-15",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… and sustained humanitarian access to all who for all who need it. Turning to the occupied Palestinian Territory, our OCHA colleagues report multiple incidents of airstrikes, shelling, and gunfire in populated areas over the weekend. On …",
-          "t": "45:03",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-15?t=45:03"
-        },
-        {
-          "date": "2026-06-03",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
-          "t": "8:35",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-03?t=8:35"
-        },
-        {
-          "date": "2026-06-01",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… only the Kerem Shalom, Kerem Abu Salem crossing as the only entry point for cargo that we can use. In the West Bank, OCHA reports that yesterday, a Palestinian trying to cross the Israeli barrier in east, into East Jerusalem, reportedly in …",
-          "t": "0:02",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=0:02"
-        },
-        {
-          "date": "2026-06-01",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
-          "t": "22:56",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=22:56"
-        },
-        {
-          "date": "2026-05-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… the cessation of hostilities and creating the conditions for a permanent ceasefire. On the humanitarian front, our OCHA colleagues report that humanitarian access and emergency response capacity continue to face severe constraints. In …",
-          "t": "0:03",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-29?t=0:03"
-        },
-        {
-          "date": "2026-11-11",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… engagement with relevant stakeholders until all its arbitrarily detained personnel are released. Tom Fletcher, the emergency relief coordinator, said that for months, we have sounded the alarm on essential winter supplies for Gaza, …",
-          "t": "23:21",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-11?t=23:21"
-        },
-        {
-          "date": "2026-10-27",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Shewa town yesterday. And in the Afar region, our partners are providing water, sanitation, and hygiene supplies and emergency cash assistance, while efforts continue to strengthen health services in all areas affected by hostilities. …",
-          "t": "10:29",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-27?t=10:29"
-        },
-        {
-          "date": "2026-09-08",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… of UNIFIL. And heading south to the occupied Palestinian territory, over the weekend, our colleague Tom Fletcher, our emergency relief coordinator, called for increased funding and access for essential supplies and equipment to help avert a …",
-          "t": "45:59",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=45:59"
-        },
-        {
-          "date": "2026-08-18",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… less than half of Gaza Strip territory. Turning to Ukraine, our Under Secretary General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, arrived in Ukraine yesterday. Today in southern Ukraine, he visited the regions …",
-          "t": "27:09",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-18?t=27:09"
-        },
-        {
-          "date": "2026-07-30",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Red Cross Society and NGOs supported by UN agencies, quickly mobilized to provide first aid, psychosocial support, emergency shelter assistance and other assistance to affected regions— affected residents in the Dnipro region, Lviv, and …",
-          "t": "27:29",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=27:29"
-        },
-        {
-          "date": "2026-07-27",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… and access across many areas of the West Bank, preventing thousands of people from reaching essential services such as emergency medical care and the sources of their livelihoods. Since the beginning of this year, OCHA has documented more …",
-          "t": "3:56",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=3:56"
-        },
-        {
-          "date": "2026-07-24",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… their wages. Turning to the West Bank, the occupied West Bank, Ramiz Alabkarov, who as you know is our Deputy Special Coordinator for the Middle East Peace Process, said today the continued loss of civilian life across the occupied West …",
-          "t": "37:00",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-24?t=37:00"
-        },
-        {
-          "date": "2026-07-08",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Turning to the situation in the occupied Palestinian territory, earlier today our colleague Tom Fletcher, the Emergency Relief Coordinator, who, as you know, is in Venezuela. But he did also have a virtual meeting from Venezuela with the …",
-          "t": "33:46",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-08?t=33:46"
-        },
-        {
-          "date": "2026-06-23",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Council's strong message that there can be no impunity for attacks against UN peacekeepers. Tom Fletcher, Head of our Emergency Relief Coordinator, announced this morning that $110 million was being released from the UN Central Emergency …",
-          "t": "15:50",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=15:50"
-        },
-        {
-          "date": "2026-06-18",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Those choosing to remain must be respected. They must be protected. And they must have access to the humanitarian relief that they need. The Secretary-General reminds all parties of their clear obligations under international humanitarian …",
-          "t": "35:13",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=35:13"
-        },
-        {
-          "date": "2026-06-12",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… affected families across the country. Since the escalation began, more than 182,000 people have received essential relief items. And turning to the occupied Palestinian territory, OCHA warns that civilians and civilian infrastructure, …",
-          "t": "32:50",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=32:50"
-        },
-        {
-          "date": "2026-11-11",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… that the era of pledges is over and that the world needs action. And at a high-level event on Early Warnings for All: Delivering on our promise to protect everyone, the Secretary-General pointed out that extreme heat, floods, storms, and …",
-          "t": "21:20",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-11?t=21:20"
-        },
-        {
-          "date": "2026-07-30",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… Any attacks against civilians and civilian infrastructure, wherever they occur, are a clear violation of international humanitarian law and must stop immediately. The Secretary-General reiterates his call for urgent de-escalation leading to …",
-          "t": "26:33",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=26:33"
-        }
-      ],
-      "leadership": [
-        {
-          "date": "2026-09-23",
-          "speaker": "Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator",
-          "text": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
-          "t": "59:22",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sriqg66i?t=59:22"
-        },
-        {
-          "date": "2026-09-02",
-          "speaker": "Deputy Director and Officer in Charge (OCHA)",
-          "speakerAffiliation": "OCHA",
-          "speakerFunction": "Deputy Director and Officer in Charge",
-          "text": "… Mansour. Thank you for the committee for the invitation to brief you today. Thanks also to the division, from the director to all the colleagues who made this happen today. I will be providing a short brief on the humanitarian situation …",
-          "t": "34:30",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yyywqifv?t=34:30"
-        }
-      ],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-11-13",
-          "country": "Malaysia",
-          "text": "… after the October 2025 ceasefire, Palestinians in Gaza continue to be killed and displaced, as at 2 November 2026, OCHA reported that 1,593 Palestinians had been killed and 5,748 injured since the ceasefire. Malaysia calls for the full …",
-          "t": "37:24",
-          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/25?t=37:24"
-        },
-        {
-          "date": "2026-11-10",
-          "country": "Journalist",
-          "text": "Thank you, Farhan. Question about the Gaza flooding and heavy rain. OCHA says around 150,000 tents waiting outside the Gaza, waiting for approval of Israeli authorities. The Board of Peace just made a statement, sort of rare statement, if …",
-          "t": "42:08",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-10?t=42:08"
-        },
-        {
-          "date": "2026-10-29",
-          "country": "Journalist",
-          "text": "Thank you, Shireen. I have two questions. One on Gaza, the other one is on West Bank. OCHA reported on its website that beside the olive harvest attacks and beside the civilian facilities, like healthcare attacks by the Israeli settlers. …",
-          "t": "22:56",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-29?t=22:56"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "Liberia",
-          "text": "… advancement of the E1 project threatens Palestinian territorial contiguity and the viability of a two-state solution. OCHA recorded an average of 6.7 settler attacks per day, resulting in Palestinian casualties or property damage between …",
-          "t": "113:16",
-          "pageUrl": "https://transcripts.un.org/en/sc/10243/2?t=1:53:16"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "CEIRPP",
-          "text": "… the Council's urgent attention. Settler violence and terror have reached unprecedented levels. This year alone, the UN OCHA has documented more than 1,600 settler attacks resulting in Palestinian casualties or damage to property carried out …",
-          "t": "31:52",
-          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=31:52"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "Malaysia",
-          "text": "… and the extensive disruption of civilian infrastructure impede the delivery of life-saving assistance. According to OCHA, as at 30 September 2026, more than 1,400 Palestinians had been reported killed and over 5,000 injured since the …",
-          "t": "37:10",
-          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=37:10"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "Mexico",
-          "text": "… in October 2025, We regret that more than 1,400 Palestinians have lost their lives since then, according to reports of OCHA, the Office for the Coordination of Humanitarian Affairs. A ceasefire in which fatalities attacks and restrictions …",
-          "t": "55:57",
-          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=55:57"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "UN",
-          "text": "… East peace process. Turning to the situation on the ground in the occupied Palestinian territory, our colleague at OCHA says that support for water and sanitation in Gaza is being held back by funding shortfalls and restrictions for the …",
-          "t": "30:26",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-06?t=30:26"
-        },
-        {
-          "date": "2026-09-29",
-          "country": "Association Mona for Human Rights and Immigration",
-          "text": "… In Gaza, widespread destruction and shortages continue to deprive Palestinians of basic necessities. According to OCHA, since the ceasefire, 1,381 Palestinians have been killed, 4,757 injured, and more than 8,000 people are estimated to …",
-          "t": "74:20",
-          "pageUrl": "https://transcripts.un.org/en/hrc/63/32?t=1:14:20"
-        },
-        {
-          "date": "2026-09-29",
-          "country": "Human Rights Watch",
-          "text": "… At the same time, they have overseen an increase in state-backed settler violence to all-time highs. According to OCHA, Israeli forces and settlers have displaced nearly 50,000 Palestinians and killed 1,333 in the West Bank since the start …",
-          "t": "90:55",
-          "pageUrl": "https://transcripts.un.org/en/hrc/63/32?t=1:30:55"
-        },
-        {
-          "date": "2026-09-28",
-          "country": "Pakistan",
-          "text": "… and undermine the possibility of a viable Palestinian state. Settler violence has escalated to alarming levels, with OCHA recording over 1,600 attacks this year alone. These are no longer isolated incidents, but organized assaults on …",
-          "t": "102:06",
-          "pageUrl": "https://transcripts.un.org/en/sc/10230?t=1:42:06"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "Qatar",
-          "text": "… burden on endure immense hardship, in conflict zones, as highlighted in the latest humanitarian situation report of OCHA. As the new academic year begins across the occupied Palestinian territory, children continue to face barriers to safe …",
-          "t": "73:42",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sriqg66i?t=1:13:42"
-        },
-        {
-          "date": "2026-09-02",
-          "country": "CEIRPP",
-          "text": "… to agenda item five, briefings by Mr. Michael Saad, Deputy Director and Officer in Charge Crisis Response Division of OCHA and Mrs. Joanne Salim, National Coordinator of Palestine Shelter Cluster. The first briefer is Mr. Michael Saad who …",
-          "t": "33:40",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yyywqifv?t=33:40"
-        },
-        {
-          "date": "2026-09-02",
-          "country": "Palestine",
-          "text": "… behave, then they will be expelled or not allowed to live in their national homeland. So I think that the details that OCHA has is one of the remarkable agencies of the United Nations in which they give us the details of the reality. And if …",
-          "t": "55:26",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yyywqifv?t=55:26"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Board of Peace",
-          "text": "… of sanitation, clean water, and public health, and we will be moving forward to implementation soon. Despite this, OCHA has reported continuing shortfalls in funding, and UN agencies are warning that the pipeline for food and other critical …",
-          "t": "13:50",
-          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=13:50"
-        },
-        {
-          "date": "2026-08-19",
-          "country": "UN",
-          "text": "… alarming frequency and impunity. Yet despite these challenges, humanitarian workers continue to show up every day. OCHA noted today that last year set another grim record for violence against aid workers, 350 killed, 322 injured, 235 …",
-          "t": "27:11",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-19?t=27:11"
-        },
-        {
-          "date": "2026-08-14",
-          "country": "UN",
-          "text": "… children with disabilities to nearly 30,000 children and 15,000 adults since the start of this year. Turning to Gaza, OCHA says that humanitarians continue to provide vital aid to people in Gaza despite persistent insecurity and …",
-          "t": "56:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-14?t=56:45"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "UNICEF",
-          "text": "… are struggling to keep their children learning when the journey to school itself can be dangerous. According to OCHA, across the West Bank, more than 900 additional movement barriers and restrictions have been imposed over the past two and …",
-          "t": "16:28",
-          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=16:28"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "United Kingdom",
-          "text": "… communities, in some cases alongside Israeli Defense Force personnel, are appalling. These are not isolated incidents. OCHA's July report records more than 1,300 settler-related incidents affecting over 250 Palestinian communities, around …",
-          "t": "41:06",
-          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=41:06"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "UN",
-          "text": "… in a coordinated fashion. Since yesterday, I received also the call of the Foreign Affairs, Mr. Omar Boula, and OCHA has been representing the UN team and the humanitarian community in the emergency response cell. So the assessment is, it …",
-          "t": "19:31",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=19:31"
-        },
-        {
-          "date": "2026-08-04",
-          "country": "UN",
-          "text": "… you so much, Iftikhar. Thank you so much, Olga. Again, Olga, who is the— Olga Sherevko, who is the spokesperson for OCHA, was briefing us from Kabul. Thank you so much once more for joining us online today. Thank you.",
-          "t": "60:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-04?t=1:00:24"
-        },
-        {
-          "date": "2026-07-31",
-          "country": "UN",
-          "text": "… mission's area of operations yesterday afternoon. On the humanitarian front, UNIFIL facilitated, in coordination with OCHA, 7 humanitarian missions in both sectors on Thursday and Friday. Turning to the occupied Palestinian territory, the …",
-          "t": "29:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=29:36"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "Liberia",
-          "text": "… it. This is true of every protracted conflict, including this one. The briefing of today and the figures presented by OCHA and other UN agencies confirmed that the occupied Palestinian territory is approaching that point. We are no longer …",
-          "t": "83:25",
-          "pageUrl": "https://transcripts.un.org/en/sc/10203?t=1:23:25"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "South Africa",
-          "text": "… In this regard, it has been reported that according to the UN Office for the Coordination of Humanitarian Affairs, OCHA, more than 1,000 Palestinians had been killed since the ceasefire was announced on 10 October 2025. Nearly all of Gaza's …",
-          "t": "167:34",
-          "pageUrl": "https://transcripts.un.org/en/sc/10203/2?t=2:47:34"
-        },
-        {
-          "date": "2026-07-24",
-          "country": "UNFPA",
-          "text": "… health kits, and providing 16 health facilities with medical equipment and supplies. We are working closely with OCHA, IOM, UNHCR, and UNICEF to make temporary shelters safer for women and girls and providing psychosocial support, case …",
-          "t": "58:15",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-24?t=58:15"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "Pakistan",
-          "text": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
-          "t": "27:59",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=27:59"
-        },
-        {
-          "date": "2026-07-16",
-          "country": "UN",
-          "text": "… learning activities, which started on Saturday. And turning to the West Bank, a high-level delegation was led by our OCHA colleagues to Deir Nidham village in Ramallah Governorate. That took place yesterday. Participants met with …",
-          "t": "37:45",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=37:45"
-        },
-        {
-          "date": "2026-06-30",
-          "country": "UN",
-          "text": "… afternoon. It's going to take some time to count, hopefully. Turning to the occupied Palestinian territory, our OCHA colleagues tell us that humanitarian teams in Gaza are assessing the needs of those affected by yesterday's airstrike on Al …",
-          "t": "3:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=3:38"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "NRC",
-          "text": "… have been displaced from Jenin to Qarem and Nour Shams refugee camps and surrounding areas. As we have just heard, OCHA has described this as the largest, largest and longest displacement crisis in the West Bank since 1967. The figures …",
-          "t": "15:25",
-          "pageUrl": "https://transcripts.un.org/en/sc/10186/2?t=15:25"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Denmark",
-          "text": "… humanitarian aid and our commitment to support them in working without interference and in safety. As highlighted by OCHA, protection risks persist and a sustained ceasefire is the single most important enabler of humanitarian aid and early …",
-          "t": "43:16",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=43:16"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Panama",
-          "text": "… convening of this emergency meeting and for the information provided by Mr. Tom Fletcher, Under-Secretary-General for OCHA, and Ms. Bushra Khalidi, Head of Humanitarian Policy at Oxfam International, civil society We recognize and value the …",
-          "t": "45:27",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=45:27"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Liberia",
-          "text": "… despite Resolution 2803. Today, 70% of Gaza's population relies on trucked water. A lifeline threatened because OCHA's 2026 flash appeal is only 24% funded. The condition for living is intolerable. Hostilities have claimed 981 lives since …",
-          "t": "57:42",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=57:42"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "UN",
-          "text": "… On the humanitarian front, through the liaison branch and in coordination with our own humanitarian colleagues at OCHA, UNIFIL facilitated a humanitarian mission yesterday to Tyre and surrounding areas. On the broader humanitarian front in …",
-          "t": "18:07",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-16?t=18:07"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "UN Secretariat",
-          "text": "… only the Kerem Shalom, Kerem Abu Salem crossing as the only entry point for cargo that we can use. In the West Bank, OCHA reports that yesterday, a Palestinian trying to cross the Israeli barrier in East, into East Jerusalem, reportedly in …",
-          "t": "12:46",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=12:46"
-        },
-        {
-          "date": "2026-11-13",
-          "country": "Kazakhstan",
-          "text": "… projects, training, and technical support. Its initiatives included assistance to farming communities in Afghanistan, emergency food relief for the people of Gaza, and agricultural development and capacity building programs in African …",
-          "t": "76:14",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/41?t=1:16:14"
-        },
-        {
-          "date": "2026-11-12",
-          "country": "UNRWA",
-          "text": "… protection and assistance to some 1.7 million Palestinians. The Agency remains one of the largest providers of emergency learning and psychosocial support across the Gaza Strip, and since the beginning of the new school year in September …",
-          "t": "22:36",
-          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/23?t=22:36"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "India",
-          "text": "… rights of seafarers. At the BRICS Summit last month, Prime Minister Narendra Modi proposed establishing a Seafarers Emergency Support Network, which could connect the maritime authorities and embassies of the countries concerned and …",
-          "t": "99:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=1:39:46"
-        },
-        {
-          "date": "2026-10-13",
-          "country": "Bahrain",
-          "text": "… approval of the necessary and adequate resources. In this regard, the importance of supporting of the role of the UN Relief and Works Agency for Palestinian Refugees in the Near East, the UNRWA, is underscored through the allocation of …",
-          "t": "64:18",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/5?t=1:04:18"
-        },
-        {
-          "date": "2026-10-09",
-          "country": "IOM",
-          "text": "… requirements and specifications, yet supplies continue to be turned away at crossing points. IOM alone has about 8,600 emergency shelter kits pre-positioned outside of Gaza that have been repeatedly denied entry by Israeli authorities. …",
-          "t": "53:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-09?t=53:10"
-        },
-        {
-          "date": "2026-10-07",
-          "country": "Iran",
-          "text": "… including the Palestinian refugees. The movement reaffirms the continued indispensability of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA, along with other United Nations agencies and …",
-          "t": "23:23",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/6?t=23:23"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "UN",
-          "text": "… was shared with you in full much earlier today. We also have statements available online from Tom Fletcher, our Emergency Relief Coordinator, and Dr. Ramiz Alabkarov, the acting special coordinator for the Middle East peace process. Turning …",
-          "t": "30:12",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-06?t=30:12"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "Moderator",
-          "text": "… you, Mr. Shaiban. And now I invite Mohammad Yahya, Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator.",
-          "t": "58:44",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sriqg66i?t=58:44"
-        },
-        {
-          "date": "2026-09-22",
-          "country": "Morocco",
-          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
-          "t": "738:35",
-          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Board of Peace",
-          "text": "… cycle of pain will never end. However, what we owe all these families is not yet another expression of sympathy, but relief, security, and a way out of the cycle of pain and suffering. A year ago, almost to this day, in fact, the famine …",
-          "t": "12:04",
-          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=12:04"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "UN",
-          "text": "… another winter in cold tents. Madam President, The truth is improving living conditions in Gaza requires moving beyond emergency relief. Essential systems and services must be restored with no further delay, particularly sewage, waste …",
-          "t": "26:18",
-          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=26:18"
-        },
-        {
-          "date": "2026-08-19",
-          "country": "UN",
-          "text": "… more hands, sending more explosive weapons into towns and cities. And now it's my pleasure to turn to Tom Fletcher, Emergency Relief Coordinator and Under Secretary General for Humanitarian Affairs, who's briefing us from Kyiv on this World …",
-          "t": "27:57",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-19?t=27:57"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "UN",
-          "text": "… this morning a conversation in the humanitarian country team with the Foreign Affairs Minister and Tom Fletcher, our emergency relief coordinator, and what was expressed is that the impact of this earthquake is bigger than they were …",
-          "t": "18:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=18:24"
-        },
-        {
-          "date": "2026-06-30",
-          "country": "UN",
-          "text": "… Thank you. This morning, the Secretary General told Member States at a meeting for voluntary contributions to the UN Relief and Works Agency, UNRWA, that today's event is happening while the safety and welfare of millions of Palestine …",
-          "t": "1:51",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=1:51"
-        },
-        {
-          "date": "2026-06-29",
-          "country": "UN",
-          "text": "… Palestinians in Gaza are concentrated in increasingly limited areas, living amid insecurity and violence. As the Emergency Relief Coordinator briefed this Council on 18 June, Since the adoption of Security Council Resolution 2803, there …",
-          "t": "3:53",
-          "pageUrl": "https://transcripts.un.org/en/sc/10186/2?t=3:53"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Colombia",
-          "text": "… briefers to participate in this meeting: Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, and Ms. Bushra Khalidi, Head of Humanitarian Policy at Oxfam International. It is so decided. I …",
-          "t": "1:01",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=1:01"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "OXFAM",
-          "text": "… freely. And Gaza is where that system reaches its most devastating expression. Madam President, the humanitarian emergency in Gaza continues. The ceasefire is failing. Israeli forces continue to kill Palestinians 3 this morning in an …",
-          "t": "16:29",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=16:29"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "EU",
-          "text": "… in crisis with severe access constraints, such as Palestine, Sudan, or DRC, to name a few, under the leadership of the Emergency Relief Coordinator and in cooperation with other UN agencies. We regret that UNICEF received only 31% of its …",
-          "t": "136:59",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=2:16:59"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Colombia",
-          "text": "The 10,177th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. Including the Palestinian question. The agenda is adopted. In accordance with Rule 37 of the …",
-          "t": "0:18",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=0:18"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "Bahrain",
-          "text": "… appreciates the prompt response to the request to convene this meeting. We extend our thanks to Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs, and to Ms. Bushra Khalidi, Oxfam Head of Humanitarian Policy, for their …",
-          "t": "26:52",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=26:52"
-        },
-        {
-          "date": "2026-06-18",
-          "country": "DR Congo",
-          "text": "Thank you, Madame President. The Democratic Republic of the Congo wishes to thank you for having convened this meeting. Meeting dedicated to the humanitarian situation in the Gaza Strip. My delegation wishes to thank the …",
-          "t": "33:05",
-          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=33:05"
-        },
-        {
-          "date": "2026-06-30",
-          "country": "UN",
-          "text": "… They will be presenting the findings ahead of the inaugural Global Dialogue on AI Governance, which is scheduled for Geneva the 6th and 7th of July. The two co-chairs will be participating virtually, but the Secretary General will be here …",
-          "t": "0:44",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=0:44"
-        },
-        {
-          "date": "2026-10-19",
-          "country": "UN",
-          "text": "… briefed the Security Council, and he will be joining us here in person. Tomorrow, my guest will be Robin Geiss, the director of the UN Institute for Disarmament Research, otherwise known as UNIDIR. He'll be briefing you on the launch of a …",
-          "t": "0:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-19?t=0:24"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "Latvia",
-          "text": "… I thank Acting Special Coordinator, Mr. Ramez Alaghbarah for his informative briefing. And I welcome the Board of Peace High Representative for Gaza, Mr. Nikolay Mladenov to this meeting and thank him for the comprehensive briefing. I also …",
-          "t": "81:00",
-          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=1:21:00"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "United Kingdom",
-          "text": "… you, Madam President. Thank you, Acting Special Coordinator Alakbarov, High Representative Mladenov, and Executive Director Rayburn. Madam President, last November, this Council adopted Resolution 2803, sending a powerful message of …",
-          "t": "102:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=1:42:11"
-        },
-        {
-          "date": "2026-07-21",
-          "country": "China",
-          "text": "President, I thank Deputy Special Envoy Cordonnet and Director Vosorno for their briefings, and I welcome the representative of Syria and Turkey and Palestine to today's meeting. Recently, tensions in the Middle East have escalated once …",
-          "t": "60:33",
-          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:00:33"
-        },
-        {
-          "date": "2026-06-24",
-          "country": "Malaysia",
-          "text": "Well, thank you, Chair. Thank you to Minister Riyad Mansour of the State of Palestine and Director Contet of UNRWA for your briefings and updates. Malaysia reaffirms our support for UNRWA and its indispensable role in providing humanitarian …",
-          "t": "58:55",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qg1ykeeq?t=58:55"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "UN",
-          "text": "… with Security Council Resolution 2793. While there, the Secretary-General was also briefed by the Force Commander of the Gang Suppression Force, Before the day is over, the Secretary-General will have met with the Prime Minister. He will …",
-          "t": "15:42",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-16?t=15:42"
-        }
-      ]
-    },
     {
       "id": "ukr",
       "name": "Ukraine",
@@ -2182,6 +1340,848 @@
           "text": "development's report on the launch of the latest edition of the sending money home report and its key findings. And a reminder that the Secretary General will give a press conference ahead of this year's General Assembly session, and that …",
           "t": "21:10",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-14?t=21:10"
+        }
+      ]
+    },
+    {
+      "id": "pse",
+      "name": "Palestine",
+      "lon": 35.2,
+      "lat": 31.9,
+      "volume": 17,
+      "level": "elevated",
+      "trend": [
+        5,
+        5,
+        6,
+        0,
+        4,
+        5,
+        5,
+        6,
+        2,
+        6,
+        2,
+        7
+      ],
+      "top": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
+      "briefings": [
+        {
+          "date": "2026-11-11",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Fighting continued today in parts of Kalehe territory, raising fears that more families could be forced to flee. OCHA says many families have already been displaced multiple times as front lines shift. Some are sheltering in schools and …",
+          "t": "31:40",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-11?t=31:40"
+        },
+        {
+          "date": "2026-11-04",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "Regarding the I don’t have that. I mean, I would encourage you to reach out to our OCHA friends who do monitoring. They will point you to their – to the regular updates, but I don’t have that at the tip of my fingers. Okay. No more …",
+          "t": "54:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-04?t=54:35"
+        },
+        {
+          "date": "2026-10-27",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… verification can prevent nuclear proliferation in the long term. And turning to the occupied Palestinian territory, OCHA tells us that transport operations had to be suspended due to the Israeli closure of the Kerem Shalom/Karin Abu Salim …",
+          "t": "4:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-27?t=4:19"
+        },
+        {
+          "date": "2026-10-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… for the safe, unhindered delivery of humanitarian goods. And in the occupied Palestinian territory, our colleagues at OCHA tell us that they remain deeply concerned about the continued strikes and reportedly causing civilian casualties in …",
+          "t": "10:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-21?t=10:38"
+        },
+        {
+          "date": "2026-10-08",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… humanitarian missions across area of operations yesterday through the liaison branch and in coordination with OCHA. Turning to the occupied Palestinian territory in Gaza, the Office of the Coordination of Humanitarian Affairs remains …",
+          "t": "6:16",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-08?t=6:16"
+        },
+        {
+          "date": "2026-10-01",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… humanitarian missions across both of their sectors, working closely, obviously, with our humanitarian colleagues at OCHA to ensure that the assistance reaches everyone that needs to receive it. And turning to the occupied Palestinian …",
+          "t": "4:55",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-01?t=4:55"
+        },
+        {
+          "date": "2026-09-30",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… as well as safe ammunition handling, two very important points. Turning to the Occupied Palestinian Territory, our OCHA colleagues tell us that we and our partners continue to help families in Gaza prepare for the rainy season. Since …",
+          "t": "36:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-30?t=36:26"
+        },
+        {
+          "date": "2026-09-09",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… insecurity and other constraints, especially in Ombembe Prefecture. Following serious security incidents in late June, OCHA and several partners temporarily suspended operations in Zemio and the the upcoming days, a NOCHA-led mission will …",
+          "t": "39:06",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-09?t=39:06"
+        },
+        {
+          "date": "2026-09-08",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… colleagues on the ground tell us that civilians, including children, have been among those killed and injured. OCHA says the escalation is also forcing people to flee their homes. According to local authorities, around 5,000 families and/or …",
+          "t": "43:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=43:44"
+        },
+        {
+          "date": "2026-09-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… achieved only through dialogue and negotiations. Turning to the situation in the occupied Palestinian territory, our OCHA colleagues tell us they remain deeply concerned over the safety and welfare of Palestinian civilians in both the West …",
+          "t": "4:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-02?t=4:26"
+        },
+        {
+          "date": "2026-08-21",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… country is just 42% funded, with $112 million that we need. Quick update from the occupied Palestinian territory. Our OCHA colleagues on the ground tell us that in the West Bank, they continue to monitor the situation around Kusra village, …",
+          "t": "33:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-21?t=33:49"
+        },
+        {
+          "date": "2026-08-20",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… their ability to wash, their ability to store food, water, maintain adequate lighting and cope with the temperatures. OCHA remains estimates that nearly two in every three families live in tents or makeshift shelters that rapidly …",
+          "t": "5:55",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-20?t=5:55"
+        },
+        {
+          "date": "2026-08-17",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… delivered water, food, medicines and hygiene items, as well as recreational kits for children. As of earlier today, OCHA reports that three Palestinian families in the village remain surrounded by a heavy presence of Israeli forces as well …",
+          "t": "34:39",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-17?t=34:39"
+        },
+        {
+          "date": "2026-08-11",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Consistent funding and greater access for spare parts and landfills remain essential. Turning to the West Bank, OCHA also reports continued settler-related violence. On Sunday in Nablus Governorate, Israeli settlers installed a gate …",
+          "t": "35:49",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=35:49"
+        },
+        {
+          "date": "2026-07-30",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… More than 600 homes have been damaged in Rabak locality, with additional damage reported in Kosti and Guli localities. OCHA continues to call on donors to provide additional funding for the humanitarian response. This year's humanitarian …",
+          "t": "40:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=40:24"
+        },
+        {
+          "date": "2026-07-27",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… services such as emergency medical care and the sources of their livelihoods. Since the beginning of this year, OCHA has documented more than 1,330 incidents involving Israeli settlers that resulted in casualties, property damage, or both. …",
+          "t": "4:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=4:10"
+        },
+        {
+          "date": "2026-07-20",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… needs and are preparing to distribute tarpaulins, jerry cans, hygiene kits, blankets, and mattresses. Yesterday, OCHA team met with local partner organizations implementing a multipurpose cash assistance project in Gaza City. This project …",
+          "t": "42:25",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-20?t=42:25"
+        },
+        {
+          "date": "2026-07-15",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of national cholera treatments and referral centers from 40 to 70 beds. Turning to the occupied Palestinian territory, OCHA teams there have received initial reports of an armed group entering a solid waste management site in the vicinity …",
+          "t": "6:39",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-15?t=6:39"
+        },
+        {
+          "date": "2026-07-13",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… these challenges, UNIFIL facilitated 2 humanitarian missions in Sector West and Sector East in coordination with OCHA. That took place Friday after the briefing, I assume. Turning to the Occupied Palestinian Territory, our Deputy Special …",
+          "t": "39:40",
+          "pageUrl": "https://transcripts.un.org/en/briefing/pga/2026-07-13?t=39:40"
+        },
+        {
+          "date": "2026-07-13",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… these challenges, UNIFIL facilitated 2 humanitarian missions in Sector West and Sector East in coordination with OCHA. That took place Friday after the briefing, I assume. Turning to the Occupied Palestinian Territory, our Deputy Special …",
+          "t": "7:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-13/2?t=7:27"
+        },
+        {
+          "date": "2026-07-10",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… funded, and the broader humanitarian appeal is also underfunded. Turning to the occupied Palestinian territory, our OCHA colleagues said that humanitarian operations in Gaza continue to be constrained by insecurity, Israeli access …",
+          "t": "36:11",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-10?t=36:11"
+        },
+        {
+          "date": "2026-07-01",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… High Commissioner Volker Türk is scheduled to deliver a statement. Turning to the occupied Palestinian territory, our OCHA colleagues tell us that humanitarian partners today called for the protection of civilians in Gaza, including along …",
+          "t": "42:53",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-01?t=42:53"
+        },
+        {
+          "date": "2026-06-15",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… and sustained humanitarian access to all who for all who need it. Turning to the occupied Palestinian Territory, our OCHA colleagues report multiple incidents of airstrikes, shelling, and gunfire in populated areas over the weekend. On …",
+          "t": "45:03",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-15?t=45:03"
+        },
+        {
+          "date": "2026-06-03",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… the drought so our partners can prepare and plan and act before it actually impacts. And turning to the broader Sahel, OCHA tells us that 24 million people across the region need humanitarian aid. This year's humanitarian needs and response …",
+          "t": "8:35",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-03?t=8:35"
+        },
+        {
+          "date": "2026-06-01",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… only the Kerem Shalom, Kerem Abu Salem crossing as the only entry point for cargo that we can use. In the West Bank, OCHA reports that yesterday, a Palestinian trying to cross the Israeli barrier in east, into East Jerusalem, reportedly in …",
+          "t": "0:02",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=0:02"
+        },
+        {
+          "date": "2026-06-01",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
+          "t": "22:56",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=22:56"
+        },
+        {
+          "date": "2026-05-29",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… the cessation of hostilities and creating the conditions for a permanent ceasefire. On the humanitarian front, our OCHA colleagues report that humanitarian access and emergency response capacity continue to face severe constraints. In …",
+          "t": "0:03",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-29?t=0:03"
+        },
+        {
+          "date": "2026-11-11",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… engagement with relevant stakeholders until all its arbitrarily detained personnel are released. Tom Fletcher, the emergency relief coordinator, said that for months, we have sounded the alarm on essential winter supplies for Gaza, …",
+          "t": "23:21",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-11?t=23:21"
+        },
+        {
+          "date": "2026-10-27",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Shewa town yesterday. And in the Afar region, our partners are providing water, sanitation, and hygiene supplies and emergency cash assistance, while efforts continue to strengthen health services in all areas affected by hostilities. …",
+          "t": "10:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-27?t=10:29"
+        },
+        {
+          "date": "2026-09-08",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of UNIFIL. And heading south to the occupied Palestinian territory, over the weekend, our colleague Tom Fletcher, our emergency relief coordinator, called for increased funding and access for essential supplies and equipment to help avert a …",
+          "t": "45:59",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-08?t=45:59"
+        },
+        {
+          "date": "2026-08-18",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… less than half of Gaza Strip territory. Turning to Ukraine, our Under Secretary General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, arrived in Ukraine yesterday. Today in southern Ukraine, he visited the regions …",
+          "t": "27:09",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-18?t=27:09"
+        },
+        {
+          "date": "2026-07-30",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Red Cross Society and NGOs supported by UN agencies, quickly mobilized to provide first aid, psychosocial support, emergency shelter assistance and other assistance to affected regions— affected residents in the Dnipro region, Lviv, and …",
+          "t": "27:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=27:29"
+        },
+        {
+          "date": "2026-07-27",
+          "speaker": "Spokesperson (UN Secretariat)",
+          "speakerAffiliation": "UN Secretariat",
+          "speakerFunction": "Spokesperson",
+          "text": "… and access across many areas of the West Bank, preventing thousands of people from reaching essential services such as emergency medical care and the sources of their livelihoods. Since the beginning of this year, OCHA has documented more …",
+          "t": "3:56",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-27?t=3:56"
+        },
+        {
+          "date": "2026-07-24",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… their wages. Turning to the West Bank, the occupied West Bank, Ramiz Alabkarov, who as you know is our Deputy Special Coordinator for the Middle East Peace Process, said today the continued loss of civilian life across the occupied West …",
+          "t": "37:00",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-24?t=37:00"
+        },
+        {
+          "date": "2026-07-08",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Turning to the situation in the occupied Palestinian territory, earlier today our colleague Tom Fletcher, the Emergency Relief Coordinator, who, as you know, is in Venezuela. But he did also have a virtual meeting from Venezuela with the …",
+          "t": "33:46",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-08?t=33:46"
+        },
+        {
+          "date": "2026-06-23",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Council's strong message that there can be no impunity for attacks against UN peacekeepers. Tom Fletcher, Head of our Emergency Relief Coordinator, announced this morning that $110 million was being released from the UN Central Emergency …",
+          "t": "15:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=15:50"
+        },
+        {
+          "date": "2026-06-18",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Those choosing to remain must be respected. They must be protected. And they must have access to the humanitarian relief that they need. The Secretary-General reminds all parties of their clear obligations under international humanitarian …",
+          "t": "35:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=35:13"
+        },
+        {
+          "date": "2026-06-12",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… affected families across the country. Since the escalation began, more than 182,000 people have received essential relief items. And turning to the occupied Palestinian territory, OCHA warns that civilians and civilian infrastructure, …",
+          "t": "32:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-12?t=32:50"
+        },
+        {
+          "date": "2026-11-11",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… that the era of pledges is over and that the world needs action. And at a high-level event on Early Warnings for All: Delivering on our promise to protect everyone, the Secretary-General pointed out that extreme heat, floods, storms, and …",
+          "t": "21:20",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-11?t=21:20"
+        },
+        {
+          "date": "2026-07-30",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Any attacks against civilians and civilian infrastructure, wherever they occur, are a clear violation of international humanitarian law and must stop immediately. The Secretary-General reiterates his call for urgent de-escalation leading to …",
+          "t": "26:33",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-30?t=26:33"
+        }
+      ],
+      "leadership": [
+        {
+          "date": "2026-09-23",
+          "speaker": "Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator",
+          "text": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
+          "t": "59:22",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sriqg66i?t=59:22"
+        },
+        {
+          "date": "2026-09-02",
+          "speaker": "Deputy Director and Officer in Charge (OCHA)",
+          "speakerAffiliation": "OCHA",
+          "speakerFunction": "Deputy Director and Officer in Charge",
+          "text": "… Mansour. Thank you for the committee for the invitation to brief you today. Thanks also to the division, from the director to all the colleagues who made this happen today. I will be providing a short brief on the humanitarian situation …",
+          "t": "34:30",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yyywqifv?t=34:30"
+        }
+      ],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-11-13",
+          "country": "Malaysia",
+          "text": "… after the October 2025 ceasefire, Palestinians in Gaza continue to be killed and displaced, as at 2 November 2026, OCHA reported that 1,593 Palestinians had been killed and 5,748 injured since the ceasefire. Malaysia calls for the full …",
+          "t": "37:24",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/25?t=37:24"
+        },
+        {
+          "date": "2026-11-10",
+          "country": "Journalist",
+          "text": "Thank you, Farhan. Question about the Gaza flooding and heavy rain. OCHA says around 150,000 tents waiting outside the Gaza, waiting for approval of Israeli authorities. The Board of Peace just made a statement, sort of rare statement, if …",
+          "t": "42:08",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-10?t=42:08"
+        },
+        {
+          "date": "2026-10-29",
+          "country": "Journalist",
+          "text": "Thank you, Shireen. I have two questions. One on Gaza, the other one is on West Bank. OCHA reported on its website that beside the olive harvest attacks and beside the civilian facilities, like healthcare attacks by the Israeli settlers. …",
+          "t": "22:56",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-29?t=22:56"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Liberia",
+          "text": "… advancement of the E1 project threatens Palestinian territorial contiguity and the viability of a two-state solution. OCHA recorded an average of 6.7 settler attacks per day, resulting in Palestinian casualties or property damage between …",
+          "t": "113:16",
+          "pageUrl": "https://transcripts.un.org/en/sc/10243/2?t=1:53:16"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "CEIRPP",
+          "text": "… the Council's urgent attention. Settler violence and terror have reached unprecedented levels. This year alone, the UN OCHA has documented more than 1,600 settler attacks resulting in Palestinian casualties or damage to property carried out …",
+          "t": "31:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=31:52"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Malaysia",
+          "text": "… and the extensive disruption of civilian infrastructure impede the delivery of life-saving assistance. According to OCHA, as at 30 September 2026, more than 1,400 Palestinians had been reported killed and over 5,000 injured since the …",
+          "t": "37:10",
+          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=37:10"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Mexico",
+          "text": "… in October 2025, We regret that more than 1,400 Palestinians have lost their lives since then, according to reports of OCHA, the Office for the Coordination of Humanitarian Affairs. A ceasefire in which fatalities attacks and restrictions …",
+          "t": "55:57",
+          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=55:57"
+        },
+        {
+          "date": "2026-10-06",
+          "country": "UN",
+          "text": "… East peace process. Turning to the situation on the ground in the occupied Palestinian territory, our colleague at OCHA says that support for water and sanitation in Gaza is being held back by funding shortfalls and restrictions for the …",
+          "t": "30:26",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-06?t=30:26"
+        },
+        {
+          "date": "2026-09-29",
+          "country": "Association Mona for Human Rights and Immigration",
+          "text": "… In Gaza, widespread destruction and shortages continue to deprive Palestinians of basic necessities. According to OCHA, since the ceasefire, 1,381 Palestinians have been killed, 4,757 injured, and more than 8,000 people are estimated to …",
+          "t": "74:20",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/32?t=1:14:20"
+        },
+        {
+          "date": "2026-09-29",
+          "country": "Human Rights Watch",
+          "text": "… At the same time, they have overseen an increase in state-backed settler violence to all-time highs. According to OCHA, Israeli forces and settlers have displaced nearly 50,000 Palestinians and killed 1,333 in the West Bank since the start …",
+          "t": "90:55",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/32?t=1:30:55"
+        },
+        {
+          "date": "2026-09-28",
+          "country": "Pakistan",
+          "text": "… and undermine the possibility of a viable Palestinian state. Settler violence has escalated to alarming levels, with OCHA recording over 1,600 attacks this year alone. These are no longer isolated incidents, but organized assaults on …",
+          "t": "102:06",
+          "pageUrl": "https://transcripts.un.org/en/sc/10230?t=1:42:06"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Qatar",
+          "text": "… burden on endure immense hardship, in conflict zones, as highlighted in the latest humanitarian situation report of OCHA. As the new academic year begins across the occupied Palestinian territory, children continue to face barriers to safe …",
+          "t": "73:42",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sriqg66i?t=1:13:42"
+        },
+        {
+          "date": "2026-09-02",
+          "country": "CEIRPP",
+          "text": "… to agenda item five, briefings by Mr. Michael Saad, Deputy Director and Officer in Charge Crisis Response Division of OCHA and Mrs. Joanne Salim, National Coordinator of Palestine Shelter Cluster. The first briefer is Mr. Michael Saad who …",
+          "t": "33:40",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yyywqifv?t=33:40"
+        },
+        {
+          "date": "2026-09-02",
+          "country": "Palestine",
+          "text": "… behave, then they will be expelled or not allowed to live in their national homeland. So I think that the details that OCHA has is one of the remarkable agencies of the United Nations in which they give us the details of the reality. And if …",
+          "t": "55:26",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1y/k1yyywqifv?t=55:26"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "Board of Peace",
+          "text": "… of sanitation, clean water, and public health, and we will be moving forward to implementation soon. Despite this, OCHA has reported continuing shortfalls in funding, and UN agencies are warning that the pipeline for food and other critical …",
+          "t": "13:50",
+          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=13:50"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "UN",
+          "text": "… alarming frequency and impunity. Yet despite these challenges, humanitarian workers continue to show up every day. OCHA noted today that last year set another grim record for violence against aid workers, 350 killed, 322 injured, 235 …",
+          "t": "27:11",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-19?t=27:11"
+        },
+        {
+          "date": "2026-08-14",
+          "country": "UN",
+          "text": "… children with disabilities to nearly 30,000 children and 15,000 adults since the start of this year. Turning to Gaza, OCHA says that humanitarians continue to provide vital aid to people in Gaza despite persistent insecurity and …",
+          "t": "56:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-14?t=56:45"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UNICEF",
+          "text": "… are struggling to keep their children learning when the journey to school itself can be dangerous. According to OCHA, across the West Bank, more than 900 additional movement barriers and restrictions have been imposed over the past two and …",
+          "t": "16:28",
+          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=16:28"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "United Kingdom",
+          "text": "… communities, in some cases alongside Israeli Defense Force personnel, are appalling. These are not isolated incidents. OCHA's July report records more than 1,300 settler-related incidents affecting over 250 Palestinian communities, around …",
+          "t": "41:06",
+          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=41:06"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UN",
+          "text": "… in a coordinated fashion. Since yesterday, I received also the call of the Foreign Affairs, Mr. Omar Boula, and OCHA has been representing the UN team and the humanitarian community in the emergency response cell. So the assessment is, it …",
+          "t": "19:31",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=19:31"
+        },
+        {
+          "date": "2026-08-04",
+          "country": "UN",
+          "text": "… you so much, Iftikhar. Thank you so much, Olga. Again, Olga, who is the— Olga Sherevko, who is the spokesperson for OCHA, was briefing us from Kabul. Thank you so much once more for joining us online today. Thank you.",
+          "t": "60:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-04?t=1:00:24"
+        },
+        {
+          "date": "2026-07-31",
+          "country": "UN",
+          "text": "… mission's area of operations yesterday afternoon. On the humanitarian front, UNIFIL facilitated, in coordination with OCHA, 7 humanitarian missions in both sectors on Thursday and Friday. Turning to the occupied Palestinian territory, the …",
+          "t": "29:36",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-03?t=29:36"
+        },
+        {
+          "date": "2026-07-28",
+          "country": "Liberia",
+          "text": "… it. This is true of every protracted conflict, including this one. The briefing of today and the figures presented by OCHA and other UN agencies confirmed that the occupied Palestinian territory is approaching that point. We are no longer …",
+          "t": "83:25",
+          "pageUrl": "https://transcripts.un.org/en/sc/10203?t=1:23:25"
+        },
+        {
+          "date": "2026-07-28",
+          "country": "South Africa",
+          "text": "… In this regard, it has been reported that according to the UN Office for the Coordination of Humanitarian Affairs, OCHA, more than 1,000 Palestinians had been killed since the ceasefire was announced on 10 October 2025. Nearly all of Gaza's …",
+          "t": "167:34",
+          "pageUrl": "https://transcripts.un.org/en/sc/10203/2?t=2:47:34"
+        },
+        {
+          "date": "2026-07-24",
+          "country": "UNFPA",
+          "text": "… health kits, and providing 16 health facilities with medical equipment and supplies. We are working closely with OCHA, IOM, UNHCR, and UNICEF to make temporary shelters safer for women and girls and providing psychosocial support, case …",
+          "t": "58:15",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-24?t=58:15"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "Pakistan",
+          "text": "Thank you, Mr. President. Let me also thank Deputy Special Envoy Claudio Cordone and Director OCHA, Aden Vosorno, for their briefings. We also welcome the participation of the Permanent Representative of Syria and Türkiye and Palestine. …",
+          "t": "27:59",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=27:59"
+        },
+        {
+          "date": "2026-07-16",
+          "country": "UN",
+          "text": "… learning activities, which started on Saturday. And turning to the West Bank, a high-level delegation was led by our OCHA colleagues to Deir Nidham village in Ramallah Governorate. That took place yesterday. Participants met with …",
+          "t": "37:45",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=37:45"
+        },
+        {
+          "date": "2026-06-30",
+          "country": "UN",
+          "text": "… afternoon. It's going to take some time to count, hopefully. Turning to the occupied Palestinian territory, our OCHA colleagues tell us that humanitarian teams in Gaza are assessing the needs of those affected by yesterday's airstrike on Al …",
+          "t": "3:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=3:38"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "NRC",
+          "text": "… have been displaced from Jenin to Qarem and Nour Shams refugee camps and surrounding areas. As we have just heard, OCHA has described this as the largest, largest and longest displacement crisis in the West Bank since 1967. The figures …",
+          "t": "15:25",
+          "pageUrl": "https://transcripts.un.org/en/sc/10186/2?t=15:25"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "Denmark",
+          "text": "… humanitarian aid and our commitment to support them in working without interference and in safety. As highlighted by OCHA, protection risks persist and a sustained ceasefire is the single most important enabler of humanitarian aid and early …",
+          "t": "43:16",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=43:16"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "Panama",
+          "text": "… convening of this emergency meeting and for the information provided by Mr. Tom Fletcher, Under-Secretary-General for OCHA, and Ms. Bushra Khalidi, Head of Humanitarian Policy at Oxfam International, civil society We recognize and value the …",
+          "t": "45:27",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=45:27"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "Liberia",
+          "text": "… despite Resolution 2803. Today, 70% of Gaza's population relies on trucked water. A lifeline threatened because OCHA's 2026 flash appeal is only 24% funded. The condition for living is intolerable. Hostilities have claimed 981 lives since …",
+          "t": "57:42",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=57:42"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "UN",
+          "text": "… On the humanitarian front, through the liaison branch and in coordination with our own humanitarian colleagues at OCHA, UNIFIL facilitated a humanitarian mission yesterday to Tyre and surrounding areas. On the broader humanitarian front in …",
+          "t": "18:07",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-16?t=18:07"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "UN Secretariat",
+          "text": "… only the Kerem Shalom, Kerem Abu Salem crossing as the only entry point for cargo that we can use. In the West Bank, OCHA reports that yesterday, a Palestinian trying to cross the Israeli barrier in East, into East Jerusalem, reportedly in …",
+          "t": "12:46",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3mo9imj?t=12:46"
+        },
+        {
+          "date": "2026-11-13",
+          "country": "Kazakhstan",
+          "text": "… projects, training, and technical support. Its initiatives included assistance to farming communities in Afghanistan, emergency food relief for the people of Gaza, and agricultural development and capacity building programs in African …",
+          "t": "76:14",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/41?t=1:16:14"
+        },
+        {
+          "date": "2026-11-12",
+          "country": "UNRWA",
+          "text": "… protection and assistance to some 1.7 million Palestinians. The Agency remains one of the largest providers of emergency learning and psychosocial support across the Gaza Strip, and since the beginning of the new school year in September …",
+          "t": "22:36",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/23?t=22:36"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "India",
+          "text": "… rights of seafarers. At the BRICS Summit last month, Prime Minister Narendra Modi proposed establishing a Seafarers Emergency Support Network, which could connect the maritime authorities and embassies of the countries concerned and …",
+          "t": "99:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10243/3?t=1:39:46"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "Bahrain",
+          "text": "… approval of the necessary and adequate resources. In this regard, the importance of supporting of the role of the UN Relief and Works Agency for Palestinian Refugees in the Near East, the UNRWA, is underscored through the allocation of …",
+          "t": "64:18",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/5?t=1:04:18"
+        },
+        {
+          "date": "2026-10-09",
+          "country": "IOM",
+          "text": "… requirements and specifications, yet supplies continue to be turned away at crossing points. IOM alone has about 8,600 emergency shelter kits pre-positioned outside of Gaza that have been repeatedly denied entry by Israeli authorities. …",
+          "t": "53:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-10-09?t=53:10"
+        },
+        {
+          "date": "2026-10-07",
+          "country": "Iran",
+          "text": "… including the Palestinian refugees. The movement reaffirms the continued indispensability of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA, along with other United Nations agencies and …",
+          "t": "23:23",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/6?t=23:23"
+        },
+        {
+          "date": "2026-10-06",
+          "country": "UN",
+          "text": "… was shared with you in full much earlier today. We also have statements available online from Tom Fletcher, our Emergency Relief Coordinator, and Dr. Ramiz Alabkarov, the acting special coordinator for the Middle East peace process. Turning …",
+          "t": "30:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-06?t=30:12"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Moderator",
+          "text": "… you, Mr. Shaiban. And now I invite Mohammad Yahya, Assistant Secretary General for Humanitarian Affairs and Deputy Emergency Relief Coordinator.",
+          "t": "58:44",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1s/k1sriqg66i?t=58:44"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+          "t": "738:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "Board of Peace",
+          "text": "… cycle of pain will never end. However, what we owe all these families is not yet another expression of sympathy, but relief, security, and a way out of the cycle of pain and suffering. A year ago, almost to this day, in fact, the famine …",
+          "t": "12:04",
+          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=12:04"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "UN",
+          "text": "… another winter in cold tents. Madam President, The truth is improving living conditions in Gaza requires moving beyond emergency relief. Essential systems and services must be restored with no further delay, particularly sewage, waste …",
+          "t": "26:18",
+          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=26:18"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "UN",
+          "text": "… more hands, sending more explosive weapons into towns and cities. And now it's my pleasure to turn to Tom Fletcher, Emergency Relief Coordinator and Under Secretary General for Humanitarian Affairs, who's briefing us from Kyiv on this World …",
+          "t": "27:57",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-19?t=27:57"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "UN",
+          "text": "… this morning a conversation in the humanitarian country team with the Foreign Affairs Minister and Tom Fletcher, our emergency relief coordinator, and what was expressed is that the impact of this earthquake is bigger than they were …",
+          "t": "18:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-11?t=18:24"
+        },
+        {
+          "date": "2026-06-30",
+          "country": "UN",
+          "text": "… Thank you. This morning, the Secretary General told Member States at a meeting for voluntary contributions to the UN Relief and Works Agency, UNRWA, that today's event is happening while the safety and welfare of millions of Palestine …",
+          "t": "1:51",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=1:51"
+        },
+        {
+          "date": "2026-06-29",
+          "country": "UN",
+          "text": "… Palestinians in Gaza are concentrated in increasingly limited areas, living amid insecurity and violence. As the Emergency Relief Coordinator briefed this Council on 18 June, Since the adoption of Security Council Resolution 2803, there …",
+          "t": "3:53",
+          "pageUrl": "https://transcripts.un.org/en/sc/10186/2?t=3:53"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "Colombia",
+          "text": "… briefers to participate in this meeting: Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, and Ms. Bushra Khalidi, Head of Humanitarian Policy at Oxfam International. It is so decided. I …",
+          "t": "1:01",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=1:01"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "OXFAM",
+          "text": "… freely. And Gaza is where that system reaches its most devastating expression. Madam President, the humanitarian emergency in Gaza continues. The ceasefire is failing. Israeli forces continue to kill Palestinians 3 this morning in an …",
+          "t": "16:29",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=16:29"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "EU",
+          "text": "… in crisis with severe access constraints, such as Palestine, Sudan, or DRC, to name a few, under the leadership of the Emergency Relief Coordinator and in cooperation with other UN agencies. We regret that UNICEF received only 31% of its …",
+          "t": "136:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=2:16:59"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "Colombia",
+          "text": "The 10,177th meeting of the Security Council is called to order. The provisional agenda for this meeting is the situation in the Middle East. Including the Palestinian question. The agenda is adopted. In accordance with Rule 37 of the …",
+          "t": "0:18",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=0:18"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "Bahrain",
+          "text": "… appreciates the prompt response to the request to convene this meeting. We extend our thanks to Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs, and to Ms. Bushra Khalidi, Oxfam Head of Humanitarian Policy, for their …",
+          "t": "26:52",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=26:52"
+        },
+        {
+          "date": "2026-06-18",
+          "country": "DR Congo",
+          "text": "Thank you, Madame President. The Democratic Republic of the Congo wishes to thank you for having convened this meeting. Meeting dedicated to the humanitarian situation in the Gaza Strip. My delegation wishes to thank the …",
+          "t": "33:05",
+          "pageUrl": "https://transcripts.un.org/en/sc/10177?t=33:05"
+        },
+        {
+          "date": "2026-06-30",
+          "country": "UN",
+          "text": "… They will be presenting the findings ahead of the inaugural Global Dialogue on AI Governance, which is scheduled for Geneva the 6th and 7th of July. The two co-chairs will be participating virtually, but the Secretary General will be here …",
+          "t": "0:44",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-30?t=0:44"
+        },
+        {
+          "date": "2026-10-19",
+          "country": "UN",
+          "text": "… briefed the Security Council, and he will be joining us here in person. Tomorrow, my guest will be Robin Geiss, the director of the UN Institute for Disarmament Research, otherwise known as UNIDIR. He'll be briefing you on the launch of a …",
+          "t": "0:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-19?t=0:24"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "Latvia",
+          "text": "… I thank Acting Special Coordinator, Mr. Ramez Alaghbarah for his informative briefing. And I welcome the Board of Peace High Representative for Gaza, Mr. Nikolay Mladenov to this meeting and thank him for the comprehensive briefing. I also …",
+          "t": "81:00",
+          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=1:21:00"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "United Kingdom",
+          "text": "… you, Madam President. Thank you, Acting Special Coordinator Alakbarov, High Representative Mladenov, and Executive Director Rayburn. Madam President, last November, this Council adopted Resolution 2803, sending a powerful message of …",
+          "t": "102:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10214?t=1:42:11"
+        },
+        {
+          "date": "2026-07-21",
+          "country": "China",
+          "text": "President, I thank Deputy Special Envoy Cordonnet and Director Vosorno for their briefings, and I welcome the representative of Syria and Turkey and Palestine to today's meeting. Recently, tensions in the Middle East have escalated once …",
+          "t": "60:33",
+          "pageUrl": "https://transcripts.un.org/en/sc/10199?t=1:00:33"
+        },
+        {
+          "date": "2026-06-24",
+          "country": "Malaysia",
+          "text": "Well, thank you, Chair. Thank you to Minister Riyad Mansour of the State of Palestine and Director Contet of UNRWA for your briefings and updates. Malaysia reaffirms our support for UNRWA and its indispensable role in providing humanitarian …",
+          "t": "58:55",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qg1ykeeq?t=58:55"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "UN",
+          "text": "… with Security Council Resolution 2793. While there, the Secretary-General was also briefed by the Force Commander of the Gang Suppression Force, Before the day is over, the Secretary-General will have met with the Prime Minister. He will …",
+          "t": "15:42",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-16?t=15:42"
         }
       ]
     },
@@ -4051,232 +4051,6 @@
       ]
     },
     {
-      "id": "chn",
-      "name": "China",
-      "lon": 104,
-      "lat": 35.9,
-      "volume": 4,
-      "level": "elevated",
-      "trend": [
-        2,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        2,
-        0,
-        1,
-        2,
-        0
-      ],
-      "top": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
-      "briefings": [
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
-          "t": "4:50",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=4:50"
-        },
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… communities in need wherever possible. Since the escalation of hostilities, nearly 840,000 people have received emergency cash assistance at least once. OCHA continues to call for the protection of civilians and for sustained humanitarian …",
-          "t": "5:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=5:10"
-        },
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… be governed by a handful of countries or a handful of companies. He pointed out that few areas hold greater promise for our common future than the application of AI to sustainable development, but it won't happen if the historical …",
-          "t": "0:54",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:54"
-        },
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… it'll be better tomorrow as well. All right. Let's get started. Happy Friday, everyone. This morning in Shanghai, the Secretary-General addressed the opening ceremony of the World Artificial Intelligence Conference. He said that artificial …",
-          "t": "0:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:27"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-07-16",
-          "country": "IOM",
-          "text": "There were already existing coordination structures in the country under the lead of OCHA, and so we quickly— we have been able to quickly respond to the emergency after the earthquake. I think that the coordination has been positive, and …",
-          "t": "61:52",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:01:52"
-        },
-        {
-          "date": "2026-07-16",
-          "country": "IOM",
-          "text": "… IOM wouldn't be the best place, agency to give the answer. The agency that keeps track of humanitarian funding is OCHA. So I would probably ask you to coordinate with our colleagues at OCHA, both at New York level but also here in-country. …",
-          "t": "69:33",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:09:33"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Uruguay",
-          "text": "… those on the front lines, and reaffirms its strong and continued support to the key humanitarian work undertaken by OCHA and UNRWA on the ground. The Group of 77 and China unequivocally condemns the use of starvation of civilians as a …",
-          "t": "30:42",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=30:42"
-        },
-        {
-          "date": "2026-07-16",
-          "country": "IOM",
-          "text": "… the immediate needs and will remain critical in helping the community to move forward. Since the onset of the emergency and for 3 weeks, IOM has been working alongside the Venezuelan authorities, the UN partners, and the humanitarian …",
-          "t": "57:04",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=57:04"
-        },
-        {
-          "date": "2026-10-13",
-          "country": "United Kingdom",
-          "text": "… The UK remains steadfast in our long-standing commitment to providing assistance directly or through partners in humanitarian emergencies. For example, in August of this year, catastrophic floods and landslides struck Nepal and China, and …",
-          "t": "169:01",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/13?t=2:49:01"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Nepal",
-          "text": "… by Uruguay on behalf of G77 in China and wishes to add the following in national capacity. We recognize ECOSOC humanitarian affairs segment as an indispensable mechanism of the United Nations system to turn global commitments to coordinated …",
-          "t": "31:55",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=31:55"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "South Africa",
-          "text": "… on behalf of the African members of ECOSOC, the G77 plus China, and the Global Initiative on IHL. We thank Spain for convening this general debate of the ECOSOC Humanitarian Affairs Segment under the theme Strengthening Humanitarian …",
-          "t": "126:05",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=2:06:05"
-        },
-        {
-          "date": "2026-05-26",
-          "country": "DR Congo",
-          "text": "… wishes to warmly congratulate His Excellency Mr. Wang Yi, member of the Political Bureau of the CPC, and Minister for Foreign Affairs of the People's Republic of China. We also wish to welcome the presence of their excellencies of ministers …",
-          "t": "98:30",
-          "pageUrl": "https://transcripts.un.org/en/sc/10159?t=1:38:30"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "Bahrain",
-          "text": "Thank you, Mr. President. Allow me at outset to thank the People's Republic of China for convening this important annual debate. We also thank Ms. Adam Wosornu, Director of Crisis Response Division at the Office for the Coordination of …",
-          "t": "111:32",
-          "pageUrl": "https://transcripts.un.org/en/sc/10154?t=1:51:32"
-        },
-        {
-          "date": "2026-11-04",
-          "country": "Uruguay",
-          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China on agenda item 137, program budget for 2026 concerning the capital master plan. The group thanks the Acting Director of the Office of …",
-          "t": "28:43",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=28:43"
-        },
-        {
-          "date": "2026-11-04",
-          "country": "Uruguay",
-          "text": "I have the honor to deliver this statement on behalf of the Group of 77 and China on the construction projects under consideration. The Group thanks the Chief of Service of FOFD, Mr. Weijie Jiao, the Deputy Director of External Audit of the …",
-          "t": "51:12",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=51:12"
-        },
-        {
-          "date": "2026-10-27",
-          "country": "Iran",
-          "text": "In the name of Allah, the most compassionate and most merciful. Thank you, Mr. President. At the outset, we thank Russia and China for their reaction to this illegal meeting. We also thank Pakistan and Somalia for their abstention vote to …",
-          "t": "91:18",
-          "pageUrl": "https://transcripts.un.org/en/sc/10253?t=1:31:18"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "Nigeria",
-          "text": "Thank you, Mr. Chair. Nigeria aligns itself with the statements delivered on behalf of the Group of 77 and China, as well as the statement delivered on behalf of the African Group. In our national capacity, we reaffirm our strong support …",
-          "t": "163:24",
-          "pageUrl": "https://transcripts.un.org/en/ga/c2/81/16?t=2:43:24"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "Unknown speaker",
-          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China under agenda item 144, report on the activities of the Ethics Office. We thank the Director of the Ethics Office, Mr. Drash Strasser, …",
-          "t": "58:14",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/2?t=58:14"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "China",
-          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
-          "t": "95:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=1:35:28"
-        },
-        {
-          "date": "2026-08-25",
-          "country": "China",
-          "text": "President, China wishes to thank Executive Director da Silva for the briefing. China supports the statement delivered by Uruguay on behalf of G77 and China. China appreciates the efforts of UNOPS in actively advancing the implementation of …",
-          "t": "38:17",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=38:17"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "Peru",
-          "text": "The statement delivered by Uruguay on behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying …",
-          "t": "142:49",
-          "pageUrl": "https://transcripts.un.org/en/ga/80/107?t=2:22:49"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "Peru",
-          "text": "Behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying out this important review process. The …",
-          "t": "2:07",
-          "pageUrl": "https://transcripts.un.org/en/ga/80/103/2?t=2:07"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Uruguay",
-          "text": "… Board's directors for their statements and clarifying that due to time constraints, I will deliver a short version of the G77 statement. The full version will be uploaded in the G77 website. The Group of 77 and China welcomes this …",
-          "t": "53:23",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3kt514h?t=53:23"
-        },
-        {
-          "date": "2026-06-02",
-          "country": "Brazil",
-          "text": "Thank you, Mr. Administrator, Madam Executive Director. Brazil associates itself with the statement delivered by G77 and China, and we welcome this opportunity to engage with the leadership of the UN Development System. We recognize the …",
-          "t": "34:36",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/19?t=34:36"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "Colombia",
-          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China, for his service …",
-          "t": "0:04",
-          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=0:04"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "Colombia",
-          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China for his service …",
-          "t": "4:45",
-          "pageUrl": "https://transcripts.un.org/en/sc/10163?t=4:45"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "Armenia",
-          "text": "President, we welcome the UN Security Council's continued focus on the protection of civilians in armed conflict. In this regard, we would like to thank the Presidency of China for holding this open debate and extend our gratitude to the …",
-          "t": "97:19",
-          "pageUrl": "https://transcripts.un.org/en/sc/10154/2?t=1:37:19"
-        }
-      ]
-    },
-    {
       "id": "col",
       "name": "Colombia",
       "lon": -74.3,
@@ -5304,6 +5078,232 @@
       ]
     },
     {
+      "id": "chn",
+      "name": "China",
+      "lon": 104,
+      "lat": 35.9,
+      "volume": 3,
+      "level": "elevated",
+      "trend": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        0
+      ],
+      "top": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
+      "briefings": [
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
+          "t": "4:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=4:50"
+        },
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… communities in need wherever possible. Since the escalation of hostilities, nearly 840,000 people have received emergency cash assistance at least once. OCHA continues to call for the protection of civilians and for sustained humanitarian …",
+          "t": "5:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=5:10"
+        },
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… be governed by a handful of countries or a handful of companies. He pointed out that few areas hold greater promise for our common future than the application of AI to sustainable development, but it won't happen if the historical …",
+          "t": "0:54",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:54"
+        },
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… it'll be better tomorrow as well. All right. Let's get started. Happy Friday, everyone. This morning in Shanghai, the Secretary-General addressed the opening ceremony of the World Artificial Intelligence Conference. He said that artificial …",
+          "t": "0:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:27"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-07-16",
+          "country": "IOM",
+          "text": "There were already existing coordination structures in the country under the lead of OCHA, and so we quickly— we have been able to quickly respond to the emergency after the earthquake. I think that the coordination has been positive, and …",
+          "t": "61:52",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:01:52"
+        },
+        {
+          "date": "2026-07-16",
+          "country": "IOM",
+          "text": "… IOM wouldn't be the best place, agency to give the answer. The agency that keeps track of humanitarian funding is OCHA. So I would probably ask you to coordinate with our colleagues at OCHA, both at New York level but also here in-country. …",
+          "t": "69:33",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:09:33"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Uruguay",
+          "text": "… those on the front lines, and reaffirms its strong and continued support to the key humanitarian work undertaken by OCHA and UNRWA on the ground. The Group of 77 and China unequivocally condemns the use of starvation of civilians as a …",
+          "t": "30:42",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=30:42"
+        },
+        {
+          "date": "2026-07-16",
+          "country": "IOM",
+          "text": "… the immediate needs and will remain critical in helping the community to move forward. Since the onset of the emergency and for 3 weeks, IOM has been working alongside the Venezuelan authorities, the UN partners, and the humanitarian …",
+          "t": "57:04",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=57:04"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "United Kingdom",
+          "text": "… The UK remains steadfast in our long-standing commitment to providing assistance directly or through partners in humanitarian emergencies. For example, in August of this year, catastrophic floods and landslides struck Nepal and China, and …",
+          "t": "169:01",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/13?t=2:49:01"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "Nepal",
+          "text": "… by Uruguay on behalf of G77 in China and wishes to add the following in national capacity. We recognize ECOSOC humanitarian affairs segment as an indispensable mechanism of the United Nations system to turn global commitments to coordinated …",
+          "t": "31:55",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=31:55"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "South Africa",
+          "text": "… on behalf of the African members of ECOSOC, the G77 plus China, and the Global Initiative on IHL. We thank Spain for convening this general debate of the ECOSOC Humanitarian Affairs Segment under the theme Strengthening Humanitarian …",
+          "t": "126:05",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=2:06:05"
+        },
+        {
+          "date": "2026-05-26",
+          "country": "DR Congo",
+          "text": "… wishes to warmly congratulate His Excellency Mr. Wang Yi, member of the Political Bureau of the CPC, and Minister for Foreign Affairs of the People's Republic of China. We also wish to welcome the presence of their excellencies of ministers …",
+          "t": "98:30",
+          "pageUrl": "https://transcripts.un.org/en/sc/10159?t=1:38:30"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "Bahrain",
+          "text": "Thank you, Mr. President. Allow me at outset to thank the People's Republic of China for convening this important annual debate. We also thank Ms. Adam Wosornu, Director of Crisis Response Division at the Office for the Coordination of …",
+          "t": "111:32",
+          "pageUrl": "https://transcripts.un.org/en/sc/10154?t=1:51:32"
+        },
+        {
+          "date": "2026-11-04",
+          "country": "Uruguay",
+          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China on agenda item 137, program budget for 2026 concerning the capital master plan. The group thanks the Acting Director of the Office of …",
+          "t": "28:43",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=28:43"
+        },
+        {
+          "date": "2026-11-04",
+          "country": "Uruguay",
+          "text": "I have the honor to deliver this statement on behalf of the Group of 77 and China on the construction projects under consideration. The Group thanks the Chief of Service of FOFD, Mr. Weijie Jiao, the Deputy Director of External Audit of the …",
+          "t": "51:12",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=51:12"
+        },
+        {
+          "date": "2026-10-27",
+          "country": "Iran",
+          "text": "In the name of Allah, the most compassionate and most merciful. Thank you, Mr. President. At the outset, we thank Russia and China for their reaction to this illegal meeting. We also thank Pakistan and Somalia for their abstention vote to …",
+          "t": "91:18",
+          "pageUrl": "https://transcripts.un.org/en/sc/10253?t=1:31:18"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Nigeria",
+          "text": "Thank you, Mr. Chair. Nigeria aligns itself with the statements delivered on behalf of the Group of 77 and China, as well as the statement delivered on behalf of the African Group. In our national capacity, we reaffirm our strong support …",
+          "t": "163:24",
+          "pageUrl": "https://transcripts.un.org/en/ga/c2/81/16?t=2:43:24"
+        },
+        {
+          "date": "2026-10-06",
+          "country": "Unknown speaker",
+          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China under agenda item 144, report on the activities of the Ethics Office. We thank the Director of the Ethics Office, Mr. Drash Strasser, …",
+          "t": "58:14",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/2?t=58:14"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "China",
+          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
+          "t": "95:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=1:35:28"
+        },
+        {
+          "date": "2026-08-25",
+          "country": "China",
+          "text": "President, China wishes to thank Executive Director da Silva for the briefing. China supports the statement delivered by Uruguay on behalf of G77 and China. China appreciates the efforts of UNOPS in actively advancing the implementation of …",
+          "t": "38:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=38:17"
+        },
+        {
+          "date": "2026-07-28",
+          "country": "Peru",
+          "text": "The statement delivered by Uruguay on behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying …",
+          "t": "142:49",
+          "pageUrl": "https://transcripts.un.org/en/ga/80/107?t=2:22:49"
+        },
+        {
+          "date": "2026-07-28",
+          "country": "Peru",
+          "text": "Behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying out this important review process. The …",
+          "t": "2:07",
+          "pageUrl": "https://transcripts.un.org/en/ga/80/103/2?t=2:07"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Uruguay",
+          "text": "… Board's directors for their statements and clarifying that due to time constraints, I will deliver a short version of the G77 statement. The full version will be uploaded in the G77 website. The Group of 77 and China welcomes this …",
+          "t": "53:23",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3kt514h?t=53:23"
+        },
+        {
+          "date": "2026-06-02",
+          "country": "Brazil",
+          "text": "Thank you, Mr. Administrator, Madam Executive Director. Brazil associates itself with the statement delivered by G77 and China, and we welcome this opportunity to engage with the leadership of the UN Development System. We recognize the …",
+          "t": "34:36",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/19?t=34:36"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Colombia",
+          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China, for his service …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=0:04"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Colombia",
+          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China for his service …",
+          "t": "4:45",
+          "pageUrl": "https://transcripts.un.org/en/sc/10163?t=4:45"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "Armenia",
+          "text": "President, we welcome the UN Security Council's continued focus on the protection of civilians in armed conflict. In this regard, we would like to thank the Presidency of China for holding this open debate and extend our gratitude to the …",
+          "t": "97:19",
+          "pageUrl": "https://transcripts.un.org/en/sc/10154/2?t=1:37:19"
+        }
+      ]
+    },
+    {
       "id": "egy",
       "name": "Egypt",
       "lon": 30,
@@ -6211,128 +6211,6 @@
           "text": "… discussions under the UN Haiti Initiative. Armenia believes that any reform process should be guided by the objective of strengthening the effectiveness, coherence, and responsiveness of the UN system while ensuring that it remains fully …",
           "t": "27:00",
           "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1j175xw2w?t=27:00"
-        }
-      ]
-    },
-    {
-      "id": "usa",
-      "name": "United States",
-      "lon": -98.6,
-      "lat": 39.8,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0,
-        0
-      ],
-      "top": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
-      "briefings": [
-        {
-          "date": "2026-07-02",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
-          "t": "0:19",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=0:19"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-15",
-          "country": "United States",
-          "text": "… continues to invest heavily in humanitarian assistance. In FY 2026, the United States provided $3.8 billion towards OCHA-pooled funds, which included support for UNHCR's work. For decades, the American taxpayer has carried an outsized share …",
-          "t": "125:36",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=2:05:36"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "United States",
-          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
-          "t": "72:03",
-          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "United States",
-          "text": "… to its children. To this end, the United States United States is providing significant resources through OCHA-managed pooled funds, which deliver assistance twice as fast as previous years and more efficiently for frontline activities. We …",
-          "t": "111:15",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:51:15"
-        },
-        {
-          "date": "2026-06-02",
-          "country": "WFP",
-          "text": "… from the United States meant for our response. The US remains our top donor, and whether directly to us or through the OCHA pooled funds, which they have also generously funded. What has been a bit of a shock to the system has been the …",
-          "t": "46:24",
-          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-02?t=46:24"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "… this year. The Deputy Secretary General will be back in New York on Monday. Back here, Ademou Sorunu, the Director of OCHA's Crisis Response Division, spoke at today's Security Council meeting on the protection of civilians. saying that …",
-          "t": "3:41",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=3:41"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "Yes, I will get that from our OCHA colleagues. Benno.",
-          "t": "19:29",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=19:29"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Executive Director",
-          "text": "… system. That's why today we welcome the return of the United States and the the United States and the work of the Emergency Relief Coordinator to ensure that financing is managed more effectively and works more closely with local actors. …",
-          "t": "26:26",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=26:26"
-        },
-        {
-          "date": "2026-05-20",
-          "country": "UN",
-          "text": "… she said. It is the minimum that humanity and civilization require. She was speaking on behalf of Tom Fletcher, Emergency Relief Coordinator, and added that the need, asserted the need by all states to uphold their commitments under the …",
-          "t": "4:38",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=4:38"
-        },
-        {
-          "date": "2026-10-23",
-          "country": "United States",
-          "text": "Thank you very much, Madam Chair, for giving me the floor. The United States commends the Secretariat for its diligent work supporting the Special Committee on the UN Charter and strengthening the role of the Organization. We would like to …",
-          "t": "74:47",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/26?t=1:14:47"
-        },
-        {
-          "date": "2026-08-28",
-          "country": "Colombia",
-          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
-          "t": "26:46",
-          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=26:46"
-        },
-        {
-          "date": "2026-08-05",
-          "country": "United States",
-          "text": "Good morning, dear colleagues. I call to order the first meeting of the 16th session of the Committee of Experts on Global Geospatial Information Management. I am Deirdre Delpiaz Bishop from the United States of America, co-chair of the …",
-          "t": "0:04",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=0:04"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "UNISEC Global",
-          "text": "Thank you, Chair. Mr. Chair and distinguished delegates, on behalf of UNISEC Global, I would like to express my appreciation to Professor Teodoro Valente, Chair of UN Copious, and Ms. Arti Hora Maini, Director of UN USA and her team, for …",
-          "t": "3:57",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1ofvfocrf?t=3:57"
         }
       ]
     },
@@ -7305,6 +7183,128 @@
       ]
     },
     {
+      "id": "usa",
+      "name": "United States",
+      "lon": -98.6,
+      "lat": 39.8,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "top": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+      "briefings": [
+        {
+          "date": "2026-07-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+          "t": "0:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=0:19"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-15",
+          "country": "United States",
+          "text": "… continues to invest heavily in humanitarian assistance. In FY 2026, the United States provided $3.8 billion towards OCHA-pooled funds, which included support for UNHCR's work. For decades, the American taxpayer has carried an outsized share …",
+          "t": "125:36",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=2:05:36"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "United States",
+          "text": "… to its children. To this end, the United States United States is providing significant resources through OCHA-managed pooled funds, which deliver assistance twice as fast as previous years and more efficiently for frontline activities. We …",
+          "t": "111:15",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:51:15"
+        },
+        {
+          "date": "2026-06-02",
+          "country": "WFP",
+          "text": "… from the United States meant for our response. The US remains our top donor, and whether directly to us or through the OCHA pooled funds, which they have also generously funded. What has been a bit of a shock to the system has been the …",
+          "t": "46:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-02?t=46:24"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "… this year. The Deputy Secretary General will be back in New York on Monday. Back here, Ademou Sorunu, the Director of OCHA's Crisis Response Division, spoke at today's Security Council meeting on the protection of civilians. saying that …",
+          "t": "3:41",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=3:41"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "Yes, I will get that from our OCHA colleagues. Benno.",
+          "t": "19:29",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=19:29"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Executive Director",
+          "text": "… system. That's why today we welcome the return of the United States and the the United States and the work of the Emergency Relief Coordinator to ensure that financing is managed more effectively and works more closely with local actors. …",
+          "t": "26:26",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=26:26"
+        },
+        {
+          "date": "2026-05-20",
+          "country": "UN",
+          "text": "… she said. It is the minimum that humanity and civilization require. She was speaking on behalf of Tom Fletcher, Emergency Relief Coordinator, and added that the need, asserted the need by all states to uphold their commitments under the …",
+          "t": "4:38",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-20/2?t=4:38"
+        },
+        {
+          "date": "2026-10-23",
+          "country": "United States",
+          "text": "Thank you very much, Madam Chair, for giving me the floor. The United States commends the Secretariat for its diligent work supporting the Special Committee on the UN Charter and strengthening the role of the Organization. We would like to …",
+          "t": "74:47",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/26?t=1:14:47"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "26:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=26:46"
+        },
+        {
+          "date": "2026-08-05",
+          "country": "United States",
+          "text": "Good morning, dear colleagues. I call to order the first meeting of the 16th session of the Committee of Experts on Global Geospatial Information Management. I am Deirdre Delpiaz Bishop from the United States of America, co-chair of the …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=0:04"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "UNISEC Global",
+          "text": "Thank you, Chair. Mr. Chair and distinguished delegates, on behalf of UNISEC Global, I would like to express my appreciation to Professor Teodoro Valente, Chair of UN Copious, and Ms. Arti Hora Maini, Director of UN USA and her team, for …",
+          "t": "3:57",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1ofvfocrf?t=3:57"
+        }
+      ]
+    },
+    {
       "id": "arm",
       "name": "Armenia",
       "lon": 45,
@@ -7589,19 +7589,19 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 82,
+      "volume": 73,
       "level": "elevated",
       "trend": [
         33,
         19,
         12,
         15,
-        75,
-        16,
+        76,
+        15,
         19,
         43,
-        23,
-        30,
+        25,
+        28,
         9,
         9
       ],
