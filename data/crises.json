@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:22:27.767Z",
+  "generatedAt": "2026-11-17T15:17:33.704Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -4458,6 +4458,69 @@
       ]
     },
     {
+      "id": "mda",
+      "name": "Moldova",
+      "lon": 28.4,
+      "lat": 47.4,
+      "volume": 4,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3
+      ],
+      "top": "… lead our delegation today. Allow me to introduce the member of our delegation present here in Geneva. Mr. Sergiu Rusu, Deputy Prosecutor General of the Republic of Moldova. Corina Zamfirov, Head of the Legal Department, National …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-11-17",
+          "country": "Moldova",
+          "text": "… lead our delegation today. Allow me to introduce the member of our delegation present here in Geneva. Mr. Sergiu Rusu, Deputy Prosecutor General of the Republic of Moldova. Corina Zamfirov, Head of the Legal Department, National …",
+          "t": "16:29",
+          "pageUrl": "https://transcripts.un.org/en/cat/2267?t=16:29"
+        },
+        {
+          "date": "2026-10-22",
+          "country": "EU",
+          "text": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
+          "t": "170:02",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
+        },
+        {
+          "date": "2026-11-17",
+          "country": "Moldova",
+          "text": "Honourable Chair, distinguished members of the Committee, ladies and gentlemen, it's an honour for me, on behalf of the Government of Republic of Moldova, to address the Committee against Torture and present our fourth periodic report on …",
+          "t": "15:59",
+          "pageUrl": "https://transcripts.un.org/en/cat/2267?t=15:59"
+        },
+        {
+          "date": "2026-11-16",
+          "country": "EU",
+          "text": "Madam Chair, I have the honour to speak on behalf of the European Union and its member states. The candidate countries Türkiye, North Macedonia, Montenegro, Serbia, Albania, Ukraine, the Republic of Moldova, Bosnia and Herzegovina, as well …",
+          "t": "49:22",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/11?t=49:22"
+        },
+        {
+          "date": "2026-10-01",
+          "country": "EU",
+          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
+          "t": "18:10",
+          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
+        }
+      ]
+    },
+    {
       "id": "col",
       "name": "Colombia",
       "lon": -74.3,
@@ -6797,55 +6860,6 @@
       ]
     },
     {
-      "id": "mda",
-      "name": "Moldova",
-      "lon": 28.4,
-      "lat": 47.4,
-      "volume": 2,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1,
-        0,
-        0,
-        1
-      ],
-      "top": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-22",
-          "country": "EU",
-          "text": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-          "t": "170:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
-        },
-        {
-          "date": "2026-11-16",
-          "country": "EU",
-          "text": "Madam Chair, I have the honour to speak on behalf of the European Union and its member states. The candidate countries Türkiye, North Macedonia, Montenegro, Serbia, Albania, Ukraine, the Republic of Moldova, Bosnia and Herzegovina, as well …",
-          "t": "49:22",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/11?t=49:22"
-        },
-        {
-          "date": "2026-10-01",
-          "country": "EU",
-          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
-          "t": "18:10",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
-        }
-      ]
-    },
-    {
       "id": "mne",
       "name": "Montenegro",
       "lon": 19.3,
@@ -7661,7 +7675,7 @@
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 76,
+      "volume": 78,
       "level": "elevated",
       "trend": [
         26,
@@ -7675,7 +7689,7 @@
         28,
         21,
         9,
-        10
+        12
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -8823,6 +8837,13 @@
           "pageUrl": "https://transcripts.un.org/en/sc/10159?t=43:35"
         },
         {
+          "date": "2026-11-17",
+          "country": "Moldova",
+          "text": "… mechanism for inadequate detention conditions. Courts examined 32,140 complaints up to August 2024, granting relief in 90,051 cases. Healthcare, mental health, and the medical safeguards. Deprivation of liberty does not deprive a person of …",
+          "t": "27:54",
+          "pageUrl": "https://transcripts.un.org/en/cat/2267?t=27:54"
+        },
+        {
           "date": "2026-11-05",
           "country": "ECOSOC",
           "text": "… Affairs Segment, the joint meeting with the Peacebuilding Commissions, and the meeting on the transition from relief to development. Discussions highlighted that Humanitarian assistance alone cannot address the structural drivers of the …",
@@ -9773,6 +9794,13 @@
           "text": "Thank you, Mr. President. Mr. President, congratulations on the nomination as Minister of Foreign Affairs of your predecessor. Mr. President of the UN Women Board, Chairperson of the Joint Board, Madam President of the WFP Board, Mr. …",
           "t": "43:05",
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=43:05"
+        },
+        {
+          "date": "2026-11-17",
+          "country": "Moldova",
+          "text": "Distinguished chairperson, distinguished members of committee, my name is Korina Zamfirov. My name is Korina Zamfirov. I am legal directorate of Legal Directorate of National Administration of Penitentiaries. On behalf of the National …",
+          "t": "161:46",
+          "pageUrl": "https://transcripts.un.org/en/cat/2267?t=2:41:46"
         },
         {
           "date": "2026-11-16",
