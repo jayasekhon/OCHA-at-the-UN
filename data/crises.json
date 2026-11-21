@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:32:00.440Z",
+  "generatedAt": "2026-11-21T05:00:06.903Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -830,7 +830,7 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 23,
+      "volume": 22,
       "level": "elevated",
       "trend": [
         5,
@@ -3200,7 +3200,7 @@
       "name": "Turkey",
       "lon": 35.2,
       "lat": 39,
-      "volume": 8,
+      "volume": 7,
       "level": "elevated",
       "trend": [
         0,
@@ -6871,8 +6871,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         2,
@@ -6955,8 +6955,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         1,
@@ -7071,8 +7071,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         0
@@ -7113,8 +7113,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         0
@@ -7315,8 +7315,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -7383,48 +7383,6 @@
           "text": "Madam President, Executive Director, distinguished delegates, it's my honor to make this statement on behalf of Antigua and Barbuda, Cuba, El Salvador, Guatemala, Mexico, Panama, and my own country, the Dominican Republic. As we approach …",
           "t": "17:55",
           "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1n5lmbspn?t=17:55"
-        }
-      ]
-    },
-    {
-      "id": "che",
-      "name": "Switzerland",
-      "lon": 8.2,
-      "lat": 46.8,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… have been displaced within the country and across its borders. That is 1.6 times the population of Switzerland. And OCHA reports that almost 34 million Sudanese children, women and men need assistance as of May 2026. And that is 3.7 times …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-21",
-          "country": "Switzerland",
-          "text": "… have been displaced within the country and across its borders. That is 1.6 times the population of Switzerland. And OCHA reports that almost 34 million Sudanese children, women and men need assistance as of May 2026. And that is 3.7 times …",
-          "t": "2:36",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k184ag7bu7?t=2:36"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "Unknown speaker",
-          "text": "… regard. We encourage you to go further and to examine the possibilities for closer institutional alignment between OCHA and the DCO and also at the central level. Third, Switzerland continues to work to attain the objectives set in the …",
-          "t": "0:08",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/17?t=0:08"
         }
       ]
     },
@@ -7620,18 +7578,119 @@
       ]
     },
     {
+      "id": "usa",
+      "name": "United States",
+      "lon": -98.6,
+      "lat": 39.8,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "top": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+      "briefings": [
+        {
+          "date": "2026-07-02",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… of our host country, the United States. And we congratulate them. Um, but we will, um, of course, uh, remain available for you remotely if you have any questions. On Monday, uh, we will have a— as our guests, um, we'll have a joint briefing …",
+          "t": "0:19",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-02?t=0:19"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-15",
+          "country": "United States",
+          "text": "… continues to invest heavily in humanitarian assistance. In FY 2026, the United States provided $3.8 billion towards OCHA-pooled funds, which included support for UNHCR's work. For decades, the American taxpayer has carried an outsized share …",
+          "t": "125:36",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1v/k1vv8fcdmq?t=2:05:36"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "United States",
+          "text": "… contributions to support the needs of refugees from Myanmar. Of the $3.8 billion the United States will contribute to OCHA's pooled funds, $300 million will help meet needs in Bangladesh, and $140 million will help meet those in Myanmar. …",
+          "t": "72:03",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k113oz46pg?t=1:12:03"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "United States",
+          "text": "… to its children. To this end, the United States United States is providing significant resources through OCHA-managed pooled funds, which deliver assistance twice as fast as previous years and more efficiently for frontline activities. We …",
+          "t": "111:15",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:51:15"
+        },
+        {
+          "date": "2026-06-02",
+          "country": "WFP",
+          "text": "… from the United States meant for our response. The US remains our top donor, and whether directly to us or through the OCHA pooled funds, which they have also generously funded. What has been a bit of a shock to the system has been the …",
+          "t": "46:24",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-06-02?t=46:24"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Executive Director",
+          "text": "… system. That's why today we welcome the return of the United States and the the United States and the work of the Emergency Relief Coordinator to ensure that financing is managed more effectively and works more closely with local actors. …",
+          "t": "26:26",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/28?t=26:26"
+        },
+        {
+          "date": "2026-10-23",
+          "country": "United States",
+          "text": "Thank you very much, Madam Chair, for giving me the floor. The United States commends the Secretariat for its diligent work supporting the Special Committee on the UN Charter and strengthening the role of the Organization. We would like to …",
+          "t": "74:47",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/26?t=1:14:47"
+        },
+        {
+          "date": "2026-08-28",
+          "country": "Colombia",
+          "text": "Thank you, Madam President. We thank the Presidency for having responded so rapidly to the request by Panama, the United States and Colombia to convene this meeting. I thank the Special Representative of the Secretary-General, Carlos Ruiz …",
+          "t": "26:46",
+          "pageUrl": "https://transcripts.un.org/en/sc/10216?t=26:46"
+        },
+        {
+          "date": "2026-08-05",
+          "country": "United States",
+          "text": "Good morning, dear colleagues. I call to order the first meeting of the 16th session of the Committee of Experts on Global Geospatial Information Management. I am Deirdre Delpiaz Bishop from the United States of America, co-chair of the …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1a/k1au2xjxkj?t=0:04"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "UNISEC Global",
+          "text": "Thank you, Chair. Mr. Chair and distinguished delegates, on behalf of UNISEC Global, I would like to express my appreciation to Professor Teodoro Valente, Chair of UN Copious, and Ms. Arti Hora Maini, Director of UN USA and her team, for …",
+          "t": "3:57",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1ofvfocrf?t=3:57"
+        }
+      ]
+    },
+    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 84,
+      "volume": 76,
       "level": "elevated",
       "trend": [
         19,
         12,
         15,
-        71,
-        20,
+        75,
+        16,
         19,
         43,
         23,
