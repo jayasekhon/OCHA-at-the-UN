@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:38:48.159Z",
+  "generatedAt": "2026-11-26T01:24:33.910Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -7,21 +7,21 @@
       "name": "Palestine",
       "lon": 35.2,
       "lat": 31.9,
-      "volume": 25,
+      "volume": 24,
       "level": "elevated",
       "trend": [
         6,
         0,
         4,
-        4,
-        4,
-        3,
-        7,
         5,
-        3,
         4,
-        8,
-        5
+        7,
+        2,
+        6,
+        2,
+        5,
+        9,
+        3
       ],
       "top": "… that is devastating. And your story, I think, brings reality to what's happening on the ground. Last year, the Emergency Relief Coordinator spoke here, and he feared that we will meet again to think about new words to describe the suffering …",
       "briefings": [
@@ -278,15 +278,6 @@
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=22:56"
         },
         {
-          "date": "2026-05-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… the cessation of hostilities and creating the conditions for a permanent ceasefire. On the humanitarian front, our OCHA colleagues report that humanitarian access and emergency response capacity continue to face severe constraints. In …",
-          "t": "0:03",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-29?t=0:03"
-        },
-        {
           "date": "2026-11-19",
           "speaker": "Spokesperson (UN)",
           "speakerAffiliation": "UN",
@@ -384,6 +375,15 @@
           "text": "… Council's strong message that there can be no impunity for attacks against UN peacekeepers. Tom Fletcher, Head of our Emergency Relief Coordinator, announced this morning that $110 million was being released from the UN Central Emergency …",
           "t": "15:50",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-23?t=15:50"
+        },
+        {
+          "date": "2026-06-18",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Those choosing to remain must be respected. They must be protected. And they must have access to the humanitarian relief that they need. The Secretary-General reminds all parties of their clear obligations under international humanitarian …",
+          "t": "35:13",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-18?t=35:13"
         }
       ],
       "leadership": [
@@ -865,9 +865,9 @@
         5,
         4,
         7,
-        1,
-        4,
-        7,
+        2,
+        5,
+        5,
         9,
         4,
         1
@@ -1657,18 +1657,18 @@
       "volume": 20,
       "level": "elevated",
       "trend": [
-        0,
-        11,
+        2,
+        9,
         2,
         0,
-        0,
-        8,
-        2,
         1,
-        10,
-        5,
+        7,
+        2,
         3,
-        1
+        9,
+        5,
+        2,
+        2
       ],
       "top": "… the Special Envoy for his sobering briefing and his tireless efforts to advance a political path for Yemen. So this is OCHA's sixth briefing to this Council this year on Yemen, and I wish I could report a more positive shift, but the …",
       "briefings": [
@@ -1824,6 +1824,15 @@
           "text": "… the same issues related to, for example, women and girls, like we have recently UN brief, UN guests here briefing from OCHA, speaking on the humanitarian situation. Yesterday, we saw that our very strong report from UNESCO and also from UN …",
           "t": "44:18",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-13?t=44:18"
+        },
+        {
+          "date": "2026-11-25",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… obviously there is some I want to start off with Yemen. Our Under Secretary General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, is in that country. He arrived in Aden this morning. Mr. Fletcher's visit focuses …",
+          "t": "0:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-25?t=0:27"
         },
         {
           "date": "2026-11-09",
@@ -2233,15 +2242,24 @@
         4,
         0,
         0,
-        5,
-        6,
-        1,
+        7,
+        4,
         2,
-        0,
+        1,
+        1,
         2
       ],
-      "top": "… dozens of other humanitarians who remain arbitrarily detained. They must be released. From Sudan, our colleagues at OCHA remain deeply concerned about the impact of the continued hostilities on civilians, particularly in the Kordofan …",
+      "top": "… partners continue their response to meet the growing humanitarian needs in Sudan. Through the Sudan Humanitarian Fund, OCHA has allocated nearly $36 million to humanitarian partners this year to support health, to support nutrition, and …",
       "briefings": [
+        {
+          "date": "2026-11-25",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… partners continue their response to meet the growing humanitarian needs in Sudan. Through the Sudan Humanitarian Fund, OCHA has allocated nearly $36 million to humanitarian partners this year to support health, to support nutrition, and …",
+          "t": "3:12",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-25?t=3:12"
+        },
         {
           "date": "2026-11-19",
           "speaker": "Spokesperson (UN)",
@@ -2771,9 +2789,9 @@
       "volume": 9,
       "level": "elevated",
       "trend": [
-        1,
         0,
-        7,
+        6,
+        1,
         0,
         0,
         7,
@@ -3178,142 +3196,6 @@
       ]
     },
     {
-      "id": "lva",
-      "name": "Latvia",
-      "lon": 24.6,
-      "lat": 56.9,
-      "volume": 8,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        0,
-        1,
-        1,
-        1,
-        0,
-        5
-      ],
-      "top": "… of Latvia to the United Nations, and she'll be here because she will be the President of the Security Council for the month of November. She'll speak to you about the of work. That briefing will be in person only, so if you want to ask …",
-      "briefings": [
-        {
-          "date": "2026-10-30",
-          "speaker": "Spokesperson for the SG (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson for the SG",
-          "text": "… of Latvia to the United Nations, and she'll be here because she will be the President of the Security Council for the month of November. She'll speak to you about the of work. That briefing will be in person only, so if you want to ask …",
-          "t": "24:48",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-30?t=24:48"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-09",
-          "country": "Latvia",
-          "text": "Thank you, Madam President. and I thank Assistant Secretary-General Khalid Khari and OCHA Director Connell for their briefings. Latvia supported Ukraine's call for meeting of this Council in response to Russia's relentless attacks against …",
-          "t": "18:15",
-          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=18:15"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Latvia",
-          "text": "Thank you, Madam President. I thank the Assistant Secretary General Khaled Kihari and the OCHA Director Adem Warsornu for for their factual briefings. Latvia strongly condemns the massive Russian missile and drone assaults against Ukrainian …",
-          "t": "15:51",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=15:51"
-        },
-        {
-          "date": "2026-08-24",
-          "country": "Greece",
-          "text": "… this important briefing for European security. I would also like to thank Under Secretary General Di Carlo and Emergency Relief Coordinator Tom Fletcher for their remarks. I also welcome the presence of the Vice Minister of Latvia and the …",
-          "t": "55:11",
-          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=55:11"
-        },
-        {
-          "date": "2026-11-23",
-          "country": "DR Congo",
-          "text": "Mr. President, the DRC welcomes and thanks Latvia for the stewardship of the Council's proceedings this month of November, and we welcome your presence during this high-level debate. We thank Madame Rosemary DiCarlo, Under-Secretary-General …",
-          "t": "84:02",
-          "pageUrl": "https://transcripts.un.org/en/sc/10277?t=1:24:02"
-        },
-        {
-          "date": "2026-11-23",
-          "country": "Bahrain",
-          "text": "… the Republic of Latvia, Edgar Rinkiewicz to our meeting today, and I wish to extend my thanks to Ms. Rosemary DeCarlo, Under-Secretary-General for Political and Peacebuilding Affairs, Mr. Luke Lindberg, Executive Director of the WFP, and …",
-          "t": "109:06",
-          "pageUrl": "https://transcripts.un.org/en/sc/10277?t=1:49:06"
-        },
-        {
-          "date": "2026-11-09",
-          "country": "DR Congo",
-          "text": "Madam Minister for Foreign Affairs of Latvia, the Democratic Republic of the Congo applauds your presidency of the Security Council, and we wish you a very warm welcome to this Security Council meeting, which we are pleased to witness you …",
-          "t": "108:23",
-          "pageUrl": "https://transcripts.un.org/en/sc/10267?t=1:48:23"
-        },
-        {
-          "date": "2026-11-24",
-          "country": "Panama",
-          "text": "Gracias. Thank you. Your Excellency, Mr. Edgars Rinkēvičs, the President of the Republic of Latvia. We'd like to thank you for your leadership and we are pleased to welcome you here for this important meeting. Furthermore, we express our …",
-          "t": "123:37",
-          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=2:03:37"
-        },
-        {
-          "date": "2026-11-23",
-          "country": "France",
-          "text": "Thank you, Mr. President, President of the Republic of Latvia. Welcome to New York. Welcome to the Security Council. Your presence during the Latvian presidency of the Security Council attest to the importance of this meeting and the …",
-          "t": "49:01",
-          "pageUrl": "https://transcripts.un.org/en/sc/10277?t=49:01"
-        },
-        {
-          "date": "2026-11-19",
-          "country": "DR Congo",
-          "text": "Madam President, the Democratic Republic of the Congo would like to congratulate Latvia and welcomes the presentation of the activity reports of the three committees under its chairmanship. My delegation underscores the complementary nature …",
-          "t": "85:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10276?t=1:25:14"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Liberia",
-          "text": "Thank you, Your Excellency. Liberia thanks Greece for convening this briefing and welcomes His Excellency, the Minister of Foreign Affairs of Greece, Her Excellency, the Vice Minister for Foreign Affairs of Latvia. We are grateful to the …",
-          "t": "140:21",
-          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=2:20:21"
-        },
-        {
-          "date": "2026-10-09",
-          "country": "Ukraine",
-          "text": "Madam President, distinguished members of the Security Council. I thank the presidency of Greece for convening today's meeting, as well as Denmark, France, Latvia, and the United Kingdom for their support of Ukraine's emergency request. As …",
-          "t": "89:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=1:29:14"
-        },
-        {
-          "date": "2026-08-19",
-          "country": "Liberia",
-          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "16:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "Latvia",
-          "text": "Thank you, Madam President. I thank Deputy Special Coordinator Remzi Zalakhbarov and Deputy Executive Director of UNICEF Hanan Suleiman for their informative briefings. Together with Denmark, France, Greece and the United Kingdom, Latvia …",
-          "t": "32:34",
-          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=32:34"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Ukraine",
-          "text": "Madam President, distinguished members of the Security Council, let me foremost thank the Colombian Presidency for convening this meeting and express my gratitude to the delegation of Denmark, France, Greece, Latvia, and the United Kingdom …",
-          "t": "96:35",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1:36:35"
-        }
-      ]
-    },
-    {
       "id": "brb",
       "name": "Barbados",
       "lon": -59.5,
@@ -3421,8 +3303,8 @@
         1,
         0,
         0,
-        3,
         4,
+        3,
         0
       ],
       "top": "… kinds of responses. We have with us today Mehmet Golioglu, who's joining shortly the United Nations team running the OCHA office here in Geneva, who comes from one of those governments in Turkey that has responded to crises on a massive …",
@@ -3547,6 +3429,142 @@
       ]
     },
     {
+      "id": "lva",
+      "name": "Latvia",
+      "lon": 24.6,
+      "lat": 56.9,
+      "volume": 7,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        1,
+        1,
+        1,
+        4
+      ],
+      "top": "… of Latvia to the United Nations, and she'll be here because she will be the President of the Security Council for the month of November. She'll speak to you about the of work. That briefing will be in person only, so if you want to ask …",
+      "briefings": [
+        {
+          "date": "2026-10-30",
+          "speaker": "Spokesperson for the SG (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson for the SG",
+          "text": "… of Latvia to the United Nations, and she'll be here because she will be the President of the Security Council for the month of November. She'll speak to you about the of work. That briefing will be in person only, so if you want to ask …",
+          "t": "24:48",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-30?t=24:48"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-09",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. and I thank Assistant Secretary-General Khalid Khari and OCHA Director Connell for their briefings. Latvia supported Ukraine's call for meeting of this Council in response to Russia's relentless attacks against …",
+          "t": "18:15",
+          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=18:15"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. I thank the Assistant Secretary General Khaled Kihari and the OCHA Director Adem Warsornu for for their factual briefings. Latvia strongly condemns the massive Russian missile and drone assaults against Ukrainian …",
+          "t": "15:51",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=15:51"
+        },
+        {
+          "date": "2026-08-24",
+          "country": "Greece",
+          "text": "… this important briefing for European security. I would also like to thank Under Secretary General Di Carlo and Emergency Relief Coordinator Tom Fletcher for their remarks. I also welcome the presence of the Vice Minister of Latvia and the …",
+          "t": "55:11",
+          "pageUrl": "https://transcripts.un.org/en/sc/10212?t=55:11"
+        },
+        {
+          "date": "2026-11-23",
+          "country": "DR Congo",
+          "text": "Mr. President, the DRC welcomes and thanks Latvia for the stewardship of the Council's proceedings this month of November, and we welcome your presence during this high-level debate. We thank Madame Rosemary DiCarlo, Under-Secretary-General …",
+          "t": "84:02",
+          "pageUrl": "https://transcripts.un.org/en/sc/10277?t=1:24:02"
+        },
+        {
+          "date": "2026-11-23",
+          "country": "Bahrain",
+          "text": "… the Republic of Latvia, Edgar Rinkiewicz to our meeting today, and I wish to extend my thanks to Ms. Rosemary DeCarlo, Under-Secretary-General for Political and Peacebuilding Affairs, Mr. Luke Lindberg, Executive Director of the WFP, and …",
+          "t": "109:06",
+          "pageUrl": "https://transcripts.un.org/en/sc/10277?t=1:49:06"
+        },
+        {
+          "date": "2026-11-09",
+          "country": "DR Congo",
+          "text": "Madam Minister for Foreign Affairs of Latvia, the Democratic Republic of the Congo applauds your presidency of the Security Council, and we wish you a very warm welcome to this Security Council meeting, which we are pleased to witness you …",
+          "t": "108:23",
+          "pageUrl": "https://transcripts.un.org/en/sc/10267?t=1:48:23"
+        },
+        {
+          "date": "2026-11-24",
+          "country": "Panama",
+          "text": "Gracias. Thank you. Your Excellency, Mr. Edgars Rinkēvičs, the President of the Republic of Latvia. We'd like to thank you for your leadership and we are pleased to welcome you here for this important meeting. Furthermore, we express our …",
+          "t": "108:17",
+          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=1:48:17"
+        },
+        {
+          "date": "2026-11-23",
+          "country": "France",
+          "text": "Thank you, Mr. President, President of the Republic of Latvia. Welcome to New York. Welcome to the Security Council. Your presence during the Latvian presidency of the Security Council attest to the importance of this meeting and the …",
+          "t": "49:01",
+          "pageUrl": "https://transcripts.un.org/en/sc/10277?t=49:01"
+        },
+        {
+          "date": "2026-11-19",
+          "country": "DR Congo",
+          "text": "Madam President, the Democratic Republic of the Congo would like to congratulate Latvia and welcomes the presentation of the activity reports of the three committees under its chairmanship. My delegation underscores the complementary nature …",
+          "t": "85:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10276?t=1:25:14"
+        },
+        {
+          "date": "2026-10-26",
+          "country": "Liberia",
+          "text": "Thank you, Your Excellency. Liberia thanks Greece for convening this briefing and welcomes His Excellency, the Minister of Foreign Affairs of Greece, Her Excellency, the Vice Minister for Foreign Affairs of Latvia. We are grateful to the …",
+          "t": "140:21",
+          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=2:20:21"
+        },
+        {
+          "date": "2026-10-09",
+          "country": "Ukraine",
+          "text": "Madam President, distinguished members of the Security Council. I thank the presidency of Greece for convening today's meeting, as well as Denmark, France, Latvia, and the United Kingdom for their support of Ukraine's emergency request. As …",
+          "t": "89:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=1:29:14"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "Liberia",
+          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. I thank Deputy Special Coordinator Remzi Zalakhbarov and Deputy Executive Director of UNICEF Hanan Suleiman for their informative briefings. Together with Denmark, France, Greece and the United Kingdom, Latvia …",
+          "t": "32:34",
+          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=32:34"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Ukraine",
+          "text": "Madam President, distinguished members of the Security Council, let me foremost thank the Colombian Presidency for convening this meeting and express my gratitude to the delegation of Denmark, France, Greece, Latvia, and the United Kingdom …",
+          "t": "96:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1:36:35"
+        }
+      ]
+    },
+    {
       "id": "col",
       "name": "Colombia",
       "lon": -74.3,
@@ -3561,8 +3579,8 @@
         0,
         0,
         0,
-        0,
-        3,
+        1,
+        2,
         0,
         0,
         3
@@ -3947,184 +3965,6 @@
       ]
     },
     {
-      "id": "grc",
-      "name": "Greece",
-      "lon": 22,
-      "lat": 39,
-      "volume": 6,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        3,
-        4,
-        2,
-        1,
-        1,
-        3,
-        3,
-        0,
-        0,
-        0
-      ],
-      "top": "… representative of Greece to the United Nations, will be here to speak to as president of the Security Council for the month of October, she will -- and just as a note for those of you who are watching this via Zoom, they will only take …",
-      "briefings": [
-        {
-          "date": "2026-09-30",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… representative of Greece to the United Nations, will be here to speak to as president of the Security Council for the month of October, she will -- and just as a note for those of you who are watching this via Zoom, they will only take …",
-          "t": "31:22",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-30?t=31:22"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-09-18",
-          "country": "Greece",
-          "text": "… has been compounded by June's devastating earthquakes. Greece has contributed to the humanitarian response through OCHA. We welcome the steps taken to release political prisoners. The adoption of the amnesty law offers an opportunity to …",
-          "t": "169:48",
-          "pageUrl": "https://transcripts.un.org/en/hrc/63/18?t=2:49:48"
-        },
-        {
-          "date": "2026-10-16",
-          "country": "Greece",
-          "text": "I thank the representative of Pakistan for the statement. I shall now make a statement in my capacity as the representative of Greece. I would like to thank Under-Secretary-General Rosemary DiCarlo for her comprehensive briefing and her …",
-          "t": "73:00",
-          "pageUrl": "https://transcripts.un.org/en/sc/10245?t=1:13:00"
-        },
-        {
-          "date": "2026-09-25",
-          "country": "Greece",
-          "text": "His Excellency the Minister of Foreign Affairs of Greece, Mr. George Gerapetritis, and His Excellency the External Affairs Minister of India, Dr. S. Jaishankar. We are privileged to have with us two distinguished UN briefers, …",
-          "t": "19:52",
-          "pageUrl": "https://transcripts.un.org/en/asset/k10/k10t9uuo2e?t=19:52"
-        },
-        {
-          "date": "2026-09-24",
-          "country": "Greece",
-          "text": "Thank you. Thank you, Mr. President. Ladies and gentlemen, it is a great honor to address the General Assembly for the eighth time as Prime Minister of Greece, and I do so at a moment of particular importance, as Greece reaches the end of …",
-          "t": "626:56",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18iyhzwip?t=10:26:56"
-        },
-        {
-          "date": "2026-11-02",
-          "country": "Greece",
-          "text": "Mr. President, Excellencies, I am deeply honored to present Greece's national report in the fourth cycle of the Universal Periodic Review. For my country, this is no formality, but a meaningful opportunity to account for our action, to …",
-          "t": "17:13",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1nw31cru0?t=17:13"
-        },
-        {
-          "date": "2026-11-02",
-          "country": "Greece",
-          "text": "… the Community-Oriented Policing Directorate coordinates specialized actions against racist violence. Two departments of 67 offices operate nationwide, supported by trained personnel and a dedicated reporting hotline. Regarding gender-based …",
-          "t": "184:46",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1nw31cru0?t=3:04:46"
-        },
-        {
-          "date": "2026-10-30",
-          "country": "Fiji",
-          "text": "Mr. President, members of the Council, Fiji thanks Greece for convening this debate and thanks the Secretary-General, the Executive Director of UN Women, and our civil society briefer for their briefings earlier this week. Twenty-six years …",
-          "t": "17:43",
-          "pageUrl": "https://transcripts.un.org/en/sc/10254/3?t=17:43"
-        },
-        {
-          "date": "2026-10-28",
-          "country": "Palestine",
-          "text": "… Mr. President. Sayyid al-Rais. President, we wish to extend our thanks to you and to your delegation, the delegation of Greece. as President of the Council for the month for convening this very important meeting on the WPS agenda. We …",
-          "t": "121:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10254/2?t=2:01:40"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "France",
-          "text": "… mandate throughout its Security Council presidency. On this note, I'd like to congratulate Greece on the adoption of resolution 2832. Unanimously so, and this just a week ago. I also wish to thank SRSG Ms. Vanessa Frazier, the Executive …",
-          "t": "78:37",
-          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=1:18:37"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Liberia",
-          "text": "Thank you, Your Excellency. Liberia thanks Greece for convening this briefing and welcomes His Excellency, the Minister of Foreign Affairs of Greece, Her Excellency, the Vice Minister for Foreign Affairs of Latvia. We are grateful to the …",
-          "t": "140:21",
-          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=2:20:21"
-        },
-        {
-          "date": "2026-10-09",
-          "country": "Ukraine",
-          "text": "Madam President, distinguished members of the Security Council. I thank the presidency of Greece for convening today's meeting, as well as Denmark, France, Latvia, and the United Kingdom for their support of Ukraine's emergency request. As …",
-          "t": "89:14",
-          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=1:29:14"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "Greece",
-          "text": "… is a real pleasure to be here with you today and to have the opportunity to present the Security Council's programme of work to the broader civil society community. We value the relationship and it's not only words, it's actions, because we …",
-          "t": "3:00",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oj2b9eg1?t=3:00"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "Security Women",
-          "text": "Thank you very much. My name is Juliette Coleman from Security Women. I'm the director of Security Women, which is an advocacy and research organization for a greater participation of women in the security and defense sector. You said that …",
-          "t": "29:32",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oj2b9eg1?t=29:32"
-        },
-        {
-          "date": "2026-09-25",
-          "country": "Greece",
-          "text": "Thank you, Ambassador. Dear colleagues, dear friends, it's a great honor to welcome you today to the joint side event of Greece and India on artificial intelligence, emerging technologies, and international peace and security. I am …",
-          "t": "22:38",
-          "pageUrl": "https://transcripts.un.org/en/asset/k10/k10t9uuo2e?t=22:38"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "ICCROM",
-          "text": "Thank you very much, Ms. Barbara Faedda, for giving me the floor. And of course, let me echo the colleagues speaking before me. to sincerely thank the government of Greece and the government of Italy through their permanent representations …",
-          "t": "34:33",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=34:33"
-        },
-        {
-          "date": "2026-09-23",
-          "country": "Greece",
-          "text": "… guests, ladies and gentlemen, it's a great honor to be here today to present Greece's experience and that of the Hellenic Ministry of Culture in combating the theft and the illicit trafficking of cultural property. The illicit trafficking …",
-          "t": "40:26",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=40:26"
-        },
-        {
-          "date": "2026-08-19",
-          "country": "Liberia",
-          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "16:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
-        },
-        {
-          "date": "2026-08-11",
-          "country": "Latvia",
-          "text": "Thank you, Madam President. I thank Deputy Special Coordinator Remzi Zalakhbarov and Deputy Executive Director of UNICEF Hanan Suleiman for their informative briefings. Together with Denmark, France, Greece and the United Kingdom, Latvia …",
-          "t": "32:34",
-          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=32:34"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Ukraine",
-          "text": "Madam President, distinguished members of the Security Council, let me foremost thank the Colombian Presidency for convening this meeting and express my gratitude to the delegation of Denmark, France, Greece, Latvia, and the United Kingdom …",
-          "t": "96:35",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1:36:35"
-        },
-        {
-          "date": "2026-06-16",
-          "country": "Belgium",
-          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
-          "t": "95:13",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:35:13"
-        }
-      ]
-    },
-    {
       "id": "ssd",
       "name": "South Sudan",
       "lon": 30.5,
@@ -4140,8 +3980,8 @@
         0,
         1,
         0,
-        0,
-        4,
+        1,
+        3,
         1,
         0
       ],
@@ -4365,8 +4205,8 @@
         0,
         0,
         1,
-        1,
-        1,
+        2,
+        0,
         1,
         2,
         0,
@@ -4446,9 +4286,9 @@
         {
           "date": "2026-11-24",
           "country": "China",
-          "text": "Thank you, President. China welcomes Your Excellency President Rinkevicius for presiding over this meeting, and thanks Secretary-General Guterres and the briefers for their briefings. At present, a new wave of accelerating technological …",
-          "t": "93:45",
-          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=1:33:45"
+          "text": "Thank you, President. China welcomes Your Excellency, President Rinkevicius, for presiding over this meeting, and thanks Secretary-General Guterres and the briefers for their briefings. At present, a new wave of accelerating technological …",
+          "t": "78:24",
+          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=1:18:24"
         },
         {
           "date": "2026-10-13",
@@ -4819,18 +4659,18 @@
       "volume": 4,
       "level": "elevated",
       "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
         1,
-        0,
-        0,
-        0,
-        0,
-        2,
-        0,
-        0,
-        0,
-        2,
-        0,
-        2
+        1
       ],
       "top": "… remaining colleagues and other affiliated people. Turning to The Democratic Republic of the Congo, our colleagues at OCHA tell us that dozens of civilians were killed overnight in Beni territory in North Kivu. According to local sources, at …",
       "briefings": [
@@ -5131,8 +4971,8 @@
         0,
         0,
         1,
-        2,
-        1,
+        3,
+        0,
         0,
         0
       ],
@@ -5220,11 +5060,11 @@
         0,
         0,
         0,
+        2,
+        2,
         1,
         1,
-        3,
         0,
-        1,
         0
       ],
       "top": "… from which residents were ordered to evacuate, and beyond it, where communities were also affected by these actions. OCHA cautions that the humanitarian crisis is far from Over, many people returning find their homes damaged, essential …",
@@ -5363,15 +5203,6 @@
           "text": "… have gotten bigger. We did not reach the full number of what we wanted in the appeal. The exact numbers are up on the OCHA website, but given since March and today the situation has gotten worse, we need to extend the appeal.",
           "t": "22:56",
           "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-06-01?t=22:56"
-        },
-        {
-          "date": "2026-05-29",
-          "speaker": "Spokesperson (UN Secretariat)",
-          "speakerAffiliation": "UN Secretariat",
-          "speakerFunction": "Spokesperson",
-          "text": "… the cessation of hostilities and creating the conditions for a permanent ceasefire. On the humanitarian front, our OCHA colleagues report that humanitarian access and emergency response capacity continue to face severe constraints. In …",
-          "t": "0:03",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-05-29?t=0:03"
         },
         {
           "date": "2026-09-11",
@@ -5719,6 +5550,184 @@
       ]
     },
     {
+      "id": "grc",
+      "name": "Greece",
+      "lon": 22,
+      "lat": 39,
+      "volume": 4,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        4,
+        3,
+        2,
+        1,
+        1,
+        3,
+        3,
+        0,
+        0,
+        0
+      ],
+      "top": "… representative of Greece to the United Nations, will be here to speak to as president of the Security Council for the month of October, she will -- and just as a note for those of you who are watching this via Zoom, they will only take …",
+      "briefings": [
+        {
+          "date": "2026-09-30",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… representative of Greece to the United Nations, will be here to speak to as president of the Security Council for the month of October, she will -- and just as a note for those of you who are watching this via Zoom, they will only take …",
+          "t": "31:22",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-09-30?t=31:22"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-18",
+          "country": "Greece",
+          "text": "… has been compounded by June's devastating earthquakes. Greece has contributed to the humanitarian response through OCHA. We welcome the steps taken to release political prisoners. The adoption of the amnesty law offers an opportunity to …",
+          "t": "169:48",
+          "pageUrl": "https://transcripts.un.org/en/hrc/63/18?t=2:49:48"
+        },
+        {
+          "date": "2026-10-16",
+          "country": "Greece",
+          "text": "I thank the representative of Pakistan for the statement. I shall now make a statement in my capacity as the representative of Greece. I would like to thank Under-Secretary-General Rosemary DiCarlo for her comprehensive briefing and her …",
+          "t": "73:00",
+          "pageUrl": "https://transcripts.un.org/en/sc/10245?t=1:13:00"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "Greece",
+          "text": "His Excellency the Minister of Foreign Affairs of Greece, Mr. George Gerapetritis, and His Excellency the External Affairs Minister of India, Dr. S. Jaishankar. We are privileged to have with us two distinguished UN briefers, …",
+          "t": "19:52",
+          "pageUrl": "https://transcripts.un.org/en/asset/k10/k10t9uuo2e?t=19:52"
+        },
+        {
+          "date": "2026-09-24",
+          "country": "Greece",
+          "text": "Thank you. Thank you, Mr. President. Ladies and gentlemen, it is a great honor to address the General Assembly for the eighth time as Prime Minister of Greece, and I do so at a moment of particular importance, as Greece reaches the end of …",
+          "t": "626:56",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18iyhzwip?t=10:26:56"
+        },
+        {
+          "date": "2026-11-02",
+          "country": "Greece",
+          "text": "Mr. President, Excellencies, I am deeply honored to present Greece's national report in the fourth cycle of the Universal Periodic Review. For my country, this is no formality, but a meaningful opportunity to account for our action, to …",
+          "t": "17:13",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1nw31cru0?t=17:13"
+        },
+        {
+          "date": "2026-11-02",
+          "country": "Greece",
+          "text": "… the Community-Oriented Policing Directorate coordinates specialized actions against racist violence. Two departments of 67 offices operate nationwide, supported by trained personnel and a dedicated reporting hotline. Regarding gender-based …",
+          "t": "184:46",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1n/k1nw31cru0?t=3:04:46"
+        },
+        {
+          "date": "2026-10-30",
+          "country": "Fiji",
+          "text": "Mr. President, members of the Council, Fiji thanks Greece for convening this debate and thanks the Secretary-General, the Executive Director of UN Women, and our civil society briefer for their briefings earlier this week. Twenty-six years …",
+          "t": "17:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10254/3?t=17:43"
+        },
+        {
+          "date": "2026-10-28",
+          "country": "Palestine",
+          "text": "… Mr. President. Sayyid al-Rais. President, we wish to extend our thanks to you and to your delegation, the delegation of Greece. as President of the Council for the month for convening this very important meeting on the WPS agenda. We …",
+          "t": "121:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10254/2?t=2:01:40"
+        },
+        {
+          "date": "2026-10-26",
+          "country": "France",
+          "text": "… mandate throughout its Security Council presidency. On this note, I'd like to congratulate Greece on the adoption of resolution 2832. Unanimously so, and this just a week ago. I also wish to thank SRSG Ms. Vanessa Frazier, the Executive …",
+          "t": "78:37",
+          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=1:18:37"
+        },
+        {
+          "date": "2026-10-26",
+          "country": "Liberia",
+          "text": "Thank you, Your Excellency. Liberia thanks Greece for convening this briefing and welcomes His Excellency, the Minister of Foreign Affairs of Greece, Her Excellency, the Vice Minister for Foreign Affairs of Latvia. We are grateful to the …",
+          "t": "140:21",
+          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=2:20:21"
+        },
+        {
+          "date": "2026-10-09",
+          "country": "Ukraine",
+          "text": "Madam President, distinguished members of the Security Council. I thank the presidency of Greece for convening today's meeting, as well as Denmark, France, Latvia, and the United Kingdom for their support of Ukraine's emergency request. As …",
+          "t": "89:14",
+          "pageUrl": "https://transcripts.un.org/en/sc/10237?t=1:29:14"
+        },
+        {
+          "date": "2026-10-06",
+          "country": "Greece",
+          "text": "… is a real pleasure to be here with you today and to have the opportunity to present the Security Council's programme of work to the broader civil society community. We value the relationship and it's not only words, it's actions, because we …",
+          "t": "3:00",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oj2b9eg1?t=3:00"
+        },
+        {
+          "date": "2026-10-06",
+          "country": "Security Women",
+          "text": "Thank you very much. My name is Juliette Coleman from Security Women. I'm the director of Security Women, which is an advocacy and research organization for a greater participation of women in the security and defense sector. You said that …",
+          "t": "29:32",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oj2b9eg1?t=29:32"
+        },
+        {
+          "date": "2026-09-25",
+          "country": "Greece",
+          "text": "Thank you, Ambassador. Dear colleagues, dear friends, it's a great honor to welcome you today to the joint side event of Greece and India on artificial intelligence, emerging technologies, and international peace and security. I am …",
+          "t": "22:38",
+          "pageUrl": "https://transcripts.un.org/en/asset/k10/k10t9uuo2e?t=22:38"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "ICCROM",
+          "text": "Thank you very much, Ms. Barbara Faedda, for giving me the floor. And of course, let me echo the colleagues speaking before me. to sincerely thank the government of Greece and the government of Italy through their permanent representations …",
+          "t": "34:33",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=34:33"
+        },
+        {
+          "date": "2026-09-23",
+          "country": "Greece",
+          "text": "… guests, ladies and gentlemen, it's a great honor to be here today to present Greece's experience and that of the Hellenic Ministry of Culture in combating the theft and the illicit trafficking of cultural property. The illicit trafficking …",
+          "t": "40:26",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1o/k1oe85ln8d?t=40:26"
+        },
+        {
+          "date": "2026-08-19",
+          "country": "Liberia",
+          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
+          "t": "16:40",
+          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
+        },
+        {
+          "date": "2026-08-11",
+          "country": "Latvia",
+          "text": "Thank you, Madam President. I thank Deputy Special Coordinator Remzi Zalakhbarov and Deputy Executive Director of UNICEF Hanan Suleiman for their informative briefings. Together with Denmark, France, Greece and the United Kingdom, Latvia …",
+          "t": "32:34",
+          "pageUrl": "https://transcripts.un.org/en/sc/10207?t=32:34"
+        },
+        {
+          "date": "2026-06-22",
+          "country": "Ukraine",
+          "text": "Madam President, distinguished members of the Security Council, let me foremost thank the Colombian Presidency for convening this meeting and express my gratitude to the delegation of Denmark, France, Greece, Latvia, and the United Kingdom …",
+          "t": "96:35",
+          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1:36:35"
+        },
+        {
+          "date": "2026-06-16",
+          "country": "Belgium",
+          "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
+          "t": "95:13",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:35:13"
+        }
+      ]
+    },
+    {
       "id": "cog",
       "name": "Republic of the Congo",
       "lon": 15.8,
@@ -5726,7 +5735,7 @@
       "volume": 3,
       "level": "elevated",
       "trend": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5736,8 +5745,8 @@
         0,
         0,
         2,
-        0,
-        1
+        1,
+        0
       ],
       "top": "… remaining colleagues and other affiliated people. Turning to The Democratic Republic of the Congo, our colleagues at OCHA tell us that dozens of civilians were killed overnight in Beni territory in North Kivu. According to local sources, at …",
       "briefings": [
@@ -5962,8 +5971,8 @@
         0,
         0,
         0,
-        7,
-        1,
+        8,
+        0,
         2,
         1,
         0,
@@ -6378,11 +6387,11 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         3,
@@ -6431,111 +6440,6 @@
       ]
     },
     {
-      "id": "irq",
-      "name": "Iraq",
-      "lon": 43.7,
-      "lat": 33.2,
-      "volume": 3,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "Madam President, at the outset, we thank the Secretary General for his letter dated October 1st, 2026. and Ms. Mari Yamashita, Senior Representative of the Secretary General for the implementation of Security Council resolution 2792. We …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-26",
-          "country": "Bahrain",
-          "text": "Madam President, at the outset, we thank the Secretary General for his letter dated October 1st, 2026. and Ms. Mari Yamashita, Senior Representative of the Secretary General for the implementation of Security Council resolution 2792. We …",
-          "t": "43:36",
-          "pageUrl": "https://transcripts.un.org/en/sc/10252?t=43:36"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Kuwait",
-          "text": "… President, on your enlightened leadership of the Council in this month of October. We would like to thank your country for the efforts that you have made within the Council. May the peace, mercy, and blessings of God be upon you, Madam …",
-          "t": "61:39",
-          "pageUrl": "https://transcripts.un.org/en/sc/10252?t=1:01:39"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Kuwait",
-          "text": "Thank you, Madam President. Madam President, I thank you, and allow me, first of all, to congratulate you, Madam President, on your enlightened leadership of the Council in this month of October. We would like to thank your country for the …",
-          "t": "61:22",
-          "pageUrl": "https://transcripts.un.org/en/sc/10252?t=1:01:22"
-        }
-      ]
-    },
-    {
-      "id": "kwt",
-      "name": "Kuwait",
-      "lon": 47.5,
-      "lat": 29.3,
-      "volume": 3,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        3,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "Madam President, at the outset, we thank the Secretary General for his letter dated October 1st, 2026. and Ms. Mari Yamashita, Senior Representative of the Secretary General for the implementation of Security Council resolution 2792. We …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-26",
-          "country": "Bahrain",
-          "text": "Madam President, at the outset, we thank the Secretary General for his letter dated October 1st, 2026. and Ms. Mari Yamashita, Senior Representative of the Secretary General for the implementation of Security Council resolution 2792. We …",
-          "t": "43:36",
-          "pageUrl": "https://transcripts.un.org/en/sc/10252?t=43:36"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Kuwait",
-          "text": "… President, on your enlightened leadership of the Council in this month of October. We would like to thank your country for the efforts that you have made within the Council. May the peace, mercy, and blessings of God be upon you, Madam …",
-          "t": "61:39",
-          "pageUrl": "https://transcripts.un.org/en/sc/10252?t=1:01:39"
-        },
-        {
-          "date": "2026-09-24",
-          "country": "Kuwait",
-          "text": "… of His Highness the Emir of the State of Kuwait, Sheikh Meshal Al-Ahmed Al-Jaber Al-Sabah, along with his wishes for the success of this session. We would also like to congratulate His Excellency Dr. Khalilur Rahman and the friendly …",
-          "t": "470:25",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18iyhzwip?t=7:50:25"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Kuwait",
-          "text": "Thank you, Madam President. Madam President, I thank you, and allow me, first of all, to congratulate you, Madam President, on your enlightened leadership of the Council in this month of October. We would like to thank your country for the …",
-          "t": "61:22",
-          "pageUrl": "https://transcripts.un.org/en/sc/10252?t=1:01:22"
-        }
-      ]
-    },
-    {
       "id": "mmr",
       "name": "Myanmar",
       "lon": 96,
@@ -6553,8 +6457,8 @@
         0,
         1,
         0,
-        0,
-        1
+        1,
+        0
       ],
       "top": "… the work of Mr. Havisto. But sadly, as you all know and you’ve seen, these attacks are continuing. Our colleagues at OCHA says they’re alarmed by the continuing drone attacks on critical energy infrastructure, which is causing widespread …",
       "briefings": [
@@ -7041,14 +6945,14 @@
       "volume": 1,
       "level": "standard",
       "trend": [
+        0,
+        0,
+        2,
         1,
         0,
         1,
+        2,
         1,
-        1,
-        1,
-        0,
-        3,
         0,
         0,
         0,
@@ -7225,8 +7129,8 @@
         0,
         1,
         0,
-        1,
-        1,
+        2,
+        0,
         0,
         1,
         0,
@@ -7319,83 +7223,6 @@
       ]
     },
     {
-      "id": "lby",
-      "name": "Libya",
-      "lon": 17.2,
-      "lat": 26.3,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
-      "briefings": [
-        {
-          "date": "2026-08-31",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… partners continue to reach people affected by hostilities despite the ongoing access constraints. On Friday, OCHA facilitated a humanitarian convoy to the frontline community of Zvyatovsk in the Donetsk region. They delivered medical …",
-          "t": "42:36",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=42:36"
-        },
-        {
-          "date": "2026-08-31",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "Alright, good afternoon. Sorry for the usual delay. We're having a bit of a e-mail breakdown today. So if you're sending me emails and I'm not responding to this time, it's not, I'm not ignoring you. We're just not getting them. Sorry, 2 …",
-          "t": "31:26",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-08-31?t=31:26"
-        },
-        {
-          "date": "2026-10-26",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… developments, including the situation in the occupied Palestinian territory, Yemen, Libya, Sudan, and the Horn of Africa. He also held a bilateral meeting with Foreign Minister Badri Abdelati. Speaking to the media in Cairo, which happened …",
-          "t": "2:33",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-26?t=2:33"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-06-22",
-          "country": "Somalia",
-          "text": "… the Democratic Republic of the Congo, Libya, and my own country, Somalia. We thank Deputy Special Envoy Cordone and OCHA's ASG ad interim Ratwate for their briefings. We welcome the participation of the Permanent Representative of Syria in …",
-          "t": "58:47",
-          "pageUrl": "https://transcripts.un.org/en/sc/10178?t=58:47"
-        },
-        {
-          "date": "2026-06-03",
-          "country": "UN Secretariat",
-          "text": "… comes together. So— and what was very helpful in Haiti— I was in Haiti before coming to Libya— was to have, of course, OCHA and the RC office co-located. Unfortunately, it's no longer the case when I left, but that was a very helpful thing. …",
-          "t": "161:14",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/21?t=2:41:14"
-        },
-        {
-          "date": "2026-08-18",
-          "country": "UNSMIL",
-          "text": "Thank you very much, Your Excellency, Madam President, Excellencies, distinguished members of the Security Council, Ambassador Tahir El-Souni, Permanent Representative of the State of Libya. I would like to begin by thanking this Council …",
-          "t": "1:43",
-          "pageUrl": "https://transcripts.un.org/en/sc/10209?t=1:43"
-        }
-      ]
-    },
-    {
       "id": "npl",
       "name": "Nepal",
       "lon": 84.1,
@@ -7403,10 +7230,10 @@
       "volume": 1,
       "level": "standard",
       "trend": [
-        3,
-        0,
+        2,
         0,
         1,
+        0,
         0,
         1,
         0,
@@ -7633,97 +7460,6 @@
       "onOcha": []
     },
     {
-      "id": "lbr",
-      "name": "Liberia",
-      "lon": -9.4,
-      "lat": 6.4,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "top": "… the A3, namely the Democratic Republic of the Congo, Liberia, and my own country, Somalia. We thank ASG Khayyari and OCHA Acting ASG Ratwathe for their comprehensive briefing. We also welcome the participation of the Permanent …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-07-13",
-          "country": "Somalia",
-          "text": "… the A3, namely the Democratic Republic of the Congo, Liberia, and my own country, Somalia. We thank ASG Khayyari and OCHA Acting ASG Ratwathe for their comprehensive briefing. We also welcome the participation of the Permanent …",
-          "t": "43:49",
-          "pageUrl": "https://transcripts.un.org/en/sc/10193?t=43:49"
-        },
-        {
-          "date": "2026-10-12",
-          "country": "DR Congo",
-          "text": "Madam President, it is an honour for me to deliver this statement on behalf of the A3: Liberia, Somalia, and my own country, the Democratic Republic of the Congo. We'd like to thank the Special Representative of the Secretary-General, Mr. …",
-          "t": "63:12",
-          "pageUrl": "https://transcripts.un.org/en/sc/10238?t=1:03:12"
-        },
-        {
-          "date": "2026-08-07",
-          "country": "China",
-          "text": "Chair, I thank Somalia, DRC and Liberia for jointly organizing this AREA Formula meeting. I thank Deputy Secretary-General Amina, Deputy Executive Director Suleiman and Executive Director Banda for their briefings. Amid continued armed …",
-          "t": "65:04",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1w/k1weks0au8?t=1:05:04"
-        },
-        {
-          "date": "2026-10-26",
-          "country": "Liberia",
-          "text": "Thank you, Your Excellency. Liberia thanks Greece for convening this briefing and welcomes His Excellency, the Minister of Foreign Affairs of Greece, Her Excellency, the Vice Minister for Foreign Affairs of Latvia. We are grateful to the …",
-          "t": "140:21",
-          "pageUrl": "https://transcripts.un.org/en/sc/10251?t=2:20:21"
-        },
-        {
-          "date": "2026-09-03",
-          "country": "Somalia",
-          "text": "Thank you, Mr. President. I have the honor to deliver this statement on behalf of the A3, namely the Democratic Republic of the Congo, Liberia, and my own country, Somalia. On behalf of the group, allow me, Mr. President, to congratulate …",
-          "t": "35:05",
-          "pageUrl": "https://transcripts.un.org/en/sc/10217?t=35:05"
-        },
-        {
-          "date": "2026-08-19",
-          "country": "Liberia",
-          "text": "Thank you. Thank you, Madam President. I have the honor to deliver this statement on behalf of the 10 elected members of the Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, …",
-          "t": "16:40",
-          "pageUrl": "https://transcripts.un.org/en/sc/10210?t=16:40"
-        },
-        {
-          "date": "2026-08-07",
-          "country": "Russia",
-          "text": "Chair, we welcome the initiative of Somalia to convene a meeting of the African Union. this informal discussion and we're also to the delegation of DRC and Liberia who co-sponsored it. We're grateful for the views shared by the DSG Amina …",
-          "t": "53:35",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1w/k1weks0au8?t=53:35"
-        },
-        {
-          "date": "2026-08-07",
-          "country": "China",
-          "text": "… and Liberia for jointly organizing this AREA Formula meeting. I thank Deputy Secretary-General Amina, Deputy Executive Director Suleiman and Executive Director Banda for their briefings. Amid continued armed conflict and worsening …",
-          "t": "65:12",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1w/k1weks0au8?t=1:05:12"
-        },
-        {
-          "date": "2026-06-22",
-          "country": "Colombia",
-          "text": "… Thank you, Liberia, very much for your statement. I shall now make a statement in my capacity as representative of Colombia. I thank the Assistant Secretary General, Mr. Khalid Hiyari, and the Director of the Crisis Response Division in …",
-          "t": "87:38",
-          "pageUrl": "https://transcripts.un.org/en/sc/10179?t=1:27:38"
-        }
-      ]
-    },
-    {
       "id": "nld",
       "name": "Netherlands",
       "lon": 5.3,
@@ -7909,25 +7645,198 @@
       ]
     },
     {
+      "id": "mlt",
+      "name": "Malta",
+      "lon": 14.4,
+      "lat": 35.9,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "top": "… which left an estimated 6.3 million people in need of humanitarian assistance, the Order of Malta's International Relief Agency coordinated a multi-sector emergency operation through its own emergency response team and several local …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-27",
+          "country": "SMOM",
+          "text": "… which left an estimated 6.3 million people in need of humanitarian assistance, the Order of Malta's International Relief Agency coordinated a multi-sector emergency operation through its own emergency response team and several local …",
+          "t": "78:59",
+          "pageUrl": "https://transcripts.un.org/en/ga/c3/81/29?t=1:18:59"
+        },
+        {
+          "date": "2026-10-22",
+          "country": "Sovereign Order of Malta",
+          "text": "… and mental health are inseparable, and both must be protected. The Sovereign Order of Malta, through our international relief agency, Malteser International, and its local partners, witness these challenges every day. In Lebanon, Malteser …",
+          "t": "37:15",
+          "pageUrl": "https://transcripts.un.org/en/ga/c3/81/24?t=37:15"
+        }
+      ]
+    },
+    {
+      "id": "rwa",
+      "name": "Rwanda",
+      "lon": 29.9,
+      "lat": -1.9,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "top": "… political solution that also addresses the root causes of the Rohingya crisis. The full statement is online. The Deputy Secretary General, Amina Mohammed, is traveling to Kigali, Rwanda, to participate in the third edition of the African …",
+      "briefings": [
+        {
+          "date": "2026-11-19",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… political solution that also addresses the root causes of the Rohingya crisis. The full statement is online. The Deputy Secretary General, Amina Mohammed, is traveling to Kigali, Rwanda, to participate in the third edition of the African …",
+          "t": "24:23",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-11-19?t=24:23"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": []
+    },
+    {
+      "id": "fji",
+      "name": "Fiji",
+      "lon": 178,
+      "lat": -17.7,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "top": "… Reem Al-Salem, who is the Special Rapporteur on violence against women and girls, its causes and its consequences. Our Deputy Secretary-General Amina Mohammed concluded her visit to Fiji today, where she addressed a high-level ministerial …",
+      "briefings": [
+        {
+          "date": "2026-10-08",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… Reem Al-Salem, who is the Special Rapporteur on violence against women and girls, its causes and its consequences. Our Deputy Secretary-General Amina Mohammed concluded her visit to Fiji today, where she addressed a high-level ministerial …",
+          "t": "1:11",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-10-08?t=1:11"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-10-30",
+          "country": "Fiji",
+          "text": "Mr. President, members of the Council, Fiji thanks Greece for convening this debate and thanks the Secretary-General, the Executive Director of UN Women, and our civil society briefer for their briefings earlier this week. Twenty-six years …",
+          "t": "17:43",
+          "pageUrl": "https://transcripts.un.org/en/sc/10254/3?t=17:43"
+        }
+      ]
+    },
+    {
+      "id": "tha",
+      "name": "Thailand",
+      "lon": 101,
+      "lat": 15.9,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "top": "… in some of Venezuela's most affected regions. We also have Her Excellency Mrs. Chai Patyuth, currently serving as the Deputy Permanent Representative of Thailand in the United Nations in New York, A career diplomat with Thailand's Ministry …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-06-17",
+          "country": "Moderator",
+          "text": "… in some of Venezuela's most affected regions. We also have Her Excellency Mrs. Chai Patyuth, currently serving as the Deputy Permanent Representative of Thailand in the United Nations in New York, A career diplomat with Thailand's Ministry …",
+          "t": "43:33",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1f/k1fd40unw5?t=43:33"
+        },
+        {
+          "date": "2026-10-28",
+          "country": "Thailand",
+          "text": "Mr. Chair, our delegation extends our deepest condolences on the passing of Professor Theodoro Valente and commends his dedication and leadership. Thailand is grateful for the continued commitment demonstrated by His Excellency Mr. Mario …",
+          "t": "36:46",
+          "pageUrl": "https://transcripts.un.org/en/ga/c4/81/13?t=36:46"
+        },
+        {
+          "date": "2026-09-21",
+          "country": "Chair",
+          "text": "… Fraud Summit. It has been organized by the United Nations Office on Drugs and Crime, together with the governments of Nigeria, Singapore, Thailand, United Kingdom, and Vietnam, as well as Interpol. Organized fraud is a significant and …",
+          "t": "14:34",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1d/k1dfyb4yca?t=14:34"
+        }
+      ]
+    },
+    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 80,
+      "volume": 77,
       "level": "elevated",
       "trend": [
-        14,
-        10,
-        56,
-        39,
-        17,
-        40,
-        27,
-        26,
-        18,
-        7,
-        19,
-        19
+        8,
+        16,
+        58,
+        34,
+        16,
+        46,
+        22,
+        29,
+        13,
+        6,
+        21,
+        16
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -10134,9 +10043,9 @@
         {
           "date": "2026-11-24",
           "country": "France",
-          "text": "Thank you, Mr. President of the Republic of the Security Council this month. I'd also like to thank the UN Secretary General, Mr. Antonio Guterres, the President of the International Committee of the Red Cross, Ms. Miljane Spaljarek, the …",
-          "t": "142:59",
-          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=2:22:59"
+          "text": "Thank you, Mr. President of the Republic of the Security Council this month. I'd also like to thank the UN Secretary-General, Mr. Antonio Guterres, the President of the International Committee of the Red Cross, Ms. Miljanes Beljaric, the …",
+          "t": "127:38",
+          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=2:07:38"
         },
         {
           "date": "2026-11-24",
