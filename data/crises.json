@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:22:43.344Z",
+  "generatedAt": "2026-11-27T16:00:28.099Z",
   "dataQuality": "ok",
   "crises": [
     {
@@ -3965,6 +3965,239 @@
       ]
     },
     {
+      "id": "chn",
+      "name": "China",
+      "lon": 104,
+      "lat": 35.9,
+      "volume": 6,
+      "level": "elevated",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        0,
+        0,
+        4
+      ],
+      "top": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
+      "briefings": [
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
+          "t": "4:50",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=4:50"
+        },
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… communities in need wherever possible. Since the escalation of hostilities, nearly 840,000 people have received emergency cash assistance at least once. OCHA continues to call for the protection of civilians and for sustained humanitarian …",
+          "t": "5:10",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=5:10"
+        },
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… be governed by a handful of countries or a handful of companies. He pointed out that few areas hold greater promise for our common future than the application of AI to sustainable development, but it won't happen if the historical …",
+          "t": "0:54",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:54"
+        },
+        {
+          "date": "2026-07-17",
+          "speaker": "Spokesperson (UN)",
+          "speakerAffiliation": "UN",
+          "speakerFunction": "Spokesperson",
+          "text": "… it'll be better tomorrow as well. All right. Let's get started. Happy Friday, everyone. This morning in Shanghai, the Secretary-General addressed the opening ceremony of the World Artificial Intelligence Conference. He said that artificial …",
+          "t": "0:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:27"
+        }
+      ],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-07-16",
+          "country": "IOM",
+          "text": "There were already existing coordination structures in the country under the lead of OCHA, and so we quickly— we have been able to quickly respond to the emergency after the earthquake. I think that the coordination has been positive, and …",
+          "t": "61:52",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:01:52"
+        },
+        {
+          "date": "2026-07-16",
+          "country": "IOM",
+          "text": "… IOM wouldn't be the best place, agency to give the answer. The agency that keeps track of humanitarian funding is OCHA. So I would probably ask you to coordinate with our colleagues at OCHA, both at New York level but also here in-country. …",
+          "t": "69:33",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:09:33"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "Uruguay",
+          "text": "… those on the front lines, and reaffirms its strong and continued support to the key humanitarian work undertaken by OCHA and UNRWA on the ground. The Group of 77 and China unequivocally condemns the use of starvation of civilians as a …",
+          "t": "30:42",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=30:42"
+        },
+        {
+          "date": "2026-07-16",
+          "country": "IOM",
+          "text": "… the immediate needs and will remain critical in helping the community to move forward. Since the onset of the emergency and for 3 weeks, IOM has been working alongside the Venezuelan authorities, the UN partners, and the humanitarian …",
+          "t": "57:04",
+          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=57:04"
+        },
+        {
+          "date": "2026-11-24",
+          "country": "China",
+          "text": "Thank you, President. China welcomes Your Excellency, President Rinkevicius, for presiding over this meeting, and thanks Secretary-General Guterres and the briefers for their briefings. At present, a new wave of accelerating technological …",
+          "t": "78:24",
+          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=1:18:24"
+        },
+        {
+          "date": "2026-10-13",
+          "country": "United Kingdom",
+          "text": "… The UK remains steadfast in our long-standing commitment to providing assistance directly or through partners in humanitarian emergencies. For example, in August of this year, catastrophic floods and landslides struck Nepal and China, and …",
+          "t": "169:01",
+          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/13?t=2:49:01"
+        },
+        {
+          "date": "2026-06-19",
+          "country": "Nepal",
+          "text": "… by Uruguay on behalf of G77 in China and wishes to add the following in national capacity. We recognize ECOSOC humanitarian affairs segment as an indispensable mechanism of the United Nations system to turn global commitments to coordinated …",
+          "t": "31:55",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=31:55"
+        },
+        {
+          "date": "2026-06-17",
+          "country": "South Africa",
+          "text": "… on behalf of the African members of ECOSOC, the G77 plus China, and the Global Initiative on IHL. We thank Spain for convening this general debate of the ECOSOC Humanitarian Affairs Segment under the theme Strengthening Humanitarian …",
+          "t": "126:05",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=2:06:05"
+        },
+        {
+          "date": "2026-11-25",
+          "country": "Iran",
+          "text": "Thank you, Madam Vice President. My delegation aligns itself with the statement of the G77 and China, and this agenda item envisions to add the following in its national capacity. We take note of the updates provided by the Director-General …",
+          "t": "46:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qhdk3g82?t=46:28"
+        },
+        {
+          "date": "2026-11-25",
+          "country": "Namibia",
+          "text": "Thank you, Mr. President. I'm delivering this statement on behalf of the Africa Group. The Africa Group aligns itself with the statement delivered by the Group of 77 and China. We thank the Director-General for the report contained in …",
+          "t": "146:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qhdk3g82?t=2:26:17"
+        },
+        {
+          "date": "2026-11-23",
+          "country": "Uruguay",
+          "text": "Thank you, Mr. Chair. Good morning. I have the honor to deliver this statement on behalf of the Group of 77 and China on the request for a subvention to the Extraordinary Chambers in the Courts of Cambodia under agenda item 138. The group …",
+          "t": "28:02",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/12?t=28:02"
+        },
+        {
+          "date": "2026-11-04",
+          "country": "Uruguay",
+          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China on agenda item 137, program budget for 2026 concerning the capital master plan. The group thanks the Acting Director of the Office of …",
+          "t": "28:43",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=28:43"
+        },
+        {
+          "date": "2026-11-04",
+          "country": "Uruguay",
+          "text": "I have the honor to deliver this statement on behalf of the Group of 77 and China on the construction projects under consideration. The Group thanks the Chief of Service of FOFD, Mr. Weijie Jiao, the Deputy Director of External Audit of the …",
+          "t": "51:12",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=51:12"
+        },
+        {
+          "date": "2026-10-27",
+          "country": "Iran",
+          "text": "In the name of Allah, the most compassionate and most merciful. Thank you, Mr. President. At the outset, we thank Russia and China for their reaction to this illegal meeting. We also thank Pakistan and Somalia for their abstention vote to …",
+          "t": "91:18",
+          "pageUrl": "https://transcripts.un.org/en/sc/10253?t=1:31:18"
+        },
+        {
+          "date": "2026-10-15",
+          "country": "Nigeria",
+          "text": "Thank you, Mr. Chair. Nigeria aligns itself with the statements delivered on behalf of the Group of 77 and China, as well as the statement delivered on behalf of the African Group. In our national capacity, we reaffirm our strong support …",
+          "t": "163:24",
+          "pageUrl": "https://transcripts.un.org/en/ga/c2/81/16?t=2:43:24"
+        },
+        {
+          "date": "2026-10-06",
+          "country": "Unknown speaker",
+          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China under agenda item 144, report on the activities of the Ethics Office. We thank the Director of the Ethics Office, Mr. Drash Strasser, …",
+          "t": "58:14",
+          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/2?t=58:14"
+        },
+        {
+          "date": "2026-08-26",
+          "country": "China",
+          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
+          "t": "95:28",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=1:35:28"
+        },
+        {
+          "date": "2026-08-25",
+          "country": "China",
+          "text": "President, China wishes to thank Executive Director da Silva for the briefing. China supports the statement delivered by Uruguay on behalf of G77 and China. China appreciates the efforts of UNOPS in actively advancing the implementation of …",
+          "t": "38:17",
+          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=38:17"
+        },
+        {
+          "date": "2026-07-28",
+          "country": "Peru",
+          "text": "The statement delivered by Uruguay on behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying …",
+          "t": "142:49",
+          "pageUrl": "https://transcripts.un.org/en/ga/80/107?t=2:22:49"
+        },
+        {
+          "date": "2026-07-28",
+          "country": "Peru",
+          "text": "Behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying out this important review process. The …",
+          "t": "2:07",
+          "pageUrl": "https://transcripts.un.org/en/ga/80/103/2?t=2:07"
+        },
+        {
+          "date": "2026-06-08",
+          "country": "Uruguay",
+          "text": "… Board's directors for their statements and clarifying that due to time constraints, I will deliver a short version of the G77 statement. The full version will be uploaded in the G77 website. The Group of 77 and China welcomes this …",
+          "t": "53:23",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3kt514h?t=53:23"
+        },
+        {
+          "date": "2026-06-02",
+          "country": "Brazil",
+          "text": "Thank you, Mr. Administrator, Madam Executive Director. Brazil associates itself with the statement delivered by G77 and China, and we welcome this opportunity to engage with the leadership of the UN Development System. We recognize the …",
+          "t": "34:36",
+          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/19?t=34:36"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Colombia",
+          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China, for his service …",
+          "t": "0:04",
+          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=0:04"
+        },
+        {
+          "date": "2026-06-01",
+          "country": "Colombia",
+          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China for his service …",
+          "t": "4:45",
+          "pageUrl": "https://transcripts.un.org/en/sc/10163?t=4:45"
+        }
+      ]
+    },
+    {
       "id": "ssd",
       "name": "South Sudan",
       "lon": 30.5,
@@ -5414,225 +5647,6 @@
           "text": "Thank you, Mr. President, Madam Executive Director, colleagues. I deliver this statement on behalf of Australia, Canada, Denmark, Finland, France, Germany, Greece, the Kingdom of the Netherlands, Norway, Liechtenstein, Luxembourg, Iceland, …",
           "t": "95:13",
           "pageUrl": "https://transcripts.un.org/en/asset/k1h/k1hxbtx2ow?t=1:35:13"
-        }
-      ]
-    },
-    {
-      "id": "chn",
-      "name": "China",
-      "lon": 104,
-      "lat": 35.9,
-      "volume": 4,
-      "level": "elevated",
-      "trend": [
-        0,
-        0,
-        0,
-        0,
-        1,
-        2,
-        0,
-        1,
-        2,
-        0,
-        0,
-        2
-      ],
-      "top": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
-      "briefings": [
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… 412,000 people remain displaced across the country, including some 30,000 people still living in collective shelters. OCHA warns that humanitarian needs remain high. Many displaced and returning families continue to face financial pressures …",
-          "t": "4:50",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=4:50"
-        },
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… communities in need wherever possible. Since the escalation of hostilities, nearly 840,000 people have received emergency cash assistance at least once. OCHA continues to call for the protection of civilians and for sustained humanitarian …",
-          "t": "5:10",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=5:10"
-        },
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… be governed by a handful of countries or a handful of companies. He pointed out that few areas hold greater promise for our common future than the application of AI to sustainable development, but it won't happen if the historical …",
-          "t": "0:54",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:54"
-        },
-        {
-          "date": "2026-07-17",
-          "speaker": "Spokesperson (UN)",
-          "speakerAffiliation": "UN",
-          "speakerFunction": "Spokesperson",
-          "text": "… it'll be better tomorrow as well. All right. Let's get started. Happy Friday, everyone. This morning in Shanghai, the Secretary-General addressed the opening ceremony of the World Artificial Intelligence Conference. He said that artificial …",
-          "t": "0:27",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-17?t=0:27"
-        }
-      ],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-07-16",
-          "country": "IOM",
-          "text": "There were already existing coordination structures in the country under the lead of OCHA, and so we quickly— we have been able to quickly respond to the emergency after the earthquake. I think that the coordination has been positive, and …",
-          "t": "61:52",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:01:52"
-        },
-        {
-          "date": "2026-07-16",
-          "country": "IOM",
-          "text": "… IOM wouldn't be the best place, agency to give the answer. The agency that keeps track of humanitarian funding is OCHA. So I would probably ask you to coordinate with our colleagues at OCHA, both at New York level but also here in-country. …",
-          "t": "69:33",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=1:09:33"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "Uruguay",
-          "text": "… those on the front lines, and reaffirms its strong and continued support to the key humanitarian work undertaken by OCHA and UNRWA on the ground. The Group of 77 and China unequivocally condemns the use of starvation of civilians as a …",
-          "t": "30:42",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=30:42"
-        },
-        {
-          "date": "2026-07-16",
-          "country": "IOM",
-          "text": "… the immediate needs and will remain critical in helping the community to move forward. Since the onset of the emergency and for 3 weeks, IOM has been working alongside the Venezuelan authorities, the UN partners, and the humanitarian …",
-          "t": "57:04",
-          "pageUrl": "https://transcripts.un.org/en/briefing/sg/2026-07-16?t=57:04"
-        },
-        {
-          "date": "2026-11-24",
-          "country": "China",
-          "text": "Thank you, President. China welcomes Your Excellency, President Rinkevicius, for presiding over this meeting, and thanks Secretary-General Guterres and the briefers for their briefings. At present, a new wave of accelerating technological …",
-          "t": "78:24",
-          "pageUrl": "https://transcripts.un.org/en/sc/10278?t=1:18:24"
-        },
-        {
-          "date": "2026-10-13",
-          "country": "United Kingdom",
-          "text": "… The UK remains steadfast in our long-standing commitment to providing assistance directly or through partners in humanitarian emergencies. For example, in August of this year, catastrophic floods and landslides struck Nepal and China, and …",
-          "t": "169:01",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/13?t=2:49:01"
-        },
-        {
-          "date": "2026-06-19",
-          "country": "Nepal",
-          "text": "… by Uruguay on behalf of G77 in China and wishes to add the following in national capacity. We recognize ECOSOC humanitarian affairs segment as an indispensable mechanism of the United Nations system to turn global commitments to coordinated …",
-          "t": "31:55",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/32?t=31:55"
-        },
-        {
-          "date": "2026-06-17",
-          "country": "South Africa",
-          "text": "… on behalf of the African members of ECOSOC, the G77 plus China, and the Global Initiative on IHL. We thank Spain for convening this general debate of the ECOSOC Humanitarian Affairs Segment under the theme Strengthening Humanitarian …",
-          "t": "126:05",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/29?t=2:06:05"
-        },
-        {
-          "date": "2026-11-23",
-          "country": "Uruguay",
-          "text": "Thank you, Mr. Chair. Good morning. I have the honor to deliver this statement on behalf of the Group of 77 and China on the request for a subvention to the Extraordinary Chambers in the Courts of Cambodia under agenda item 138. The group …",
-          "t": "28:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/12?t=28:02"
-        },
-        {
-          "date": "2026-11-04",
-          "country": "Uruguay",
-          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China on agenda item 137, program budget for 2026 concerning the capital master plan. The group thanks the Acting Director of the Office of …",
-          "t": "28:43",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=28:43"
-        },
-        {
-          "date": "2026-11-04",
-          "country": "Uruguay",
-          "text": "I have the honor to deliver this statement on behalf of the Group of 77 and China on the construction projects under consideration. The Group thanks the Chief of Service of FOFD, Mr. Weijie Jiao, the Deputy Director of External Audit of the …",
-          "t": "51:12",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/8?t=51:12"
-        },
-        {
-          "date": "2026-10-27",
-          "country": "Iran",
-          "text": "In the name of Allah, the most compassionate and most merciful. Thank you, Mr. President. At the outset, we thank Russia and China for their reaction to this illegal meeting. We also thank Pakistan and Somalia for their abstention vote to …",
-          "t": "91:18",
-          "pageUrl": "https://transcripts.un.org/en/sc/10253?t=1:31:18"
-        },
-        {
-          "date": "2026-10-15",
-          "country": "Nigeria",
-          "text": "Thank you, Mr. Chair. Nigeria aligns itself with the statements delivered on behalf of the Group of 77 and China, as well as the statement delivered on behalf of the African Group. In our national capacity, we reaffirm our strong support …",
-          "t": "163:24",
-          "pageUrl": "https://transcripts.un.org/en/ga/c2/81/16?t=2:43:24"
-        },
-        {
-          "date": "2026-10-06",
-          "country": "Unknown speaker",
-          "text": "Thank you, Mr. Chair. I have the honor to deliver this statement on behalf of the Group of 77 and China under agenda item 144, report on the activities of the Ethics Office. We thank the Director of the Ethics Office, Mr. Drash Strasser, …",
-          "t": "58:14",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/2?t=58:14"
-        },
-        {
-          "date": "2026-08-26",
-          "country": "China",
-          "text": "… I thank Administrator DeCru for his introduction and for his reference to the flash flood occurring at the border of China and Nepal. The Chinese government is making every effort to carry out rescue and relief operations. China supports …",
-          "t": "95:28",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k18wfgb8jy?t=1:35:28"
-        },
-        {
-          "date": "2026-08-25",
-          "country": "China",
-          "text": "President, China wishes to thank Executive Director da Silva for the briefing. China supports the statement delivered by Uruguay on behalf of G77 and China. China appreciates the efforts of UNOPS in actively advancing the implementation of …",
-          "t": "38:17",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1865685jn?t=38:17"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "Peru",
-          "text": "The statement delivered by Uruguay on behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying …",
-          "t": "142:49",
-          "pageUrl": "https://transcripts.un.org/en/ga/80/107?t=2:22:49"
-        },
-        {
-          "date": "2026-07-28",
-          "country": "Peru",
-          "text": "Behalf of the G77 and China. Allow me, first of all, to express Peru's gratitude to the President of the General Assembly and to the co-facilitators and to UN-Habitat for their leadership in carrying out this important review process. The …",
-          "t": "2:07",
-          "pageUrl": "https://transcripts.un.org/en/ga/80/103/2?t=2:07"
-        },
-        {
-          "date": "2026-06-08",
-          "country": "Uruguay",
-          "text": "… Board's directors for their statements and clarifying that due to time constraints, I will deliver a short version of the G77 statement. The full version will be uploaded in the G77 website. The Group of 77 and China welcomes this …",
-          "t": "53:23",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1t/k1t3kt514h?t=53:23"
-        },
-        {
-          "date": "2026-06-02",
-          "country": "Brazil",
-          "text": "Thank you, Mr. Administrator, Madam Executive Director. Brazil associates itself with the statement delivered by G77 and China, and we welcome this opportunity to engage with the leadership of the UN Development System. We recognize the …",
-          "t": "34:36",
-          "pageUrl": "https://transcripts.un.org/en/ecosoc/2026/19?t=34:36"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "Colombia",
-          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China, for his service …",
-          "t": "0:04",
-          "pageUrl": "https://transcripts.un.org/en/sc/10162?t=0:04"
-        },
-        {
-          "date": "2026-06-01",
-          "country": "Colombia",
-          "text": "Good afternoon. The 10,162nd meeting of the Security Council is called to order. I would like to take this opportunity to pay tribute on behalf of the Council to His Excellency Mr. Fu Cong, Permanent Representative of China for his service …",
-          "t": "4:45",
-          "pageUrl": "https://transcripts.un.org/en/sc/10163?t=4:45"
         }
       ]
     },
@@ -7234,6 +7248,69 @@
       ]
     },
     {
+      "id": "mar",
+      "name": "Morocco",
+      "lon": -7.1,
+      "lat": 31.8,
+      "volume": 1,
+      "level": "standard",
+      "trend": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "top": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+      "briefings": [],
+      "leadership": [],
+      "sc": [],
+      "onOcha": [
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "… within its various institutions. Morocco also renews its support for the pivotal role of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, UNRWA. In keeping with its approach of supporting initiatives aimed …",
+          "t": "738:35",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:18:35"
+        },
+        {
+          "date": "2026-09-22",
+          "country": "Morocco",
+          "text": "Your Excellency, President of the General Assembly, Mr. Secretary-General, Your Excellencies, ladies and gentlemen. I extend my sincere congratulations on behalf of the delegation of the Kingdom of Morocco to His Excellency Mr. Khalilur …",
+          "t": "728:54",
+          "pageUrl": "https://transcripts.un.org/en/asset/k17/k17s3dutob?t=12:08:54"
+        },
+        {
+          "date": "2026-11-25",
+          "country": "Morocco",
+          "text": "Thank you. Thank you, Madame Vice President. Morocco thanks the Director General for his report. Inclusive and sustainable industrial developments in middle-income countries play an essential role in the global transformation of production …",
+          "t": "105:20",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1q/k1qhdk3g82?t=1:45:20"
+        },
+        {
+          "date": "2026-09-24",
+          "country": "Bon Appetit",
+          "text": "… Rethinking Food from Plate to Planet, a conversation about reducing food waste. I'm Chris Morocco. I am the food director of Bon Appetit, which means that I oversee all of our recipe content, as well as our team of fabulous test kitchen …",
+          "t": "195:14",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1z/k1zojmdqzt?t=3:15:14"
+        },
+        {
+          "date": "2026-06-10",
+          "country": "France",
+          "text": "Thank you, Chair. Mr. Chair, dear colleagues, first and foremost, I would like to thank Professor Rafiq Akram of Morocco for his commitment during the previous session of COPUOS. I also congratulate Professor Teodoro Valente of Italy on his …",
+          "t": "159:37",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1r/k1r6oixtij?t=2:39:37"
+        }
+      ]
+    },
+    {
       "id": "ind",
       "name": "India",
       "lon": 79,
@@ -7578,74 +7655,11 @@
       ]
     },
     {
-      "id": "mne",
-      "name": "Montenegro",
-      "lon": 19.3,
-      "lat": 42.7,
-      "volume": 1,
-      "level": "standard",
-      "trend": [
-        0,
-        0,
-        0,
-        2,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "top": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-      "briefings": [],
-      "leadership": [],
-      "sc": [],
-      "onOcha": [
-        {
-          "date": "2026-10-22",
-          "country": "EU",
-          "text": "Thank you, Chair, for giving me the floor. I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, Ukraine, the Republic of Moldova, Bosnia and …",
-          "t": "170:02",
-          "pageUrl": "https://transcripts.un.org/en/ga/c6/81/25?t=2:50:02"
-        },
-        {
-          "date": "2026-11-16",
-          "country": "EU",
-          "text": "Madam Chair, I have the honour to speak on behalf of the European Union and its member states. The candidate countries Türkiye, North Macedonia, Montenegro, Serbia, Albania, Ukraine, the Republic of Moldova, Bosnia and Herzegovina, as well …",
-          "t": "30:50",
-          "pageUrl": "https://transcripts.un.org/en/ga/c5/81/11?t=30:50"
-        },
-        {
-          "date": "2026-10-01",
-          "country": "EU",
-          "text": "Mr. President, I have the honor to speak on behalf of the European Union and its member states. The candidate countries North Macedonia, Montenegro, Albania, the Republic of Moldova, and Bosnia and Herzegovina align themselves with this …",
-          "t": "18:10",
-          "pageUrl": "https://transcripts.un.org/en/ga/81/16?t=18:10"
-        },
-        {
-          "date": "2026-09-26",
-          "country": "EU",
-          "text": "Thank you, Mr. President. Mr. President, Madam Executive Director, Ministers, Excellencies, Distinguished Delegates, I have the honor to speak on behalf of the European Union and its member states, Albania, Armenia, Iceland, Montenegro, …",
-          "t": "190:07",
-          "pageUrl": "https://transcripts.un.org/en/asset/k1x/k1xqwpgerg?t=3:10:07"
-        },
-        {
-          "date": "2026-06-23",
-          "country": "Montenegro",
-          "text": "Thank you, Madam President. We thank the Executive Director for the update on UN Women's engagement in the UNAID Initiative. Montenegro supports efforts to make the organizations more efficient and responsive. In the current financial …",
-          "t": "27:08",
-          "pageUrl": "https://transcripts.un.org/en/asset/k18/k1802pumad?t=27:08"
-        }
-      ]
-    },
-    {
       "id": "global",
       "name": "Global / not country-specific",
       "lon": null,
       "lat": null,
-      "volume": 74,
+      "volume": 80,
       "level": "elevated",
       "trend": [
         12,
@@ -7659,7 +7673,7 @@
         9,
         9,
         21,
-        18
+        24
       ],
       "top": "… for example, by developing triggers for funding to be released in anticipation of forecasted events. So since 2020, OCHA has been turning forecasts into action by identifying triggers to release funding and pre-agreeing the actions. The …",
       "briefings": [
@@ -9822,6 +9836,20 @@
           "pageUrl": "https://transcripts.un.org/en/asset/k1g/k1g4frq583?t=43:05"
         },
         {
+          "date": "2026-11-27",
+          "country": "UN-Habitat",
+          "text": "Thank you, Excellency Chair. In resolution 2/7, member states requested the establishment of a publicly accessible platform bringing together housing data, policies, case studies, tools, and practices. My report, contained in document …",
+          "t": "91:39",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11hnf5jl1?t=1:31:39"
+        },
+        {
+          "date": "2026-11-27",
+          "country": "UNHCR",
+          "text": "… in another capacity. Just come back from a mission with emergency directors, and we briefed on the harrowing effects of ongoing conflict and wars around the world today. I wear orange because, of course, we are celebrating – and you’re …",
+          "t": "1:27",
+          "pageUrl": "https://transcripts.un.org/en/briefing/geneva/2026-11-27?t=1:27"
+        },
+        {
           "date": "2026-11-26",
           "country": "UN-Habitat",
           "text": "Thank you, co-chairs. Distinguished delegates, colleagues, Executive Director, I have the pleasure to introducing the Executive Director's report on the outcomes of the expert group meetings, the intersessional meetings, and the activities …",
@@ -9851,10 +9879,38 @@
         },
         {
           "date": "2026-11-25",
+          "country": "Mashael Al-Sulaiti Law Firm",
+          "text": "… is available in English, French, and Arabic. My name is Mashael Al-Sulaiti. I'm the founder and chairperson of Mashael Al-Sulaiti Law Firm, and it was my honor to moderate this session. I welcome you on behalf of our co-organizers, the UN …",
+          "t": "97:36",
+          "pageUrl": "https://transcripts.un.org/en/asset/k11/k11hammum1?t=1:37:36"
+        },
+        {
+          "date": "2026-11-25",
           "country": "Belize",
           "text": "Yes. Thank you, Ambassador. As it relates to the consular notification of foreign nationals, not turn attention, that is something that has been long since established in the department in terms of our rules of practice. However, a new …",
           "t": "62:36",
           "pageUrl": "https://transcripts.un.org/en/cat/2280?t=1:02:36"
+        },
+        {
+          "date": "2026-11-25",
+          "country": "Italy",
+          "text": "Thank you, Mr. President. Food security remains one of the most pressing challenges facing the international community, particularly at the time when conflicts, climate shocks, and economic instability are placing millions of people at …",
+          "t": "34:59",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jdyl2rz7?t=34:59"
+        },
+        {
+          "date": "2026-11-25",
+          "country": "UNIDO",
+          "text": "… transformation, innovation, and artificial intelligence. On this item, two documents are before the Board: the report of the Director General at B.54/23, which sets out our work across three pillars: delivering technical cooperation; …",
+          "t": "59:49",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jdyl2rz7?t=59:49"
+        },
+        {
+          "date": "2026-11-25",
+          "country": "Côte d'Ivoire",
+          "text": "Mr. President, The African Group thanks the Director-General for the report contained in document IDB 54/23. The Group recognizes the potential for digital transformation and artificial intelligence to improve industrial productivity, …",
+          "t": "63:42",
+          "pageUrl": "https://transcripts.un.org/en/asset/k1j/k1jdyl2rz7?t=1:03:42"
         },
         {
           "date": "2026-11-24",
